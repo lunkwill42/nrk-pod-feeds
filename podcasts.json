@@ -1,7 +1,7 @@
 [
     {
         "id": "22_juli_-_hvordan_kunne_det_skje",
-        "title": "De 10 siste fra 22. JULI - Hvordan kunne det skje?",
+        "title": "De 30 siste fra 22. JULI - Hvordan kunne det skje?",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -9,7 +9,7 @@
     },
     {
         "id": "72_timer",
-        "title": "De 10 siste fra 72 timer",
+        "title": "De 30 siste fra 72 timer",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -17,13 +17,13 @@
     },
     {
         "id": "abels_taarn",
-        "title": "De 10 siste fra Abels tårn",
+        "title": "De 30 siste fra Abels tårn",
         "season": "LATEST_SEASON",
         "enabled": true
     },
     {
         "id": "andakten",
-        "title": "De 10 siste fra Andakten",
+        "title": "De 30 siste fra Andakten",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -31,7 +31,7 @@
     },
     {
         "id": "andregenerasjonen",
-        "title": "De 10 siste fra Andregenerasjonen",
+        "title": "De 30 siste fra Andregenerasjonen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -39,7 +39,7 @@
     },
     {
         "id": "are_og_odin",
-        "title": "De 10 siste fra Are og Odin",
+        "title": "De 30 siste fra Are og Odin",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -47,7 +47,7 @@
     },
     {
         "id": "arena",
-        "title": "De 10 siste fra Arena",
+        "title": "De 30 siste fra Arena",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -55,25 +55,25 @@
     },
     {
         "id": "baade_erlend_og_steinar_",
-        "title": "De 10 siste fra Både Erlend og Steinar ",
+        "title": "De 30 siste fra Både Erlend og Steinar ",
         "season": null,
         "enabled": true
     },
     {
         "id": "bakrommet",
-        "title": "De 10 siste fra Bakrommet",
+        "title": "De 30 siste fra Bakrommet",
         "season": null,
         "enabled": true
     },
     {
         "id": "baksnakk",
-        "title": "De 10 siste fra Baksnakk",
+        "title": "De 30 siste fra Baksnakk",
         "season": null,
         "enabled": true
     },
     {
         "id": "berrum_beyer_snakker_om_greier",
-        "title": "De 10 siste fra Berrum & Beyer snakker om greier",
+        "title": "De 30 siste fra Berrum & Beyer snakker om greier",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -81,13 +81,13 @@
     },
     {
         "id": "bibelen",
-        "title": "De 10 siste fra Bibelen",
+        "title": "De 30 siste fra Bibelen",
         "season": null,
         "enabled": false
     },
     {
         "id": "billis_og_bollos",
-        "title": "De 10 siste fra Billis og Bollos",
+        "title": "De 30 siste fra Billis og Bollos",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -95,7 +95,7 @@
     },
     {
         "id": "bingen",
-        "title": "De 10 siste fra Bingen – historier fra bygda",
+        "title": "De 30 siste fra Bingen – historier fra bygda",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -103,13 +103,13 @@
     },
     {
         "id": "binnabnna_ujujju",
-        "title": "De 10 siste fra Binnabánnaš & Ujujju",
+        "title": "De 30 siste fra Binnabánnaš & Ujujju",
         "season": null,
         "enabled": false
     },
     {
         "id": "bjoernen_lyver",
-        "title": "De 10 siste fra Bjørnen lyver",
+        "title": "De 30 siste fra Bjørnen lyver",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -117,19 +117,19 @@
     },
     {
         "id": "blaatur",
-        "title": "De 10 siste fra Blåtur",
+        "title": "De 30 siste fra Blåtur",
         "season": null,
         "enabled": true
     },
     {
         "id": "bok_i_p2",
-        "title": "De 10 siste fra Åpen bok",
+        "title": "De 30 siste fra Åpen bok",
         "season": "LATEST_SEASON",
         "enabled": false
     },
     {
         "id": "brannbamsen_bjoernis",
-        "title": "De 10 siste fra Brannbamsen Bjørnis",
+        "title": "De 30 siste fra Brannbamsen Bjørnis",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -137,7 +137,7 @@
     },
     {
         "id": "brenner_deler_dikt",
-        "title": "De 10 siste fra Brenner deler dikt",
+        "title": "De 30 siste fra Brenner deler dikt",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -145,7 +145,7 @@
     },
     {
         "id": "brillebjoerns_kvissvas",
-        "title": "De 10 siste fra Brillebjørns Kvissvas",
+        "title": "De 30 siste fra Brillebjørns Kvissvas",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -153,7 +153,7 @@
     },
     {
         "id": "burde_vaert_pensum",
-        "title": "De 10 siste fra Burde vært pensum",
+        "title": "De 30 siste fra Burde vært pensum",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -161,7 +161,7 @@
     },
     {
         "id": "clue",
-        "title": "De 10 siste fra CLUE",
+        "title": "De 30 siste fra CLUE",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -169,7 +169,7 @@
     },
     {
         "id": "cold_front_skyggekrigen",
-        "title": "De 10 siste fra Cold Front – Skyggekrigen",
+        "title": "De 30 siste fra Cold Front – Skyggekrigen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -177,19 +177,19 @@
     },
     {
         "id": "dagsnytt_atten",
-        "title": "De 10 siste fra Dagsnytt 18",
+        "title": "De 30 siste fra Dagsnytt 18",
         "season": null,
         "enabled": true
     },
     {
         "id": "debatten",
-        "title": "De 10 siste fra Debatten",
+        "title": "De 30 siste fra Debatten",
         "season": null,
         "enabled": false
     },
     {
         "id": "delfi_og_dolfy",
-        "title": "De 10 siste fra Delfi og Dolfy",
+        "title": "De 30 siste fra Delfi og Dolfy",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -197,13 +197,13 @@
     },
     {
         "id": "desken_brenner",
-        "title": "De 10 siste fra Desken brenner",
+        "title": "De 30 siste fra Desken brenner",
         "season": null,
         "enabled": true
     },
     {
         "id": "dilemmaklemma",
-        "title": "De 10 siste fra Dilemmaklemma",
+        "title": "De 30 siste fra Dilemmaklemma",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -211,13 +211,13 @@
     },
     {
         "id": "din_venn_nora",
-        "title": "De 10 siste fra Din venn, Nora",
+        "title": "De 30 siste fra Din venn, Nora",
         "season": null,
         "enabled": true
     },
     {
         "id": "ding_dong_du_er_doed",
-        "title": "De 10 siste fra Ding-dong, du er død!",
+        "title": "De 30 siste fra Ding-dong, du er død!",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -225,7 +225,7 @@
     },
     {
         "id": "dlla_ja_dalloj",
-        "title": "De 10 siste fra Dálla ja dalloj",
+        "title": "De 30 siste fra Dálla ja dalloj",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -233,7 +233,7 @@
     },
     {
         "id": "doemt",
-        "title": "De 10 siste fra Dømt",
+        "title": "De 30 siste fra Dømt",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -241,13 +241,13 @@
     },
     {
         "id": "drivkraft",
-        "title": "De 10 siste fra Drivkraft",
+        "title": "De 30 siste fra Drivkraft",
         "season": null,
         "enabled": false
     },
     {
         "id": "eallima_mohkit",
-        "title": "De 10 siste fra Eallima mohkit",
+        "title": "De 30 siste fra Eallima mohkit",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -255,7 +255,7 @@
     },
     {
         "id": "einstein__paa_sporet_av_den_toeyde_tid",
-        "title": "De 10 siste fra Einstein – på sporet av den tøyde tid",
+        "title": "De 30 siste fra Einstein – på sporet av den tøyde tid",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -263,25 +263,25 @@
     },
     {
         "id": "ekko_-_et_aktuelt_samfunnsprogram",
-        "title": "De 10 siste fra Ekko - samfunnspodden",
+        "title": "De 30 siste fra Ekko - samfunnspodden",
         "season": null,
         "enabled": true
     },
     {
         "id": "etikketaten",
-        "title": "De 10 siste fra Etikketaten",
+        "title": "De 30 siste fra Etikketaten",
         "season": null,
         "enabled": true
     },
     {
         "id": "eventyrerne",
-        "title": "De 10 siste fra Eventyrerne: Jakten på spektralsteinene",
+        "title": "De 30 siste fra Eventyrerne: Jakten på spektralsteinene",
         "season": null,
         "enabled": false
     },
     {
         "id": "eventyret_om_vazelina_bilopphoeggers",
-        "title": "De 10 siste fra Eventyret om Vazelina Bilopphøggers",
+        "title": "De 30 siste fra Eventyret om Vazelina Bilopphøggers",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -289,7 +289,7 @@
     },
     {
         "id": "eventyrstund_med_morten_og_saft",
-        "title": "De 10 siste fra Eventyrstund med Morten og Saft",
+        "title": "De 30 siste fra Eventyrstund med Morten og Saft",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -297,7 +297,7 @@
     },
     {
         "id": "familiene_paa_orderud",
-        "title": "De 10 siste fra Familiene på Orderud",
+        "title": "De 30 siste fra Familiene på Orderud",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -305,7 +305,7 @@
     },
     {
         "id": "fantorangenfortellinger",
-        "title": "De 10 siste fra Fantorangenfortellinger",
+        "title": "De 30 siste fra Fantorangenfortellinger",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -313,7 +313,7 @@
     },
     {
         "id": "fantorangens_lydmysterier",
-        "title": "De 10 siste fra Fantorangens lydmysterier",
+        "title": "De 30 siste fra Fantorangens lydmysterier",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -321,7 +321,7 @@
     },
     {
         "id": "fantorangens_vitseshow",
-        "title": "De 10 siste fra Fantorangens vitseshow",
+        "title": "De 30 siste fra Fantorangens vitseshow",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -329,7 +329,7 @@
     },
     {
         "id": "fantus_og_lydene",
-        "title": "De 10 siste fra Fantus og lydene",
+        "title": "De 30 siste fra Fantus og lydene",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -337,7 +337,7 @@
     },
     {
         "id": "feriestemning",
-        "title": "De 10 siste fra Feriestemning",
+        "title": "De 30 siste fra Feriestemning",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -345,14 +345,14 @@
     },
     {
         "id": "filmpolitiet",
-        "title": "De 10 siste fra Filmpolitiets podkast",
+        "title": "De 30 siste fra Filmpolitiets podkast",
         "season": null,
         "enabled": true,
         "ignore": true
     },
     {
         "id": "forstaa_norge",
-        "title": "De 10 siste fra Forstå Norge",
+        "title": "De 30 siste fra Forstå Norge",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -360,13 +360,13 @@
     },
     {
         "id": "fredagspanelet",
-        "title": "De 10 siste fra Fredagspanelet",
+        "title": "De 30 siste fra Fredagspanelet",
         "season": null,
         "enabled": true
     },
     {
         "id": "friminutt_med_herman_og_mikkel",
-        "title": "De 10 siste fra Friminutt med Herman og Mikkel",
+        "title": "De 30 siste fra Friminutt med Herman og Mikkel",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -374,7 +374,7 @@
     },
     {
         "id": "gaaten_i_isdalen",
-        "title": "De 10 siste fra Gåten i Isdalen",
+        "title": "De 30 siste fra Gåten i Isdalen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -382,7 +382,7 @@
     },
     {
         "id": "gal_og_genial",
-        "title": "De 10 siste fra Gal & genial",
+        "title": "De 30 siste fra Gal & genial",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -390,13 +390,13 @@
     },
     {
         "id": "gamle_greier",
-        "title": "De 10 siste fra Gamle greier",
+        "title": "De 30 siste fra Gamle greier",
         "season": null,
         "enabled": true
     },
     {
         "id": "gfestallan_lisain",
-        "title": "De 10 siste fra Gáfestallan Lisain",
+        "title": "De 30 siste fra Gáfestallan Lisain",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -404,7 +404,7 @@
     },
     {
         "id": "god_bedring",
-        "title": "De 10 siste fra God bedring",
+        "title": "De 30 siste fra God bedring",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -412,7 +412,7 @@
     },
     {
         "id": "god_natt",
-        "title": "De 10 siste fra God natt",
+        "title": "De 30 siste fra God natt",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -420,7 +420,7 @@
     },
     {
         "id": "googla_med_synnoeve_svaboe",
-        "title": "De 10 siste fra Googla med Synnøve Svabø",
+        "title": "De 30 siste fra Googla med Synnøve Svabø",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -428,7 +428,7 @@
     },
     {
         "id": "gozuid_alde",
-        "title": "De 10 siste fra Gozuid alde",
+        "title": "De 30 siste fra Gozuid alde",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -436,7 +436,7 @@
     },
     {
         "id": "groess_og_gru",
-        "title": "De 10 siste fra Grøss og gru",
+        "title": "De 30 siste fra Grøss og gru",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -444,7 +444,7 @@
     },
     {
         "id": "guttapassasjen",
-        "title": "De 10 siste fra Guttapassasjen",
+        "title": "De 30 siste fra Guttapassasjen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -452,7 +452,7 @@
     },
     {
         "id": "haevvi",
-        "title": "De 10 siste fra Hævvi",
+        "title": "De 30 siste fra Hævvi",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -460,13 +460,13 @@
     },
     {
         "id": "hallo_bablo",
-        "title": "De 10 siste fra Hallo Bablo",
+        "title": "De 30 siste fra Hallo Bablo",
         "season": null,
         "enabled": false
     },
     {
         "id": "hei_nabo",
-        "title": "De 10 siste fra Hei, nabo",
+        "title": "De 30 siste fra Hei, nabo",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -474,7 +474,7 @@
     },
     {
         "id": "heia_fotball",
-        "title": "De 10 siste fra Heia Fotball",
+        "title": "De 30 siste fra Heia Fotball",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -482,13 +482,13 @@
     },
     {
         "id": "hele_historien",
-        "title": "De 10 siste fra Hele historien",
+        "title": "De 30 siste fra Hele historien",
         "season": "LATEST_SEASON",
         "enabled": true
     },
     {
         "id": "herreavdelingen",
-        "title": "De 10 siste fra Herreavdelingen",
+        "title": "De 30 siste fra Herreavdelingen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -496,13 +496,13 @@
     },
     {
         "id": "historiske_kjendiser",
-        "title": "De 10 siste fra Historiske kjendiser",
+        "title": "De 30 siste fra Historiske kjendiser",
         "season": null,
         "enabled": true
     },
     {
         "id": "hoera",
-        "title": "De 10 siste fra Hør'a",
+        "title": "De 30 siste fra Hør'a",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -510,7 +510,7 @@
     },
     {
         "id": "hos_peder",
-        "title": "De 10 siste fra Hos Peder",
+        "title": "De 30 siste fra Hos Peder",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -518,13 +518,13 @@
     },
     {
         "id": "hvem_skjoet_balder",
-        "title": "De 10 siste fra Hvem skjøt Balder?",
+        "title": "De 30 siste fra Hvem skjøt Balder?",
         "season": null,
         "enabled": false
     },
     {
         "id": "hvordan_moettes_dere_",
-        "title": "De 10 siste fra Hvordan møttes dere? ",
+        "title": "De 30 siste fra Hvordan møttes dere? ",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -532,7 +532,7 @@
     },
     {
         "id": "i_det_lange_loep",
-        "title": "De 10 siste fra I det lange løp",
+        "title": "De 30 siste fra I det lange løp",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -540,7 +540,7 @@
     },
     {
         "id": "i_doedens_spor",
-        "title": "De 10 siste fra I dødens spor",
+        "title": "De 30 siste fra I dødens spor",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -548,7 +548,7 @@
     },
     {
         "id": "i_elsa_laulas_fotspor",
-        "title": "De 10 siste fra I Elsa Laulas fotspor",
+        "title": "De 30 siste fra I Elsa Laulas fotspor",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -556,7 +556,7 @@
     },
     {
         "id": "i_karantene_med_ronny_og_tuva",
-        "title": "De 10 siste fra I karantene med Ronny og Tuva",
+        "title": "De 30 siste fra I karantene med Ronny og Tuva",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -564,7 +564,7 @@
     },
     {
         "id": "jan_olsen_fra_loensj",
-        "title": "De 10 siste fra Jan Olsen fra Lønsj",
+        "title": "De 30 siste fra Jan Olsen fra Lønsj",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -572,7 +572,7 @@
     },
     {
         "id": "jonas_og_henrik",
-        "title": "De 10 siste fra Jonas og Henrik",
+        "title": "De 30 siste fra Jonas og Henrik",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -580,13 +580,13 @@
     },
     {
         "id": "julestemning",
-        "title": "De 10 siste fra Julestemning med Live og Ronny",
+        "title": "De 30 siste fra Julestemning med Live og Ronny",
         "season": null,
         "enabled": false
     },
     {
         "id": "juntafil",
-        "title": "De 10 siste fra Juntafil",
+        "title": "De 30 siste fra Juntafil",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -594,13 +594,13 @@
     },
     {
         "id": "juorre",
-        "title": "De 10 siste fra Juorre",
+        "title": "De 30 siste fra Juorre",
         "season": null,
         "enabled": false
     },
     {
         "id": "kaffipraati",
-        "title": "De 10 siste fra Kaffipraatti",
+        "title": "De 30 siste fra Kaffipraatti",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -608,7 +608,7 @@
     },
     {
         "id": "karakter",
-        "title": "De 10 siste fra Dynga",
+        "title": "De 30 siste fra Dynga",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -616,7 +616,7 @@
     },
     {
         "id": "karriereveilederen",
-        "title": "De 10 siste fra Karriereveilederen",
+        "title": "De 30 siste fra Karriereveilederen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -624,7 +624,7 @@
     },
     {
         "id": "katakombens_hemmelighet_",
-        "title": "De 10 siste fra Katakombens hemmelighet ",
+        "title": "De 30 siste fra Katakombens hemmelighet ",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -632,13 +632,13 @@
     },
     {
         "id": "kjapt_oppdatert",
-        "title": "De 10 siste fra Kjapt oppdatert",
+        "title": "De 30 siste fra Kjapt oppdatert",
         "season": null,
         "enabled": true
     },
     {
         "id": "kjente_boeker_paa_4_minutter",
-        "title": "De 10 siste fra Kjente bøker på 4 minutter",
+        "title": "De 30 siste fra Kjente bøker på 4 minutter",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -646,7 +646,7 @@
     },
     {
         "id": "kladden_har_daevva",
-        "title": "De 10 siste fra Kladden har dævva",
+        "title": "De 30 siste fra Kladden har dævva",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -654,7 +654,7 @@
     },
     {
         "id": "klassenraadet",
-        "title": "De 10 siste fra Klassen-rådet",
+        "title": "De 30 siste fra Klassen-rådet",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -662,7 +662,7 @@
     },
     {
         "id": "klassequizen",
-        "title": "De 10 siste fra Klassequizen",
+        "title": "De 30 siste fra Klassequizen",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -678,7 +678,7 @@
     },
     {
         "id": "kokosbananas",
-        "title": "De 10 siste fra Kokosbananas",
+        "title": "De 30 siste fra Kokosbananas",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -686,19 +686,19 @@
     },
     {
         "id": "kommentert",
-        "title": "De 10 siste fra Kommentert",
+        "title": "De 30 siste fra Kommentert",
         "season": null,
         "enabled": true
     },
     {
         "id": "kompass",
-        "title": "De 10 siste fra Kompass",
+        "title": "De 30 siste fra Kompass",
         "season": null,
         "enabled": false
     },
     {
         "id": "kongerekka",
-        "title": "De 10 siste fra Kongerekka",
+        "title": "De 30 siste fra Kongerekka",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -706,7 +706,7 @@
     },
     {
         "id": "koselig",
-        "title": "De 10 siste fra Koselig",
+        "title": "De 30 siste fra Koselig",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -714,7 +714,7 @@
     },
     {
         "id": "kraft",
-        "title": "De 10 siste fra KRAFT",
+        "title": "De 30 siste fra KRAFT",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -722,7 +722,7 @@
     },
     {
         "id": "krig_og_fred",
-        "title": "De 10 siste fra Krig og fred",
+        "title": "De 30 siste fra Krig og fred",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -730,7 +730,7 @@
     },
     {
         "id": "krig_paa_200_minutter",
-        "title": "De 10 siste fra Krig på 200 minutter",
+        "title": "De 30 siste fra Krig på 200 minutter",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -738,19 +738,19 @@
     },
     {
         "id": "krimrommet",
-        "title": "De 10 siste fra Krimrommet",
+        "title": "De 30 siste fra Krimrommet",
         "season": null,
         "enabled": true
     },
     {
         "id": "kringkastingsorkestret_",
-        "title": "De 10 siste fra Kringkastingsorkestret ",
+        "title": "De 30 siste fra Kringkastingsorkestret ",
         "season": "LATEST_SEASON",
         "enabled": false
     },
     {
         "id": "kroppen",
-        "title": "De 10 siste fra Kroppen",
+        "title": "De 30 siste fra Kroppen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -758,7 +758,7 @@
     },
     {
         "id": "kunne_vaert_meg",
-        "title": "De 10 siste fra Kunne vært meg",
+        "title": "De 30 siste fra Kunne vært meg",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -766,7 +766,7 @@
     },
     {
         "id": "kurer",
-        "title": "De 10 siste fra Kurer",
+        "title": "De 30 siste fra Kurer",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -774,13 +774,13 @@
     },
     {
         "id": "kveldstanker",
-        "title": "De 10 siste fra Kveldstanker",
+        "title": "De 30 siste fra Kveldstanker",
         "season": null,
         "enabled": false
     },
     {
         "id": "labyrint_om_natten",
-        "title": "De 10 siste fra Labyrint om natten",
+        "title": "De 30 siste fra Labyrint om natten",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -788,7 +788,7 @@
     },
     {
         "id": "labyrinthemmeligheter",
-        "title": "De 10 siste fra Labyrinthemmeligheter",
+        "title": "De 30 siste fra Labyrinthemmeligheter",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -796,25 +796,25 @@
     },
     {
         "id": "leseklubben",
-        "title": "De 10 siste fra Leseklubben",
+        "title": "De 30 siste fra Leseklubben",
         "season": "LATEST_SEASON",
         "enabled": true
     },
     {
         "id": "lev_vel",
-        "title": "De 10 siste fra Lev vel",
+        "title": "De 30 siste fra Lev vel",
         "season": null,
         "enabled": true
     },
     {
         "id": "lindmo_og_co",
-        "title": "De 10 siste fra Lindmo og Co",
+        "title": "De 30 siste fra Lindmo og Co",
         "season": null,
         "enabled": false
     },
     {
         "id": "loensj_med_rune_nilson",
-        "title": "De 10 siste fra Lønsj med Rune Nilson",
+        "title": "De 30 siste fra Lønsj med Rune Nilson",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -822,13 +822,13 @@
     },
     {
         "id": "loerdagsraadet",
-        "title": "De 10 siste fra Lørdagsrådet",
+        "title": "De 30 siste fra Lørdagsrådet",
         "season": null,
         "enabled": true
     },
     {
         "id": "luois_luohti",
-        "title": "De 10 siste fra Luođis luohtái",
+        "title": "De 30 siste fra Luođis luohtái",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -836,7 +836,7 @@
     },
     {
         "id": "lyden_av_17_mai",
-        "title": "De 10 siste fra Lyden av 17. mai",
+        "title": "De 30 siste fra Lyden av 17. mai",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -844,7 +844,7 @@
     },
     {
         "id": "lyden_av_nytt_paa_nytt",
-        "title": "De 10 siste fra Lyden av Nytt på Nytt",
+        "title": "De 30 siste fra Lyden av Nytt på Nytt",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -852,7 +852,7 @@
     },
     {
         "id": "lystad_og_mathisens_radioshow",
-        "title": "De 10 siste fra Lystad og Mathisens radioshow",
+        "title": "De 30 siste fra Lystad og Mathisens radioshow",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -860,7 +860,7 @@
     },
     {
         "id": "manin_ja_danin",
-        "title": "De 10 siste fra Manin ja danin",
+        "title": "De 30 siste fra Manin ja danin",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -868,19 +868,19 @@
     },
     {
         "id": "markus_else",
-        "title": "De 10 siste fra Markus & Else",
+        "title": "De 30 siste fra Markus & Else",
         "season": null,
         "enabled": false
     },
     {
         "id": "markus_og_wolfgang_snakker_klassisk",
-        "title": "De 10 siste fra Markus og Wolfgang snakker klassisk",
+        "title": "De 30 siste fra Markus og Wolfgang snakker klassisk",
         "season": "LATEST_SEASON",
         "enabled": false
     },
     {
         "id": "maskoramapodkasten",
-        "title": "De 10 siste fra Maskorama-podkasten",
+        "title": "De 30 siste fra Maskorama-podkasten",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -888,13 +888,13 @@
     },
     {
         "id": "med_all_respekt",
-        "title": "De 10 siste fra Med all respekt",
+        "title": "De 30 siste fra Med all respekt",
         "season": null,
         "enabled": false
     },
     {
         "id": "meininga_med_livet",
-        "title": "De 10 siste fra Meininga med livet",
+        "title": "De 30 siste fra Meininga med livet",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -902,7 +902,7 @@
     },
     {
         "id": "mellom_oss",
-        "title": "De 10 siste fra Mellom oss",
+        "title": "De 30 siste fra Mellom oss",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -910,7 +910,7 @@
     },
     {
         "id": "mesterdetektiven_mali",
-        "title": "De 10 siste fra Mesterdetektiven Mali",
+        "title": "De 30 siste fra Mesterdetektiven Mali",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -918,7 +918,7 @@
     },
     {
         "id": "mias_gym",
-        "title": "De 10 siste fra Mias gym",
+        "title": "De 30 siste fra Mias gym",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -926,7 +926,7 @@
     },
     {
         "id": "millionaerhjerne",
-        "title": "De 10 siste fra Millionærhjerne",
+        "title": "De 30 siste fra Millionærhjerne",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -934,7 +934,7 @@
     },
     {
         "id": "min_foerste_gang",
-        "title": "De 10 siste fra Min første gang",
+        "title": "De 30 siste fra Min første gang",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -942,7 +942,7 @@
     },
     {
         "id": "min_venn_marlon",
-        "title": "De 10 siste fra Min venn Marlon",
+        "title": "De 30 siste fra Min venn Marlon",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -950,13 +950,13 @@
     },
     {
         "id": "misforstaa_meg_rett",
-        "title": "De 10 siste fra Misforstå meg rett",
+        "title": "De 30 siste fra Misforstå meg rett",
         "season": null,
         "enabled": false
     },
     {
         "id": "mitt_liv_med_hund",
-        "title": "De 10 siste fra Mitt liv med hund",
+        "title": "De 30 siste fra Mitt liv med hund",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -964,7 +964,7 @@
     },
     {
         "id": "moerketid",
-        "title": "De 10 siste fra Mørketid",
+        "title": "De 30 siste fra Mørketid",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -972,7 +972,7 @@
     },
     {
         "id": "monsens_univers",
-        "title": "De 10 siste fra Monsens univers",
+        "title": "De 30 siste fra Monsens univers",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -980,7 +980,7 @@
     },
     {
         "id": "museum",
-        "title": "De 10 siste fra Museum - et program om norsk historie",
+        "title": "De 30 siste fra Museum - et program om norsk historie",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -988,7 +988,7 @@
     },
     {
         "id": "musikk_fra_nrk_super",
-        "title": "De 10 siste fra Musikk fra NRK Super",
+        "title": "De 30 siste fra Musikk fra NRK Super",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -996,13 +996,13 @@
     },
     {
         "id": "musikkhistorier",
-        "title": "De 10 siste fra Musikkhistorier",
+        "title": "De 30 siste fra Musikkhistorier",
         "season": "LATEST_SEASON",
         "enabled": false
     },
     {
         "id": "musikkrommet",
-        "title": "De 10 siste fra Musikkrommet",
+        "title": "De 30 siste fra Musikkrommet",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1010,7 +1010,7 @@
     },
     {
         "id": "mysterier_fra_norge",
-        "title": "De 10 siste fra Mysterier fra Norge",
+        "title": "De 30 siste fra Mysterier fra Norge",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1018,7 +1018,7 @@
     },
     {
         "id": "natt_til_loerdag",
-        "title": "De 10 siste fra Natt til lørdag",
+        "title": "De 30 siste fra Natt til lørdag",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1026,7 +1026,7 @@
     },
     {
         "id": "nei_nei_nei",
-        "title": "De 10 siste fra Nei nei nei",
+        "title": "De 30 siste fra Nei nei nei",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1034,7 +1034,7 @@
     },
     {
         "id": "nesten_helt_sant_",
-        "title": "De 10 siste fra Nesten helt sant ",
+        "title": "De 30 siste fra Nesten helt sant ",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1042,19 +1042,19 @@
     },
     {
         "id": "nittiatten",
-        "title": "De 10 siste fra Nittiatten",
+        "title": "De 30 siste fra Nittiatten",
         "season": null,
         "enabled": true
     },
     {
         "id": "noedsamtaler",
-        "title": "De 10 siste fra Nødsamtaler",
+        "title": "De 30 siste fra Nødsamtaler",
         "season": "LATEST_SEASON",
         "enabled": false
     },
     {
         "id": "nokke_for_seg_sjoel",
-        "title": "De 10 siste fra Nokke for seg sjøl",
+        "title": "De 30 siste fra Nokke for seg sjøl",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1062,13 +1062,13 @@
     },
     {
         "id": "norsken_svensken_og_dansken",
-        "title": "De 10 siste fra Norsken, svensken og dansken",
+        "title": "De 30 siste fra Norsken, svensken og dansken",
         "season": null,
         "enabled": false
     },
     {
         "id": "nrkbeta",
-        "title": "De 10 siste fra NRKbeta",
+        "title": "De 30 siste fra NRKbeta",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1076,7 +1076,7 @@
     },
     {
         "id": "nrkscenen",
-        "title": "De 10 siste fra NRK-scenen",
+        "title": "De 30 siste fra NRK-scenen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1084,7 +1084,7 @@
     },
     {
         "id": "nyhetsblanding",
-        "title": "De 10 siste fra Nyhetsblanding",
+        "title": "De 30 siste fra Nyhetsblanding",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1092,13 +1092,13 @@
     },
     {
         "id": "nyhetsmorgen",
-        "title": "De 10 siste fra Nyhetsmorgen",
+        "title": "De 30 siste fra Nyhetsmorgen",
         "season": null,
         "enabled": true
     },
     {
         "id": "o-fag",
-        "title": "De 10 siste fra O-fag",
+        "title": "De 30 siste fra O-fag",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1106,7 +1106,7 @@
     },
     {
         "id": "odaspodda",
-        "title": "De 10 siste fra Ođaspodda",
+        "title": "De 30 siste fra Ođaspodda",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1114,7 +1114,7 @@
     },
     {
         "id": "olgull",
-        "title": "De 10 siste fra OL-gull",
+        "title": "De 30 siste fra OL-gull",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1122,13 +1122,13 @@
     },
     {
         "id": "oppdatert",
-        "title": "De 10 siste fra Oppdatert",
+        "title": "De 30 siste fra Oppdatert",
         "season": null,
         "enabled": true
     },
     {
         "id": "p060ms2h",
-        "title": "De 10 siste fra Death in Ice Valley",
+        "title": "De 30 siste fra Death in Ice Valley",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1136,7 +1136,7 @@
     },
     {
         "id": "p3_dokumentar",
-        "title": "De 10 siste fra P3 Dokumentar",
+        "title": "De 30 siste fra P3 Dokumentar",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -1144,13 +1144,13 @@
     },
     {
         "id": "p3morgen",
-        "title": "De 10 siste fra P3morgen",
+        "title": "De 30 siste fra P3morgen",
         "season": null,
         "enabled": true
     },
     {
         "id": "paa_audition",
-        "title": "De 10 siste fra På audition",
+        "title": "De 30 siste fra På audition",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1158,7 +1158,7 @@
     },
     {
         "id": "paalogga",
-        "title": "De 10 siste fra Pålogga",
+        "title": "De 30 siste fra Pålogga",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1166,19 +1166,19 @@
     },
     {
         "id": "poensj",
-        "title": "De 10 siste fra Pønsj",
+        "title": "De 30 siste fra Pønsj",
         "season": null,
         "enabled": false
     },
     {
         "id": "politisk_kvarter",
-        "title": "De 10 siste fra Politisk kvarter",
+        "title": "De 30 siste fra Politisk kvarter",
         "season": null,
         "enabled": true
     },
     {
         "id": "popaganda",
-        "title": "De 10 siste fra Popaganda",
+        "title": "De 30 siste fra Popaganda",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1186,7 +1186,7 @@
     },
     {
         "id": "popkorn_og_politikk",
-        "title": "De 10 siste fra Popkorn og politikk",
+        "title": "De 30 siste fra Popkorn og politikk",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1194,7 +1194,7 @@
     },
     {
         "id": "psykologen",
-        "title": "De 10 siste fra Psykologen",
+        "title": "De 30 siste fra Psykologen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1202,7 +1202,7 @@
     },
     {
         "id": "purk_eller_skurk",
-        "title": "De 10 siste fra Purk eller skurk?",
+        "title": "De 30 siste fra Purk eller skurk?",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1210,13 +1210,13 @@
     },
     {
         "id": "radio_moerch",
-        "title": "De 10 siste fra Radio Mørch",
+        "title": "De 30 siste fra Radio Mørch",
         "season": "LATEST_SEASON",
         "enabled": true
     },
     {
         "id": "radio_utslagsnes",
-        "title": "De 10 siste fra Radio Utslagsnes",
+        "title": "De 30 siste fra Radio Utslagsnes",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1224,13 +1224,13 @@
     },
     {
         "id": "radiodokumentaren",
-        "title": "De 10 siste fra Historier fra virkeligheten",
+        "title": "De 30 siste fra Historier fra virkeligheten",
         "season": "LATEST_SEASON",
         "enabled": false
     },
     {
         "id": "radiolegen",
-        "title": "De 10 siste fra Radiolegen",
+        "title": "De 30 siste fra Radiolegen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1238,7 +1238,7 @@
     },
     {
         "id": "radiomat",
-        "title": "De 10 siste fra Radiomat",
+        "title": "De 30 siste fra Radiomat",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1254,7 +1254,7 @@
     },
     {
         "id": "radioresepsjonens_arkivpodkast",
-        "title": "De 10 siste fra Radioresepsjonens arkivpodkast",
+        "title": "De 30 siste fra Radioresepsjonens arkivpodkast",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1262,7 +1262,7 @@
     },
     {
         "id": "radioteatret",
-        "title": "De 10 siste fra Radioteatret",
+        "title": "De 30 siste fra Radioteatret",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -1270,7 +1270,7 @@
     },
     {
         "id": "radioteatrets_paaskekrim",
-        "title": "De 10 siste fra Mørke fortellinger",
+        "title": "De 30 siste fra Mørke fortellinger",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -1278,7 +1278,7 @@
     },
     {
         "id": "reiseradioens_sommerleker",
-        "title": "De 10 siste fra Reiseradioens sommerleker",
+        "title": "De 30 siste fra Reiseradioens sommerleker",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1286,7 +1286,7 @@
     },
     {
         "id": "revolusjonen",
-        "title": "De 10 siste fra Revolusjonen",
+        "title": "De 30 siste fra Revolusjonen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1294,7 +1294,7 @@
     },
     {
         "id": "roed_loeype",
-        "title": "De 10 siste fra Rød løype",
+        "title": "De 30 siste fra Rød løype",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1302,7 +1302,7 @@
     },
     {
         "id": "roeverradion_i_nrk_p2",
-        "title": "De 10 siste fra Røverradion i NRK P2",
+        "title": "De 30 siste fra Røverradion i NRK P2",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1310,7 +1310,7 @@
     },
     {
         "id": "saann_er_du",
-        "title": "De 10 siste fra Sånn er du",
+        "title": "De 30 siste fra Sånn er du",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1318,7 +1318,7 @@
     },
     {
         "id": "salongen",
-        "title": "De 10 siste fra Salongens lesesirkel ",
+        "title": "De 30 siste fra Salongens lesesirkel ",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1326,7 +1326,7 @@
     },
     {
         "id": "satiriks_redaksjonsmoete",
-        "title": "De 10 siste fra Satiriks redaksjonsmøte",
+        "title": "De 30 siste fra Satiriks redaksjonsmøte",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1334,13 +1334,13 @@
     },
     {
         "id": "seriesnakk",
-        "title": "De 10 siste fra Seriesnakk",
+        "title": "De 30 siste fra Seriesnakk",
         "season": "LATEST_SEASON",
         "enabled": false
     },
     {
         "id": "sex_over_60",
-        "title": "De 10 siste fra Sex over 60",
+        "title": "De 30 siste fra Sex over 60",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1348,13 +1348,13 @@
     },
     {
         "id": "siesta",
-        "title": "De 10 siste fra Siesta",
+        "title": "De 30 siste fra Siesta",
         "season": null,
         "enabled": true
     },
     {
         "id": "sjakksnakk",
-        "title": "De 10 siste fra Sjakksnakk",
+        "title": "De 30 siste fra Sjakksnakk",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1362,7 +1362,7 @@
     },
     {
         "id": "skampod",
-        "title": "De 10 siste fra Skampod",
+        "title": "De 30 siste fra Skampod",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1370,13 +1370,13 @@
     },
     {
         "id": "skiklubben",
-        "title": "De 10 siste fra Skiklubben",
+        "title": "De 30 siste fra Skiklubben",
         "season": null,
         "enabled": true
     },
     {
         "id": "skitprat",
-        "title": "De 10 siste fra Skitprat med Jens og Isak",
+        "title": "De 30 siste fra Skitprat med Jens og Isak",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1384,7 +1384,7 @@
     },
     {
         "id": "smartere_paa_10_minutter",
-        "title": "De 10 siste fra Smartere på 10 minutter",
+        "title": "De 30 siste fra Smartere på 10 minutter",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1392,7 +1392,7 @@
     },
     {
         "id": "smi_horror",
-        "title": "De 10 siste fra Sámi Horror",
+        "title": "De 30 siste fra Sámi Horror",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1400,7 +1400,7 @@
     },
     {
         "id": "snoefall",
-        "title": "De 10 siste fra Snøfall",
+        "title": "De 30 siste fra Snøfall",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1408,13 +1408,13 @@
     },
     {
         "id": "sommer_i_p2",
-        "title": "De 10 siste fra Sommer i P2",
+        "title": "De 30 siste fra Sommer i P2",
         "season": null,
         "enabled": true
     },
     {
         "id": "sophie_og_fetisha",
-        "title": "De 10 siste fra Sophie og Fetisha",
+        "title": "De 30 siste fra Sophie og Fetisha",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1422,7 +1422,7 @@
     },
     {
         "id": "sos_noedtelefonen",
-        "title": "De 10 siste fra SOS Nødtelefonen",
+        "title": "De 30 siste fra SOS Nødtelefonen",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1430,7 +1430,7 @@
     },
     {
         "id": "spoer_for_en_venn",
-        "title": "De 10 siste fra Spør for en venn",
+        "title": "De 30 siste fra Spør for en venn",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1438,19 +1438,19 @@
     },
     {
         "id": "sportsdesken_brenner",
-        "title": "De 10 siste fra Sportsdesken brenner",
+        "title": "De 30 siste fra Sportsdesken brenner",
         "season": null,
         "enabled": true
     },
     {
         "id": "spraakteigen",
-        "title": "De 10 siste fra Språksnakk",
+        "title": "De 30 siste fra Språksnakk",
         "season": null,
         "enabled": false
     },
     {
         "id": "staale_utslagsnes_fra_loensj",
-        "title": "De 10 siste fra Ståle Utslagsnes fra Lønsj",
+        "title": "De 30 siste fra Ståle Utslagsnes fra Lønsj",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1458,7 +1458,7 @@
     },
     {
         "id": "stanghelle",
-        "title": "De 10 siste fra Stanghelle",
+        "title": "De 30 siste fra Stanghelle",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1466,7 +1466,7 @@
     },
     {
         "id": "statens_mal_for_medarbeidersamtale",
-        "title": "De 10 siste fra Statens mal for medarbeidersamtale",
+        "title": "De 30 siste fra Statens mal for medarbeidersamtale",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1482,13 +1482,13 @@
     },
     {
         "id": "strid",
-        "title": "De 10 siste fra Strid – de norske borgerkrigene",
+        "title": "De 30 siste fra Strid – de norske borgerkrigene",
         "season": null,
         "enabled": true
     },
     {
         "id": "stroemwasenius",
-        "title": "De 10 siste fra Strøm/Wasenius",
+        "title": "De 30 siste fra Strøm/Wasenius",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1496,13 +1496,13 @@
     },
     {
         "id": "studio_2",
-        "title": "De 10 siste fra Studio 2",
+        "title": "De 30 siste fra Studio 2",
         "season": null,
         "enabled": true
     },
     {
         "id": "supernytt",
-        "title": "De 10 siste fra Supernytt",
+        "title": "De 30 siste fra Supernytt",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1510,7 +1510,7 @@
     },
     {
         "id": "supernytt_forklarer",
-        "title": "De 10 siste fra Supernytt forklarer",
+        "title": "De 30 siste fra Supernytt forklarer",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1518,7 +1518,7 @@
     },
     {
         "id": "supertroett",
-        "title": "De 10 siste fra Supertrøtt",
+        "title": "De 30 siste fra Supertrøtt",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1542,7 +1542,7 @@
     },
     {
         "id": "tett_paa",
-        "title": "De 10 siste fra Tett på",
+        "title": "De 30 siste fra Tett på",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1550,7 +1550,7 @@
     },
     {
         "id": "the_kaass_furuseths",
-        "title": "De 10 siste fra The Kåss Furuseths",
+        "title": "De 30 siste fra The Kåss Furuseths",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1558,7 +1558,7 @@
     },
     {
         "id": "timeout",
-        "title": "De 10 siste fra Timeout",
+        "title": "De 30 siste fra Timeout",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1566,7 +1566,7 @@
     },
     {
         "id": "to_hvite_menn",
-        "title": "De 10 siste fra To hvite menn",
+        "title": "De 30 siste fra To hvite menn",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1574,7 +1574,7 @@
     },
     {
         "id": "tomms_afrikanske_fortellinger",
-        "title": "De 10 siste fra Tomms afrikanske fortellinger",
+        "title": "De 30 siste fra Tomms afrikanske fortellinger",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1590,7 +1590,7 @@
     },
     {
         "id": "tore_sagens_podkast",
-        "title": "De 10 siste fra Tore Sagens podkast",
+        "title": "De 30 siste fra Tore Sagens podkast",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1598,13 +1598,13 @@
     },
     {
         "id": "traesh",
-        "title": "De 10 siste fra Træsh",
+        "title": "De 30 siste fra Træsh",
         "season": null,
         "enabled": false
     },
     {
         "id": "treningskompis",
-        "title": "De 10 siste fra Treningskompis",
+        "title": "De 30 siste fra Treningskompis",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -1612,7 +1612,7 @@
     },
     {
         "id": "trump_mot_verden",
-        "title": "De 10 siste fra Trump mot verden",
+        "title": "De 30 siste fra Trump mot verden",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1620,13 +1620,13 @@
     },
     {
         "id": "trygdekontoret",
-        "title": "De 10 siste fra Trygdekontoret",
+        "title": "De 30 siste fra Trygdekontoret",
         "season": null,
         "enabled": false
     },
     {
         "id": "turister",
-        "title": "De 10 siste fra Turister",
+        "title": "De 30 siste fra Turister",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1634,13 +1634,13 @@
     },
     {
         "id": "tyrann",
-        "title": "De 10 siste fra Tyrann",
+        "title": "De 30 siste fra Tyrann",
         "season": "LATEST_SEASON",
         "enabled": true
     },
     {
         "id": "ubaatsaken",
-        "title": "De 10 siste fra Ubåtsaken",
+        "title": "De 30 siste fra Ubåtsaken",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1648,13 +1648,13 @@
     },
     {
         "id": "ukeslutt",
-        "title": "De 10 siste fra Ukeslutt",
+        "title": "De 30 siste fra Ukeslutt",
         "season": null,
         "enabled": true
     },
     {
         "id": "ukjent",
-        "title": "De 10 siste fra Ukjent: Er det noen der ute?",
+        "title": "De 30 siste fra Ukjent: Er det noen der ute?",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1662,7 +1662,7 @@
     },
     {
         "id": "ulrikkes_univers",
-        "title": "De 10 siste fra Ulrikkes univers",
+        "title": "De 30 siste fra Ulrikkes univers",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1670,7 +1670,7 @@
     },
     {
         "id": "utakt",
-        "title": "De 10 siste fra Utakt",
+        "title": "De 30 siste fra Utakt",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1678,13 +1678,13 @@
     },
     {
         "id": "utro_haap_og_kjaerlighet",
-        "title": "De 10 siste fra Utro, håp og kjærlighet",
+        "title": "De 30 siste fra Utro, håp og kjærlighet",
         "season": null,
         "enabled": true
     },
     {
         "id": "valg",
-        "title": "De 10 siste fra Valg",
+        "title": "De 30 siste fra Valg",
         "season": "LATEST_SEASON",
         "enabled": false,
         "ignore": true,
@@ -1692,19 +1692,19 @@
     },
     {
         "id": "vassendgutane_broedre_i_boots",
-        "title": "De 10 siste fra Vassendgutane – brødre i boots",
+        "title": "De 30 siste fra Vassendgutane – brødre i boots",
         "season": null,
         "enabled": true
     },
     {
         "id": "verden_paa_loerdag",
-        "title": "De 10 siste fra Urix på lørdag",
+        "title": "De 30 siste fra Urix på lørdag",
         "season": null,
         "enabled": true
     },
     {
         "id": "verdens_ekleste_podkast",
-        "title": "De 10 siste fra Verdens ekleste podkast",
+        "title": "De 30 siste fra Verdens ekleste podkast",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1712,7 +1712,7 @@
     },
     {
         "id": "verdens_rikeste_land",
-        "title": "De 10 siste fra Verdens Rikeste Land",
+        "title": "De 30 siste fra Verdens Rikeste Land",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1720,13 +1720,13 @@
     },
     {
         "id": "verdiboersen",
-        "title": "De 10 siste fra Verdibørsen",
+        "title": "De 30 siste fra Verdibørsen",
         "season": "LATEST_SEASON",
         "enabled": true
     },
     {
         "id": "vg3",
-        "title": "De 10 siste fra VG3",
+        "title": "De 30 siste fra VG3",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1734,7 +1734,7 @@
     },
     {
         "id": "vikinger",
-        "title": "De 10 siste fra Vikinger",
+        "title": "De 30 siste fra Vikinger",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1742,13 +1742,13 @@
     },
     {
         "id": "vittig",
-        "title": "De 10 siste fra Vittig",
+        "title": "De 30 siste fra Vittig",
         "season": null,
         "enabled": false
     },
     {
         "id": "westworld-podden",
-        "title": "De 10 siste fra Westworld-podden",
+        "title": "De 30 siste fra Westworld-podden",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1756,7 +1756,7 @@
     },
     {
         "id": "xl_podkasten",
-        "title": "De 10 siste fra XL – podkasten",
+        "title": "De 30 siste fra XL – podkasten",
         "season": null,
         "enabled": false,
         "ignore": true,
@@ -1764,7 +1764,7 @@
     },
     {
         "id": "yeblikket",
-        "title": "De 10 siste fra Øyeblikket",
+        "title": "De 30 siste fra Øyeblikket",
         "season": null,
         "enabled": false,
         "ignore": true,
