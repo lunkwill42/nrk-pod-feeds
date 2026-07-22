@@ -9,7 +9,7 @@ function copyToClipboard(feed) {
 }
 
 function listFeeds() {
-    base_url = "https://sindrel.github.io/nrk-pod-feeds/rss/";
+    base_url = "https://lunkwill42.github.io/nrk-pod-feeds/rss/";
     info_base_url = "https://radio.nrk.no/podkast/";
 
     feeds.forEach(feed => {
