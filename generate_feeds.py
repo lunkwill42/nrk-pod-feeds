@@ -12,7 +12,7 @@ podcasts_cfg_file = "podcasts.json"
 filter_teasers = True
 web_url = "https://sindrel.github.io/nrk-pod-feeds"
 
-def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
+def get_podcast(podcast_id, season, feeds_dir, ep_count = 30):
     existing_feed = get_last_feed(feeds_dir, podcast_id)
 
     last_feed_update = parser.parse("1970-01-01 00:00:01+00:00")
@@ -53,7 +53,7 @@ def get_podcast(podcast_id, season, feeds_dir, ep_count = 10):
         else:
             episodes = get_all_podcast_episodes(podcast_id, season)
     else:
-        episodes = get_podcast_episodes(podcast_id, season)
+        episodes = get_podcast_episodes(podcast_id, season, count=ep_count)
 
     if not episodes:
         return None
@@ -144,7 +144,7 @@ if __name__ == '__main__':
 
         podcast_id = p["id"]
         podcast_season = p["season"]
-        ep_count = 10
+        ep_count = 30
 
         if "episodes" in p:
             ep_count = p["episodes"]
