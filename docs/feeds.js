@@ -19,7 +19,7 @@ const feeds = [
     "id": "abels_taarn",
     "title": "De 10 siste fra Abels tårn",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "andakten",
@@ -1722,7 +1722,7 @@ const feeds = [
     "id": "verdiboersen",
     "title": "De 10 siste fra Verdibørsen",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "vg3",

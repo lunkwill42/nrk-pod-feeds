@@ -1,17 +1,243 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Verdibørsen</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Verdibørsen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verdiboersen for mer informasjon.</description>
+    <title>De 30 siste fra Verdibørsen</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Verdibørsen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/verdiboersen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 10 Apr 2026 11:13:03 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Apr 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:00:55 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/CN-gnRa9dIk-NitX7RlPcg8boRQaVwR76eXjQ42zDNfw.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Slik filosoferer du selv</title>
+      <description><![CDATA[Del 20 av 20. Hvor begynner du?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/af6ce15f-3403-47a4-ace1-5f340337a4cd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/af6ce15f-3403-47a4-ace1-5f340337a4cd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:27</itunes:duration>
+      <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/spfwvFL_xUuEP-jiXX7cggR4_TUdqMV0yH8eSTnrovFA.jpg"/>
+    </item>
+    <item>
+      <title>Pavens imponerende  KI-brev</title>
+      <description><![CDATA[- og ateisten som tror at KI nå er bevisst]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/20c66788-bf63-442a-8667-88bf63342a14_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/20c66788-bf63-442a-8667-88bf63342a14_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:13</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 10:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Minner 12:12</title>
+      <description><![CDATA[Hitler har aldri forlatt oss]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/6b9cb33a-8fd1-4dd1-9cb3-3a8fd1add12e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/6b9cb33a-8fd1-4dd1-9cb3-3a8fd1add12e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:50</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:20:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Kollaps 11:12</title>
+      <description><![CDATA[Bombekrig og første og annen D-dag]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/7f44b6a1-1aaa-4951-84b6-a11aaad9512a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7f44b6a1-1aaa-4951-84b6-a11aaad9512a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:30</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:12:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Folkemord 10:12</title>
+      <description><![CDATA[Likbålene brenner dag og natt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/661d9404-d0f0-41a3-9d94-04d0f051a339_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/661d9404-d0f0-41a3-9d94-04d0f051a339_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:58</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Krig  9:12</title>
+      <description><![CDATA[Hitler fikk den krigen han ikke ville ha]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5df20e5c-ebff-4608-b20e-5cebffc60830_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5df20e5c-ebff-4608-b20e-5cebffc60830_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:18</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Angrep  8:12</title>
+      <description><![CDATA[Nazi-Tyskland angriper og angriper]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/29e81f0b-8ecb-4292-a81f-0b8ecba29266_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/29e81f0b-8ecb-4292-a81f-0b8ecba29266_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:36</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Rustning 7:12</title>
+      <description><![CDATA[Ingen kapitalistisk stat har noen gang brukt så mye på opprustning i fredstid som Nazi-Tyskland]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c458171e-27fa-4ac7-9817-1e27fa0ac79c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c458171e-27fa-4ac7-9817-1e27fa0ac79c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:46</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Kultur 6:12</title>
+      <description><![CDATA[Professorene pynter seg når de brenner jødiske bøker]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e399c693-69bf-4d5c-99c6-9369bf6d5c71_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e399c693-69bf-4d5c-99c6-9369bf6d5c71_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:19</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
+    <item>
+      <title>Analytisk vs. kontinental filosofi</title>
+      <description><![CDATA[Del 19 av 20. Gir dette skillet mening?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e059217b-bf65-4d83-9921-7bbf65bd830d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e059217b-bf65-4d83-9921-7bbf65bd830d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:08</itunes:duration>
+      <pubDate>Sun, 21 Jun 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/spfwvFL_xUuEP-jiXX7cggR4_TUdqMV0yH8eSTnrovFA.jpg"/>
+    </item>
+    <item>
+      <title>Ønske om autoritære ledere</title>
+      <description><![CDATA[Har vi et naturlig behov for å underkaste oss? Er friheten  for stor og skummel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/66b16a82-8fa1-425a-b16a-828fa1825a36_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/66b16a82-8fa1-425a-b16a-828fa1825a36_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:13</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Trumps lojalitetstest</title>
+      <description><![CDATA[Trump rensker ut og sparker ekspertise og innsetter sine egne .-De er inkompetente, men lojale, sier historiker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/d2e49638-9b29-48a1-a496-389b2938a117_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/d2e49638-9b29-48a1-a496-389b2938a117_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 10:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Anvendt filosofi</title>
+      <description><![CDATA[Del 18 av 20. Etikk kan anvendes. Men hva er anvendt metafysikk og epistemologi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/98a5c6d6-443d-4d9d-a5c6-d6443d6d9dc3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/98a5c6d6-443d-4d9d-a5c6-d6443d6d9dc3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:22</itunes:duration>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Tyskledet NATO?</title>
+      <description><![CDATA[Hvis USA forlater NATO, kan Tyskland blir det ledende NATO landet. Det er en vanskelig tanke for mange.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/091d9023-e763-4f2b-9d90-23e763df2baf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/091d9023-e763-4f2b-9d90-23e763df2baf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:07</itunes:duration>
+      <pubDate>Fri, 29 May 2026 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i1WzEThKKSqlDfT3FvPShwiW6olPZfiv2rfwV9dtocIg.jpg"/>
+    </item>
+    <item>
+      <title>USA vakler- vår verden forsvinner</title>
+      <description><![CDATA[Imperier har alltid falt. Opplever vi nå det samme som romerne, mongolene og osmanerne?
+Om 7 imperier som har formet verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/94c7b3cb-6416-4dc2-87b3-cb64160dc2ef_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/94c7b3cb-6416-4dc2-87b3-cb64160dc2ef_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:11</itunes:duration>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lZFO16IwAY4lGD_9yc3tJQzBk7Npwoyp438fIyFUP45A.jpg"/>
+    </item>
+    <item>
+      <title>Den gode (3:3)</title>
+      <description><![CDATA[Framtida er lys med superlykke, superintelligens og superlange liv!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/4e8a417d-820d-40ce-8a41-7d820d00cefe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/4e8a417d-820d-40ce-8a41-7d820d00cefe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:27</itunes:duration>
+      <pubDate>Fri, 15 May 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
+    </item>
+    <item>
+      <title>Hva betyr "Dyrk din hage"?</title>
+      <description><![CDATA[Filosof Kaja Melsom forklarer kjente utrykk fra filosofihistorien. Hva mente  Voltaire med "Dyrk din hage"?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/0352db34-87ab-4320-92db-3487abd320cb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0352db34-87ab-4320-92db-3487abd320cb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:03</itunes:duration>
+      <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hNPGWlo8IMhLQLjMlACBAA9YcGbc5HK5Gu71fYeN_aRQ.jpg"/>
+    </item>
+    <item>
+      <title>Den onde (2:3)</title>
+      <description><![CDATA[På vei mot en tommere og dummere verden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/48bdf65f-d7e8-42ff-bdf6-5fd7e8b2ff4c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/48bdf65f-d7e8-42ff-bdf6-5fd7e8b2ff4c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:40</itunes:duration>
+      <pubDate>Wed, 06 May 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
+    </item>
+    <item>
+      <title>Hva betyr Den edle villmann?</title>
+      <description><![CDATA[Filosof Kaja Melsom forklarer kjente utrykk fra filosofihistorien. Hva mente Rousseau med "Sen edle villmann"?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ac10c29c-fe47-46c7-90c2-9cfe4776c7f1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ac10c29c-fe47-46c7-90c2-9cfe4776c7f1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:52</itunes:duration>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hNPGWlo8IMhLQLjMlACBAA9YcGbc5HK5Gu71fYeN_aRQ.jpg"/>
+    </item>
+    <item>
+      <title>Den grusomme (1:3)</title>
+      <description><![CDATA[-Trolig overlever vi ikke KI]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f077d736-675a-4840-b7d7-36675ab8405c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f077d736-675a-4840-b7d7-36675ab8405c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:27</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 11:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
+    </item>
+    <item>
+      <title>Hva fortjener du?</title>
+      <description><![CDATA[Del 17 av 20.  Hvordan dele rettferdig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/616a8be9-321b-4f02-aa8b-e9321b5f0237_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/616a8be9-321b-4f02-aa8b-e9321b5f0237_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:08</itunes:duration>
+      <pubDate>Sun, 26 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/spfwvFL_xUuEP-jiXX7cggR4_TUdqMV0yH8eSTnrovFA.jpg"/>
+    </item>
+    <item>
+      <title>Krig mellom gode og onde</title>
+      <description><![CDATA[Alle de 3 partene i Iran-krigen støtter seg på religion. USA snakkes det mye om – men hva med Iran og Israel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ae1eba35-9329-4b58-9eba-359329cb5835_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ae1eba35-9329-4b58-9eba-359329cb5835_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:18</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 11:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Det forskes på mye rart</title>
+      <description><![CDATA[Bør forskningen være nyttig? Er det for mye luksus og sløsing i forskningen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1c06c748-7edd-414c-86c7-487edd514cbe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1c06c748-7edd-414c-86c7-487edd514cbe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:06</itunes:duration>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jZLvVqO2rkwhHmqfA67ELwuFCK5t9DWWcBTBnuWInAQA.jpg"/>
+    </item>
+    <item>
+      <title>Den rike pøbelen</title>
+      <description><![CDATA[Både fattigdom og rikdom kan ødelegge deg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/158bc89d-fcf3-48ff-8bc8-9dfcf328ffab_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/158bc89d-fcf3-48ff-8bc8-9dfcf328ffab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:56</itunes:duration>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/13dwYo1NqEerBn_08FJS_AmIlzSHxK-3v__iC3fDge9w.jpg"/>
+    </item>
+    <item>
+      <title>Rase 5:12</title>
+      <description><![CDATA[-Hva koster en mentalpasient og hva kunne vi ha brukt  pengene på i stedet? En skoleoppgave i Det 3. riket.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/69888498-da10-4b8c-8884-98da10fb8c9a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/69888498-da10-4b8c-8884-98da10fb8c9a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:53</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
+    </item>
     <item>
       <title>USAs demokrati kollapser</title>
       <description><![CDATA[Nå er det klart: USA er ikke lenger et liberalt demokrati. Blir det valg til høsten?]]></description>
@@ -19,16 +245,16 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/efca572d-5593-4d3a-8a57-2d5593bd3a8a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:16</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/naWabR-yMfuVqvfapCrPRQykJ4QCQ_Te9rMMqTuaFqJg.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/SPXDW137HFSNLx1T5nSBrgo5aBLMG7XV8ItgmlAPwk8w.jpg"/>
     </item>
     <item>
-      <title>Det tredje riket 4:12</title>
-      <description><![CDATA[Hvordan kunne et moderne samfunn bli et brutalt regime? Del 4: Arbeit macht frei. Nazistenes arbeidspolitikk og syn på arbeid.]]></description>
+      <title>Arbeid 4:12</title>
+      <description><![CDATA[Å arbeide er en plikt.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cc477083-599b-4f59-8770-83599b6f5963_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cc477083-599b-4f59-8770-83599b6f5963_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:33</itunes:duration>
       <pubDate>Wed, 08 Apr 2026 12:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/noSXaCH0Lavp8p8__YYswwCik5eeht289SPIJIlOJpyQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
     </item>
     <item>
       <title>Før Norge gikk under</title>
@@ -38,7 +264,7 @@ Men i Norge møter han den evige kongen.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/7a37ff07-c205-476e-b7ff-07c205d76ebb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:22</itunes:duration>
       <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZVO8MMGI2GbreIcptiR4wwUYkR77O_1CldvKbknnByGQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/Jo--yzKAp2dRmYfXnjhrVw2gomTBzdjrEkape_1fGXIA.jpg"/>
     </item>
     <item>
       <title>Profeten og den syke gutten</title>
@@ -47,61 +273,16 @@ Men i Norge møter han den evige kongen.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5958ccae-8b38-42a3-98cc-ae8b3892a339_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:27</itunes:duration>
       <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XE7Agi87PFzih6-dHlF2uQPxsEvHkMWZ3h8KHMPoSa3g.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/FKYh5wQzozUAqDbFQYEEiww6HiZg00aruAgaEVfNdzlQ.jpg"/>
     </item>
     <item>
       <title>Hva betyr "Gud er død"?</title>
-      <description><![CDATA[I denne serien forklarer filosof Kaja Melsom kjente ord og utrykk. Hva mente som Nietzsche med "Gud er død"?]]></description>
+      <description><![CDATA[Filosof Kaja Melsom  forklarer kjente utrykk fra filosofihistorien. Hva mente  Nietzsche med "Gud er død"?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/32f1a7e3-fabe-4b71-b1a7-e3fabe8b7191_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/32f1a7e3-fabe-4b71-b1a7-e3fabe8b7191_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:02</itunes:duration>
       <pubDate>Sun, 22 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WAIiHc6oia59blOe_lDsUwHDGTwnP38j9L2GmUrSWSxg.jpg"/>
-    </item>
-    <item>
-      <title>Har vi blitt kjedeligere?</title>
-      <description><![CDATA[Vi kjøper det samme, ser på det samme - og maler hjemmene våre grå.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e592b276-3df1-476f-92b2-763df1976f27_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e592b276-3df1-476f-92b2-763df1976f27_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:38</itunes:duration>
-      <pubDate>Sat, 21 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bytpHcASRd2FxCNLdSD44gBrCj41NejPYJIRlnasZRAQ.jpg"/>
-    </item>
-    <item>
-      <title>Pete Hegseths kamp mot svakhet</title>
-      <description><![CDATA[Militære uten overvektige, speidere uten jenter,  krig uten nåde.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cf6608c6-9fef-4d35-a608-c69fef1d3579_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cf6608c6-9fef-4d35-a608-c69fef1d3579_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:08</itunes:duration>
-      <pubDate>Fri, 20 Mar 2026 11:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JN-ZbjfMzgLjgoexftwqhgSt3CZOcahuWkHFA6ys2ljQ.jpg"/>
-    </item>
-    <item>
-      <title>Bare spre glede - Utilitarisme</title>
-      <description><![CDATA[Ex. Phil med Ole Martin Moen  - del 16]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/34b5e74d-fa65-4a86-b5e7-4dfa658a866d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/34b5e74d-fa65-4a86-b5e7-4dfa658a866d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:40</itunes:duration>
-      <pubDate>Sun, 15 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iNaDaGGrEv3E9sV5W5xelQFK8V84zSEheac2V_31uLbg.jpg"/>
-    </item>
-    <item>
-      <title>Det tredje riket 3:12</title>
-      <description><![CDATA[Hvordan kunne et moderne samfunn bli et brutalt regime? Del 3:  Riksdagen brenner. Opp av asken stiger Det tredje riket]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/e7da9e59-41ba-4889-9a9e-5941ba38898e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/e7da9e59-41ba-4889-9a9e-5941ba38898e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:44</itunes:duration>
-      <pubDate>Wed, 11 Mar 2026 12:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/noSXaCH0Lavp8p8__YYsww-3FeRcCQObZSPIJIlOJpyQ.jpg"/>
-    </item>
-    <item>
-      <title>Freud tilbyr ikke trøst</title>
-      <description><![CDATA[- Men psykoanalysen kan gi deg et friere liv, sier psykoanalytiker]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/4e94b138-2f15-40a3-94b1-382f1510a3e6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/4e94b138-2f15-40a3-94b1-382f1510a3e6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:46</itunes:duration>
-      <pubDate>Sun, 08 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DB4OImGgkzuTvYHi6lDCngJWZLbiiqY_m_h-cuVl67pA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/BMD_SfbIW7eysh6tIpnz-gQqQbX_2IZhquzLBqP5Aavg.jpg"/>
     </item>
   </channel>
 </rss>
