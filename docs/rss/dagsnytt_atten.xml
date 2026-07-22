@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Dagsnytt 18</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Dagsnytt 18. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dagsnytt_atten for mer informasjon.</description>
+    <title>De 30 siste fra Dagsnytt 18</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Dagsnytt 18. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/dagsnytt_atten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Jul 2026 18:40:37 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:36:02 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>15 år siden terroren 22. juli</title>
+      <description><![CDATA[Det har vært minnemarkering på Utøya dagen 15 år etter at 77 mennesker ble drept i et høyreekstremt terrorangrep i Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d3544380-1dfd-411d-9443-801dfdd11d16_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d3544380-1dfd-411d-9443-801dfdd11d16_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 22 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i-PBLYqwnxUZ2xWaUqpX9Ax5B5NVlDEinM66VXcnKWYA.jpg"/>
+    </item>
     <item>
       <title>Olaf Tufte er død</title>
       <description><![CDATA[Norges store ro-legende Olaf Tufte (50) gikk bort tirsdag.]]></description>
@@ -101,6 +110,177 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 08 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rpP0Ob1lqZBlT5-hXIR46QWBvfyGEghkSDbGb_q67haw.jpg"/>
+    </item>
+    <item>
+      <title>- Døgnåpen skjenking bør gjøres permanent</title>
+      <description><![CDATA[Suksessen med VM-reglene setter fart i debatten om skjenking av alkohol på utesteder]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NCldpuTZR6iEt-5cdACzJg76vMU2SM2dJdJmfVu-ZfmA.jpg"/>
+    </item>
+    <item>
+      <title>VM-skandale</title>
+      <description><![CDATA[Donald Trump ringte FIFA-presidenten og fikk opphevet suspensjonen av USAs toppscorer Folarin Balogun.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce920a12-c82b-4333-920a-12c82b1333b5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 06 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9gvDKTey7Smhq9FB747kgAd6MXDg_r8jaiK1XVl03bRA.jpg"/>
+    </item>
+    <item>
+      <title>Stor spenning før Nato-toppmøte i Ankara</title>
+      <description><![CDATA[Donald Trump legger press på de andre medlemslandene før ministere i Nato-alliansen møtes i Tyrkia neste uke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/09c8843a-8248-4116-8884-3a8248e1160c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/09c8843a-8248-4116-8884-3a8248e1160c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Fri, 03 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xzo1hxd60YDHhkvoA4dpfwYC04vNYyc0J9CBSl2CjOwA.jpg"/>
+    </item>
+    <item>
+      <title>Omfattende angrep på Kyiv i natt</title>
+      <description><![CDATA[Minst 17 personer drept i russiske rakett- og droneangrep.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KaLj16efxZCPTAItDTL6iQjFotZ24Lmox-phqO8Lll8w.jpg"/>
+    </item>
+    <item>
+      <title>Dagen derpå</title>
+      <description><![CDATA[Norge brøt ut i folkefest etter gårsdagens seier mot Elfenbenskysten. Hva ligger bak den vanvittige feiringen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9d4f0353-8bca-426b-8f03-538bcab26b59_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9d4f0353-8bca-426b-8f03-538bcab26b59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tjLViYj-9EhkIyzRB6olDwXLqjco32XpD1hAZ5T9qBLQ.jpg"/>
+    </item>
+    <item>
+      <title>Advarer før VM-folkefest</title>
+      <description><![CDATA[Kraftig øking i elsparkesykkel-ulykker. Akuttmottakene venter en travel natt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/b04e087e-8f73-41b4-8e08-7e8f73a1b499_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/b04e087e-8f73-41b4-8e08-7e8f73a1b499_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Tue, 30 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rGAUz2PbkX0VkuYRK4eddwquWcwbBJRJcNjqBDbKh9Ew.jpg"/>
+    </item>
+    <item>
+      <title>Er Forsvaret godt nok rustet?</title>
+      <description><![CDATA[Tidligere hærsjef advarer om et økende sprik mellom politiske ambisjoner og militære realiteter i Forsvaret. Forsvarssjefen er uenig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/4bed5168-f470-4740-ad51-68f470a74065_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/4bed5168-f470-4740-ad51-68f470a74065_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Mon, 29 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zDmKGw-hsZnxROyb-SuZaQEKxwrcn_bDN0aLSjQ2seAQ.jpg"/>
+    </item>
+    <item>
+      <title>Norge møter Frankrike i VM</title>
+      <description><![CDATA[Den siste kampen i gruppespillet i årets VM i fotball spilles i Boston.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/cddb4551-9c8d-4f8c-9b45-519c8d7f8cea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Fri, 26 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oU2kh4gs4Sr-bopdQ28FVQWJgoNIlUX8IdleH9uL-wbA.jpg"/>
+    </item>
+    <item>
+      <title>Jordskjelv i Venezuela</title>
+      <description><![CDATA[Myndighetene har erklært unntakstilstand etter to kraftige jordskjelv. Dødstallet fryktes å bli svært høyt, og redningsarbeidere jobber på spreng for å redde mennesker ut av ruinene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3a836c05-5b7e-4f55-836c-055b7e4f5560_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 25 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NJm-JEYB8F6ONumyP_Ua0A2on-1-4n3wQdCtOZlzI67g.jpg"/>
+    </item>
+    <item>
+      <title>Reaksjoner på Skattekommisjonens rapport</title>
+      <description><![CDATA[Stoltenbergs skattekommisjon vil senke skattenivået i Norge med inntil 23 milliarder kroner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/bf6b1150-1ae8-4c8f-ab11-501ae84c8fa3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/bf6b1150-1ae8-4c8f-ab11-501ae84c8fa3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 24 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tpvJmJBW6cOY41KbsL7GIw0qsMA6O7YGPH9xQnyai1_A.jpg"/>
+    </item>
+    <item>
+      <title>Tror på norsk ro-suksess</title>
+      <description><![CDATA[Den norske roingen i VM går verden rundt. Sosiolog mener det kan gi suksess også for norsk reiseliv og eksportbransjen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/33e98b8b-f7f8-460e-a98b-8bf7f8560e1a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/33e98b8b-f7f8-460e-a98b-8bf7f8560e1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 23 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zY4v6sVpFm__8V0tIBwo3geNwwFEVT30rQQdzkqa7W1A.jpg"/>
+    </item>
+    <item>
+      <title>Starmer går av</title>
+      <description><![CDATA[Keir Starmer varslet i dag at han trekker seg som partileder. Han fortsetter som statsminister fram til partiet har valgt en ny leder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2ff7cd0c-ff57-4f46-b7cd-0cff57bf46b9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2ff7cd0c-ff57-4f46-b7cd-0cff57bf46b9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yma0rg6rrmGADUhIPgTfggVYgTGPfJ0-eBgxThf4Qraw.jpg"/>
+    </item>
+    <item>
+      <title>Arbeiderpartiet vil ha KI ut av skolen</title>
+      <description><![CDATA[Det er som å prøve å snu klokken tilbake i tid, mener teknolog.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a7071412-dc7b-4a29-8714-12dc7bea297a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a7071412-dc7b-4a29-8714-12dc7bea297a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nv0SU1kDaZRyaQ4G_wnpjgk7q6j3LgMWi2SG-8txhxZA.jpg"/>
+    </item>
+    <item>
+      <title>Norges Bank: Renta holdes uendret</title>
+      <description><![CDATA[Norges Bank varsler likevel renteøkning til høsten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/0febb099-c45e-4949-abb0-99c45ea949ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0febb099-c45e-4949-abb0-99c45ea949ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 18 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L3HXLn0FBf0TIbbzgfAbcg7SXREIpIO0vLD9pgmNCLyQ.jpg"/>
+    </item>
+    <item>
+      <title>Kronprinsesse Mette-Marit er lungetransplantert</title>
+      <description><![CDATA[Operasjonen har så langt vært vellykket, opplyser leger ved Rikshospitalet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/7703b34e-c580-4709-83b3-4ec5801709c7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/7703b34e-c580-4709-83b3-4ec5801709c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9GYnp9tq6qRpvtft8flARwn53dM_To1s0Fe5eCRFySLw.jpg"/>
+    </item>
+    <item>
+      <title>Norges første VM-kamp på 28 år</title>
+      <description><![CDATA[Herrelandslaget møter Irak i Boston i natt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/fef0019d-5066-4f17-b001-9d50665f172f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fef0019d-5066-4f17-b001-9d50665f172f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:50</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PAdYjlDTvi1PtG8kuPx5CQYIVpmqQKrq8UBoJyxrfgpg.jpg"/>
+    </item>
+    <item>
+      <title>Høiby anker dommen</title>
+      <description><![CDATA[Høiby dømt til fire års fengsel i Oslo tingrett i dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:57</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gZ3VgX4wV7vsKOX-5AfBHA_xfS5FsGxlMYtm1bvrbpGw.jpg"/>
+    </item>
+    <item>
+      <title>SpaceX på børs</title>
+      <description><![CDATA[I dag gikk SpaceX på børs og interessen er enorm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/355d7d96-1039-4581-9d7d-961039c581c7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/355d7d96-1039-4581-9d7d-961039c581c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eD6VtR1840JnADxP7nmOjAkdm9rM2AAy1Lir3rqPVduA.jpg"/>
+    </item>
+    <item>
+      <title>Klart for VM-fest</title>
+      <description><![CDATA[I kveld sparkes fotball-VM i gang når Mexico tar i mot Sør-Afrika i åpningskampen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c4a7b6c9-f920-447f-a7b6-c9f920947f64_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c4a7b6c9-f920-447f-a7b6-c9f920947f64_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hOn3h_7EUaCqSBrcCFl0Vg8P6ZWw_thS9NAAdtgjdHPQ.jpg"/>
     </item>
   </channel>
 </rss>
