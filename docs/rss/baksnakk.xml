@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Baksnakk</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Baksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baksnakk for mer informasjon.</description>
+    <title>De 30 siste fra Baksnakk</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Baksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/baksnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:41:41 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:57:03 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    <item>
+      <title>Bæsj i pissoaret, sugemerke og en elendig date</title>
+      <description><![CDATA[Milie har fått svar fra utestedet der hun bæsjet i pissoaret...]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/240847b6-8e11-4420-8847-b68e11d42002_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/240847b6-8e11-4420-8847-b68e11d42002_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:46</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
     <item>
       <title>Utestenging, stygge bilder og støvler på stranda</title>
       <description><![CDATA[Hva gjør man med en venninne som lager dårlig stemning og utestenger?
@@ -120,6 +129,213 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/fab6c236-498c-4995-b6c2-36498c2995f7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>50:02</itunes:duration>
       <pubDate>Fri, 19 Jun 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Viktoria Sade Karlsen, KI-kjæreste og skeiv slang</title>
+      <description><![CDATA[SADÉ SÅKLART er gjest i dagens episode! 
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/df769482-b892-4bf2-b694-82b8920bf248_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/df769482-b892-4bf2-b694-82b8920bf248_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:11</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Leirskole, sexting og «gjett hvem»</title>
+      <description><![CDATA[Sofie får endelig dele lore fra da hun var på leirskole.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/7805cea4-e05f-4920-85ce-a4e05f9920e3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/7805cea4-e05f-4920-85ce-a4e05f9920e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:35</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Sommer-starterpack, midtskill og singlet-protest</title>
+      <description><![CDATA[Endelig er den her: Sofies sommer-starterpack!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/876f25b7-062d-44e3-af25-b7062d24e39e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/876f25b7-062d-44e3-af25-b7062d24e39e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:05</itunes:duration>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Brent hår, hyttetraumer og hvete i klitten</title>
+      <description><![CDATA[Sofie har aldri før vært så gira over et spørsmål.
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/e18e74f3-a986-422e-8e74-f3a986e22e38_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e18e74f3-a986-422e-8e74-f3a986e22e38_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Fotball-VM og konkurranse i å ha det verst</title>
+      <description><![CDATA[Hva er egentlig greit, og ikke greit, å gjøre under fotball-VM?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/e0c89cb1-3c36-4588-889c-b13c36d588ca_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e0c89cb1-3c36-4588-889c-b13c36d588ca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:21</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Bikini-forbud, MAFS og trua med brødkniv</title>
+      <description><![CDATA[Kjæresten til en backer liker ikke at hun bruker bikini på stranda.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/9e228a08-9c11-477c-a28a-089c11577c77_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/9e228a08-9c11-477c-a28a-089c11577c77_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:43</itunes:duration>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Milies nye stil, kroppshår og «er det utroskap?»-lek</title>
+      <description><![CDATA[Milie har fått helt ny stil!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/33e75907-23e3-4473-a759-0723e3447385_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/33e75907-23e3-4473-a759-0723e3447385_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:15</itunes:duration>
+      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Mogging, 17. mai og rating av valgfag</title>
+      <description><![CDATA[Sofie og Zara gir deg en subjektiv guide til valgfag på ungdomsskolen.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/cde2dfb3-d0d5-4f2c-a2df-b3d0d57f2c24_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/cde2dfb3-d0d5-4f2c-a2df-b3d0d57f2c24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:36</itunes:duration>
+      <pubDate>Fri, 22 May 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Bunad, hantavirus og hets mot transpersoner</title>
+      <description><![CDATA[Det skal ikke mye til for å fyre opp gjengen denne uka.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/678ed5a8-0a2d-478d-8ed5-a80a2dc78d4c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/678ed5a8-0a2d-478d-8ed5-a80a2dc78d4c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:15</itunes:duration>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Heilt kalas i Kristiansand!</title>
+      <description><![CDATA[Dette er et opptak fra livepodkasten i Kristiansand. Takk til alle som kom!
+Milies sang "KALAS" er ute der du hører musikk!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/5ed3f438-be3e-4108-93f4-38be3e7108ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/5ed3f438-be3e-4108-93f4-38be3e7108ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:28</itunes:duration>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Bursdagssex, moshpit og aldersgrense på SoMe</title>
+      <description><![CDATA[Sofie lagde seg ulovlig bruker på Instagram da hun var 12.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/923a92c8-d2d3-422b-ba92-c8d2d3422b6b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/923a92c8-d2d3-422b-ba92-c8d2d3422b6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:40</itunes:duration>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Utnytting, utringning og rare «cravings»</title>
+      <description><![CDATA[Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/ffc37e11-6420-4a11-837e-1164207a1148_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/ffc37e11-6420-4a11-837e-1164207a1148_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:44</itunes:duration>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Erik Tomter, nødlanding og vifter</title>
+      <description><![CDATA[Vi har besøk av Erik Damsgård Tomter!
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/3ae8b3b3-e1de-4328-a8b3-b3e1de4328e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/3ae8b3b3-e1de-4328-a8b3-b3e1de4328e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:17</itunes:duration>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Lærer på snap, Wikipedia og «Hvem er best til å lyve?»</title>
+      <description><![CDATA[Har Milie kysset ni gutter, eller lyver hun? Og er det greit å ha gruppechat med læreren sin?
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/dd1f5be9-0196-4cb0-9f5b-e901960cb0cf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/dd1f5be9-0196-4cb0-9f5b-e901960cb0cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:56</itunes:duration>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>«Six seven», eskorte og musikk-ick</title>
+      <description><![CDATA[Sofie har oppdaget en ny «six seven»-app, og Milie er lei av klein musikk.
+
+Send oss spørsmål i appen NRK Radio!:)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/797fa2e0-3bc3-4294-bfa2-e03bc3129442_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/797fa2e0-3bc3-4294-bfa2-e03bc3129442_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:12</itunes:duration>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Kritikk, spøkelser og kleine ting i hverdagen</title>
+      <description><![CDATA[Å nyse i offentligheten tyder på null selvkontroll.
+
+Send oss spørsmål i appen NRK Radio!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/3ed63e45-b8e8-46dc-963e-45b8e856dc3e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/3ed63e45-b8e8-46dc-963e-45b8e856dc3e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:21</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Hjemme alene-fest, overvåkning og «slapp av»</title>
+      <description><![CDATA[Milie mener det er greit å si «slapp av» under en krangel.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/96a64d12-9a46-4f18-a64d-129a46af18c1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/96a64d12-9a46-4f18-a64d-129a46af18c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:48</itunes:duration>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Svette hender, skrifteboksen og jenter som slåss</title>
+      <description><![CDATA[Zara har syndet.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/b4f0a275-5ab2-4f15-b0a2-755ab21f15a7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/b4f0a275-5ab2-4f15-b0a2-755ab21f15a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:30</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
+    </item>
+    <item>
+      <title>Pappa, blinklys og konsekvensen av en hvit løgn</title>
+      <description><![CDATA[En liten kommentar førte til år med irritasjon for Zara.
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/4b80af90-00d6-43c8-80af-9000d6b3c801_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/4b80af90-00d6-43c8-80af-9000d6b3c801_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:34</itunes:duration>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>
