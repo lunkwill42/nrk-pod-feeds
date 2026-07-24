@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Jul 2026 06:42:17 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:41:45 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Kjell-Ola Kleiven</title>
+      <description><![CDATA[Da risikoanalytikerens datter fikk leukemi, skjønte han at ikke alt kan risikoanalyseres.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/40503476-6a53-421d-9034-766a53721d92_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/40503476-6a53-421d-9034-766a53721d92_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:16</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zr8obN2PZ491wExovX88ZgbKQ7JrrwHejsCTUYuJh8TA.jpg"/>
+    </item>
     <item>
       <title>Åse Kathrin Vuolab</title>
       <description><![CDATA[Seks år med motgang, risdiett og gjenbrukt snus. Serieskaperen forteller om janteloven og veien til Gullruten.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>39:08</itunes:duration>
       <pubDate>Mon, 22 Jun 2026 06:07:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/52Bm7E8nc0IXcIDLGDGchAvtiNEu-cxM-RdGL2lePVyg.jpg"/>
-    </item>
-    <item>
-      <title>Marstein</title>
-      <description><![CDATA[«Undergrunn»-medlemmet Jo Almaas Marstein, er fasinert av makt – særlig hvordan den alltid korrumperer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/abdd8102-2e9c-47e8-9d81-022e9ca7e89d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/abdd8102-2e9c-47e8-9d81-022e9ca7e89d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:57</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/F5syZhWcXThp_cvY7wjIuwHwW5vBlSOuHJ5ZcREkJTnA.jpg"/>
     </item>
   </channel>
 </rss>

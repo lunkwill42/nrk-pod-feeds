@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 23 Jul 2026 06:41:57 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:41:29 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Ny straffetoll fra USA</title>
+      <description><![CDATA[Og nordmenn er rekordgode på sparing, og vi gir deg svaret på hvorfor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c76c2ac0-4d8e-4aad-ac2a-c04d8eeaadbc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c76c2ac0-4d8e-4aad-ac2a-c04d8eeaadbc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:09</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m2_pQFrOJKrHtGdxkE2F1AUtgVDmlb7QTepqFwmDpXig.jpg"/>
+    </item>
     <item>
       <title>Kan mennesker lage dagslys?</title>
       <description><![CDATA[Og rekordvarme i Europa får konsekvenser.]]></description>
@@ -274,15 +283,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:40</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xloC3ZuBa-CVEuG3CnW9iA0eyiuCuchD-km4VKNxSEfA.jpg"/>
-    </item>
-    <item>
-      <title>Mange flere kvinner fryser ned egg</title>
-      <description><![CDATA[Og det gikk ikke helt veien for Sør-Afrika da de møtte Mexico i åpningskampen i fotball-VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/594cd36b-cf17-4f46-8cd3-6bcf177f46aa_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/594cd36b-cf17-4f46-8cd3-6bcf177f46aa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:15</itunes:duration>
-      <pubDate>Fri, 12 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4kJnZtxVzjzcxC7IMBD7YwLeYYW7A7V35pBnsv95vXLA.jpg"/>
     </item>
   </channel>
 </rss>

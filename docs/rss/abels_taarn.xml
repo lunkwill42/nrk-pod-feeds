@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Jul 2026 17:00:27 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:41:19 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Jubileum! - Det første panelet</title>
+      <description><![CDATA[Hvordan virker barberkrem? Med dette spørsmålet startet historien til Abels tårn for 15 år siden. Bli med på jubileumsfeiringa med en gjenforening av det aller første panelet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BF1Z2J-Qq_O53a5Kizhfuwa5_RG16exSgRidNIzrWhmA.jpg"/>
+    </item>
     <item>
       <title>Er det grenser for kunnskap?</title>
       <description><![CDATA[Inga Strümke er på hjemmebane når hun er med i Abels tårn i Narvik, og svarer på om det finnes en grense for hva vi mennesker kan vite om universet og oss selv. Dessuten spør vi om alt romskrotet kan samle seg til en ny måne og om hvorfor vi enda ikke har fått roboter i hjemmet.]]></description>
@@ -280,15 +289,6 @@ Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente eksper
       <itunes:duration>28:38</itunes:duration>
       <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Håret avslører om du er stressa</title>
-      <description><![CDATA[Det lyver aldri, viser ny forskning. Og geologer bør høre etter når vulkaner snakker sammen. Dessuten, du er neppe tonedøv selv om du kanskje tror det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/124a081a-fc4f-4e38-8a08-1afc4f0e380d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/124a081a-fc4f-4e38-8a08-1afc4f0e380d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:18</itunes:duration>
-      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
     </item>
   </channel>
 </rss>
