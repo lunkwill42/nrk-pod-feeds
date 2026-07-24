@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Fredagspanelet</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Fredagspanelet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fredagspanelet for mer informasjon.</description>
+    <title>De 30 siste fra Fredagspanelet</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Fredagspanelet. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/fredagspanelet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 17 Jul 2026 09:21:32 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:36:33 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>22. juli, nasjonalt samhold og agurknytt</title>
+      <description><![CDATA[Er den falske politiuniformen brukt 22. juli farlig å vise? Har VM-suksessen gitt oss oppblåst selvbilde? Er æraen for agurknytt over?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/2370ba14-eddc-4d50-b0ba-14eddc6d50f0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/2370ba14-eddc-4d50-b0ba-14eddc6d50f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:06</itunes:duration>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Fotball, botox og KI</title>
       <description><![CDATA[Dagens panel består av kommunikasjonsrådgiver og samfunnsdebattant Ida Evita de Leon; forfatter, foredragsholder og mentor Kathrine Aspaas; og journalist i Forskning.no, Nina Kristiansen.]]></description>
@@ -101,6 +110,199 @@ Dagens gjester er forfatter Arne Berggren, kulturredaktør i Klassekampen, Bendi
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/66ae8861-2e92-42d3-ae88-612e92c2d3c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:30</itunes:duration>
       <pubDate>Fri, 15 May 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Kjendiser og skjulte opptak</title>
+      <description><![CDATA[Er det rimelig å betale for å slippe å bli solgt til annonsørene?
+Er det greit for en journalist å gjøre skjulte opptak av folk på pub?
+Flere irriterer seg over at kjendiser fortrenger skuespillere, i alt fra TV-serier, filmer og reality-serier.  Hvis det trekker folk til salen, er det da en god ting?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/a6eca2a4-231d-4866-aca2-a4231d486666_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/a6eca2a4-231d-4866-aca2-a4231d486666_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:33</itunes:duration>
+      <pubDate>Fri, 08 May 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Michael Jackson og kongehuset</title>
+      <description><![CDATA[Dagens panel skal finne ut av følgende:
+Er Kongehuset verdt pengene? 
+Kan du slippe unna med det meste så lenge kunsten din er god nok?
+Er det innafor å tjene penger på krig og død?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/311b5582-8a61-443e-9b55-828a61043e07_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/311b5582-8a61-443e-9b55-828a61043e07_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:14</itunes:duration>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Er du med på bollebonanza?</title>
+      <description><![CDATA[Me får og får - bør me vera meir takksame overfor staten? 
+og  barnebøker og bollekø....det er fredag!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/3942efcb-880a-4d60-82ef-cb880abd6097_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/3942efcb-880a-4d60-82ef-cb880abd6097_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:57</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Fotballmusikk og politisk retorikk</title>
+      <description><![CDATA[Har den politiske retorikken i verden endret seg i retning Trump? 
+Skal myndigheter blande seg inn i hvilke artister festivaler skal ha på plakaten? 
+Trenger hvert land som er kvalifisert til VM, hver sin nye VM-låt, hvert fjerde år? 
+
+Fredagspanelet har svarene og mer til!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/48a7594c-1a6a-48a7-a759-4c1a6a88a793_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/48a7594c-1a6a-48a7-a759-4c1a6a88a793_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:55</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Gjør vi for lite narr av Trump?</title>
+      <description><![CDATA[Sosiale medier, norske landslagsdrakter og Donald Trump.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/0c49dcd0-957d-4702-89dc-d0957df702db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/0c49dcd0-957d-4702-89dc-d0957df702db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:15</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Hvor mange oscarstatuetter får Affeksjonsverdi?</title>
+      <description><![CDATA[Oscar, Timothee Chalamet - og innholdstips til lærerne]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/def0cf1d-fdc6-4c6c-b0cf-1dfdc61c6cb7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/def0cf1d-fdc6-4c6c-b0cf-1dfdc61c6cb7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:03</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Passer Høiby i teatret?</title>
+      <description><![CDATA[Debatten går i dag  om teater om Høiby, skolegudstjenester før jul - 
+og reklame på ChatGPT]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/5761bedf-a2be-426e-a1be-dfa2bef26eeb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/5761bedf-a2be-426e-a1be-dfa2bef26eeb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:15</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Vin på plastflaske?</title>
+      <description><![CDATA[FrP fnyser av plastflaskevin,
+er det for mange litteraturpriser -  og
+må vi regulere turisttettheten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/a6c5b529-87c4-472d-85b5-2987c4072d57_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/a6c5b529-87c4-472d-85b5-2987c4072d57_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:54</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Forsnakkelse, KI-serie og fotball vs. musikk</title>
+      <description><![CDATA[Bør idrettsutøvere holde seg til å snakke utelukkende om sportslige prestasjoner under intervjuer i mesterskap?  Kommer tv-serier laget av KI noen gang til å bli bedre enn de mennesker lager? Bør norske festivaler tilpasse seg kampprogrammet til Fotball-vm?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/a37f2d43-3ca4-4883-bf2d-433ca4d883b5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/a37f2d43-3ca4-4883-bf2d-433ca4d883b5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:17</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Medietrykk, Epstein og karaoke</title>
+      <description><![CDATA[Tar mediene hensyn til det totale medietrykket, fikk konspirasjonsteoretikerne rett om Epstein og hva er den ultimate karaokelåta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/29fc35f0-98a7-4104-bc35-f098a761043f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/29fc35f0-98a7-4104-bc35-f098a761043f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:55</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>TV-titting, monarkiet og gamlisungdom</title>
+      <description><![CDATA[Savner du å se tv sammen med noen? Tror dere Ingrid blir dronning en gang? Er dere overraska over at unge blir mer tradisjonelle?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/e2f9115e-d11a-40ee-b911-5ed11a70eefe_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/e2f9115e-d11a-40ee-b911-5ed11a70eefe_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:44</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 08:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Jonas,  Rybak og Brooklyn Beckham</title>
+      <description><![CDATA[En nyhetsmessig krevende og innholdrik uke går mot slutten - 
+Hva betyr det egentlig at Jonas er streng, at Rybak deltar i MGP og at Brooklyn Beckham bryter med mamma og pappa?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/bcdea5ae-d245-4cbe-9ea5-aed2455cbe0d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/bcdea5ae-d245-4cbe-9ea5-aed2455cbe0d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:04</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Fredspris til Trump, kjendisreality og 2016</title>
+      <description><![CDATA[Trumps nye gullmedalje, det blir mer kjendisreality i 2026 og hva trender på skjermen vi burde legge fra oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/5c67618f-f5dc-49e9-a761-8ff5dc79e9b1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/5c67618f-f5dc-49e9-a761-8ff5dc79e9b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:41</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 08:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Skjermer, trumpspråk og KI-musikk</title>
+      <description><![CDATA[Burde vi fjerne all skjerm fra skolen? 
+Er vi for feige i møte med Donald Trump?
+Er KI-musikk like bra som musikk laget av ekte mennesker?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/10c6041c-154d-43cc-8604-1c154d43cc7d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/10c6041c-154d-43cc-8604-1c154d43cc7d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:21</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Nyttårstalene, bøker og Oscar</title>
+      <description><![CDATA[Har kongen og statsministeren truffet godt med talene i år?
+
+Kan det vær en god start på et forfatterskap å betale 100 000 kroner for å få ordene sine mellom to permer?
+
+Vil Joakim Triers "Affeksjonsverdi" vinne en eller flere Oscar-statuetter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/c7fa9fd9-b5d2-4e2a-ba9f-d9b5d22e2a40_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/c7fa9fd9-b5d2-4e2a-ba9f-d9b5d22e2a40_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:42</itunes:duration>
+      <pubDate>Fri, 02 Jan 2026 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Bruktgaver, Jane Austen og 80-tallsmote</title>
+      <description><![CDATA[Ville du synes det er bra hvis alle gavene du får er brukt? Bør menn lese Jane Austen for å kommer mer i kontakt med følelsene sine?  Er 80-talls luksus noe dere ønsker velkommen til 2026?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/3b88b9cd-5a66-4521-88b9-cd5a664521ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/3b88b9cd-5a66-4521-88b9-cd5a664521ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:38</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Skjerm, Høyre, fotball og øl</title>
+      <description><![CDATA[Andre-skjerms-seeing, Høyres nye ledelse og øl på pub under fotball-VM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/087c6e0e-eb45-4fe5-bc6e-0eeb45ffe5b9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/087c6e0e-eb45-4fe5-bc6e-0eeb45ffe5b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:58</itunes:duration>
+      <pubDate>Fri, 12 Dec 2025 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Regler på stortinget, norsk filmindustri og countrymusikk</title>
+      <description><![CDATA[Er reglene på Stortinget for strenge? Taper vi når de største norske produksjonene lages av internasjonale strømmegiganter? Og har country endelig blitt stuerent i Norge?
+
+Dagens Fredagspanel diskuterer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/f21e20aa-9aaf-4a23-9e20-aa9aaf5a238f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/f21e20aa-9aaf-4a23-9e20-aa9aaf5a238f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:01</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 09:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
+    <item>
+      <title>Black Friday, stygt &amp; pent - og fly i pysjamas</title>
+      <description><![CDATA[Burde det være forbudt og fly i pysjamas? Og ville de bodd i Bjørn Dæhli-designede hus?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/b138bacf-7edb-4fb0-b8ba-cf7edb8fb0fc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/b138bacf-7edb-4fb0-b8ba-cf7edb8fb0fc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:42</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 09:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
