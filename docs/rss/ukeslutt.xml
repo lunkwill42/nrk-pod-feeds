@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Ukeslutt</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Ukeslutt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ukeslutt for mer informasjon.</description>
+    <title>De 30 siste fra Ukeslutt</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Ukeslutt. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/ukeslutt for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 18 Jul 2026 13:50:18 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 14:04:36 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Obligatorisk husforsikring?</title>
+      <description><![CDATA[Etter storbrannen i Drammen vurderer nå regjeringen om husforsikring skal være et krav når man kjøper hus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/8da62618-00f4-4fe6-a626-1800f4afe6f3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/8da62618-00f4-4fe6-a626-1800f4afe6f3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:07</itunes:duration>
+      <pubDate>Sat, 25 Jul 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jpqnDHDdA9hl7WX1bk7iKQ8AMO4FdNmtQweqHZGhy4eQ.jpg"/>
+    </item>
     <item>
       <title>Når ferieshoppingen tar av</title>
       <description><![CDATA[Hva tar vi med hjem fra ferie?]]></description>
@@ -101,6 +110,179 @@
       <itunes:duration>01:10:53</itunes:duration>
       <pubDate>Sat, 16 May 2026 15:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nGSZf9vVcwp87LPPj1QP9QxTmVfwozEPJA18l24OBgVg.jpg"/>
+    </item>
+    <item>
+      <title>Innesperret på skip</title>
+      <description><![CDATA[Folk og mannskap er innesperret på cruiseskip og i Hormuzstredet. Hvordan er det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/7fef6827-cee2-4481-af68-27cee2c48155_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/7fef6827-cee2-4481-af68-27cee2c48155_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:54</itunes:duration>
+      <pubDate>Sat, 09 May 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kFqmMSxvqT5xkk_N58ZsbADoxZtkSZigterR5GkJ98GA.jpg"/>
+    </item>
+    <item>
+      <title>Farvel, eller på gjensyn Karpe?</title>
+      <description><![CDATA[Karpe gir seg etter 28 år i musikkbransjen. Når blir det comeback?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/7ce29148-ae8c-4862-a291-48ae8ce86295_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/7ce29148-ae8c-4862-a291-48ae8ce86295_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:57</itunes:duration>
+      <pubDate>Sat, 02 May 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8_BTLQq0TykYxoPP3SBBUAqtci9B8iK8kNC-6BI0aDfQ.jpg"/>
+    </item>
+    <item>
+      <title>Å følge drømmen</title>
+      <description><![CDATA[Ronny og Tuva vil åpne hotell i Hellas, men er det så lurt å følge drømmen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/57fbf9d4-24cd-4a35-bbf9-d424cd2a357a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/57fbf9d4-24cd-4a35-bbf9-d424cd2a357a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:56</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/L8s7OFr12gNhs8KokxyygQXNX0FASqqsLjrZRZMY03pA.jpg"/>
+    </item>
+    <item>
+      <title>Hvor lurt er det å krangle med paven?</title>
+      <description><![CDATA[Donald Trump og Pave Leo har nok en gang havnet i klammeri denne uken. Men hvor lurt er det å krangle med paven, hvis man ser det i et historisk lys?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:08</itunes:duration>
+      <pubDate>Sat, 18 Apr 2026 14:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9pCbp6aNwXKbxa4VTcrNlgXdGX4GoPxiv9L9Q6Kqi18A.jpg"/>
+    </item>
+    <item>
+      <title>Snakk til meg!</title>
+      <description><![CDATA[Harry Hole har satt ny standard for hvordan vi svarer når noen ringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/a346ce04-f19c-490b-86ce-04f19ce90b81_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/a346ce04-f19c-490b-86ce-04f19ce90b81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:05</itunes:duration>
+      <pubDate>Sat, 11 Apr 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1a45GVO7m0naRJqQ7RtaIA90Wm8rU7V9m_Tze0OtS-bw.jpg"/>
+    </item>
+    <item>
+      <title>Neste stopp: Månen</title>
+      <description><![CDATA[Christina Koch, Victor Glover, Reid Wiseman og Jeremy Hansen blir menneskene som har vært lengst unna Jorden noensinne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/c0d6e9b1-b7ab-41a4-96e9-b1b7abb1a4e3_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/c0d6e9b1-b7ab-41a4-96e9-b1b7abb1a4e3_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:22</itunes:duration>
+      <pubDate>Sat, 04 Apr 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mBQEJPdzxgbSgzRLwR8BpwY-r1ZY7w0y9aV8nH7nsMNQ.jpg"/>
+    </item>
+    <item>
+      <title>Fjerner drivstoffavgifter</title>
+      <description><![CDATA[Hvordan blir samarbeidet på venstresiden etter dette?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/a25acffa-cf61-413f-9acf-facf61013f1a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/a25acffa-cf61-413f-9acf-facf61013f1a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:23</itunes:duration>
+      <pubDate>Sat, 28 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/THTRR7fIXZlA58Mx2Pzu2gElWmuDnc75MxlmBXjd-w6g.jpg"/>
+    </item>
+    <item>
+      <title>Brannen i Ålesund</title>
+      <description><![CDATA[Terrengbrannen i Ålesund vekker gamle minner om storbrannen i 1904, men dette ble en historie om beredskap som fungerte, sier redaktør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/aa486130-bab8-4e7e-8861-30bab80e7ef1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/aa486130-bab8-4e7e-8861-30bab80e7ef1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:51</itunes:duration>
+      <pubDate>Sat, 21 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnZodRC-Zo3PhdoIeRWc5gWY9oNe0KjoSQobOFmC1Yfw.jpg"/>
+    </item>
+    <item>
+      <title>Hva er et fat med olje?</title>
+      <description><![CDATA[Oljeprisen får mye oppmerksomhet for tida. 
+Hva er egentlig et fat olje? Hvor mye skjønner vi av nyhetene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/12521343-b11a-440d-9213-43b11a440d2c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/12521343-b11a-440d-9213-43b11a440d2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:39</itunes:duration>
+      <pubDate>Sat, 14 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jK-GrqTiBRCs4iohHhYVUAb03s3lTgOz4FBQg3efYQlA.jpg"/>
+    </item>
+    <item>
+      <title>Rampestrek med samtykke</title>
+      <description><![CDATA[Ola fra Fosen ble utsatt for ring på spring med samtykkelapp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/6c0b4c41-ec68-4499-8b4c-41ec686499a5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/6c0b4c41-ec68-4499-8b4c-41ec686499a5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:05</itunes:duration>
+      <pubDate>Sat, 07 Mar 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ss99aIDisFgryIsdpLdd8wrLMwxRsgNl3V5ZxI1ENfCg.jpg"/>
+    </item>
+    <item>
+      <title>Hva ville Erik Bye sagt?</title>
+      <description><![CDATA[Erik Bye ville fylt 100 år i morgen. 
+Våre gjester mener vi kunne trengt han nå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/b11aed9a-9a09-4bfa-9aed-9a9a090bfaa7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/b11aed9a-9a09-4bfa-9aed-9a9a090bfaa7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:09</itunes:duration>
+      <pubDate>Sat, 28 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BHn-nh-AIR7MyVxerLKj4Q6mk0YzBlm_NXZRmFiPK9aw.jpg"/>
+    </item>
+    <item>
+      <title>Kongen har bursdag!</title>
+      <description><![CDATA[Kong Harald og 58 andre personer i Norge fyller 89 år idag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/a8a04194-28cb-43a7-a041-9428cbb3a75c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/a8a04194-28cb-43a7-a041-9428cbb3a75c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Sat, 21 Feb 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ECexJ_RMjuZ_y8Tm24V3fQhVD6wvMew6arwfjlKxWQ9A.jpg"/>
+    </item>
+    <item>
+      <title>Nå er hun stjerna</title>
+      <description><![CDATA[Ine Eriksen Søreide tar over som Høyres partileder, hvordan kommer hun til å styre skuta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/bbf148c7-aedf-4012-b148-c7aedfc012c6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/bbf148c7-aedf-4012-b148-c7aedfc012c6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:55</itunes:duration>
+      <pubDate>Sat, 14 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5IHgAXFujE3eoaf01PxFFgN_XDSSr-j-mp_OWznIo7hg.jpg"/>
+    </item>
+    <item>
+      <title>OL er i gang</title>
+      <description><![CDATA[En teatersjef og en Italia-kjenner evaluerer åpningsseremonien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/c2ccc131-324b-4fd2-8cc1-31324bdfd272_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/c2ccc131-324b-4fd2-8cc1-31324bdfd272_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:38</itunes:duration>
+      <pubDate>Sat, 07 Feb 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UZQD2vj0S4SIVQSdMPXz4wz31Os-9_eeULAyEazFeAIw.jpg"/>
+    </item>
+    <item>
+      <title>Røde protestluer i Minnesota</title>
+      <description><![CDATA[Den røde nisseluen var et symbol på motstandskamp under andre verdenskrig i Norge. Nå dukker den opp igjen i Minnesota som protest mot ICE.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/64823607-c76a-48c3-8236-07c76a48c3c5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/64823607-c76a-48c3-8236-07c76a48c3c5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:10</itunes:duration>
+      <pubDate>Sat, 31 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1ac2sLcAZjK5azqSLtGyAwNlzGLhF7Jr40C8CcgD1U7g.jpg"/>
+    </item>
+    <item>
+      <title>Macrons Top Gun-briller</title>
+      <description><![CDATA[Hvorfor kjørte Frankrikes president Emmanuel Macron pilotbriller i Davos? Og hvorfor ser han så kul ut med de?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/6b8828fb-1124-4443-8828-fb11243443f2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/6b8828fb-1124-4443-8828-fb11243443f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:42</itunes:duration>
+      <pubDate>Sat, 24 Jan 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aqVMxbLIzaTmVBuPBBmf8QQqi9btD-zq3DY-Mvj9Mu5Q.jpg"/>
+    </item>
+    <item>
+      <title>Nå er hun internasjonalt moteikon</title>
+      <description><![CDATA[Renate Reinsve tar steget fra rød løper og filmlerret, og ut i motehusene. Og hvem kan trykke på atomknappen i Russland?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/4e02aad9-67e4-4a72-82aa-d967e4ca728d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/4e02aad9-67e4-4a72-82aa-d967e4ca728d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:54</itunes:duration>
+      <pubDate>Sat, 17 Jan 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/keMwZwLrleiCNFU-itAdsgkwG_cF2SDX4-52P8cfBq9w.jpg"/>
+    </item>
+    <item>
+      <title>Alle øyne på Grønland</title>
+      <description><![CDATA[Toppolitikeren Rasmus Jarlov har snakka Danmarks sak i medier verden rundt denne uka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/ac5ea3c9-1c15-47d1-9ea3-c91c15e7d170_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/ac5ea3c9-1c15-47d1-9ea3-c91c15e7d170_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:42</itunes:duration>
+      <pubDate>Sat, 10 Jan 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/y5eYE6otOWTqtPa_cvqoKw-UTOQU5-sCSD3WxCa8fKIg.jpg"/>
+    </item>
+    <item>
+      <title>Håpet for framtida</title>
+      <description><![CDATA[Snart er det fire år siden Russlands fullskala invasjon av Ukraina. Ved inngangen til et nytt år, har den ukrainske familien Dubograi ett nyttårsønske. Men er det håp for fred?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/787cf049-870e-4e31-bcf0-49870ece310d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/787cf049-870e-4e31-bcf0-49870ece310d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:20</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 15:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OXHnI4dpgtoj2kF75E9R0gkGZAtO4DHZZp1oyDeqT1QA.jpg"/>
     </item>
   </channel>
 </rss>
