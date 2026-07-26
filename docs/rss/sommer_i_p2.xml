@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:31:31 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 07:11:18 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Marie Simonsen</title>
+      <description><![CDATA[Hun ble kidnappet som 16-åring og overlevde jentetur blant drapsmenn. Nå tar hun et oppgjør med falske fasader på sosiale medier.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/80ce5461-f81f-4b12-8e54-61f81f2b12ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/80ce5461-f81f-4b12-8e54-61f81f2b12ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:46</itunes:duration>
+      <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f9Ghnnncb3PpazNt3wBhAgqjqhPmns_15dZukNCsdy9w.jpg"/>
+    </item>
     <item>
       <title>Kristin Oudmayer</title>
       <description><![CDATA[Hun vokste opp med en pappa som drakk, og sommeren var høytid for brutte løfter. Da fant hun brødskiver og trygghet hos naboene.]]></description>
@@ -40,7 +49,7 @@
       <itunes:image href="https://gfx.nrk.no/qbSTJGBc3KZ7KZzkz4AG6g4iuw9evhxel2AvdzoidnzQ.jpg"/>
     </item>
     <item>
-      <title>Åse Kathrin Vuolab</title>
+      <title>Åse Kathrin Vuolab - samisk v</title>
       <description><![CDATA[Guhtta jagi vuosttebiekkas, risadiehttain ja snuvssaidguin maid máŋgii šattai geavahit. Dá lea ráidodahkki muitalus.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/902fc266-8cd1-46d2-afc2-668cd1f6d2db_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/902fc266-8cd1-46d2-afc2-668cd1f6d2db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -272,15 +281,6 @@
       <itunes:duration>36:00</itunes:duration>
       <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/N_ltkFjU6iNYOaNWLg5r3gm-scLr2gYxI1HRBWDhtDLw.jpg"/>
-    </item>
-    <item>
-      <title>Finn Schjøll</title>
-      <description><![CDATA[Han ble kritisert av unge skeive, men elsket av foreldrene deres. Veien til pride var lang for hele Norges  «Blomster-Finn».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/78a3fad2-a7d5-4429-a3fa-d2a7d5942948_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/78a3fad2-a7d5-4429-a3fa-d2a7d5942948_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:58</itunes:duration>
-      <pubDate>Sat, 27 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kfAc5OQ9KZbqJ3zH8Xa96gyXgJV3n4R2TcllThARf3VQ.jpg"/>
     </item>
   </channel>
 </rss>
