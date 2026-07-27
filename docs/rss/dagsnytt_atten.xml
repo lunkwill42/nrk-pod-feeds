@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 17:54:04 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 18:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:57:14 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Polsk kvinne drept i Berlin-terror</title>
+      <description><![CDATA[Lørdag kjørte en bil inn i en folkemengde i Berlin, og drepte en kvinne og skadet 29 personer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9bd3b14d-3a7e-4dcf-93b1-4d3a7e5dcfa2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9bd3b14d-3a7e-4dcf-93b1-4d3a7e5dcfa2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:59</itunes:duration>
+      <pubDate>Mon, 27 Jul 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v3FItpIz5NyDqYwJcNON8Qg87DYHmCQ3qOKpLrXJT4FA.jpg"/>
+    </item>
     <item>
       <title>USA innfører ny toll på norske varer</title>
       <description><![CDATA[Norge får en tollsats på 12,5 prosent - 10 prosent for EU. Regjeringen kaller tollen urimelig.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>58:50</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PAdYjlDTvi1PtG8kuPx5CQYIVpmqQKrq8UBoJyxrfgpg.jpg"/>
-    </item>
-    <item>
-      <title>Høiby anker dommen</title>
-      <description><![CDATA[Høiby dømt til fire års fengsel i Oslo tingrett i dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08766521-1222-4e4f-b665-211222ee4fa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:57</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gZ3VgX4wV7vsKOX-5AfBHA_xfS5FsGxlMYtm1bvrbpGw.jpg"/>
     </item>
   </channel>
 </rss>
