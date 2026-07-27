@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Strid – de norske borgerkrigene</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Strid – de norske borgerkrigene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/strid for mer informasjon.</description>
+    <title>De 30 siste fra Strid – de norske borgerkrigene</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Strid – de norske borgerkrigene. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/strid for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 20 Jul 2026 04:08:13 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 04:09:37 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Riksmøtet</title>
+      <description><![CDATA[Skittentøyet luftes på et stort møte mellom rikets klokeste og mektigste. Håkon må fylle ut CV-en og går til angrep på Vermland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/7415b7a2-22a7-45ca-95b7-a222a715ca80_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/7415b7a2-22a7-45ca-95b7-a222a715ca80_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:40</itunes:duration>
+      <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Røverne</title>
       <description><![CDATA[Mammaen til Håkon må ta en for laget. Akkurat i det det ser ut som at baglerne er beseiret reises opprørsfanen igjen på Østlandet.]]></description>
@@ -100,6 +109,177 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/73d9a80e-de3a-4cf2-99a8-0ede3a1cf209_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:54</itunes:duration>
       <pubDate>Tue, 06 Jan 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Biskopene </title>
+      <description><![CDATA[To fiender av Sverre velges til biskop. Kirken seiler opp som Sverres desidert verste og farligste fiende. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/db1aadce-af09-4b04-9aad-ceaf09eb04de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/db1aadce-af09-4b04-9aad-ceaf09eb04de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Dynastiet </title>
+      <description><![CDATA[Sverre feirer seieren med et taktisk bryllup. Bergenserne setter fra seg ølkruset og plukker opp vinglasset.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/ece580ce-0623-4fb2-a580-ce06239fb256_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/ece580ce-0623-4fb2-a580-ce06239fb256_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Likfisket  </title>
+      <description><![CDATA[Sverre går i krigen med verdens største vikingskip og møter Magnus i et slag som bare én av dem kommer levende fra.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/b2d5acde-3498-4434-95ac-de3498f43415_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/b2d5acde-3498-4434-95ac-de3498f43415_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Forhandlingen</title>
+      <description><![CDATA[Etter flere harde kamper kommer Sverre til Magnus med et forslag. En mann ved navn Eirik dukker opp og påstår å være Sverres bror.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/d59122ab-df9b-40e6-9122-abdf9be0e662_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/d59122ab-df9b-40e6-9122-abdf9be0e662_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:50</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Fallet</title>
+      <description><![CDATA[Sverre snubler i et avgjørende øyeblikk, men får uventet hjelp av både en mystisk tåke og av Erling Skakkes overdrevne selvtillit. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/74977d21-9d27-42dc-977d-219d2762dc30_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/74977d21-9d27-42dc-977d-219d2762dc30_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:53</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Geriljakrigen</title>
+      <description><![CDATA[Birkebeinerne leker katt og mus med Erling og Magnus. Sverre begynner for alvor å konstruere fortellingen om seg selv.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/023c6b1b-d8a3-4728-bc6b-1bd8a3772800_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/023c6b1b-d8a3-4728-bc6b-1bd8a3772800_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:56</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Drømmene </title>
+      <description><![CDATA[En ganske dårlig færøysk prest finner ut at han har en annen far enn han trodde. Det blir begynnelsen på et politisk jordskjelv.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/a67e3af1-67e2-401e-be3a-f167e2d01eea_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/a67e3af1-67e2-401e-be3a-f167e2d01eea_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Familiekonflikten</title>
+      <description><![CDATA[Kristin får nok av Erling og viser ham fingeren. En gjeng som kaller seg birkebeinere ødelegger for Erling og Magnus.   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/c9455f5d-d538-4604-855f-5dd53836043f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/c9455f5d-d538-4604-855f-5dd53836043f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Sat, 03 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Kroningen</title>
+      <description><![CDATA[Erling bruker alle triks i boka for å få has på kongen. Erling og Magnus gjør en avtale med kirken som skal få store konsekvenser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/37af3406-eae4-4021-a63f-b627fa371647_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/37af3406-eae4-4021-a63f-b627fa371647_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:46</itunes:duration>
+      <pubDate>Sun, 07 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Liket</title>
+      <description><![CDATA[Kristin får en kjip oppgave, men snur den til sin fordel. Erling Skakke lager teater i Bergen, og får sønnen kronet til konge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/fcf1c766-7c33-4594-81ff-71364ce4bfd6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/fcf1c766-7c33-4594-81ff-71364ce4bfd6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Sun, 31 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Isen</title>
+      <description><![CDATA[En gutt med veldig brede skuldre lager bråk langs Mørekysten. Erling og Gregorius krangler om hvem som er best på krigføring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/c82a40ab-7477-4d8f-a66e-c50a5df09ed8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/c82a40ab-7477-4d8f-a66e-c50a5df09ed8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:32</itunes:duration>
+      <pubDate>Sun, 24 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Gjerrigknarken</title>
+      <description><![CDATA[Gregorius med gullhjelmen blir reddet av Kristin Kongsdatter. Øystein betaler prisen for å være for gjerrig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/64c3b26c-491b-46f0-852b-1089a0952b3f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/64c3b26c-491b-46f0-852b-1089a0952b3f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:34</itunes:duration>
+      <pubDate>Sun, 17 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Gullhjelmen</title>
+      <description><![CDATA[En metoo-sak splitter freden mellom de tre brødrene. To av dem rotter seg sammen, men blir satt på plass av en fyr med gullhjelm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/37a788a1-899e-4baa-a693-582f65af0d3a_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/37a788a1-899e-4baa-a693-582f65af0d3a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:01</itunes:duration>
+      <pubDate>Sun, 10 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Tenåringskongene</title>
+      <description><![CDATA[- Hei, jeg heter Øystein og er broren deres! Tenåringskongene kjemper for å bevare freden, men blir testosteronnivået for høyt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/ab437884-61b1-46c8-b6ae-bb89a62d14b4_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/ab437884-61b1-46c8-b6ae-bb89a62d14b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Sun, 03 Aug 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Barnekongene</title>
+      <description><![CDATA[Sigurd Slembe henter Magnus fra klosteret, men drar selv på ferie. To veslevoksne konger går til krig mot onkelen og fetteren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/35120dbb-4f77-40d3-b7a1-0d03d1f294d2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/35120dbb-4f77-40d3-b7a1-0d03d1f294d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:43</itunes:duration>
+      <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Veddemålet</title>
+      <description><![CDATA[Et kinky dødsfall kaster om på kortene, og dronning Ingerid må handle raskt. Nykommeren Sigurds kamp om tronen begynner dårlig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/7c522def-31ba-4f02-b1c5-bd3d9cca3799_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/7c522def-31ba-4f02-b1c5-bd3d9cca3799_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:51</itunes:duration>
+      <pubDate>Sun, 20 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Jernlenken</title>
+      <description><![CDATA[Partyprinsen Magnus slutter å være partyprins, og får et annet tilnavn. Harald må finne en vei rundt Bergens katapulter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/b9ea2e20-0511-4585-b895-6fd7e6ce1ac3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/b9ea2e20-0511-4585-b895-6fd7e6ce1ac3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:30</itunes:duration>
+      <pubDate>Sun, 13 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
+    <item>
+      <title>Danskene</title>
+      <description><![CDATA[Magnus inngår en allianse for å ta knekken på onkel Harald, men driter seg ut. Hærene barker sammen i Bohuslen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/970b2d0f-2107-43e4-948d-f964cc79da08_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/970b2d0f-2107-43e4-948d-f964cc79da08_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:49</itunes:duration>
+      <pubDate>Sun, 06 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    </item>
+    <item>
+      <title>Partyprinsen</title>
+      <description><![CDATA[Partyprinsen Magnus prøver å vippe onkel Harald av pinnen. Og er kongen genial, eller splitter pine gal – eller begge deler?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/f46d14ee-ae1b-4d3a-9e1b-f41740b03538_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/f46d14ee-ae1b-4d3a-9e1b-f41740b03538_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:33</itunes:duration>
+      <pubDate>Sun, 29 Jun 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>
