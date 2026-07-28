@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Jul 2026 04:09:22 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:42:58 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 18: Isbit i rumpa</title>
+      <description><![CDATA[Markus putter isbiter i rumpa, den ekle onkel Anders kommer innom og synes vi egentlig det er gøy å døgne?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/e5a187b4-d804-40d1-a187-b4d80420d1c1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/e5a187b4-d804-40d1-a187-b4d80420d1c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:05</itunes:duration>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 17: Tante Rita er drita</title>
       <description><![CDATA[Vi prøver oss på engelsk, Tante Rita ringer og er full og vi benytter anledningen til å snakke om juletre.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>52:02</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/S2XhJbqIEki0LhilHdCevgcs-Hml6WbUw5ASmJI6bgUQ.jpg"/>
-    </item>
-    <item>
-      <title>Lukter råttent egg i studio?</title>
-      <description><![CDATA[Regjeringa altså Johansen er dagens vikar. Det blir stand-up, pustekonkuranse og vi svarer på om man alltid kan bruke regnjakke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/bf40df78-9930-4775-80df-789930677570_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/bf40df78-9930-4775-80df-789930677570_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:09</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zx6LfklPKd7wLALWWFYBkAEFAKDx7WmXC3teulXRFKOw.jpg"/>
     </item>
   </channel>
 </rss>
