@@ -1722,7 +1722,7 @@ const feeds = [
     "id": "verdiboersen",
     "title": "De 30 siste fra Verdibørsen",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "vg3",
