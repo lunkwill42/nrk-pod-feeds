@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 27 Jul 2026 07:54:56 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 07:46:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:47:31 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Fenomenet Haaland: Slik jobber de i kulissene</title>
+      <description><![CDATA[Erling Braut Haaland har gjort kommersiell suksess utenfor banen. Kan VM-eventyret ta han til nye høyder?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b78c2a66-49b2-4bb5-8c2a-6649b24bb514_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b78c2a66-49b2-4bb5-8c2a-6649b24bb514_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:32</itunes:duration>
+      <pubDate>Wed, 29 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VDM4C0GAhqLWrx5ClA0AmA9ncoEKZlcJccVqHtaS7POQ.jpg"/>
+    </item>
     <item>
       <title>Slukt av flammehavet: Infernoet time for time</title>
       <description><![CDATA[Katastrofebrannen i Krokstadelva er den største i Norge på 100 år.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>17:24</itunes:duration>
       <pubDate>Fri, 05 Jun 2026 11:28:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/G5P9OE8I6RUcshuPRZVcWwt3b8Le1ZW-CLsG7sIve6Gw.jpg"/>
-    </item>
-    <item>
-      <title>Friends-stjernens død: Nå er fem personer dømt</title>
-      <description><![CDATA[Hva skjedde da Matthew Perry døde av overdose, og hvem er ansvarlig for det som skjedde?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f55b9b77-8c42-4465-9b9b-778c42b465bd_3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f55b9b77-8c42-4465-9b9b-778c42b465bd_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:59</itunes:duration>
-      <pubDate>Fri, 05 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wCxX4eZC6BltLji6CYtZLwdCF79kVVle66Q6xRYAizzg.jpg"/>
     </item>
   </channel>
 </rss>

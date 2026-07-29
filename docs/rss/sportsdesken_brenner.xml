@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Sportsdesken brenner</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Sportsdesken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sportsdesken_brenner for mer informasjon.</description>
+    <title>De 25 siste fra Sportsdesken brenner</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 25 episodene fra podkasten Sportsdesken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sportsdesken_brenner for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 22 Jul 2026 06:42:55 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:47:52 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Kyss fra John Arne Riise xxx</title>
+      <description><![CDATA[John Arne Riise starter fotballskole i Dubai, FIFA avviser VM-favorisering og Ingrid Landmark Tandrevold har kanskje lest feil bok.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/b5b0b6e1-ed4a-4c4a-b0b6-e1ed4a8c4af4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/b5b0b6e1-ed4a-4c4a-b0b6-e1ed4a8c4af4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:19</itunes:duration>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>Pauseunderholdning fra helvete</title>
       <description><![CDATA[Nora runder av VM med et pauseshow ingen ba om, Norge har herjet i Tour de France og friidretten vil ha færre ristende rumper i slow motion.]]></description>
@@ -101,6 +110,136 @@ Og hvorfor har NFF byttet ut de sorte søppelsekkene med viking-pels nå rett f�
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/42a9c5f9-fb2d-423b-a9c5-f9fb2d823b4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:27</itunes:duration>
       <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Cupfinalen: Fram med daiene!</title>
+      <description><![CDATA[Sportsdesken er preget av en hes Mia etter cupfinalen mellom Brann og Bodø/Glimt: –Jeg gråt og jeg tisset på meg!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/adacbcec-3975-4d6d-acbc-ec39751d6d3f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/adacbcec-3975-4d6d-acbc-ec39751d6d3f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:55</itunes:duration>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>FIFA-presidenten dreit seg ut</title>
+      <description><![CDATA[Vi analyserer FIFA-president Gianni Infantinos famøse fredsforsøk fra scenen, Haalands pils-reklame og pornotribunen på Skeid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/512e789d-7c0e-46ac-ae78-9d7c0e16acb5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/512e789d-7c0e-46ac-ae78-9d7c0e16acb5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:51</itunes:duration>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Premier Leagues såreste hodebunn</title>
+      <description><![CDATA[Ståle Solbakken var klinisk død i sju minutter og det eneste han husket da han våknet var Mia Hundvin! 
+Sportsdesken brenner sjekker også Magnus Carlsen iPad-skam og Premier Leagues såreste hodebunn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/570ca030-b854-4e71-8ca0-30b8545e7188_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/570ca030-b854-4e71-8ca0-30b8545e7188_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:21</itunes:duration>
+      <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Fotballpøbler stjal pappas hellige laken</title>
+      <description><![CDATA[Blir kodeks brutt når voksne menn stjeler hverandres malesaker? Eller når en gjeng voksne menn kaller seg Lounge Boyz med Z?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/055c7827-759f-4c81-9c78-27759f8c816c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/055c7827-759f-4c81-9c78-27759f8c816c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:05</itunes:duration>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Kjapt ned i splitt og rett ut i stjerne</title>
+      <description><![CDATA[—Verden raste sammen, men Lunde reddet baller. 
+Nora synger tidenes hyllest til tidenes beste keeper, Katrine Lunde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/894cdb81-46aa-4d98-8cdb-8146aa3d9891_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/894cdb81-46aa-4d98-8cdb-8146aa3d9891_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:48</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Bemerkelsesverdig overvektig</title>
+      <description><![CDATA[— Jeg vil heller bli kalt feit, støgg, overvektig, flodhest.
+Espen og gjengen diskuterer hvor grensen går når tyske medier omtaler overvektig fotballspiller.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/630083d2-93f8-4805-8083-d293f8980514_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/630083d2-93f8-4805-8083-d293f8980514_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:57</itunes:duration>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Alle kvinner kan være menn</title>
+      <description><![CDATA[Vi har opplevd den største skandalen i norsk skisport noen sinne. Transpersoner i idrett er vår tids snowboardere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/725d7036-ebed-4c4b-9d70-36ebedac4b13_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/725d7036-ebed-4c4b-9d70-36ebedac4b13_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:09</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Ta alt for alle og jeg plyndrer deg</title>
+      <description><![CDATA[Det nye slagordet til landslaget er vel egentlig det vikingene sa før de plyndra og voldtok?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/0d8f40dc-f086-4563-8f40-dcf08645632f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/0d8f40dc-f086-4563-8f40-dcf08645632f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:49</itunes:duration>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Tromme tribuner i Bergen</title>
+      <description><![CDATA[Supporterne kjemper for stillhet på Brann stadion: – Det er jo ingen som heier på Brann fordi de er gode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/96f1bb4f-6839-4618-b1bb-4f6839b618c5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/96f1bb4f-6839-4618-b1bb-4f6839b618c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:08</itunes:duration>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Hvem overlever Eliteserien?</title>
+      <description><![CDATA[Hvorfor gråt RBK-treneren hver dag i et halvår? Espen rapporterer fra Canada i bar overkropp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/c4a9b691-1727-4494-a9b6-911727b494e6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c4a9b691-1727-4494-a9b6-911727b494e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:27</itunes:duration>
+      <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Syndsforlatte gule kort</title>
+      <description><![CDATA[Sportsdesken diskuterer ukas mest absurde fotballnyhet og Nora får vite at hennes Glimt-låt er tragisk drithumor]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/bd31a421-a4d5-432e-b1a4-21a4d5432ec4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/bd31a421-a4d5-432e-b1a4-21a4d5432ec4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:58</itunes:duration>
+      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor mangler O-en i Paralympics?</title>
+      <description><![CDATA[Arrivederci, Italia!  Bodø/Glimt slo Inter, og er videre i Champions League! Men hvordan ville Nora ha reagert hvis de røk ut?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/c354f815-7e77-45e0-94f8-157e77f5e098_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c354f815-7e77-45e0-94f8-157e77f5e098_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:07</itunes:duration>
+      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>OL: Det grines altså så mye!</title>
+      <description><![CDATA[Premiere! Mia Hundvin og gjengen snakker om noen av de absurde hendelsene fra OL så langt. 
+Og hva må Klæbo gjøre for å miste tilliten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/593e999e-50aa-406f-be99-9e50aa406f0a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/593e999e-50aa-406f-be99-9e50aa406f0a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:55</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Sportsdesken brenner</title>
+      <description><![CDATA[En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå. Premiere onsdag 18. februar:]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/0407ad7e-8a6d-4d2f-87ad-7e8a6d8d2faf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/0407ad7e-8a6d-4d2f-87ad-7e8a6d8d2faf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     </item>
   </channel>
