@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:31:07 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:20:59 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Kjendisens norske koloni</title>
+      <description><![CDATA[Ole Bull drar til Amerika for å bygge en norsk koloni. Det blir en økonomisk katastrofe for verdensstjernen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/2b27a822-97cd-41b5-a7a8-2297cde1b579_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/2b27a822-97cd-41b5-a7a8-2297cde1b579_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:12</itunes:duration>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Studieturen til sosialismen fyrtårn</title>
       <description><![CDATA[Tron Øgrim er så misfornøyd med sosialdemokratiet at han legger ut på en ellevill reise til sosialismens fyrtårn i Europa.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/gamle_greier/9ed54541-e4a5-4bff-a219-fd804d078de5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:07</itunes:duration>
       <pubDate>Fri, 09 Aug 2024 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
-    </item>
-    <item>
-      <title>Den glemte krigsreporteren (2:2)</title>
-      <description><![CDATA[Mens bombene faller, skriver krigsreporteren Greta Grepp om krigens glemte ofre – kvinner og barn. Samtidig herjer en krig i hennes egen kropp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/86b2a670-b90c-4255-823c-7666e1353cc1_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/86b2a670-b90c-4255-823c-7666e1353cc1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:38</itunes:duration>
-      <pubDate>Wed, 07 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
     </item>
   </channel>
