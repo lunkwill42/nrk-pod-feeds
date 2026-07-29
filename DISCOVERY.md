@@ -1,4 +1,7 @@
 # Podcast Discovery Changelog  
+### 2026-07-29  
+- Updated podcast 'Både Erlend og Steinar ' (`baade_erlend_og_steinar_`)  
+- Updated podcast 'Nittiatten' (`nittiatten`)  
 ### 2026-07-28  
 - Updated podcast 'Verdibørsen' (`verdiboersen`)  
 ### 2026-07-27  
