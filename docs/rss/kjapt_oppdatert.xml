@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:47:16 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:43:36 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Har vi slutta å lytte til kroppen?</title>
+      <description><![CDATA[Og funker det å klage på eksamenskarakteren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/41196343-a105-4a0d-9963-43a1053a0d95_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/41196343-a105-4a0d-9963-43a1053a0d95_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:47</itunes:duration>
+      <pubDate>Thu, 30 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8clJaPO8HHNsvVovNxE9egC8sVcadMe6dOmxUvmhrcmw.jpg"/>
+    </item>
     <item>
       <title>FIFA vil selge deler av fotball-VM</title>
       <description><![CDATA[Og flere er døde etter et jordskjelv i Japan.]]></description>
@@ -274,15 +283,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>06:07</itunes:duration>
       <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FUY0XAPb8wUc10PkACqF-wHyV5WEaIhUO6BrAJwVaFAw.jpg"/>
-    </item>
-    <item>
-      <title>Får vi mer å rutte med i sommer?</title>
-      <description><![CDATA[I dag bestemmer Norges bank om renta skal opp eller ikke.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/92435529-0085-4db2-8355-290085ddb2ac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/92435529-0085-4db2-8355-290085ddb2ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:39</itunes:duration>
-      <pubDate>Thu, 18 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZoUeAOpsER1esPvpqZxbgGrcMBfV53niJlGI8_YTfgA.jpg"/>
     </item>
   </channel>
 </rss>
