@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:47:31 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 04:45:23 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Seriemorderen på Long Island: Avslørt av pizzaeske</title>
+      <description><![CDATA[I over 20 år herjet skikkelsen kjent som "The Long Island Ripper" i USA. Nå er saken løst.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5d68c932-23a1-4ad2-a8c9-3223a10ad25a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5d68c932-23a1-4ad2-a8c9-3223a10ad25a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:07</itunes:duration>
+      <pubDate>Fri, 31 Jul 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gNxWs0x80Lh8HaIZGUgKRQ6PHI6axjClYYpdFnE_zg9Q.jpg"/>
+    </item>
     <item>
       <title>Fenomenet Haaland: Slik jobber de i kulissene</title>
       <description><![CDATA[Erling Braut Haaland har gjort kommersiell suksess utenfor banen. Kan VM-eventyret ta han til nye høyder?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>23:02</itunes:duration>
       <pubDate>Mon, 08 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vcsq_ERLOQTml4GMul71kQgmOJuiyLhouWIOq43fPJyQ.jpg"/>
-    </item>
-    <item>
-      <title>Kronprinsessa si helse: No ventar ho på nye lunger</title>
-      <description><![CDATA[Kronprinsesse Mette-Marit er satt på venteliste for lungetransplantasjon. Kva betyr det?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6a159648-bbec-4386-9596-48bbec938639_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6a159648-bbec-4386-9596-48bbec938639_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:24</itunes:duration>
-      <pubDate>Fri, 05 Jun 2026 11:28:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G5P9OE8I6RUcshuPRZVcWwt3b8Le1ZW-CLsG7sIve6Gw.jpg"/>
     </item>
   </channel>
 </rss>

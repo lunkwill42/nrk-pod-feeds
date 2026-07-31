@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 24 Jul 2026 06:41:19 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 04:44:53 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Jubileum! - De unges panel</title>
+      <description><![CDATA[Tårnets 15-årsjubileum fortsetter med det aller ferskeste panelet. En radio-aktiv seanse der vi blant annet stiller det store spørsmålet: Vil KI noensinne kunne forstå kvinnen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg.jpg"/>
+    </item>
     <item>
       <title>Jubileum! - Det første panelet</title>
       <description><![CDATA[Hvordan virker barberkrem? Med dette spørsmålet startet historien til Abels tårn for 15 år siden. Bli med på jubileumsfeiringa med en gjenforening av det aller første panelet.]]></description>
@@ -280,15 +289,6 @@ Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente eksper
       <itunes:duration>57:29</itunes:duration>
       <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1dFYEXeIIii4apyIIPpaMQX6NZkgDuBh841A1zgeF7AA.jpg"/>
-    </item>
-    <item>
-      <title>Bermudatriangelet over hodet ditt</title>
-      <description><![CDATA[Forskere har funnet stedet astronauter må unngå. En ny vitenskap basert på lukten av gamle bøker er funnet opp. Og vet vi nå hvorfor flytende magma er bra for livet]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b21f4cf5-7c96-4df0-9f4c-f57c962df04b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b21f4cf5-7c96-4df0-9f4c-f57c962df04b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:38</itunes:duration>
-      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Kompass</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Kompass. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kompass for mer informasjon.</description>
+    <title>De 30 siste fra Kompass</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Kompass. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/kompass for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 02 Jun 2026 16:55:05 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jun 2026 06:06:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 04:45:14 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 06:13:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
+    <item>
+      <title>Hun er åpen om Alzheimer</title>
+      <description><![CDATA[Marie Aakre har fått beskjeden ingen vil ha: Du har Alzheimer. Som sykepleier har hun kjempet for å være modig og ærlig. Hvor lett er det når det handler om en selv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/afbc5aa9-3813-4156-bc5a-a938134156b2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/afbc5aa9-3813-4156-bc5a-a938134156b2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:21</itunes:duration>
+      <pubDate>Thu, 30 Jul 2026 06:13:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZazSDrJjhLxZe33xTeiJ2AF9KO9DpBvgXkXytuNnqCmw.jpg"/>
+    </item>
     <item>
       <title>Kan sladder være nyttig?</title>
       <description><![CDATA["Hun har lagt på seg". "Tror du han er utro?". Vi har slarva siden tidenes morgen, men hvorfor MÅ vi snakke om folk bak ryggen deres? Og kan sladder ha noe positivt ved seg?]]></description>
@@ -101,6 +110,177 @@
       <itunes:duration>19:42</itunes:duration>
       <pubDate>Fri, 06 Feb 2026 13:03:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9xwTFLCtILY92tPBiogSGgsxexJnFyUnk9fvId-YvqDg.jpg"/>
+    </item>
+    <item>
+      <title>Mitt indre kompass: Åsa Linderborg</title>
+      <description><![CDATA[Åsa Linderborg er kjent som en av Skandinavias sterkeste stemmer  og var tidlig ute med å kritisere #metoo, men samtidig gjorde hun et grovt overtramp selv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/51edebe0-53fd-4eb1-adeb-e053fddeb134_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/51edebe0-53fd-4eb1-adeb-e053fddeb134_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:38</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r-uJg3jJD2nOpVsGG5dA4ACgQCJghAotJYOpfL62f0_w.jpg"/>
+    </item>
+    <item>
+      <title>Hvem var Harald Blåtann?</title>
+      <description><![CDATA[Og har han noe med Bluetooth å gjøre? Hør historien om mannen som som kristnet Danmark, og la grunnlaget for en liten stormakt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/4feea18d-04ca-4f13-aea1-8d04cacf1389_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/4feea18d-04ca-4f13-aea1-8d04cacf1389_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:04</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 13:07:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yZmKn-zLllbJedWYIVOvEAVvTTRJrSR7YHgJYCYQx0og.jpg"/>
+    </item>
+    <item>
+      <title>Hvor kommer hotell-biblene fra?</title>
+      <description><![CDATA[Før var det fast inventar på alle hotellrom. Nå forsvinner de mer og mer. Men hvem var det som la hotell-biblene der i utgangspunktet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/ffb56712-45f8-4fe7-b567-1245f80fe71c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/ffb56712-45f8-4fe7-b567-1245f80fe71c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:48</itunes:duration>
+      <pubDate>Tue, 20 Jan 2026 13:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TpQ-dsHfWm2udgrwvGggvA3ZvTSGa49rLiDhAqMIv4mw.jpg"/>
+    </item>
+    <item>
+      <title>Mitt indre kompass: Christian Roger Beharie</title>
+      <description><![CDATA[Han vokste opp i en familiemenighet med gudstro i sang og ord. Men da Beharie flyttet hjemmefra forsvant også Gud for ham. Hvordan er det å miste noe som har vært en så stor del av livet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/c53a1fe0-3bbd-4328-ba1f-e03bbdb32855_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/c53a1fe0-3bbd-4328-ba1f-e03bbdb32855_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:19</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 14:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VVBIT-yd8YYxO501Y2Q3YwM-K4JZSV1EL8fsaEg-7CxA.jpg"/>
+    </item>
+    <item>
+      <title>Kan vi tulle med tabuer?</title>
+      <description><![CDATA[Kortvokste, dødelig syke og blinde er blant de som blir tøyset med i en ny tv-serie. Men kan alle tabuer tulles med? Og kan det være sunt at noe er tabu?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/9a41fd6d-a62b-4ce1-81fd-6da62b1ce1d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/9a41fd6d-a62b-4ce1-81fd-6da62b1ce1d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:53</itunes:duration>
+      <pubDate>Tue, 13 Jan 2026 13:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V81hbc1mHax5jHX9SCuwWgHqYEyocpZ3EJCkSS6oaUmA.jpg"/>
+    </item>
+    <item>
+      <title>Skrev han en håndbok for diktatorer?</title>
+      <description><![CDATA[Niccolò Machiavelli ble selv offer for en maktsyk hersker. Etterpå skrev 1500-tallsfilosofen sin storverk "Fyrsten".]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/3163b287-d438-4fb6-a3b2-87d4385fb6d8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/3163b287-d438-4fb6-a3b2-87d4385fb6d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:02</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 13:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c6gppBcpF7mIhiKoFin13gQWuEtJXvtkIcsxkrec2TbA.jpg"/>
+    </item>
+    <item>
+      <title>Tobi vil bli omtalt som de/dem</title>
+      <description><![CDATA[Tobi Pfeil kjenner seg mellom kjønnene og vil ikke bli kalt han eller hun, men de eller dem. Hvorfor skaper personlig pronomen så mye debatt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/fcb8ef11-d142-4926-b8ef-11d1424926fc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/fcb8ef11-d142-4926-b8ef-11d1424926fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:58</itunes:duration>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UNlxTKMXHLT0H7ZBhBSc0wiNqM8b0fOHoGktUd61QyRA.jpg"/>
+    </item>
+    <item>
+      <title>Mitt indre kompass: Arman Vestad</title>
+      <description><![CDATA[Hva skjer med verdiene når man går fra å være kjent som pistolmannen fra Molde, en narkoman og en brutal bølle til å bli en helt vanlig familiefar?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/333548e4-6b49-40d9-b548-e46b4960d9d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/333548e4-6b49-40d9-b548-e46b4960d9d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:15</itunes:duration>
+      <pubDate>Tue, 06 Jan 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ru2HXXivQ3HXDW_-urQfmQ1MGwxoNKA_M01VEHWDK6lw.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Hva nå, Jesus? (10:10)</title>
+      <description><![CDATA[Vi hopper til voksen-Jesus som er desperat etter å frelse folk. Han er overbevist om at apokalypsen er nær og tror det å følge ham vil være redningen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/a194ae43-10bf-4e99-94ae-4310bfee99de_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/a194ae43-10bf-4e99-94ae-4310bfee99de_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:01</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Hvem var De tre vise menn? (9:10)</title>
+      <description><![CDATA[Kaspar, Melkior og Baltasar; hvor kom de fra og hvem var de? Og var det egentlig en supernova de navigerte etter for å finne Jesus?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/4bc14349-c2ad-4fb6-8143-49c2addfb6fa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/4bc14349-c2ad-4fb6-8143-49c2addfb6fa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:28</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Engler og den himmelske hærskaren (8:10)</title>
+      <description><![CDATA[Hvorfor ble gjeterne på marken så redde da en engel dukket opp? Vi ser på engelens rolle i Juleevangeliet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/871fa952-cb42-49d2-9fa9-52cb4259d2b8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/871fa952-cb42-49d2-9fa9-52cb4259d2b8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 13:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Fødsel uten smerter og blod (7:10)</title>
+      <description><![CDATA[Visste du at Maria ble jomfrusjekket etter fødselen? Dette står skrevet i et av fortellingene som ikke kom med i Bibelen. Vi zoomer inn på Jesu fødsel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/4f3cacb3-d381-4f0e-bcac-b3d3815f0e63_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/4f3cacb3-d381-4f0e-bcac-b3d3815f0e63_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:35</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: I Maria og Josefs fotspor (6:10)</title>
+      <description><![CDATA[Hvordan var det for Maria å gå høygravid fra Nasaret til Betlehem? Hvis det er sant, kan vi bare bøye oss i ørkenstøvet, alle mann. En av etappene går fra Jeriko og er på tusen høydemeter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/f1b8cd16-a51e-4094-b8cd-16a51e509413_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/f1b8cd16-a51e-4094-b8cd-16a51e509413_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:10</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 11:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Maria og mirakelet (5:10)</title>
+      <description><![CDATA[Hvordan ble egentlig Maria gravid med Gud? Hvorfor ble akkurat hun valgt ut, og hva syntes hun om hele opplegget med å bli mora til Messias?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/c968cf42-3e9f-44ac-a8cf-423e9f74ac41_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/c968cf42-3e9f-44ac-a8cf-423e9f74ac41_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:43</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Sladder om Maria og Josef (4:10)</title>
+      <description><![CDATA[Hvem var familien Josefsen, egentlig? Hvor kom Josef fra, og var han en usedvanlig edel type, som trodde på Maria da hun sa at det var Gud som var faren?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/0755925b-8678-4fce-9592-5b8678bfceca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/0755925b-8678-4fce-9592-5b8678bfceca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:50</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 09:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Augustus - Romerrikets Gerhardsen? (3:10)</title>
+      <description><![CDATA[Vi  har nå har kommet frem til Juleevangeliets to sterke menn, keiser Augustus og landshøvding Kvirinius. Hvem var disse to herrene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/4298e493-808c-4e17-98e4-93808c9e17aa_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/4298e493-808c-4e17-98e4-93808c9e17aa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:35</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Messias-feber (2:10)</title>
+      <description><![CDATA[Hvordan var stemninga i Midtøsten rundt år null, egentlig? Var det litt sånn Life of Brian-tilstander, - stod det en frelserkandidat på hvert hjørne på den tida?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/97ac7e1c-1040-4618-ac7e-1c1040d6187d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/97ac7e1c-1040-4618-ac7e-1c1040d6187d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:45</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 07:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Juleevangeliet forklart: Romerriket " i de dager" (1:10)</title>
+      <description><![CDATA[I Kompass sin adventskalender dyp-analyserer vi Juleevangeliet. Hva er sant? Hva er dikting? Var det virkelig folketelling i år null? Og hvordan ble egentlig Maria gravid?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/bd1e91dd-1622-445c-9e91-dd1622145c96_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/bd1e91dd-1622-445c-9e91-dd1622145c96_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:12</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
+    </item>
+    <item>
+      <title>Fikk hjernerystelse - oppdaget verdien av stillhet</title>
+      <description><![CDATA[Gard Løkke (26) brukte sju måneder på å lære seg å like stillhet etter at han fikk hjernerystelse. Nå vil han dele verdien av stillhet med flere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/a5251a11-56db-42ba-a51a-1156db32bafd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/a5251a11-56db-42ba-a51a-1156db32bafd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:35</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eNV6vo_p4bRAFvCST6LSRAo0QYX5Be4MSwegSiJlKZaQ.jpg"/>
     </item>
   </channel>
 </rss>
