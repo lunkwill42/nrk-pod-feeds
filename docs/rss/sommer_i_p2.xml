@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 31 Jul 2026 04:45:40 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:42:46 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ.jpg"/>
+    <item>
+      <title>Selma Ibrahim</title>
+      <description><![CDATA[Verda rasa saman då ho måtte avlyse draumebryllaupet. Hadde ho tatt feil om kjærleiken heilt sidan ho fekk sitt første kyss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/b8c1b58b-7238-41ad-81b5-8b7238c1ad88_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/b8c1b58b-7238-41ad-81b5-8b7238c1ad88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:58</itunes:duration>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QjtzSpvHIbkL6q9RmhksSQw9BID28VS4nbYEw2izq_Mg.jpg"/>
+    </item>
     <item>
       <title>Per Kjerstad</title>
       <description><![CDATA[Som usikker gutunge med cowboyboots og rumpetaske, måtte han handtere mannsrolla på ei verhard øy i nord.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>32:58</itunes:duration>
       <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PyPqsG6efDfpcVeQaa3G3At4t_ChRN-gsAjZZPwI1jYw.jpg"/>
-    </item>
-    <item>
-      <title>Sigrid Moldestad</title>
-      <description><![CDATA[Ho spelar «djevelens instrument», og vil heidre dei kvinnene som blei tvinga til å slutte. Men har folkemusikken ei framtid?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sommer_i_p2/ffa18f88-a41c-479f-a18f-88a41c379f2c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sommer_i_p2/ffa18f88-a41c-479f-a18f-88a41c379f2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:48</itunes:duration>
-      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LtR-fZeTd3FTHKbKoo9n7gTKBrWQNZ6jPe9nFTKw3BzQ.jpg"/>
     </item>
   </channel>
 </rss>

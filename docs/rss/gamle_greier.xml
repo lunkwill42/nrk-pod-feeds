@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 29 Jul 2026 15:20:59 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:42:31 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Fanget i Stalins jerngrep</title>
+      <description><![CDATA[Ida Jørstad lever i frykt under «Den store terroren» i Sovjetunionen. Snart havner hun på Stalins liste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/097014b1-6473-41a6-b014-b16473f1a6e0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/097014b1-6473-41a6-b014-b16473f1a6e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:08</itunes:duration>
+      <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Kjendisens norske koloni</title>
       <description><![CDATA[Ole Bull drar til Amerika for å bygge en norsk koloni. Det blir en økonomisk katastrofe for verdensstjernen.]]></description>
@@ -40,7 +49,7 @@
       <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
     </item>
     <item>
-      <title>Kjendispatorens sexskandale</title>
+      <title>Kjendispastorens sexskandale</title>
       <description><![CDATA[Pastor Halvorsen har sterke meninger om ekteskap og kjønnsroller, men setter selv hele karrieren på spill på et hotellrom i Porsgrunn.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/c9c5eca2-a2e3-4c43-85ec-a2a2e38c4361_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/gamle_greier/c9c5eca2-a2e3-4c43-85ec-a2a2e38c4361_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/gamle_greier/bb1be41a-0968-403c-ac4d-de7fdcac6056_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>21:49</itunes:duration>
       <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
-    </item>
-    <item>
-      <title>Spiontragedien på Arnøya (1:4)</title>
-      <description><![CDATA[Når fiskeren Alf Jørgensen i 1943 involverer seg i motstandsarbeid, vet han enda ikke at den livsfarlige spionasjen skal sette hele familien i fare.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/9ed54541-e4a5-4bff-a219-fd804d078de5_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/9ed54541-e4a5-4bff-a219-fd804d078de5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:07</itunes:duration>
-      <pubDate>Fri, 09 Aug 2024 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
     </item>
   </channel>
