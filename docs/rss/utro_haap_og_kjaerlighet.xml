@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:43:15 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 04:44:11 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Problemmas</title>
+      <description><![CDATA[Panelet får besøk av komiker Kevin Kildal og dedikerer en hel episode til å svare på lytternes innsendte «problemmas».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/cf726fb7-9077-4ad9-b26f-b79077bad9ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/cf726fb7-9077-4ad9-b26f-b79077bad9ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:36</itunes:duration>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zk67A7ymRVXwba6_ckwRAAKes6cD7YpzJMPLUDxwafFQ.jpg"/>
+    </item>
     <item>
       <title>Sandra Lyng: Å bryte mønsteret</title>
       <description><![CDATA[Sandra Lyng forteller om hvordan hun har lært å bryte mønster knyttet til selvsabotasje og det å velge feil relasjoner.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/04b877ab-22ea-4943-b877-ab22ea3943a2_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/04b877ab-22ea-4943-b877-ab22ea3943a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:09</itunes:duration>
+      <itunes:duration>55:16</itunes:duration>
       <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZBv6z7-b42sT4GfBVMbduQOhMbU23bW_sHpfTRouNnlA.jpg"/>
     </item>
@@ -272,15 +281,6 @@
       <itunes:duration>41:14</itunes:duration>
       <pubDate>Sun, 17 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
-    </item>
-    <item>
-      <title>Tinashe Williamson: Parterapi</title>
-      <description><![CDATA[Tinashe Williamson forteller om møtet med ektemannen og hvordan parterapi har hjulpet dem gjennom et langvarig forhold.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2535071a-89ee-44e8-b507-1a89ee54e8c1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2535071a-89ee-44e8-b507-1a89ee54e8c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:20</itunes:duration>
-      <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SCyQtPt_ehNIAyoqiARYaAy7HNKIJPD4y4EiUMPLgScw.jpg"/>
     </item>
   </channel>
 </rss>
