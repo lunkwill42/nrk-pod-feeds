@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 31 Jul 2026 04:45:07 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:50:02 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Rundt 130 døde som følge av migrant-kaos</title>
+      <description><![CDATA[Og Viagra kan stoppe kreft fra å spre seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f8f4ac29-3d08-4c20-b4ac-293d088c20ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f8f4ac29-3d08-4c20-b4ac-293d088c20ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:09</itunes:duration>
+      <pubDate>Mon, 03 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XCjgNu-kQncq8YXxZklwYQvj3fFjb-fsrXe-M4oEBTVw.jpg"/>
+    </item>
     <item>
       <title>Historisk avtale om Hamas</title>
       <description><![CDATA[Og Norge vil trekke seg fra fremtidige fotball-VM.]]></description>
@@ -274,15 +283,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:32</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lmknCQNacz-o6W8wgyh30At6W7MhkvlfPRZi-fPmpL5g.jpg"/>
-    </item>
-    <item>
-      <title>Hvor mye kontanter bør man ha hjemme?</title>
-      <description><![CDATA[Og landslagssjefen mener NRK driver med tullprat]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/826ded8d-b216-4060-aded-8db2162060b4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/826ded8d-b216-4060-aded-8db2162060b4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:49</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GNHo9_hLTEpgMwGQZSkakQcIhNAQMh3RSfb8EBsYiRjA.jpg"/>
     </item>
   </channel>
 </rss>
