@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 03 Aug 2026 07:50:02 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:42:57 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Varsler SAS-streik fra lørdag</title>
+      <description><![CDATA[Og vi har rådene for irriterende kollegaer etter sommerferien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/a0ef9af9-bea3-43c2-af9a-f9bea3c3c2e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a0ef9af9-bea3-43c2-af9a-f9bea3c3c2e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:26</itunes:duration>
+      <pubDate>Tue, 04 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NzhezBetsH1WnL9DIq3qQgYPtEqp2WR8VYUqg0nQyfFA.jpg"/>
+    </item>
     <item>
       <title>Rundt 130 døde som følge av migrant-kaos</title>
       <description><![CDATA[Og Viagra kan stoppe kreft fra å spre seg.]]></description>
@@ -274,15 +283,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:06</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SgehBDuowR-Gn3-MKlK0UAXwg5AnB4c7muMC2Vi1GJzA.jpg"/>
-    </item>
-    <item>
-      <title>Norge ror seg videre i VM</title>
-      <description><![CDATA[Og denne uka kan det bli storstreik i SAS.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f8aeb239-8017-4379-aeb2-398017837916_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f8aeb239-8017-4379-aeb2-398017837916_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:32</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lmknCQNacz-o6W8wgyh30At6W7MhkvlfPRZi-fPmpL5g.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 03 Aug 2026 07:50:15 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:43:14 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 22: Siestas fjerde medlem</title>
+      <description><![CDATA[Daniel prøver sin siste hatt, Anna har mista initiativ og hvem hadde vært Siestas fjerde medlem?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/b3585d32-6dd0-48e6-985d-326dd0e8e673_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/b3585d32-6dd0-48e6-985d-326dd0e8e673_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:30</itunes:duration>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 21: Vangen i psykose</title>
       <description><![CDATA[Klokka er 5 på morgenen her og Vangen er på kjøret, Finn Glede kommer innom og hva i alle dager er brallor?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/2f7d47a4-cb31-4c47-bd47-a4cb31ac4755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:04</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>P3-legenden vender tilbake</title>
-      <description><![CDATA[Sigrid «Siggen» er vikar for Daniel som har sendt oss nytt reisebrev fra USA. Det blir fotball i papegøye og vi får besøk av Ragnar Syden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/a4678499-4696-480c-a784-994696880cdf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/a4678499-4696-480c-a784-994696880cdf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:15</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
