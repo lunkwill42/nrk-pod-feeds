@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:43:04 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:44:17 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Skaper debatt i Norge: Terrorangrepet i Berlin</title>
+      <description><![CDATA[Etter Pride-terroren startet en 20 timers lang politijakt. Hva skjedde egentlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/898f27b7-965f-4701-8f27-b7965f6701e0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/898f27b7-965f-4701-8f27-b7965f6701e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:54</itunes:duration>
+      <pubDate>Wed, 05 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2bJiDgyEUsaWjfGCLfLSjQNasbxzIP3YpolfLE7LRCvg.jpg"/>
+    </item>
     <item>
       <title>ICE er «tilbake»: Dette er den nye planen</title>
       <description><![CDATA[På under ei veke blei to menn skotne og drepne av ICE-agentar. Kvifor skjer dette no?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>14:53</itunes:duration>
       <pubDate>Thu, 11 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3ZS7AaAXWwvnDyrdODlUiwWDzL-ReLvVuGcK0NIcnSIw.jpg"/>
-    </item>
-    <item>
-      <title>Livet til Helene rakna - å leve sakte endra alt</title>
-      <description><![CDATA[Bør fleire gjere som henne? Vi har spurt psykologen. Om du har det vanskeleg, kan du ringe Mental Helse på 116 123.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/4a8dd163-5349-4b97-8dd1-6353492b97b6_3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/4a8dd163-5349-4b97-8dd1-6353492b97b6_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:25</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XFl2C8pktpK6cMoDbnsBCA98K9ooSpIgEXUuLKh2KOow.jpg"/>
     </item>
   </channel>
 </rss>

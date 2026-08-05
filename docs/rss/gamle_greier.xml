@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 01 Aug 2026 06:42:31 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:43:55 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Marcus Thrane - klassekampens martyr</title>
+      <description><![CDATA[Thranes arbeiderbevegelse er i ferd med å vinne klassekampen. Men på målstreken blir Thrane utsatt for justismord – og ender i eksil.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/0d477b9b-f8a3-4ef4-877b-9bf8a39ef45c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/0d477b9b-f8a3-4ef4-877b-9bf8a39ef45c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:00</itunes:duration>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Fanget i Stalins jerngrep</title>
       <description><![CDATA[Ida Jørstad lever i frykt under «Den store terroren» i Sovjetunionen. Snart havner hun på Stalins liste.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/gamle_greier/9b86df11-f5de-4320-9650-4d4e9296202d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:48</itunes:duration>
       <pubDate>Wed, 14 Aug 2024 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
-    </item>
-    <item>
-      <title>Spiontragedien på Arnøya (2:4)</title>
-      <description><![CDATA[Alf Jørgensen klarer ikke holde familien utenfor motstandsarbeidet, som snart kartlegger nazistenes aktiviteter. De vet ikke at de er under oppsyn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/bb1be41a-0968-403c-ac4d-de7fdcac6056_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/bb1be41a-0968-403c-ac4d-de7fdcac6056_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:49</itunes:duration>
-      <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
     </item>
   </channel>

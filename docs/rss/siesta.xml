@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:43:14 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:44:28 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Time 23: Markus sitt første ligg</title>
+      <description><![CDATA[Henning har intervjua hun som Markus mista jomfrudommen sin til, og er camping smæsj eller bæsj?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/91b80137-5c02-4f2c-b801-375c027f2c34_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/91b80137-5c02-4f2c-b801-375c027f2c34_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:30</itunes:duration>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Time 22: Siestas fjerde medlem</title>
       <description><![CDATA[Daniel prøver sin siste hatt, Anna har mista initiativ og hvem hadde vært Siestas fjerde medlem?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/bfb06e84-9a9a-4f3f-b06e-849a9a0f3f68_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:13</itunes:duration>
       <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel kasta Sofie under leiebilen!</title>
-      <description><![CDATA[Sofie forteller da hun og Daniel krasja med leiebil, Markus har stand-up om en hare og Anna er lei seg over kaffekø!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2f7d47a4-cb31-4c47-bd47-a4cb31ac4755_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/2f7d47a4-cb31-4c47-bd47-a4cb31ac4755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:04</itunes:duration>
-      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
