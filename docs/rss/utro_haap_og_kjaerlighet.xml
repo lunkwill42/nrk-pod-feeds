@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:43:21 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:48:51 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Hanna-Martine Baller:  Forholdet etter barn</title>
+      <description><![CDATA[Hanna-Martine forteller om møtet med kjæresten, graviditet, familieliv og hvorfor sexlivet er bedre enn noen gang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/3e714338-a5ab-4905-b143-38a5ab890556_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/3e714338-a5ab-4905-b143-38a5ab890556_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:38</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yBC4IIY6Y22N3CVRRu-jZgLusWiiuG475RvL6Uk-Mz6A.jpg"/>
+    </item>
     <item>
       <title>Lubna Jaffery: Kjærlighet og selvtillit</title>
       <description><![CDATA[Lubna Jaffery forteller om kjærlighetslivet – og hvordan selvtilliten har påvirket valg av partner og egne grenser.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>47:34</itunes:duration>
       <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Sm1d5U15vBMdey2hgxyn9QlLpXY7zc1FknMQueUm-Xyw.jpg"/>
-    </item>
-    <item>
-      <title>Guri Melby: Å finne tilbake</title>
-      <description><![CDATA[Politiker Guri Melby forteller om bruddet med mannen, samarbeidet mellom dem og hvordan de fant tilbake til hverandre igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/622c729c-e7c9-4516-ac72-9ce7c9951638_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/622c729c-e7c9-4516-ac72-9ce7c9951638_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:54</itunes:duration>
-      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XopGZxM79cxaTJWSU2L9pwS-I0Me-1L91N6bhc0LixNg.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 05 Aug 2026 06:44:06 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:48:19 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Barn dør av sult i Afghanistan</title>
+      <description><![CDATA[Og mange er berørt av et stort datainnbrudd hos Ryde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/5c7ff11c-4274-4cce-bff1-1c42749ccefb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5c7ff11c-4274-4cce-bff1-1c42749ccefb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:02</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3Ri9XElu7IDR3kxS_5RrHQsMxo3suD1xsLiui_fBlpIg.jpg"/>
+    </item>
     <item>
       <title>Frykter dødsfall i norske fengsel</title>
       <description><![CDATA[Og D.D.E. spør kommuner langs E6 om penger.]]></description>
@@ -274,15 +283,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>06:43</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HooofQvdTfq699e37cXJXAdtkvsNVLxG7zyoa3hqFYcg.jpg"/>
-    </item>
-    <item>
-      <title>Frykter enorme dødstall i Venezuela</title>
-      <description><![CDATA[Og headliner avlyser Tons of Rock]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/6bc02607-d2da-4a35-8026-07d2da0a354d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6bc02607-d2da-4a35-8026-07d2da0a354d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:44</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xwa4bP6VVI2eLEegPfPVZw8rLoeM77dl3iTvYl51-IYw.jpg"/>
     </item>
   </channel>
 </rss>
