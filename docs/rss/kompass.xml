@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 31 Jul 2026 04:45:14 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 06:13:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:00:57 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
+    <item>
+      <title>Søkte kjærlighet på benk</title>
+      <description><![CDATA[Birgitte Lange er ganske modig. Etter en livskrise satte hun seg på benker rundt i Oslo for å finne kjærligheten, men ikke nødvendigvis av det romantiske slaget. Hvordan har det gått?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/df4d5bcb-cde9-4fae-8d5b-cbcde92faecc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/df4d5bcb-cde9-4fae-8d5b-cbcde92faecc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:46</itunes:duration>
+      <pubDate>Thu, 06 Aug 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_BrssLv1iEtpHLB3BU7WnQh_ZA53qTKPG_5_wXIP7kdg.jpg"/>
+    </item>
     <item>
       <title>Hun er åpen om Alzheimer</title>
       <description><![CDATA[Marie Aakre har fått beskjeden ingen vil ha: Du har Alzheimer. Som sykepleier har hun kjempet for å være modig og ærlig. Hvor lett er det når det handler om en selv?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>16:12</itunes:duration>
       <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
-    </item>
-    <item>
-      <title>Fikk hjernerystelse - oppdaget verdien av stillhet</title>
-      <description><![CDATA[Gard Løkke (26) brukte sju måneder på å lære seg å like stillhet etter at han fikk hjernerystelse. Nå vil han dele verdien av stillhet med flere.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/a5251a11-56db-42ba-a51a-1156db32bafd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/a5251a11-56db-42ba-a51a-1156db32bafd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:35</itunes:duration>
-      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eNV6vo_p4bRAFvCST6LSRAo0QYX5Be4MSwegSiJlKZaQ.jpg"/>
     </item>
   </channel>
 </rss>
