@@ -1,20 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Desken brenner</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
+    <title>De 30 siste fra Desken brenner</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Desken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/desken_brenner for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 26 Jun 2026 06:29:32 +0000</lastBuildDate>
-    <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:43:53 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     <item>
+      <title>Sesongstart på stranda i Ceuta</title>
+      <description><![CDATA[Gjengen er endelig samlet igjen for å diskutere migrantkrisen i Ceuta, ensomme kvinner på TikTok, russiske dataangrep og livsfarlige pinner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/d9a54234-1226-4293-a542-3412264293ab_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/d9a54234-1226-4293-a542-3412264293ab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:18</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
       <title>Den nye franske hetebølgen</title>
-      <description><![CDATA["Alle" dør i Paris på grunn av hetebølgen. En kunde har prøvd å svindle Foodora med KI. Cringe ødelegger alt.]]></description>
+      <description><![CDATA["Alle" dør i Paris på grunn av hetebølgen. En kunde har prøvd å svindle Foodora med KI. Cringe ødelegger alt.
+
+Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/0b505b8f-99fe-49fe-905b-8f99fe79fe78_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0b505b8f-99fe-49fe-905b-8f99fe79fe78_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:06</itunes:duration>
@@ -100,6 +111,177 @@
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/92367255-87e6-4320-b672-5587e6a3200f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:16</itunes:duration>
       <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Barnefotballbaneheia</title>
+      <description><![CDATA[Vi er inne i gullalderen for: boikott av barnefotball i Kristiansand, salget av vaksine mot helvetesild, og ledere i Ungarn som er litt mindre jævlige enn de forrige.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/4ba55e41-681b-4a66-a55e-41681bda66a5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/4ba55e41-681b-4a66-a55e-41681bda66a5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:55</itunes:duration>
+      <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Flatlegging og flatfylla</title>
+      <description><![CDATA[Facebook-fylla og HA-trusler. Stormen Dave skuffet stort. En ny tysk lov vekker minner fra 2. verdenskrig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/717930e0-7178-4971-b930-e07178997123_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/717930e0-7178-4971-b930-e07178997123_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:08</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Dieselbrølet</title>
+      <description><![CDATA[Stengingen av Hormuzstredet fører til stenging av norske veier. For mange ADHD-diagnoses fører til problemer. Skattepenger fører til ellevill USA-tur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/6a9aed92-8a16-457c-9aed-928a16657c18_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/6a9aed92-8a16-457c-9aed-928a16657c18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:57</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Hus/hotell/Ålesund brenner</title>
+      <description><![CDATA[En Oscar til Norge. Et nettverk av mødre. En slags happy ending i lagmanssretten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/96f9ba49-462e-4c59-b9ba-49462e5c598e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/96f9ba49-462e-4c59-b9ba-49462e5c598e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:42</itunes:duration>
+      <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Ayatolla-millionærer er ikke som andre millionærer</title>
+      <description><![CDATA[Noen håver inn på drapet på Irans leder. Kinesiske busser er for små. En gladsak om bruskorker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/b99e9733-841f-4cb1-9e97-33841f2cb18f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/b99e9733-841f-4cb1-9e97-33841f2cb18f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:54</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>En morsom episode om noe kjipt (Iran)</title>
+      <description><![CDATA[Tara er tilbake. Det er krig i midtøsten. En uksyldig mann er siktet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/d442d297-8e0b-4751-82d2-978e0be75153_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/d442d297-8e0b-4751-82d2-978e0be75153_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:58</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R72Jp7kVeK8S38iU-RQkbAEFSgDhBTRylCCDhDge8UGg.jpg"/>
+    </item>
+    <item>
+      <title>Hesten brenner</title>
+      <description><![CDATA[Det er ildhestens år – men hva betyr det for selvopptatte, svenske influensere? Og hvordan skal det gå i Vesterålen nå som "hvem som helst" kan bli politi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/746a6a6c-f177-4868-aa6a-6cf177386809_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/746a6a6c-f177-4868-aa6a-6cf177386809_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:44</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>En bratt lærlingskurve</title>
+      <description><![CDATA[En forsker har påført seg selv en mystisk sykdom. En ordfører trekker seg. Norske lærlinger vrakes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/c4435044-db16-4b5b-8350-44db162b5b12_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/c4435044-db16-4b5b-8350-44db162b5b12_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:24</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Jehovas vitneboks</title>
+      <description><![CDATA[Hele verden følger på Jehovas vitner i Høyesterett. Hele verden fikk med seg tillitsbruddet til skiskytter Sturla Holm Lægreid. Hele Norge har lagt seg flat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/83fed613-f30a-4c33-bed6-13f30a2c3348_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/83fed613-f30a-4c33-bed6-13f30a2c3348_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:48</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Et levende Mette-Mareritt</title>
+      <description><![CDATA[Vi har lest Epsteins e-poster, og det ser ikke bra ut :) Håkan (62) skulle trene på SATS, og det gikk ikke bra :(]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/64f60f93-2dd7-4dc1-b60f-932dd77dc1b1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/64f60f93-2dd7-4dc1-b60f-932dd77dc1b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:50</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Antidopingstyranniet</title>
+      <description><![CDATA[En overhengende fare for dopingtesting (for noen). Mangel på drikkevann på Svalbard (ingen vet hvorfor). Mystiske dukkehoder plager Stavanger (noen må ta ansvar).]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/7ee1c2eb-17d8-4837-a1c2-eb17d828370e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/7ee1c2eb-17d8-4837-a1c2-eb17d828370e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:46</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Straffetrolling</title>
+      <description><![CDATA[Donald Trump trekker tilbake alle trusler ... eller? Er det greit å ploge på ski? Og skal man tåle taxisjåfører som runker på jobb?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/6d331dfc-083e-4763-b31d-fc083e376301_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/6d331dfc-083e-4763-b31d-fc083e376301_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:32</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Offlinens akse</title>
+      <description><![CDATA[Det iranske regimet har skrudd av internett. Dordi (80) tar opp kampen mot politiet. Hvem har lagt seg flat den siste måneden?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/7057be41-0813-4cdc-97be-410813ccdc59_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/7057be41-0813-4cdc-97be-410813ccdc59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:33</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Venezuela La Land</title>
+      <description><![CDATA[Presidenten i Venezuela har blitt kidnappet, en pilotskole i Sandefjord har gått konkurs, og KI-musikken har inntatt festivaler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/0a855706-e7d6-4c00-8557-06e7d6bc0077_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0a855706-e7d6-4c00-8557-06e7d6bc0077_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:10</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Absolute McDesken 2025</title>
+      <description><![CDATA[Hør de BESTE låtene fra året som har gått! Disselåter! Hyllester! Minst én trafikksikker russelåt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/0781b7eb-f946-445d-81b7-ebf946545d16_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/0781b7eb-f946-445d-81b7-ebf946545d16_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:17</itunes:duration>
+      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HKRcDkKIYu0QEEqUlCofFAzgUaQs-iceXa5B4C0wpi8w.jpg"/>
+    </item>
+    <item>
+      <title>Statlig organ møter kjønnsorgan</title>
+      <description><![CDATA[Råd om møter med kjønnsmangfold skaper motstand. Hvem har skylda for at solcelle-bransjen sliter? Kun den beste HPV-vaksinen or god nok for våre barn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/9648675f-cbf8-43b8-8867-5fcbf8f3b805_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/9648675f-cbf8-43b8-8867-5fcbf8f3b805_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:45</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Det gjerrige er ofte det beste</title>
+      <description><![CDATA[Rema 1000 har prøvd å hjelpe fattige. Amalie klikker på en selvbetjent sexbutikk. Håndballsupportere sliter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/12fc2475-1e69-41b6-bc24-751e6911b680_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/12fc2475-1e69-41b6-bc24-751e6911b680_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:35</itunes:duration>
+      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Spørretimen for de minste</title>
+      <description><![CDATA[Støre har fått tutti-frutti-godteri i Stortingets spørretime. Regjeringen vil øke aldersgrensen på elsparkesykler. Nok en måned med flatlegginger er bak oss.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/34e275a2-ee2d-4e57-a275-a2ee2d7e577d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/34e275a2-ee2d-4e57-a275-a2ee2d7e577d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:16</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
+    <item>
+      <title>Norwegian blonde fucked by ICE</title>
+      <description><![CDATA[En blond, norsk kvinne har blitt arrestert av ICE. Litt stas? Erna Solberg vil kvitte seg med fylkeskommunen. Og så?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/2d4f9b01-220d-4ff7-8f9b-01220dcff702_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/2d4f9b01-220d-4ff7-8f9b-01220dcff702_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:22</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>
