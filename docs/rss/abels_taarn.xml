@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 31 Jul 2026 04:44:53 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:04:28 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Jubileum! - Folkets drømmepanel</title>
+      <description><![CDATA[Er Inga Strümke maskin eller menneske? Og hvordan kan vi vite det? Dette er et av spørsmålene folkets drømmepanel fikk bryne seg på under Abels tårns 15-årsjubileum. Og panelet - det var stemt fram av våre lyttere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a77d40a1-fd05-4870-bd40-a1fd0598709b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a77d40a1-fd05-4870-bd40-a1fd0598709b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:08</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3PbScFJ4NpbiwFkHeiOW9gebV1quX1EA7p8icuiP360A.jpg"/>
+    </item>
     <item>
       <title>Jubileum! - De unges panel</title>
       <description><![CDATA[Tårnets 15-årsjubileum fortsetter med det aller ferskeste panelet. En radio-aktiv seanse der vi blant annet stiller det store spørsmålet: Vil KI noensinne kunne forstå kvinnen?]]></description>
@@ -279,16 +288,6 @@ Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente eksper
       <itunes:duration>32:37</itunes:duration>
       <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Er det greit å dyrke organer?</title>
-      <description><![CDATA[Det kan være mer enda komplisert enn du tror.
-Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7e0cc2e1-4b92-4de4-8cc2-e14b928de467_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:29</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1dFYEXeIIii4apyIIPpaMQX6NZkgDuBh841A1zgeF7AA.jpg"/>
     </item>
   </channel>
 </rss>

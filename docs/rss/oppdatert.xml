@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 06 Aug 2026 06:48:28 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:04:44 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>«Heroin chic» er tilbake: Ein stille epidemi?</title>
+      <description><![CDATA[Hollywood får skulda for at 90-talets skjønnheitsideal trendar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/58a6d569-4252-4f47-a6d5-6942529f4703_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/58a6d569-4252-4f47-a6d5-6942529f4703_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:53</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MRnzaNzPd8Mn5YfVWZpBcg6e02qh0t3rXxfFszIL6yyQ.jpg"/>
+    </item>
     <item>
       <title>Infantino-bråket: Kan Klaveness redde Fifa?</title>
       <description><![CDATA[Fleire peikar på norske Lise Klaveness som ein kandidat til å ta over jobben som internasjonal fotballpresident.]]></description>
@@ -58,7 +67,7 @@
       <itunes:image href="https://gfx.nrk.no/gNxWs0x80Lh8HaIZGUgKRQ6PHI6axjClYYpdFnE_zg9Q.jpg"/>
     </item>
     <item>
-      <title>Fenomenet Haaland: Slik jobber de i kulissene</title>
+      <title>Haaland: Slik ble han en pengemaskin utenfor banen</title>
       <description><![CDATA[Erling Braut Haaland har gjort kommersiell suksess utenfor banen. Kan VM-eventyret ta han til nye høyder?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b78c2a66-49b2-4bb5-8c2a-6649b24bb514_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/b78c2a66-49b2-4bb5-8c2a-6649b24bb514_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -272,15 +281,6 @@
       <itunes:duration>18:28</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jNr8OqyB6Qj14ab2B3ylHALurY0jX2vOnK-NhQWcjfYw.jpg"/>
-    </item>
-    <item>
-      <title>18-åringen drepte Tamima: Inspirert av Hitler</title>
-      <description><![CDATA[I ni dager har han sittet på tiltalebenken for et drap som rystet hele Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1b228551-7530-4704-a285-517530e70427_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1b228551-7530-4704-a285-517530e70427_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:47</itunes:duration>
-      <pubDate>Fri, 12 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5h_pT3aBCL4E61WCL9PRvAwSa1ErKxM3kRM8yu47CMLw.jpg"/>
     </item>
   </channel>
 </rss>
