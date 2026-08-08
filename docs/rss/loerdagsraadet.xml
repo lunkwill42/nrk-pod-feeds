@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 01 Aug 2026 09:23:24 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:17:24 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Høydepunkter fra 2025 - nr. 12</title>
+      <description><![CDATA[Rådgivere er: Ronny Brede Aase / Martha Leivestad / Maren Teien Rørvik / Silje Nordnes / Torbjørn Røe Isaksen / Arian Engebø / Annika Momrak / Odd Nordstoga / Dagny]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ea47c98b-dd57-4ceb-87c9-8bdd57dceb74_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ea47c98b-dd57-4ceb-87c9-8bdd57dceb74_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:54:05</itunes:duration>
+      <pubDate>Sat, 08 Aug 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra 2025 - nr. 11</title>
       <description><![CDATA[Rådgivere er: Pernille Sørensen / Niklas Baarli / Jon Ranes / Lisa Tønne / Are Sende Osen / Kristine Grændsen / Vegard Ylvisåker / Nora Svenningsen / Jon Martin Henriksen]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>01:59:53</itunes:duration>
       <pubDate>Sat, 18 Apr 2026 12:37:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tKuBZ_ktGB_OcoeLAr3JKAj2Nixkf2CEjSOZa7uaCDUA.jpg"/>
-    </item>
-    <item>
-      <title>Ga vi gode eller dårlige råd om svigermor?!</title>
-      <description><![CDATA[Vi får tilbakemelding fra snart nybakt mor!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c9112612-577c-4c73-9126-12577cac73f5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c9112612-577c-4c73-9126-12577cac73f5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:46</itunes:duration>
-      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>
