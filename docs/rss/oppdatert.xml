@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:04:44 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 04:56:47 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Grensekaos i Europa: Ble Ceuta offer for maktkamp?</title>
+      <description><![CDATA[Hvordan kom over 70.000 migranter til Ceuta samtidig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e9f7dd43-4c72-448d-b7dd-434c72748dcc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e9f7dd43-4c72-448d-b7dd-434c72748dcc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:32</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F2F-PuUDwqZb_FYodMCG9AGZGmgj_cBdsTpPaXTsGBYw.jpg"/>
+    </item>
     <item>
       <title>«Heroin chic» er tilbake: Ein stille epidemi?</title>
       <description><![CDATA[Hollywood får skulda for at 90-talets skjønnheitsideal trendar.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/58a6d569-4252-4f47-a6d5-6942529f4703_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/58a6d569-4252-4f47-a6d5-6942529f4703_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:53</itunes:duration>
+      <itunes:duration>19:43</itunes:duration>
       <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MRnzaNzPd8Mn5YfVWZpBcg6e02qh0t3rXxfFszIL6yyQ.jpg"/>
     </item>
@@ -272,15 +281,6 @@
       <itunes:duration>15:16</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 15:32:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/m_WlIbG4ihgUnw59ZGzcNwhLmGH68nFVAdh0RpoB1Y2A.jpg"/>
-    </item>
-    <item>
-      <title>Nowak-drapet: Derfor koker Storbritannia</title>
-      <description><![CDATA[En video av en pågripelse og knivstikking har utløst en bølge av aggressive protester i Storbritannia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fb7f3d2f-cb8c-403f-bf3d-2fcb8cd03f25_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fb7f3d2f-cb8c-403f-bf3d-2fcb8cd03f25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:28</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jNr8OqyB6Qj14ab2B3ylHALurY0jX2vOnK-NhQWcjfYw.jpg"/>
     </item>
   </channel>
 </rss>
