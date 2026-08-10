@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:44:17 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:43:38 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 08:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Vil granske norsk lærerutdanning</title>
+      <description><![CDATA[Høyre vil sette ned et internasjonalt ekspertpanel for å granske norsk lærerutdanning og metodene framtidens lærere skal bruke i klasserommet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/fbadee91-6ed0-4cfd-adee-916ed05cfdb0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/fbadee91-6ed0-4cfd-adee-916ed05cfdb0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 08:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DnvZzcDSPZP6OLApmfLZ0g3-PTK_4eZavQJdvvsqB2dQ.jpg"/>
+    </item>
     <item>
       <title>Høyre-lederens oppgjør med FrP</title>
       <description><![CDATA[Ansvarlige politikere må sette en grense, sier Ine Eriksen Søreide. Hun kaller FrP uansvarlige som vil ha krisepakker på alt fra strøm til mat og diesel. Sylvi Listhaug møter Høyre-lederen til debatt.]]></description>
@@ -280,15 +289,6 @@ Nei, svarer Høyre.]]></description>
       <itunes:duration>15:08</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ac4sIFYDm8dMzjtC7mpz9gO-q-dvusBC6_mafm1MqVbQ.jpg"/>
-    </item>
-    <item>
-      <title>Forsvare landet eller berge naturen?</title>
-      <description><![CDATA[Kva gjer vi når naturomsyn står mot militær beredskap? MDG vil stoppe sprengstoffabrikk ved Oslofjorden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/823189a5-6df7-40bb-b189-a56df7b0bb2c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/823189a5-6df7-40bb-b189-a56df7b0bb2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:00</itunes:duration>
-      <pubDate>Mon, 01 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lxGsc9uHGylzI0PiSucdPQ10w6wOh0TE9btk6rlHDZTw.jpg"/>
     </item>
   </channel>
 </rss>
