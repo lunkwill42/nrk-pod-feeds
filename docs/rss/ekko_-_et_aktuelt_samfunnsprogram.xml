@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:42:50 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:01:15 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Keisersnitt gir ikke sykmelding</title>
+      <description><![CDATA[Norge står midt i årets største babyboom, men kvinner som føder med keisersnitt har ikke alltid rett på sykmelding. Hvorfor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bb1367c7-fe34-4160-9367-c7fe3451608a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/bb1367c7-fe34-4160-9367-c7fe3451608a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:54</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kQopxBlDVPHKsT8OIfPutAbCdTB0-_9bXvxVNKiJjDMA.jpg"/>
+    </item>
     <item>
       <title>Netthandel endrar samfunnet</title>
       <description><![CDATA[Nye kjøpemønstre går ut over nærbutikkane. Kva gjer det med både oss, og bysamfunna, at vi handlar digitalt?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>46:52</itunes:duration>
       <pubDate>Wed, 13 May 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3LHVK-KIu2ZCSW24Ibe2IAxaMhScRb13hm_KsV1J9m9g.jpg"/>
-    </item>
-    <item>
-      <title>Frå u-land til supermakt</title>
-      <description><![CDATA[Korleis vart Kina så mektige at verda er heilt avhengig? Ekspertane svarer på lyttarspørsmål om makt, økonomi og miljøkamp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7c92967c-0a81-4f6a-9296-7c0a811f6ad6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7c92967c-0a81-4f6a-9296-7c0a811f6ad6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:16</itunes:duration>
-      <pubDate>Tue, 12 May 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fXB-rzfsogfbfKqKKD21GwxQqEbG7uIUtB36__K0HsnQ.jpg"/>
     </item>
   </channel>
 </rss>
