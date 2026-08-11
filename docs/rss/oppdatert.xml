@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:56:47 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:42:21 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Album, press og pause: Kva skjer med Ariana Grande?</title>
+      <description><![CDATA[Ryktene florerer etter at superstjerna annonserte pause frå rampelyset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/71a3e0f9-9727-40bd-a3e0-f9972730bd22_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/71a3e0f9-9727-40bd-a3e0-f9972730bd22_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:24</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Lihly6BmICcDyEQj_Gml1A9IYe6zYihLQR11-pvp_--Q.jpg"/>
+    </item>
     <item>
       <title>Grensekaos i Europa: Ble Ceuta offer for maktkamp?</title>
       <description><![CDATA[Hvordan kom over 70.000 migranter til Ceuta samtidig?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>16:44</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_DW1AYMWaZlGMuDUWLNregduIUUAL-YY-PlFzctmyUMA.jpg"/>
-    </item>
-    <item>
-      <title>Dom i Høiby-saken: Hva skjer videre?</title>
-      <description><![CDATA[Marius Borg Høiby dømmes til fire års fengsel. Høiby har anket saken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c182b8d6-c331-4005-82b8-d6c331a00520_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c182b8d6-c331-4005-82b8-d6c331a00520_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:16</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 15:32:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m_WlIbG4ihgUnw59ZGzcNwhLmGH68nFVAdh0RpoB1Y2A.jpg"/>
     </item>
   </channel>
 </rss>

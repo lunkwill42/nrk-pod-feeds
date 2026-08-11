@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra P3morgen for B-mennesker</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten P3morgen for B-mennesker. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/p3morgen for mer informasjon.</description>
+    <title>De 30 siste fra P3morgen for B-mennesker</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten P3morgen for B-mennesker. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/p3morgen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 04 Jul 2026 04:02:40 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:42:28 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Kongen befaler</title>
+      <description><![CDATA[Vi er tilbake fra ferie! Henning har kjøpt øl på spansk og vi diskuterer hva som skjer når monarker dør.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
     <item>
       <title>Det beste fra P3morgen</title>
       <description><![CDATA[Du får det beste fra denne uka med P3morgen. Karpe-historiker Sandeep Singh, barne-TV legende Stian Barsnes Simonsen forteller om programmet Amigo, Arin har valgt vold, og Henning har tatt på seg søndagstrusa på feil dag.]]></description>
@@ -100,6 +109,177 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/6a99ca6e-1ecb-4b06-99ca-6e1ecb5b062e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:30</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
+    <item>
+      <title>Dopsalg på finn.no</title>
+      <description><![CDATA[I dag får vi forklart konseptet «feriepenger», Johannes har tatt skjult lydopptak av Arin, og vi hører om dopsalg på finn.no!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d0feb0fe-4990-4dcb-beb0-fe49904dcb04_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d0feb0fe-4990-4dcb-beb0-fe49904dcb04_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MqSnHpWfxJ4KYJKwEeX8PAUBf4szQH36Xhozo6djsreg.jpg"/>
+    </item>
+    <item>
+      <title>Hvem vasker vanndispenseren?</title>
+      <description><![CDATA[Henning har sett skrekkfilm igjen, Johannes elsker blåmuggost på burger og Arin ønsker seg amerikansk søppelmat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/be8bb746-660e-4136-8bb7-46660e313646_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/be8bb746-660e-4136-8bb7-46660e313646_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1eJULp2ECr4ymizsKKaaVgApsf-m3gBi7PmhSPwX1QVw.jpg"/>
+    </item>
+    <item>
+      <title>Ballefyllesyk tilstand er best</title>
+      <description><![CDATA[Henning mener det er bedre å være «Ballefyllesyk» enn vanlig fyllesyk på jobb, og Arin har hatt mange jobber!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ea3196d1-3692-4cdf-b196-d13692bcdf0e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ea3196d1-3692-4cdf-b196-d13692bcdf0e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
+    <item>
+      <title>Henning ble forlatt under vann</title>
+      <description><![CDATA[Arin vil være en fantasi-pirat, Henning forteller om sitt møte med en hai og produsent Johannes er en selverklært pyse!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9ef2c560-cb86-457d-b2c5-60cb86f57dc1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9ef2c560-cb86-457d-b2c5-60cb86f57dc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:22</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
+    </item>
+    <item>
+      <title>Henning driver med fibermaxxing</title>
+      <description><![CDATA[Henning har oppdaget neseteip og sovemaske, og vi har vært på kino sammen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2076643e-0229-48d6-b664-3e0229c8d6d0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2076643e-0229-48d6-b664-3e0229c8d6d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
+    </item>
+    <item>
+      <title>Sædfuck og triks på bussen.</title>
+      <description><![CDATA[Vi deler gode og dårlige banneord, og vi introduserer en ny karakter i P3morgens extended cinematic universe<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/592faf9c-5f70-4b88-afaf-9c5f706b8896_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/592faf9c-5f70-4b88-afaf-9c5f706b8896_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
+    </item>
+    <item>
+      <title>Det beste fra P3morgen!</title>
+      <description><![CDATA[Vi finner ut om når en taco blir en taco, og spør om det er på tide å gravlegge 67. Nadia Hasnaoui er på besøk for å snakke om og kanskje vekke til liv Kvitt eller dobbelt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/36a87349-65c8-4711-a873-4965c8c7112f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/36a87349-65c8-4711-a873-4965c8c7112f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:40</itunes:duration>
+      <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Qqq5XpmRx32XNS5gsO7vUwvEEgjprA49NxMkxH0sOYrw.jpg"/>
+    </item>
+    <item>
+      <title>Slik gjør du hotellfrokost!</title>
+      <description><![CDATA[Arin og Henning blir kanskje søsken på papiret, Jonas vil på turné og vi drømmer oss bort i hotellfrokost.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/98545304-74c7-4f96-9453-0474c74f9616_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/98545304-74c7-4f96-9453-0474c74f9616_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/SALf6OmKojHmjp3h8CSiEg3HIH9L2s3IRzs8oybCGAZA.jpg"/>
+    </item>
+    <item>
+      <title>Apekatt med drip og underpupp.</title>
+      <description><![CDATA[Arin har sett en ekte slangetemmer, Henning ønsker seg en ape som han skal gi «drip» og Jonas liker ikke underpupper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d127cce3-5641-4b8a-a7cc-e35641db8a5a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d127cce3-5641-4b8a-a7cc-e35641db8a5a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:27</itunes:duration>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
+    </item>
+    <item>
+      <title>Counterstrike i snøball</title>
+      <description><![CDATA[Johannes blir engasjert av å se noen spille videospillet Fotball manager. Jonas var toppskårer i selvmål. Barn kjører i 130kmt på sparkesykkel, men de får hvert fall litt frisk luft]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d5c01174-23fa-4d1c-8011-7423facd1c99_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d5c01174-23fa-4d1c-8011-7423facd1c99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Wed, 10 Jun 2026 10:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
+    <item>
+      <title>Planlegging av falske drap.</title>
+      <description><![CDATA[Jonas foretrekker å ha det lummert, Henning deler hvordan han ville faket døden sin og Arin liker ikke barn...]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c864ba69-868f-41e4-a4ba-69868f71e423_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c864ba69-868f-41e4-a4ba-69868f71e423_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:25</itunes:duration>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
+    <item>
+      <title>Østlandsk er ekte norsk.</title>
+      <description><![CDATA[Vi snakker om sjamanbyen Lørenskog, Henning deler sin opplevelse av «Musikkens dag» og Jonas har lekt med NRK-gpt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4f6041e5-f8cb-4316-a041-e5f8cb53166c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4f6041e5-f8cb-4316-a041-e5f8cb53166c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
+    <item>
+      <title>Skal Danmark heie på oss?!</title>
+      <description><![CDATA[Vi mimrer tilbake til ZombieLars og sender en heia-oppfordring til våre danske venner! Dette er det beste fra ukens P3morgen!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6c721b6c-7d29-49af-b21b-6c7d2979af6b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6c721b6c-7d29-49af-b21b-6c7d2979af6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:59</itunes:duration>
+      <pubDate>Sat, 06 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nhI6x5PTfILsuyIg9o3lcAw3KsdbdJI5yArB4V9xc2FQ.jpg"/>
+    </item>
+    <item>
+      <title>Dyr biff = rennaræv</title>
+      <description><![CDATA[Henning trenger tips til å være nonchalant på restaurant, Arin er synes Vodka Redbull er harry og Jonas spyr av Fireball]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/b39c5265-ff56-463d-9c52-65ff56a63d6b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b39c5265-ff56-463d-9c52-65ff56a63d6b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:25</itunes:duration>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
+    <item>
+      <title>Vi tar homo-test!</title>
+      <description><![CDATA[Jonas har aldri gått i pride-tog, Henning har blitt bilsyk og Arin er visst ikke «ghetto».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/657081a1-07c4-4fc2-b081-a107c41fc2df_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/657081a1-07c4-4fc2-b081-a107c41fc2df_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
+    </item>
+    <item>
+      <title>Henning sine brystvorter...</title>
+      <description><![CDATA[Vi har med oss P3morgens extended cinematic universe og vi prater om Henning sine brystvorter<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9fa386df-0691-4017-a386-df069180178a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9fa386df-0691-4017-a386-df069180178a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
+    </item>
+    <item>
+      <title>Søvnparalyse og bjørner</title>
+      <description><![CDATA[Henning deler drømmer, Jonas deler opplevelser med søvnparalyse og Arin vil ha brutal stemme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ef08a0f2-03aa-4746-88a0-f203aa87465b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ef08a0f2-03aa-4746-88a0-f203aa87465b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
+    </item>
+    <item>
+      <title>Hvor skal føttene vaskes?</title>
+      <description><![CDATA[Hvordan er riktig måte å vaske føttene på og har vi noen gang tagget? Det blir også litt rampestreker i dag!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bfcfe47c-d612-49ea-8fe4-7cd61219eae8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
+    <item>
+      <title>Aldersgrensen på IS-videoer?</title>
+      <description><![CDATA[Hva har Emma Steinbakken og IS til felles? Kan Makosir rappe om Kygo og Renate Reinsve?  Dette er DET beste fra uka som gikk <3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/00e5a309-e4a4-4397-a5a3-09e4a4c39729_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/00e5a309-e4a4-4397-a5a3-09e4a4c39729_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:23</itunes:duration>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
     </item>
   </channel>

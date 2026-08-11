@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:56:37 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:42:10 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Desperat kamp mot klokka i Colombia</title>
+      <description><![CDATA[Og tips og triks til nye studenter]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/6f66f170-c417-4d57-a6f1-70c4173d5700_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6f66f170-c417-4d57-a6f1-70c4173d5700_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:56</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iNVrACB1HM3terKc285NzgK8sVBSFFQOWYXkmBX3R2QA.jpg"/>
+    </item>
     <item>
       <title>Flere studenter tvunget til å bo hjemme</title>
       <description><![CDATA[Og hvem er Netanyahus nye utfordrer?]]></description>
@@ -274,15 +283,6 @@ Lydopptaket av Kronprins Haakon er hentet fra Norges fotballforbund sine kanaler
       <itunes:duration>05:17</itunes:duration>
       <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3_6tykK92P0fGm4t_Sim-AC5z_iHYgkHJdMgpgdVuqXw.jpg"/>
-    </item>
-    <item>
-      <title>Får fortsette dumping i Førdefjorden</title>
-      <description><![CDATA[Men Høyesterett har sagt nei]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/233138d4-adda-4ca8-b138-d4adda3ca880_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/233138d4-adda-4ca8-b138-d4adda3ca880_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:15</itunes:duration>
-      <pubDate>Tue, 30 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8zBSF3UVwZgAXYSP08Nn5A77M8fZuExLqxNnDwGBxiFQ.jpg"/>
     </item>
   </channel>
 </rss>
