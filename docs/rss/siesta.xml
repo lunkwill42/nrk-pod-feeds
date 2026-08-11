@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:47:19 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:45:44 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Lydopptak fra dass</title>
+      <description><![CDATA[Daniel har med et spesielt lydopptak og det skal konkurreres som hvem som er den beste taleren i vår nye spalte!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:43</itunes:duration>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Vi er tilbake!</title>
       <description><![CDATA[Sommeren er over, Siesta er i gang! Vi får besøk av Chavad El Bacardi fra Gjøvik og Anna skal på sinnemestring med psykolog.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/3b50a24d-aa83-416b-90a2-4daa83f16b82_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:18</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Finn Glede sjarmerer Stavang</title>
-      <description><![CDATA[Livsgnisten er påvirket av VM, Daniel har sendt reisebrev og det blir kanskje levert den dårligste Emma Steinbakken-spalten noensinne.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/b4af58ab-5bdc-41f9-af58-ab5bdc21f9ac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/b4af58ab-5bdc-41f9-af58-ab5bdc21f9ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:12</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
