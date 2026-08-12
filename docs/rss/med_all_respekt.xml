@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:40:02 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 05:05:49 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     <item>
+      <title>OnlyFans og brekninger</title>
+      <description><![CDATA[Galvan vil skrive av OnlyFans på skatten, Anders vil få slutt på n-ordet og Tara brekker seg bare av å høre om majones.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/72df834d-b583-46d3-9f83-4db583e6d3d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/72df834d-b583-46d3-9f83-4db583e6d3d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:32</itunes:duration>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
       <title>Sandeep´s bursdagssimulator</title>
-      <description><![CDATA[Roadtrips, liveshow og dårlig stemning i Sandeep sitt 40-årslag ... Denne sommeren må oppsummeres!]]></description>
+      <description><![CDATA[Roadtrips, liveshow og dårlig stemning i Sandeep sitt 40-årslag ... Denne sommeren må oppsummeres! NB! Du kan framover se episodene våre som video.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e93d8b07-12dc-4bcf-bd8b-0712dc0bcf74_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e93d8b07-12dc-4bcf-bd8b-0712dc0bcf74_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:42</itunes:duration>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/576205d4-fbb2-473a-a205-d4fbb2573a3e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>37:59</itunes:duration>
       <pubDate>Fri, 01 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Forhud til besvær</title>
-      <description><![CDATA[Sandeep mener omskjæring er grunnen til at det er krig i verden. Hva tenker Abu og Galvan om det? Og overlevde Taras gynekolog?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/f8b397ad-9fe0-4e97-b397-ad9fe0ce977f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/f8b397ad-9fe0-4e97-b397-ad9fe0ce977f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:52</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>
