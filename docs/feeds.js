@@ -688,7 +688,7 @@ const feeds = [
     "id": "kommentert",
     "title": "De 30 siste fra Kommentert",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kompass",

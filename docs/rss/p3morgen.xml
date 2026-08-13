@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 08:41:17 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:09:47 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Infantino vs. Swift</title>
+      <description><![CDATA[Hvordan er vi i møte med dansker som ikke forstår norsk, og husker du da telefonopplysningene kranglet på TV?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/50d4eecc-1664-4877-94ee-cc166438775d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/50d4eecc-1664-4877-94ee-cc166438775d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
+    </item>
     <item>
       <title>En naturell kremost-dag.</title>
       <description><![CDATA[Hvilken frukt er du og hva slags ost føler du deg som i dag? Vi diskuterer <3]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
-    </item>
-    <item>
-      <title>Søvnparalyse og bjørner</title>
-      <description><![CDATA[Henning deler drømmer, Jonas deler opplevelser med søvnparalyse og Arin vil ha brutal stemme.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ef08a0f2-03aa-4746-88a0-f203aa87465b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ef08a0f2-03aa-4746-88a0-f203aa87465b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kj8PP7vWenTb9Xug_WdfcQcXYSNGSzrrjJ1sDdnnViIw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 05:05:57 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:09:39 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Jared Leto: Anklagene som ryster Hollywood</title>
+      <description><![CDATA[Gjennom tre tiår har han briljert både på film- og musikkscenen. Nå er han i hardt vær.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5c87f9af-cf6e-4e8b-87f9-afcf6e8e8b03_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5c87f9af-cf6e-4e8b-87f9-afcf6e8e8b03_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:27</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R5UNuCw3XurBIOJHVSMLlQ0dRFm1VQaGyH_2_2h_UYgg.jpg"/>
+    </item>
     <item>
       <title>KI-skandale i politiet: Slik ble britene overvåket</title>
       <description><![CDATA[Politiet i Bristol har i årevis profilert barn og voksne i en hemmelig app. Hvordan kunne dette skje?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>17:46</itunes:duration>
       <pubDate>Fri, 19 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/H7QfmXm3wE5Fbk1MvuAPRAn0wU7oJ3b2d3QI1EklQ7UA.jpg"/>
-    </item>
-    <item>
-      <title>Dop, damer og hatkrim-anklager: Et bevisst spill?</title>
-      <description><![CDATA[Slik tok den kontroversielle gruppa Roc Boyz over musikknorge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/4f099b7a-c8ac-4368-899b-7ac8ac036847_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/4f099b7a-c8ac-4368-899b-7ac8ac036847_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:38</itunes:duration>
-      <pubDate>Thu, 18 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KfbFn-YejD2oHIvuBVDrKQfeHQ4mLrekft58tKw31xDw.jpg"/>
     </item>
   </channel>
 </rss>
