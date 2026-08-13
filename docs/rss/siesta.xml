@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:50:50 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:01:58 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Norges mest komplette by</title>
+      <description><![CDATA[Det blir rykende fersk stand up fra Markus, hva er den beste byen i Norge og er det forsvarlig at 16-åringer bor alene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:38</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Ludvig sitt sommer i P2</title>
       <description><![CDATA[Ludvig fra Flåklypa kommer innom, Daniel skal finne Barack Obama og Anna drømmer om å være cowboy.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/8755541e-153d-489f-9554-1e153df89ff8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:27</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Baguette vs. nan</title>
-      <description><![CDATA[Vi har en heftig diskusjon om hva som kommer lengst av baguette eller nan, Sofie leder spalte-spalten og det blir stand up fra Markus.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6cedd912-379e-4f12-add9-12379ebf12e3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6cedd912-379e-4f12-add9-12379ebf12e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:07</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

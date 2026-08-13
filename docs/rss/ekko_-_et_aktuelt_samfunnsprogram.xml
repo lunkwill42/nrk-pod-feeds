@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 12:01:12 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:01:41 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Skjebnehøsten</title>
+      <description><![CDATA[Alt peker i feil retning for Trump. Kan han overleve høsten?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fff55bd7-57bb-4bab-b55b-d757bb1bab24_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fff55bd7-57bb-4bab-b55b-d757bb1bab24_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iX9gt4t0YbO4JZRkNPNHSg3h1VpOv2pVTVnNMWsRPyIw.jpg"/>
+    </item>
     <item>
       <title>Mista Europa kontrollen?</title>
       <description><![CDATA[Dramatiske bilete frå Ceuta rysta Europa, men bak kriseoverskriftene ligg eit maktspel og eit spesielt regelverk.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>21:44</itunes:duration>
       <pubDate>Tue, 19 May 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aMV5Pr2SuT7y8z_8t1Z88gkUIdMvyv5qDBmkpCOTTVRA.jpg"/>
-    </item>
-    <item>
-      <title>Spør finansministeren</title>
-      <description><![CDATA[Frå matprisar og kvardagsøkonomi til kva samfunn regjeringa vil ha. Jens Stoltenberg svarte på dykkar spørsmål på direkten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/659abbd3-cf86-49d8-9abb-d3cf86f9d8d4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/659abbd3-cf86-49d8-9abb-d3cf86f9d8d4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:04</itunes:duration>
-      <pubDate>Mon, 18 May 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qBmh50xTyMwnFMYsp0rCPQq0uI79rNtTT6tp3gYsIpQQ.jpg"/>
     </item>
   </channel>
 </rss>
