@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 18:11:34 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:12:38 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Søreide debuterer i partilederdebatten</title>
+      <description><![CDATA[Manglende rentekutt og krisepakker er blant temaene når Støre, Listhaug og Søreide møtes før partilederdebatten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/541055aa-5b3e-4cea-9055-aa5b3e4cead3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/541055aa-5b3e-4cea-9055-aa5b3e4cead3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 13 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7Akdjq94OJsAh_shfyoFawJUu4vLjZ94x3w2VObLEtyQ.jpg"/>
+    </item>
     <item>
       <title>PST advarer</title>
       <description><![CDATA[Politiets sikkerhetstjeneste (PST) ser økt nettverksbygging og flere mindreårige som eksponeres for ekstrem islamisme.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>58:56</itunes:duration>
       <pubDate>Fri, 03 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xzo1hxd60YDHhkvoA4dpfwYC04vNYyc0J9CBSl2CjOwA.jpg"/>
-    </item>
-    <item>
-      <title>Omfattende angrep på Kyiv i natt</title>
-      <description><![CDATA[Minst 17 personer drept i russiske rakett- og droneangrep.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ce82b331-e789-4417-82b3-31e7893417c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KaLj16efxZCPTAItDTL6iQjFotZ24Lmox-phqO8Lll8w.jpg"/>
     </item>
   </channel>
 </rss>
