@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:09:47 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:05:28 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Hvordan «lounge» på flyplassen</title>
+      <description><![CDATA[Hvem er vi på flyplassen? Vi deler ulike flyplassopplevelser og flyplasser vi setter pris på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/170dae1f-e6a4-4437-8dae-1fe6a4f43749_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/170dae1f-e6a4-4437-8dae-1fe6a4f43749_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
+    </item>
     <item>
       <title>Infantino vs. Swift</title>
       <description><![CDATA[Hvordan er vi i møte med dansker som ikke forstår norsk, og husker du da telefonopplysningene kranglet på TV?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Henning sine brystvorter...</title>
-      <description><![CDATA[Vi har med oss P3morgens extended cinematic universe og vi prater om Henning sine brystvorter<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9fa386df-0691-4017-a386-df069180178a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9fa386df-0691-4017-a386-df069180178a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>

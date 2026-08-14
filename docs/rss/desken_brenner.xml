@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:43:53 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 05:05:03 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Et familienettverk av løgner</title>
+      <description><![CDATA[Store familienettverk jukser seg til oppholdstillatelse. Gamere skal boikotte Playstation. Sexfasiliteter i fengsel har mye å gå på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/30fc080f-50b5-4c98-bc08-0f50b5bc988b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/30fc080f-50b5-4c98-bc08-0f50b5bc988b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:54</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Sesongstart på stranda i Ceuta</title>
       <description><![CDATA[Gjengen er endelig samlet igjen for å diskutere migrantkrisen i Ceuta, ensomme kvinner på TikTok, russiske dataangrep og livsfarlige pinner.]]></description>
@@ -273,15 +282,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/34e275a2-ee2d-4e57-a275-a2ee2d7e577d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:16</itunes:duration>
       <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Norwegian blonde fucked by ICE</title>
-      <description><![CDATA[En blond, norsk kvinne har blitt arrestert av ICE. Litt stas? Erna Solberg vil kvitte seg med fylkeskommunen. Og så?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/2d4f9b01-220d-4ff7-8f9b-01220dcff702_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/2d4f9b01-220d-4ff7-8f9b-01220dcff702_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:22</itunes:duration>
-      <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>
