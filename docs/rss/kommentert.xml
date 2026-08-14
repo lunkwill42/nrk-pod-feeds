@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:09:22 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 17:46:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:59:36 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 12:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fJea6fp4BPL_Nq5KkWIpQQdmDbwOyidlOkr0SZzAXrGg.jpg"/>
+    <item>
+      <title>Svartmaler de med vilje? – Åpenbart bevisst</title>
+      <description><![CDATA[Norge tjener mye penger hver dag. Oljefondet er gigantisk. Men politikerne krangler om drivstoff, mat- og strømpriser. Og mange sier det er krise. Men er det egentlig det? 
+
+Og vi debriefer sesongens første partilederdebatt. Episoden er spilt inn under Arendalsuka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b1fe62ba-7520-4ede-be62-ba75208edec6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b1fe62ba-7520-4ede-be62-ba75208edec6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:13</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 12:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RTDNHOf5_FQUU1B20rFY4glTSywcxzVynslvMdPAK4hg.jpg"/>
+    </item>
     <item>
       <title>Søreide vs Listhaug: Harde angrep fra Høyre</title>
       <description><![CDATA[Ine Eriksen Søreide tar et kraftig oppgjør med Frp-leder Sylvi Listhaug. 
@@ -297,15 +308,6 @@ Rettelse: I en tidligere versjon av denne episoden blir det sagt at det er sanns
       <itunes:duration>23:32</itunes:duration>
       <pubDate>Tue, 10 Feb 2026 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/LS5iwJAzeOv2_Inw3b_olw75P8R-FeO-cC7edsV6TRUg.jpg"/>
-    </item>
-    <item>
-      <title>Mektig diplomatpar i Epstein-trøbbel</title>
-      <description><![CDATA[Terje Rød-Larsen og Mona Juul. Norges kanskje mektigste diplomatpar. Nå forteller Epstein-dokumentene en ny historie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/eea4af10-d309-440f-a4af-10d309b40fba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:03</itunes:duration>
-      <pubDate>Thu, 05 Feb 2026 18:45:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/L_-3ZktSw2H3pqvOOl03bwJ0CiyPKprXtZNmeHxuwqpw.jpg"/>
     </item>
   </channel>
 </rss>
