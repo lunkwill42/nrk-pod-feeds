@@ -8,10 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:04:28 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:18:36 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Antarktis i sentrum!</title>
+      <description><![CDATA[I dagens Tårn drar vi helt ned til Antarktis for å kjenne på klodens mest ekstreme livsbetingelser.
+Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:33</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw.jpg"/>
+    </item>
+    <item>
+      <title>Jubileum! - Filosofi vs KI vs BioTech</title>
+      <description><![CDATA[Bonusepisode! Hva er viktigst: Filosofi, kunstig intelligens eller bioteknologi?  Tiårets kamp utkjempa under Abels tårns 15-årsjubileum. Dessuten får du høydepunkter fra musikkeksperimentet: Hva skjer når en gitar senkes i flytende nitrogen og en metallvokalist growler med helium?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:49</itunes:duration>
+      <pubDate>Fri, 07 Aug 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/H-9sU5vpJTYPyxzm7S7caw2R9u1fMc_Wseyb_bcjN9_g.jpg"/>
+    </item>
     <item>
       <title>Jubileum! - Folkets drømmepanel</title>
       <description><![CDATA[Er Inga Strümke maskin eller menneske? Og hvordan kan vi vite det? Dette er et av spørsmålene folkets drømmepanel fikk bryne seg på under Abels tårns 15-årsjubileum. Og panelet - det var stemt fram av våre lyttere.]]></description>
@@ -270,24 +289,6 @@ Lurer du på sære saker? Send inn spørsmål til Abels Tårns kompetente eksper
       <itunes:duration>33:22</itunes:duration>
       <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Klitoris er større enn du tror</title>
-      <description><![CDATA[Forskere har kartlagt alle nervecellene i det undervurderte organet. Andre vet hvordan gamle celler kan bli som nye. Og så er det oppdaget et spesielt cellevev som jobber som megler i kroppen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b9cf2b9f-9717-4f7f-8f2b-9f9717af7f35_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b9cf2b9f-9717-4f7f-8f2b-9f9717af7f35_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:04</itunes:duration>
-      <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Internett kan kollapse</title>
-      <description><![CDATA[Kanskje allerede om seks måneder. Dessuten, vi har ingen avfallsplan for vindmølleskrot. Men HIV-forskere har gode nyheter: En Oslomann er kurert]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/348deca5-e138-4914-8dec-a5e1380914e5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/348deca5-e138-4914-8dec-a5e1380914e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:37</itunes:duration>
-      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
