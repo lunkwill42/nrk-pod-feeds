@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Aug 2026 15:17:50 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 16:30:00 +0200</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:01:10 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 14:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Else Kåss Furuseth / Espen Abrahamsen / Silje Nordnes</title>
+      <description><![CDATA[TILBAKEMELDING: Søstrene Sisters Tatoveringsklubb / PROBLEMER: Livsvarig vennskap eller ny kjærlighet? / Må man ha nye klær til skolestart? / Alle boksene! / Lydoppgave! / Ensom i kollektiv / Må bli far / Vil manipulere kjæresten min til å ta lappen / Hva gjør jeg med gifteringen? / Nyutdannet kollega vet alltid best]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ef8f65fd-6bef-4f79-8f65-fd6bef6f79ad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ef8f65fd-6bef-4f79-8f65-fd6bef6f79ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:11:38</itunes:duration>
+      <pubDate>Sat, 15 Aug 2026 14:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7-wEcjbjl9aK-gSXOJfcIws2KOncPOizvj4EpVBHsTSw.jpg"/>
+    </item>
     <item>
       <title>«Tenk at en så enkel ting for meg, kan bety så mye for noen andre»</title>
       <description><![CDATA[Oppsummering av sommer. Tilbakemelding fra Indiana Scones og sesongens første fyllemail (i to deler). Nå er vi i gang!]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>02:08:20</itunes:duration>
       <pubDate>Sat, 25 Apr 2026 13:12:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jZRchI0RllA2Jhh3ayZ0qgVHSbomno6lwI3L0HtZwxVg.jpg"/>
-    </item>
-    <item>
-      <title>Arne Judas Treholt!</title>
-      <description><![CDATA[Quiznytt og sår fyllemail!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/c6a2f78f-cce8-47ce-a2f7-8fcce897ce31_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/c6a2f78f-cce8-47ce-a2f7-8fcce897ce31_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:13</itunes:duration>
-      <pubDate>Wed, 22 Apr 2026 13:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/XYHwtOhOe5dJjdJg9eQTJgV_HKk7iEMbI-VFWFjip1jA.jpg"/>
     </item>
   </channel>
 </rss>
