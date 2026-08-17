@@ -1624,7 +1624,7 @@ const feeds = [
     "id": "trygdekontoret",
     "title": "De 30 siste fra Trygdekontoret",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "turister",

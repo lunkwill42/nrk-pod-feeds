@@ -1,20 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Trygdekontoret</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Trygdekontoret. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/trygdekontoret for mer informasjon.</description>
+    <title>De 30 siste fra Trygdekontoret</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Trygdekontoret. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/trygdekontoret for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 15 Jun 2026 05:28:23 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:18:03 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
     <item>
+      <title>Skjebnemellomvalget</title>
+      <description><![CDATA[Kan det amerikanske demokratiet reddes eller har det allerede kollapset? Trygdekontoret tar pulsen på det amerikanske mellomvalget med Hilde Restad og Evan McLaren - live fra Arendalsuka.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/7d276631-6862-4dd7-a766-3168624dd777_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7d276631-6862-4dd7-a766-3168624dd777_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:37</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g.jpg"/>
+    </item>
+    <item>
       <title>Spritkongen</title>
-      <description><![CDATA[Erik Fallo var Norges største og mest kjente spritsmugler i en årrekke. Men så begynte folk å dø av drikkevarene hans. Med forfatter Jon Gangdal.]]></description>
+      <description><![CDATA[Erik Fallo var Norges største og mest kjente spritsmugler i en årrekke. Men så begynte folk å dø av drikkevarene hans. Med forfatter Jon Gangdal.
+Sesongfinale!]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/200ccede-f865-44a1-8cce-def86554a1d8_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/200ccede-f865-44a1-8cce-def86554a1d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:04</itunes:duration>
@@ -104,6 +114,182 @@ I boka "Såret i strid" forteller Bragstad om hverdagen som soldat i Afghanistan
       <itunes:duration>57:39</itunes:duration>
       <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0a3pUKlxe5oH3MbJfjk3iAZd_ixVg_4eOafV-agDDiNg.jpg"/>
+    </item>
+    <item>
+      <title>Kampen om Arktis</title>
+      <description><![CDATA[Hvorfor er Trump så interessert i Grønland? Og hva skjer med maktbalansen i verden når isen smelter? Med Andreas Østhagen, seniorforsker ved Fridtjof Nansens institutt. 
+
+NB. Denne episoden ble spilt inn før krigen i Iran.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/e18d5cc7-75e5-419d-8d5c-c775e5619d23_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/e18d5cc7-75e5-419d-8d5c-c775e5619d23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:32</itunes:duration>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
+    <item>
+      <title>Konspirasjonsteorier</title>
+      <description><![CDATA[Hva gjør du når en av dine nærmeste forsvinner ned i det konspiratoriske kaninhullet? Christine Rehn Jensen har skrevet boka "Mamma er konspirasjonsteoretiker".
+
+Tilsvaret fra Christines mor kan du lese her: 
+https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/f8da7ee0-b19c-4360-9a7e-e0b19c83606f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f8da7ee0-b19c-4360-9a7e-e0b19c83606f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:34</itunes:duration>
+      <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mFHMzUtP1W5F1bELOY3ahgo2bUknwoVFMyYMQq5Y0m3A.jpg"/>
+    </item>
+    <item>
+      <title>Trumps bakgård</title>
+      <description><![CDATA[Amerikanske presidenter har en over 200 år lang tradisjon med å ture fram i Latin-Amerika og Trump er ikke noe unntak. Med statsviter og professor Benedicte Bull.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/705b349d-0e84-45a6-9b34-9d0e8425a6ff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/705b349d-0e84-45a6-9b34-9d0e8425a6ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
+    <item>
+      <title>Harald Hardråde</title>
+      <description><![CDATA[Hvem var Norges siste vikingkonge? Historiker Tore Skeie har skrevet om Harald Hardrådes brutale liv, fra slaget på Stiklestad til forsøket på å erobre England.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_vXEx6OAKofIpER3bM_ZbQT5Nyi2_3rxSFNP_6ZXdMdQ.jpg"/>
+    </item>
+    <item>
+      <title>Frontkjempere</title>
+      <description><![CDATA[Hva fikk unge nordmenn til å verve seg i Waffen-SS og kjempe på nazistenes side? Forfatter Torgrim Eggen har dykket ned i sin egen families mørke fortid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/d4d2cf91-c941-402e-92cf-91c941e02e9a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/d4d2cf91-c941-402e-92cf-91c941e02e9a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:22</itunes:duration>
+      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
+    <item>
+      <title>Epstein</title>
+      <description><![CDATA[Hva kan Epstein-filene fortelle oss om elitenes makt? Med journalist Martin Gedde-Dahl.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/1dc25e2f-a7c8-44fc-825e-2fa7c8b4fc97_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/1dc25e2f-a7c8-44fc-825e-2fa7c8b4fc97_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:36</itunes:duration>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
+    <item>
+      <title>Fødsel</title>
+      <description><![CDATA[Cathrine Frost har laget humorforestilling av sin egen dramatiske historie om å bli mor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c1b6965c-c29d-4f41-b696-5cc29d8f41f3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c1b6965c-c29d-4f41-b696-5cc29d8f41f3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:55</itunes:duration>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2PmB_mVuHE1pJ5LZbFJ7mQkfmLLcvhrH1kE8VZ_Xdx6g.jpg"/>
+    </item>
+    <item>
+      <title>Redningsmannen</title>
+      <description><![CDATA[Bjørn Carlsen har reddet liv fra helikopter i nesten 40 år.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw.jpg"/>
+    </item>
+    <item>
+      <title>R.I.P. USA</title>
+      <description><![CDATA[Har tiden kommet for å erklære det amerikanske liberale demokratiets død? Ja, mener statsviter og USA-ekspert Hilde Restad, som har skrevet boka "USA - en nekrolog?"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/ef918086-75ea-4dae-9180-8675ea0dae97_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ef918086-75ea-4dae-9180-8675ea0dae97_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PUWANEyhh3nwUJJphx11UQewvR09W4co8oq596cCRgUA.jpg"/>
+    </item>
+    <item>
+      <title>Flophouse America</title>
+      <description><![CDATA[Flophouse America er en rystende dokumentar om barn som vokser opp i amerikansk hotellslum. Vi møter filmskaperen, Monica Strømdahl.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/0741f781-c819-436e-81f7-81c819436e4d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0741f781-c819-436e-81f7-81c819436e4d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:59</itunes:duration>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
+    <item>
+      <title>Teknologiens makt</title>
+      <description><![CDATA[Hvor stor kontroll har KI og algoritmer over livene våre - og kan vi ta tilbake styringen? Forfatter og KI-ekspert Elisabeth Austad Asser er dagens gjest.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/75e6ae04-d90e-4a03-a6ae-04d90e7a035f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/75e6ae04-d90e-4a03-a6ae-04d90e7a035f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:57</itunes:duration>
+      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XhHqs5Ly5c1VCmA0kyuycgpRuoXvJdEkZAeM9nYHJakw.jpg"/>
+    </item>
+    <item>
+      <title>Morten "Diesel" Dahl</title>
+      <description><![CDATA[Trommeslager, MC-entusiast og rockelegende Morten "Diesel" Dahl om TNT, Hells Angels og kampen mot kreften.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/0f5939f8-fab0-446d-9939-f8fab0d46d49_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0f5939f8-fab0-446d-9939-f8fab0d46d49_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:01</itunes:duration>
+      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i_j0Vh6aiT6zwdRvLQRRKALoI3huQEfDpOeh8UnAnr-A.jpg"/>
+    </item>
+    <item>
+      <title>Da USA var idealet</title>
+      <description><![CDATA[For 200 år siden startet utvandringen fra Norge til USA. Hva slags inspirasjon fant datidens arbeideraktivister i det amerikanske demokratiet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/95041e31-6fed-42de-841e-316fedf2def2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/95041e31-6fed-42de-841e-316fedf2def2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nj8sVDIyhHRlcxBu8Pv_DQ4A5U-uhYMdtoKHW-y-Hj4g.jpg"/>
+    </item>
+    <item>
+      <title>Norsk mat</title>
+      <description><![CDATA[Kokk og forfatter Andreas Viestad har dykket ned i norsk mathistorie fra rakfisk til Grandiosa.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/de84e632-a00b-46e7-84e6-32a00ba6e759_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/de84e632-a00b-46e7-84e6-32a00ba6e759_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:20</itunes:duration>
+      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CTN7nUQVZnpgHsNZveRF1AhqQIh8O9vgRne02IOyBKsg.jpg"/>
+    </item>
+    <item>
+      <title>Scandifuturisme</title>
+      <description><![CDATA[Eirik Storesund fra podkasten Brute Norse presenterer sitt manifest om skandifuturisme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c835efce-851a-4a22-b5ef-ce851a5a2244_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c835efce-851a-4a22-b5ef-ce851a5a2244_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:03</itunes:duration>
+      <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OiFE0dWIOnDLJUr8PLm9rAxhA2pqIw6SSMB8pFRqMFfg.jpg"/>
+    </item>
+    <item>
+      <title>Obduksjon</title>
+      <description><![CDATA[Forfatter og rettsmedisiner Ida Kathrine Gravensteen beskriver lukter, lyder og humor på obduksjonssalen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/5e6c76d5-6509-4a53-ac76-d565096a534e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5e6c76d5-6509-4a53-ac76-d565096a534e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:41</itunes:duration>
+      <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TkVg5kYE-omghXbTQ9vvHw8AZ42JxrGUC4HIqTeIcB-w.jpg"/>
+    </item>
+    <item>
+      <title>Gruvebyen og urfolkskampen</title>
+      <description><![CDATA[Hvem vinner når det grønne skiftet kolliderer med urfolks rettigheter? Forfatter Geir Ramnefjell dro til den svenske gruvebyen Kiruna for å finne svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/f337d2a2-cbbd-4944-b7d2-a2cbbd19442c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f337d2a2-cbbd-4944-b7d2-a2cbbd19442c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    </item>
+    <item>
+      <title>Musikk spessial: Oasis</title>
+      <description><![CDATA[Kritiker Aksel Kielland og debattansvarlig Hans Petter Sjøli om Noel og Liams Oasis-comeback som helbreder et splittet Storbritannia.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/f0c7a6fe-587f-4b31-87a6-fe587fab317e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f0c7a6fe-587f-4b31-87a6-fe587fab317e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:07</itunes:duration>
+      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7_HlJfzQbuBhcXJiaOBcWQIiSinxs4OGUGKxERQFqq5A.jpg"/>
+    </item>
+    <item>
+      <title>Iran og Israel</title>
+      <description><![CDATA[Hvorfor gikk Iran og Israel fra å være allierte til å bli bitre fiender? Dagens gjest er historiker Eirik Kvindesland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/1d517823-cf10-480a-9178-23cf10480a55_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/1d517823-cf10-480a-9178-23cf10480a55_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:28</itunes:duration>
+      <pubDate>Mon, 10 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uIcsg96x3g_AsEByBm5YrgHzLuLfKtuYNbAoPEe3qBuw.jpg"/>
     </item>
   </channel>
 </rss>
