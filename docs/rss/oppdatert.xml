@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 05:05:23 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:08:09 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Kjendismor forsvunnet: Krypto, blod og skrekkbrev</title>
+      <description><![CDATA[Kan Nancy Guthrie (84) fortsatt være i live?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/02dc4559-1167-499f-9c45-591167f99fd8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/02dc4559-1167-499f-9c45-591167f99fd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:45</itunes:duration>
+      <pubDate>Mon, 17 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6gSHRGhCgDVCSJOZJ97lhAIHd3ET9pH9s6-w-njAd6kQ.jpg"/>
+    </item>
     <item>
       <title>Tørke, regn og varme: Kva skal vi ete i 2050?</title>
       <description><![CDATA[Kanskje består fredagstacoen av norsk avokado og ein pose tang-chips.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>16:08</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0Is0UetxW_zYbjtIXyU1Ogs2mfQiLl5MObmSoXjPG0JQ.jpg"/>
-    </item>
-    <item>
-      <title>Dobbeltdrap i Sverige: Er nordmannen torpedo?</title>
-      <description><![CDATA[En mann fra Sørlandet knyttes til en blodig gjengkonflikt i Sverige.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8a7b8710-2770-41d0-bb87-10277091d022_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8a7b8710-2770-41d0-bb87-10277091d022_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:13</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nwF5UtyIgwRhIpmqzrrEngjFMRw9W9Z2kpLu2acry3xg.jpg"/>
     </item>
   </channel>
 </rss>
