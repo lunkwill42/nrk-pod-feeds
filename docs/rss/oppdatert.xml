@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:08:09 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:00:45 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>De mystiske brannene i Lofoten: Sto noen bak?</title>
+      <description><![CDATA[Da den lille bygda Laukvik ble rammet av flere uforklarlige branner, tok lokalbefolkningen affære.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cde2c83b-00cf-4586-a2c8-3b00cf1586a6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cde2c83b-00cf-4586-a2c8-3b00cf1586a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:34</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/URvWruIzC6rSbKKiWLsLAgGWHq1oyt5SSCaLKqiE1N2A.jpg"/>
+    </item>
     <item>
       <title>Kjendismor forsvunnet: Krypto, blod og skrekkbrev</title>
       <description><![CDATA[Kan Nancy Guthrie (84) fortsatt være i live?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>13:53</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GiAunoPy3lJpHW_mc2h4Sw6WHPe1kqjM5YMO2YTaWd1Q.jpg"/>
-    </item>
-    <item>
-      <title>Katastrofebrannen i LA: Sto en 29-åring bak?</title>
-      <description><![CDATA[Én mann er tiltalt for å ha startet branninfernoet i 2025 som i tok livet av flere mennesker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1af4468c-5041-4c2a-b446-8c50417c2afe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:08</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0Is0UetxW_zYbjtIXyU1Ogs2mfQiLl5MObmSoXjPG0JQ.jpg"/>
     </item>
   </channel>
 </rss>
