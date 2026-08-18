@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Aug 2026 17:47:23 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:45:46 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>PST henlegger anmeldelse om hets mot AUF-leder</title>
+      <description><![CDATA[Men debatten om hatytringer er ikke henlagt, advokater går inn for å utvide eller endre straffelovens hatparagraf.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f88f98b3-bd4f-43ad-8f98-b3bd4f23adbb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f88f98b3-bd4f-43ad-8f98-b3bd4f23adbb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qHYxEG8Wyu1p6rXW9sAMYQfJ048VS-rE86laTySaJiqA.jpg"/>
+    </item>
     <item>
       <title>Bør vi ha mer dialog med Russland?</title>
       <description><![CDATA[Russlandforsker mener at Norge bør ha bedre dialog med Russland enn i dag.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 08 Jul 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/rpP0Ob1lqZBlT5-hXIR46QWBvfyGEghkSDbGb_q67haw.jpg"/>
-    </item>
-    <item>
-      <title>- Døgnåpen skjenking bør gjøres permanent</title>
-      <description><![CDATA[Suksessen med VM-reglene setter fart i debatten om skjenking av alkohol på utesteder]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e6b222a-6cba-4a60-ab22-2a6cba6a6092_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 07 Jul 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NCldpuTZR6iEt-5cdACzJg76vMU2SM2dJdJmfVu-ZfmA.jpg"/>
     </item>
   </channel>
 </rss>
