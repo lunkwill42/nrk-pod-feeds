@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 25 Jul 2026 06:31:15 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:55:51 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 09:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
+    <item>
+      <title>Kommer 22.august: Døden på Operafjellet</title>
+      <description><![CDATA[Et russisk fly med 141 om bord styrter på Svalbard. Redningsarbeidet er vanskelig, og midt i katastrofen nekter russerne å følge norsk lov.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/832077c7-b105-4a44-a077-c7b1059a44e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:29</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/p84kxYwg6EII-7Z7U3kiwgiG4lPJ5Z3IYAC03JqXMbwA.jpg"/>
+    </item>
     <item>
       <title>«Deep shit» (2:2)</title>
       <description><![CDATA[Snøballen ruller. Hundrevis av millioner kroner vil gå tapt hvis ikke kommunene satser enda mer.]]></description>
@@ -116,7 +125,7 @@
       <description><![CDATA[Morderen legger på flukt. Etter flere polititabber, må Synnøve til Polen for å møte han som drepte kjæresten hennes, Nawaz.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/09a7828e-6770-4bba-a782-8e6770fbba8f_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/09a7828e-6770-4bba-a782-8e6770fbba8f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:38</itunes:duration>
+      <itunes:duration>42:30</itunes:duration>
       <pubDate>Sat, 13 Jun 2026 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
     </item>
@@ -125,7 +134,7 @@
       <description><![CDATA[Angriperen smiler når han stikker kniven i brystet på Ali. Men han rører ikke Synnøve, som holder rundt Ali.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/0d2949cd-1c79-45f1-a949-cd1c79d5f16d_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/0d2949cd-1c79-45f1-a949-cd1c79d5f16d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:31</itunes:duration>
+      <itunes:duration>32:16</itunes:duration>
       <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W5sRgeU6OBxE0GTRWuww2Aspc3btkSCQ5PJDk-gqRCRw.jpg"/>
     </item>
@@ -272,15 +281,6 @@
       <itunes:duration>40:46</itunes:duration>
       <pubDate>Sat, 22 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9hKGAT7tSRCF4L3nlHnVDA5WGOBYesUgpvFuayzWC_PA.jpg"/>
-    </item>
-    <item>
-      <title>Det store fallet (2:2)</title>
-      <description><![CDATA[Når politiet står på døra, nektar ordføraren for at noko ulovleg har skjedd mellom han og Lisanne. Det blir ein kamp om sanninga.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/ed16d80a-6394-4a1c-96d8-0a63941a1c04_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/ed16d80a-6394-4a1c-96d8-0a63941a1c04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:09</itunes:duration>
-      <pubDate>Sat, 08 Nov 2025 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BkHd4ndpBHbEC1BqzHTUMQrhQcqNzB4F62qQG9hxH_-Q.jpg"/>
     </item>
   </channel>
 </rss>
