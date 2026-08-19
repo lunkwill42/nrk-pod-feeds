@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:10:49 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:12:06 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Fra sump til Skåber</title>
+      <description><![CDATA[Rafael Eriksen skal lage musikkprogram,  hva lukter Daniels finger og vi prøver å skjønner hvordan man blander gløgg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3d25e3aa-cf84-4c0b-a5e3-aacf84fc0b7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:03</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel skal få monokkel</title>
       <description><![CDATA[Daniel finner den beste låta å drite til, Anna er kokforbanna på folk som ikke ringer opp og hvem har den beste bryllupstalen?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/cdee9770-5c3a-4f27-ae97-705c3a8f2719_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:55</itunes:duration>
       <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 2: Bang kondomer på 7/11</title>
-      <description><![CDATA[Markus har sett folk kjøpe kondom, hva er det motsatte av en utedo og det blir Quizvang.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/facd548e-c803-4df1-8d54-8ec8035df143_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/facd548e-c803-4df1-8d54-8ec8035df143_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:44</itunes:duration>
-      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
