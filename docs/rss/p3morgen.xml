@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 08:55:41 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:56:24 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>En kynisk verden.</title>
+      <description><![CDATA[Arin skal leie ut leiligheten sin, Henning og Jonas skal gi tilbakemeldinger på annonsen hennes.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/618ae86d-edab-4ac2-8ae8-6dedab6ac2a0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/618ae86d-edab-4ac2-8ae8-6dedab6ac2a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Forslag til kattenavn</title>
       <description><![CDATA[Jonas har kjøpt ny kjøkkenmaskin,  Arin skammer seg litt og Henning har forslag til kattenavn.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:25</itunes:duration>
       <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
-    </item>
-    <item>
-      <title>Østlandsk er ekte norsk.</title>
-      <description><![CDATA[Vi snakker om sjamanbyen Lørenskog, Henning deler sin opplevelse av «Musikkens dag» og Jonas har lekt med NRK-gpt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4f6041e5-f8cb-4316-a041-e5f8cb53166c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4f6041e5-f8cb-4316-a041-e5f8cb53166c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>
