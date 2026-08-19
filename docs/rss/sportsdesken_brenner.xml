@@ -1,17 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 27 siste fra Sportsdesken brenner</title>
+    <title>De 28 siste fra Sportsdesken brenner</title>
     <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 27 episodene fra podkasten Sportsdesken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sportsdesken_brenner for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 28 episodene fra podkasten Sportsdesken brenner. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sportsdesken_brenner for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 12 Aug 2026 05:06:07 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:03:55 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Martin Ødegaard sendte Donnarumma på tyrkisk klinikk</title>
+      <description><![CDATA[Henriette Jæger spyr seg til historisk EM-gull og Martin Ødegaard har ydmyket Gianluigi Donnarumma med en drøy finte.
+Sportsdesken oppsummerer Silly Season og gjør seg klar for Premier League-starten. 
+Bli med i vår Fantasy-liga med koden: oyuwxr]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/42a9688a-178e-4b51-a968-8a178e0b5182_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/42a9688a-178e-4b51-a968-8a178e0b5182_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:08</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>BH-doping i Frankrike og Mikkel Rev i VAR-bua</title>
       <description><![CDATA[Det var øredobber, ny fade og snakkende bein som skulle til for at Jakob Ingebrigtsen sikret nytt EM-gull. Gratulerer! 

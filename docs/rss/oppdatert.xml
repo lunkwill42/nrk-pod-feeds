@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:00:45 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:03:44 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Oksepenis og grisehoder: Fadderuke-rituale avslørt</title>
+      <description><![CDATA[Etter flere tiår med hemmelighold har en av fjorårets veterinærstudenter valgt å fortelle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/85c5c8d5-e85a-432f-85c8-d5e85a132fc1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/85c5c8d5-e85a-432f-85c8-d5e85a132fc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:21</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GOFnIx3u8czGG6W11PkHGAys_iU2WDj1WnYRbnAeSdJA.jpg"/>
+    </item>
     <item>
       <title>De mystiske brannene i Lofoten: Sto noen bak?</title>
       <description><![CDATA[Da den lille bygda Laukvik ble rammet av flere uforklarlige branner, tok lokalbefolkningen affære.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>14:08</itunes:duration>
       <pubDate>Thu, 25 Jun 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Um1FEujV6wsdry3M28YVPQeml7MaQ20wqmRa0582f_pg.jpg"/>
-    </item>
-    <item>
-      <title>Iran i VM: Storpolitisk drama</title>
-      <description><![CDATA[Landslagstreneren til Iran kaller laget for det mest undertrykte i VM-historien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/85b5ce4c-55fe-478f-b5ce-4c55fe178f9e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/85b5ce4c-55fe-478f-b5ce-4c55fe178f9e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:53</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GiAunoPy3lJpHW_mc2h4Sw6WHPe1kqjM5YMO2YTaWd1Q.jpg"/>
     </item>
   </channel>
 </rss>

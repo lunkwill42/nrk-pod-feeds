@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 15 Aug 2026 04:49:24 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:02:54 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Fra slave til slaveeier 2:3</title>
+      <description><![CDATA[Jacob prøver å rømme, men unnslipper ikke lenkene med det første]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/f1b40464-2397-4a02-b404-6423977a02c0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/f1b40464-2397-4a02-b404-6423977a02c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:51</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Fra slave til slaveeier 1:3</title>
       <description><![CDATA[I 1752 sitter dødsdømte Jacob i en mørk celle på Bergenshus
@@ -273,15 +282,6 @@ festning. Men han er en dyktig sjømann, og får derfor en ny, utrolig sjanse.]]
       <itunes:duration>19:54</itunes:duration>
       <pubDate>Thu, 26 Jun 2025 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ONinqfM997Cn2qq3DyoCkQrUM3x5Odg5sOSTOjQvMENQ.jpg"/>
-    </item>
-    <item>
-      <title>Jakten på djevelens hjelper</title>
-      <description><![CDATA[Finnmark, 1691. Myndighetene mener Anders Poulsens samiske tromme er djevelsk. Nå må han kjempe en hard kamp for å renvaske seg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/c7afb89c-eec9-489d-a658-532513d7aaaa_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/c7afb89c-eec9-489d-a658-532513d7aaaa_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:35</itunes:duration>
-      <pubDate>Thu, 26 Jun 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PzkgBJUtA38pbcGl6PXlVw4B2nT_ViLcx1jn7Hyfvpsw.jpg"/>
     </item>
   </channel>
 </rss>
