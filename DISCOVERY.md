@@ -1,4 +1,8 @@
 # Podcast Discovery Changelog  
+### 2026-08-20  
+- Updated podcast 'Bakrommet' (`bakrommet`)  
+- Updated podcast 'Bibelen' (`bibelen`)  
+- Updated podcast 'Radio Mørch' (`radio_moerch`)  
 ### 2026-08-18  
 - Updated podcast 'Kveldstanker' (`kveldstanker`)  
 ### 2026-08-18  
