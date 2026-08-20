@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:01:02 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:02:56 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Hedda Skaug: Å slippe noen inn</title>
+      <description><![CDATA[Hedda Skaug røper ny flørt. Hun forteller om singellivet, dating og det å tørre å slippe noen inn.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c412a79e-36fc-4827-92a7-9e36fcb8272c_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c412a79e-36fc-4827-92a7-9e36fcb8272c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:40</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gp_7aFmBPSANOkt3GfdEKAZ-ZNT-wRpBvifPC_rSjjpA.jpg"/>
+    </item>
     <item>
       <title>Nils Bech: Skam</title>
       <description><![CDATA[Sanger Nils Bech tar oss med på sin kjærlighetsreise fra skam til selvaksept.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>49:18</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0LtCzBPlKXURKiZzo21NeAX7Tv4u99P-iLPJXUOhM9Fw.jpg"/>
-    </item>
-    <item>
-      <title>Chris Holsten: Mann, 33,  singel</title>
-      <description><![CDATA[Artist Chris Holsten forteller om kjærlighetslivet, dating og ønsket om egen familie.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/26af704d-113f-4f12-af70-4d113fef12fd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/26af704d-113f-4f12-af70-4d113fef12fd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:21</itunes:duration>
-      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HaavT4MVxM1-awRk8F_KgwbF5VEb64cLniycWvuDjgsg.jpg"/>
     </item>
   </channel>
 </rss>

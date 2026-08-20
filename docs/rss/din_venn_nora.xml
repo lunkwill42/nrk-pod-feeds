@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:09:03 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:02:20 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Å smøre fremmede med solkrem</title>
+      <description><![CDATA[Traumatiske sommerminner, jakten på den perfekte garderoben og en liten prat om tunge kropper.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/9580015f-7195-42d6-8001-5f719512d69e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/9580015f-7195-42d6-8001-5f719512d69e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:23</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Det må være stress å være mann</title>
       <description><![CDATA[... men jeg har løsningen på hvordan det kan bli bedre. I tillegg har jeg nesten gjort i buksa og blitt sleika i øret av en fremmed.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:23</itunes:duration>
       <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
-    </item>
-    <item>
-      <title>Fett hår og sidecut i 2016</title>
-      <description><![CDATA[Svar fra den finske ambassaden, følgere på Instagram fra uventet hold, og et trendy tilbakeblikk til 2016.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/301d20d6-2668-43cf-9d20-d6266883cff9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:18</itunes:duration>
-      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
   </channel>
