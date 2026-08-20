@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:11:46 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 13:40:00 +0200</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:45:01 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Kvinnen med printeren</title>
+      <description><![CDATA[Hun er 35, fotfølger Trump og mater ham med skryt fra sosiale medier. Hvem er Natalie Harp?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6ef15c31-3968-4f52-b15c-3139689f5222_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6ef15c31-3968-4f52-b15c-3139689f5222_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LXOYx_06-LKkbRZhfV3-YwWV5F4EpJAPENIIS7fHqK9A.jpg"/>
+    </item>
     <item>
       <title>Hva koster et varmere Norge?</title>
       <description><![CDATA[Norge må rustes for et varmere, våtere og villere klima. Men hvor mye bør vi bruke på klimatilpasning nå, og hvor dyrt kan det bli å la være?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>24:26</itunes:duration>
       <pubDate>Tue, 26 May 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qaztMQDwfmu6gnwWC9uf5wKEipTxc2p5Ar_7XeCFuTUg.jpg"/>
-    </item>
-    <item>
-      <title>Er asylordninga utdatert?</title>
-      <description><![CDATA[Har vi laga eit system som favoriserar dei som har pengar, nettverk og helse til å klare reisa, og dermed sviktar dei som sit att?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2d933047-84ae-43ed-9330-4784ae33ed43_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2d933047-84ae-43ed-9330-4784ae33ed43_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:19</itunes:duration>
-      <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tJ-GfCJITHf1CqzaT_1hUwFabrYRslxEvGCypz8dOmGQ.jpg"/>
     </item>
   </channel>
 </rss>
