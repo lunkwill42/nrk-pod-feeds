@@ -1,20 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Bibelen</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Bibelen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bibelen for mer informasjon.</description>
+    <title>De 30 siste fra Bibelen</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Bibelen. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/bibelen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Mar 2026 05:59:25 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Mar 2026 06:01:00 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:11:55 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
     <item>
+      <title>Døperen Johannes (31:40)</title>
+      <description><![CDATA[Han gir folk en ny start, men ender selv med hodet på et fat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/dcf51776-1a30-406f-b517-761a30e06fac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/dcf51776-1a30-406f-b517-761a30e06fac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:27</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hk3r3WohJKMbQk0p2Edm8QUZcuGFJ-IExdYuxqrhPYHg.jpg"/>
+    </item>
+    <item>
       <title>Jona i fisken (30:40)</title>
-      <description><![CDATA[Jona prøver å stikke av fra Gud. Det blir en oppslukende opplevelse. Flere episoder kommer i august 2026.]]></description>
+      <description><![CDATA[Jona prøver å stikke av fra Gud. Det blir en oppslukende opplevelse.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/b8619bd8-9a15-4f8a-a19b-d89a159f8afb_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bibelen/b8619bd8-9a15-4f8a-a19b-d89a159f8afb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:35</itunes:duration>
@@ -101,6 +110,178 @@
       <itunes:duration>22:19</itunes:duration>
       <pubDate>Thu, 01 Jan 2026 06:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/U4CEg9Tlz1-mqXIIGOQ82Aj2nxdwEsM_njx3Th6fJmJg.jpg"/>
+    </item>
+    <item>
+      <title>David mot kong Saul (20:40)</title>
+      <description><![CDATA[Alle elsker David. Men kong Saul blir sjalu. Ikke engang musikkterapi hjelper nå.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/4167c1c4-7d45-4597-9843-28f21b5ef234_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/4167c1c4-7d45-4597-9843-28f21b5ef234_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:49</itunes:duration>
+      <pubDate>Wed, 15 Oct 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4KqJ8INE-SinnMEAXNKAXgTRWHRkk8JL8Zbe-a-s6gdg.jpg"/>
+    </item>
+    <item>
+      <title>David mot Goliat (19:40)</title>
+      <description><![CDATA[Seier mot alle odds! En ung sauegjeter og musiker går fra underdog til selve drømmemannen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/8eb7ba32-3b85-4fc3-a4fe-da8544974171_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/8eb7ba32-3b85-4fc3-a4fe-da8544974171_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:03</itunes:duration>
+      <pubDate>Wed, 08 Oct 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZBKzdRd3dEaYXkaIkLV84gXsor22JMPC44edIOMRKL7w.jpg"/>
+    </item>
+    <item>
+      <title>Gullbyllene (18:40)</title>
+      <description><![CDATA[Noen stjeler de ti bud. Det skulle de ikke ha gjort! Hilsen Gud.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/0f3c29bb-ed2c-4129-aaef-76f8d1a644a5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/0f3c29bb-ed2c-4129-aaef-76f8d1a644a5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:33</itunes:duration>
+      <pubDate>Wed, 01 Oct 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rr_qRppfnugVW40usT6uwgKZwlq2Qs6cNiKCW5kjqsbQ.jpg"/>
+    </item>
+    <item>
+      <title>Rut – svigermors drøm (17:40)</title>
+      <description><![CDATA[Tidenes mest trofaste svigerdatter setter hele ryktet sitt på spill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/dcf59053-3576-49a3-b89f-d24dc643df4e_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/dcf59053-3576-49a3-b89f-d24dc643df4e_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:55</itunes:duration>
+      <pubDate>Wed, 24 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHErwyWMNs-Ir2GHvA081QLdfhtYHDUDVgFiK6ktlgdQ.jpg"/>
+    </item>
+    <item>
+      <title>Samson og Dalila (16:40)</title>
+      <description><![CDATA[Bibelens sterkeste mann og hans svake punkt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/c96cec82-b754-4d8d-9e40-5c94b554cbe5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/c96cec82-b754-4d8d-9e40-5c94b554cbe5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:42</itunes:duration>
+      <pubDate>Wed, 17 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Wqj13anHpKZSStp9JyaezQmhCSHiIKMWa5F7UzpgsYKA.jpg"/>
+    </item>
+    <item>
+      <title>Teltpluggdrapet (15:40)</title>
+      <description><![CDATA[Verre blir det ikke å sove i telt!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/b3672634-c713-45f6-885d-0596c20eb88d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/b3672634-c713-45f6-885d-0596c20eb88d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:38</itunes:duration>
+      <pubDate>Wed, 10 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/735yxiQk5v_t_22ysHM64A5wIGkgUEy2-X2o1UXghuJQ.jpg"/>
+    </item>
+    <item>
+      <title>Jerikos murer (14:40)</title>
+      <description><![CDATA[Omsider framme i Det lovede land. Men fillern, det bor jo folk der fra før! Israelfolket finner fram et supervåpen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/7e6b6887-74e8-438e-a95c-5cca51bf6d13_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/7e6b6887-74e8-438e-a95c-5cca51bf6d13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:00</itunes:duration>
+      <pubDate>Wed, 03 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oLjRHbBPZ4T1N-z7ZXmn_whyoxhE_52lZPj1BxSr5FHw.jpg"/>
+    </item>
+    <item>
+      <title>Moses og De ti bud (13:40)</title>
+      <description><![CDATA[Moses laster ned retningslinjer fra skyen. Men hvorfor blir han så illsint at han knuser dem etterpå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/cc7f70e2-21f4-4dbe-b7a6-63083dd88336_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/cc7f70e2-21f4-4dbe-b7a6-63083dd88336_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:56</itunes:duration>
+      <pubDate>Wed, 27 Aug 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EINJxfUm-YvBJhPUmfQEmAmU_i0krrR6p3ZT-Q7mYTPA.jpg"/>
+    </item>
+    <item>
+      <title>Moses og de ti plagene (12:40)</title>
+      <description><![CDATA[Fy farao så vanskelig det skulle være å komme seg av gårde fra Egypt, da!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/edc9df43-5f17-4721-af66-682f20402e13_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/edc9df43-5f17-4721-af66-682f20402e13_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <pubDate>Wed, 20 Aug 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ACNAhy5cw_934CcGwgicigaVsJ-fVE3W7WzDzp69oYHQ.jpg"/>
+    </item>
+    <item>
+      <title>Moses i sivet (11:40)</title>
+      <description><![CDATA[Moses redder livet i en kurv, men blir selv drapsmann. Så får han et viktig oppdrag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/b39b2e3b-d686-4ae9-97a7-5445c669b989_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/b39b2e3b-d686-4ae9-97a7-5445c669b989_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:48</itunes:duration>
+      <pubDate>Wed, 13 Aug 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l4pLs4szBAXwbZ49O83EmQO138K2yn2B27YzZdx7Us2w.jpg"/>
+    </item>
+    <item>
+      <title>Josef i Egypt (10:40)</title>
+      <description><![CDATA[Men lillebror var ikke død – Han redder alles liv! Likevel blir det etter hvert farlig dårlig stemning.
+FLERE EPISODER KOMMER 13.08 2025.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/f6554bf8-6a5b-45df-8186-3e64226ed844_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/f6554bf8-6a5b-45df-8186-3e64226ed844_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:08</itunes:duration>
+      <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4sWUvw9MwUOvDPZjt7hoTgRsKif0bpkn4YRHJU9WavXQ.jpg"/>
+    </item>
+    <item>
+      <title>Josef i brønnen (9:40)</title>
+      <description><![CDATA[En haug sjalu brødre kvitter seg med farens favorittsønn. Men han gjør hemmelig kometkarriere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/39ef1989-0a49-43e2-9d1f-174f134605e2_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/39ef1989-0a49-43e2-9d1f-174f134605e2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:34</itunes:duration>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hCoxEV2tVNS9Zct7uEVYwQQSWYue3gHwh2WW74ocVjKA.jpg"/>
+    </item>
+    <item>
+      <title>Jakob (8:40)</title>
+      <description><![CDATA[Luring kler seg ut som sin egen bror, ligger med feil dame og slåss med en engel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/0ad5312e-4464-4415-8c3d-e3676917cb61_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/0ad5312e-4464-4415-8c3d-e3676917cb61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:29</itunes:duration>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mGeZEymZSTLxIye7KM5qZwBQLYUwqsXnUKvhxp4o2yTQ.jpg"/>
+    </item>
+    <item>
+      <title>Abraham og Isak (7:40)</title>
+      <description><![CDATA[Endelig blir Sara (90) en «milf». Men så kommer en grusom test fra Gud!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/d25e738e-59e5-4771-b7d8-6e63bb56de82_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/d25e738e-59e5-4771-b7d8-6e63bb56de82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:40</itunes:duration>
+      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kWAHjzdLMYUn88lPedqiJwbgh76EPbg5VG2ldZZu3i9w.jpg"/>
+    </item>
+    <item>
+      <title>Sodoma og Gomorra (6:40)</title>
+      <description><![CDATA[Ikke Sydens, men syndens hovedstad. Så lenge det varer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/f287ba7f-ff3d-467d-ac04-8b6064bca251_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/f287ba7f-ff3d-467d-ac04-8b6064bca251_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:48</itunes:duration>
+      <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kkRlpiObdDx-aTThgGB_FwiIll8zocWIjGNnjFjtAeLw.jpg"/>
+    </item>
+    <item>
+      <title>Abraham og pakten (5:40)</title>
+      <description><![CDATA[Omskjæring kommer inn i Bibelen. Og språkforvirring.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/c4950ad6-e5ec-4871-8ea2-a3562b981312_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/c4950ad6-e5ec-4871-8ea2-a3562b981312_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:13</itunes:duration>
+      <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DFPzoy9tYF2lMXlCwDI75QzwOj2K77PFA6BTY0TQ4eLQ.jpg"/>
+    </item>
+    <item>
+      <title>Noahs ark (4:40)</title>
+      <description><![CDATA[Gud angrer seg, og tar en omstart av jorda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/5d7f2d2a-410e-4976-82b0-df40c57ac626_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/5d7f2d2a-410e-4976-82b0-df40c57ac626_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:55</itunes:duration>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wD4s8JpiDXkfZ4y1gEsbGwklKVKtvr8S2ZuwNtgy7LhA.jpg"/>
+    </item>
+    <item>
+      <title>Kain og Abel (3:40)</title>
+      <description><![CDATA[Lillebror funnet død i blodig åker. Storebror mangler alibi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/4e394e64-6968-4ad0-8aed-9030efc7dab3_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/4e394e64-6968-4ad0-8aed-9030efc7dab3_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:50</itunes:duration>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YlY_t_JsD0lu9HoUMrqvfQrpNKnVt25jpqTTaRQgzoOQ.jpg"/>
+    </item>
+    <item>
+      <title>Syndefallet (2:40)</title>
+      <description><![CDATA[Hvor lenge var Adam i paradis?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/3d671549-6db9-4325-98da-0bd79f84c7b1_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/3d671549-6db9-4325-98da-0bd79f84c7b1_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:39</itunes:duration>
+      <pubDate>Wed, 01 Jan 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E-uc252NwP8_dKw4ACuuHw0SAZZ8Vrx8ra4pXfE3fE9w.jpg"/>
     </item>
   </channel>
 </rss>

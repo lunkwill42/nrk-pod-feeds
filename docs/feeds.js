@@ -63,7 +63,7 @@ const feeds = [
     "id": "bakrommet",
     "title": "De 30 siste fra Bakrommet",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "baksnakk",
@@ -83,7 +83,7 @@ const feeds = [
     "id": "bibelen",
     "title": "De 30 siste fra Bibelen",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "billis_og_bollos",
@@ -1218,7 +1218,7 @@ const feeds = [
     "id": "radio_moerch",
     "title": "De 30 siste fra Radio Mørch",
     "season": "LATEST_SEASON",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "radio_utslagsnes",
