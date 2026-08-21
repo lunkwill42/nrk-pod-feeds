@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:08:53 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:09:53 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Omkamp om Co2-avgiften</title>
+      <description><![CDATA[Senterpartiet truer med å gå til borgerlig side for å bremse klimaavgifter. SV mener Senterpartiet må forstå at gresset er grønnere på rødgrønn side.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4a92aa0a-268b-4d19-92aa-0a268b1d194e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4a92aa0a-268b-4d19-92aa-0a268b1d194e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:53</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3jKzdMcNN6ts-5Q4mv8WVgiKeTrm3ZWsUtIhX_ZkWDwA.jpg"/>
+    </item>
     <item>
       <title>Internt opprør i Høyre</title>
       <description><![CDATA[Flere kommunelag i Høyre ber partiledelsen snu om drivstoffavgiftene.]]></description>
@@ -282,15 +291,6 @@ Så hvorfor svikter velgerne Vedum?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1DaqXwIoGUYjf-NjqVXVlwhl9eO1SLxyiGEnpSnRvgTQ.jpg"/>
-    </item>
-    <item>
-      <title>Mener SpaceX er en røverhistorie</title>
-      <description><![CDATA[DN-redaktør mener SpaceX er en røverhistorie. Hvor smart er det at Oljefondet kjøper seg opp i selskapet når det børsnoteres?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/a4548a5b-d747-46a1-948a-5bd747d6a157_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/a4548a5b-d747-46a1-948a-5bd747d6a157_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:00</itunes:duration>
-      <pubDate>Fri, 12 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CyjEYGJ7UacxSFS5v46-Egr-UmeZ4LV_hHa9bEtV820g.jpg"/>
     </item>
   </channel>
 </rss>
