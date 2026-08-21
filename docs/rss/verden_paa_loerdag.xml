@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 05:05:45 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:57:05 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>Voldelig mangel på soldater</title>
+      <description><![CDATA[Slitne ukrainske soldater blir banket opp når de skal rekruttere nye. Vasyl fikk kjenne på frykten mange har for å bli sendt i krigen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/cd652402-b8a9-436e-a524-02b8a9c36eb9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/cd652402-b8a9-436e-a524-02b8a9c36eb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:53</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eQSIKJ5_eDPRav4-QkuZ-QN6tZlYsaRCdCftWDynDyoA.jpg"/>
+    </item>
     <item>
       <title>USA, Europa og innvandringen</title>
       <description><![CDATA[Innvandring  splitter både i USA og Europa.  Men hva kan vi lære av hverandre?]]></description>
@@ -273,15 +282,6 @@ NRKs reporter måtte opptre som turist for å se Hormuz-blokaden med egne øyne.
       <itunes:duration>13:29</itunes:duration>
       <pubDate>Tue, 10 Mar 2026 15:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BKxzeHBH8vqidNV2VTxNpwLS7OZWv-QgT6_eUJ8b7bNg.jpg"/>
-    </item>
-    <item>
-      <title>- Vi vinner hvis vi overlever</title>
-      <description><![CDATA[President Zelenskyj er klar for å forhandle med Russland. Han tror at hvis Ukraina overlever som land, så vinner de også krigen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/25144b9a-cb84-48fb-944b-9acb8428fbbd_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/25144b9a-cb84-48fb-944b-9acb8428fbbd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:40</itunes:duration>
-      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PlB1xkyT0PbQl489MpkYhgEFQyalf-5RQGbvPgl1D0Jw.jpg"/>
     </item>
   </channel>
 </rss>
