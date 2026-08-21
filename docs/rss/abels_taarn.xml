@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Aug 2026 04:02:44 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:53:40 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Hvor livsfarlige er trær?</title>
+      <description><![CDATA[Vi kan alle bli parkert i parken.
+Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:53</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZzHKJJIVl_zktbAVjTzP6gfNas8Y66G4sArRfx264Log.jpg"/>
+    </item>
     <item>
       <title>Mann fikk meteoritt i senga</title>
       <description><![CDATA[Spesielt, men rarere var at den inneholdt ingredienser til liv. Dessuten, forskere vet nå hvordan du stokker kort best og hvordan vann former verden]]></description>
@@ -279,15 +289,6 @@ Lurer du på andre rare saker? Send inn dine spørsmål til Abels Tårns ekspert
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg.jpg"/>
-    </item>
-    <item>
-      <title>Luktesansen din er ikke som før</title>
-      <description><![CDATA[Nå vet forskere hva du ikke lenger kan lukte deg fram til. Dessuten, blyantstumper har bevist noe viktig innen biologi. Og verden står overfor en kondomkrise]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fce41dca-afdf-41ac-a41d-caafdf91ac03_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fce41dca-afdf-41ac-a41d-caafdf91ac03_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:11</itunes:duration>
-      <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>
