@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 14 Aug 2026 08:39:24 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 09:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:59:27 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 09:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Kommentarfeltet, smartbriller og hjemmekontor</title>
+      <description><![CDATA[Trenger vi kommentarfeltene? Er du redd for å bli overvåket? Er det greit at arbeidsgiver ikke lenger vil betale for at vi trener og vasker klær? Det er spørsmålene i dagens fredagspanel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/4059b4c3-b83e-4216-99b4-c3b83eb21697_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/4059b4c3-b83e-4216-99b4-c3b83eb21697_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:28</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Studenters fokus, solskjerming og bass</title>
       <description><![CDATA[Er studenter sitt mangel på fokus et tegn på sivilisatorisk forfall? Kan man sette opp solskjerming i en UNESCO-by? Og bass eller ikke bass? Det er spørsmålene i dagens fredagspanel.]]></description>
@@ -292,15 +301,6 @@ Vil Joakim Triers "Affeksjonsverdi" vinne en eller flere Oscar-statuetter?]]></d
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/c7fa9fd9-b5d2-4e2a-ba9f-d9b5d22e2a40_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:42</itunes:duration>
       <pubDate>Fri, 02 Jan 2026 09:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>Bruktgaver, Jane Austen og 80-tallsmote</title>
-      <description><![CDATA[Ville du synes det er bra hvis alle gavene du får er brukt? Bør menn lese Jane Austen for å kommer mer i kontakt med følelsene sine?  Er 80-talls luksus noe dere ønsker velkommen til 2026?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/3b88b9cd-5a66-4521-88b9-cd5a664521ca_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/3b88b9cd-5a66-4521-88b9-cd5a664521ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:38</itunes:duration>
-      <pubDate>Fri, 19 Dec 2025 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>
