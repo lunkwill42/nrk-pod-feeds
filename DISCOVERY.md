@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-08-22  
+- Updated podcast 'Verdibørsen' (`verdiboersen`)  
 ### 2026-08-20  
 - Updated podcast 'Bakrommet' (`bakrommet`)  
 - Updated podcast 'Bibelen' (`bibelen`)  
