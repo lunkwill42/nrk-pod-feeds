@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 04:56:48 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:04:36 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>«Putins mareritt»: Dette er Ukrainas dronekommando</title>
+      <description><![CDATA[På et hemmelig sted i Ukraina sitter mennene som er blitt en del av Ukrainas mektigste våpen i krigen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8f8e6437-61c5-45aa-8e64-3761c585aa6e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8f8e6437-61c5-45aa-8e64-3761c585aa6e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:24</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hbiJrLpGMVB1QbTrAbj79gPjNJ1r0X-fZCgEYYV46LAw.jpg"/>
+    </item>
     <item>
       <title>Donald Trump og Kim Jong-un: En livsfarlig flørt?</title>
       <description><![CDATA[Hvorfor truer Donald Trump Sør-Korea med å trekke tilbake amerikansk militærmakt nå?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>12:33</itunes:duration>
       <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BvGQFDgz8RH17wtXHNgnOwHGb201cWhcEq3Z_hup0twQ.jpg"/>
-    </item>
-    <item>
-      <title>Ivanka Trumps luksusdrøm fyrer opp Albania</title>
-      <description><![CDATA[Trumps datter og svigersønn har falt pladask for en av Albanias kystperler. Det møter store problemer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e40361e8-9e02-4a8b-8361-e89e029a8b82_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e40361e8-9e02-4a8b-8361-e89e029a8b82_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:23</itunes:duration>
-      <pubDate>Mon, 29 Jun 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k_TZDECBdiYGipFmWhUR6grWWj42TbRbXcI0K6SvW8Sg.jpg"/>
     </item>
   </channel>
 </rss>

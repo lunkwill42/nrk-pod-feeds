@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 17 Aug 2026 04:08:22 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:04:48 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw.jpg"/>
+    <item>
+      <title>Dødsskvadronene</title>
+      <description><![CDATA[Skule tar en skjebnesvanger avgjørelse og dronning Margrete må velge side i den forestående krigen mellom faren og ektemannen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/52df7e58-5d48-400e-9f7e-585d48200e04_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/strid/52df7e58-5d48-400e-9f7e-585d48200e04_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:31</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
+    </item>
     <item>
       <title>Hertugen</title>
       <description><![CDATA[Uenighetene mellom Håkon og Skule tilspisser seg og får ringvirkninger på Island, i England og ved den tyske keiserens hoff.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/strid/35120dbb-4f77-40d3-b7a1-0d03d1f294d2_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:43</itunes:duration>
       <pubDate>Sun, 27 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
-    </item>
-    <item>
-      <title>Veddemålet</title>
-      <description><![CDATA[Et kinky dødsfall kaster om på kortene, og dronning Ingerid må handle raskt. Nykommeren Sigurds kamp om tronen begynner dårlig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/strid/7c522def-31ba-4f02-b1c5-bd3d9cca3799_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/strid/7c522def-31ba-4f02-b1c5-bd3d9cca3799_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>52:51</itunes:duration>
-      <pubDate>Sun, 20 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ.jpg"/>
     </item>
   </channel>

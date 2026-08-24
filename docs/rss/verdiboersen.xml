@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:09:50 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 13:01:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:05:06 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Islamister bruker ikke Nikesko</title>
+      <description><![CDATA[Yaqoub Ali var militant ekstremist. Han radikaliserte unge til å kjempe og dø for Allah.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ef76bddf-45ef-48b7-b6bd-df45efb8b7b0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ef76bddf-45ef-48b7-b6bd-df45efb8b7b0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:09</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/MKVaDsEEaNb-GGvGZ1zQxAwMQi1Dob1k_NklNptMF77Q.jpg"/>
+    </item>
     <item>
       <title>Wokeskandalen i Cambridge</title>
       <description><![CDATA[Tragedien Jason Arday. Hvordan kunne en historie om juks bli så stor?]]></description>
@@ -274,15 +283,6 @@ Men i Norge møter han den evige kongen.]]></description>
       <itunes:duration>28:22</itunes:duration>
       <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Jo--yzKAp2dRmYfXnjhrVw2gomTBzdjrEkape_1fGXIA.jpg"/>
-    </item>
-    <item>
-      <title>Profeten og den syke gutten</title>
-      <description><![CDATA[Forteller bibelteksten om en 2500 år gammel forbrytelse?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/5958ccae-8b38-42a3-98cc-ae8b3892a339_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/5958ccae-8b38-42a3-98cc-ae8b3892a339_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:27</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/FKYh5wQzozUAqDbFQYEEiww6HiZg00aruAgaEVfNdzlQ.jpg"/>
     </item>
   </channel>
 </rss>

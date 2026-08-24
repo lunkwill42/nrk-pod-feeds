@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:53:40 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:04:02 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Du kan faktisk bli allergisk mot kjøtt</title>
+      <description><![CDATA[Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:27</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Hvor livsfarlige er trær?</title>
       <description><![CDATA[Vi kan alle bli parkert i parken.
@@ -279,16 +288,6 @@ Lurer du på snåle saker? Send inn spørsmål til Abels Tårns kompetente ekspe
       <itunes:duration>33:13</itunes:duration>
       <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Er du egentlig verdens mest utholdende?</title>
-      <description><![CDATA[Løping spesial! Abels tårn har løpt Holmenkollstafetten, og vi spør hvordan man kan bli mer utholdende med fattigmanns høydetrening, om en øl ødelegger hele treningseffekten og om det koster mer enn det smaker å gå litt i motbakker.
-Lurer du på andre rare saker? Send inn dine spørsmål til Abels Tårns ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fceae9b8-b14b-409e-aae9-b8b14b909e3f_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fceae9b8-b14b-409e-aae9-b8b14b909e3f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 15 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pfpQPC6JFx-sKStrrBVZGA-NJ3qeINoYt1iOD92KD8jg.jpg"/>
     </item>
   </channel>
 </rss>
