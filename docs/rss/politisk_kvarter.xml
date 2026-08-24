@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:09:53 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:30:48 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Ein meir klassisk skule</title>
+      <description><![CDATA[Høgreleiaren meiner Aps skule bommar og vil ha ein klassisk skule med høgtlesing, penn og papir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/79864712-2c2b-4e45-8647-122c2b4e454d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/79864712-2c2b-4e45-8647-122c2b4e454d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/1qXSI52qX6nutKGqp5hCHQ66vqcM0i7pVc3xTyc3WyrA.jpg"/>
+    </item>
     <item>
       <title>Omkamp om Co2-avgiften</title>
       <description><![CDATA[Senterpartiet truer med å gå til borgerlig side for å bremse klimaavgifter. SV mener Senterpartiet må forstå at gresset er grønnere på rødgrønn side.]]></description>
@@ -282,15 +291,6 @@ Så hvorfor svikter velgerne Vedum?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/nmkLEQXrSQPyeZVc4tdYugai6ldmjqTDRENdrep5zalg.jpg"/>
-    </item>
-    <item>
-      <title>Hvor blir det av Høyre-lederen?</title>
-      <description><![CDATA[Velgerne går mot høyre i politikken, men til partiet Høyre. På Stortinget blir de beskyldt for både rot og fomling. På tide for Ine Eriksen Søreide å ta mer styring?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/79719482-0909-42b6-b194-820909e2b677_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/79719482-0909-42b6-b194-820909e2b677_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1DaqXwIoGUYjf-NjqVXVlwhl9eO1SLxyiGEnpSnRvgTQ.jpg"/>
     </item>
   </channel>
 </rss>
