@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:52:11 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:06:47 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Kattehuset og  Lommemannen</title>
+      <description><![CDATA[Jonas har fått bart, vi gir deg resultatet på voksengjemselen og vi mimrer tilbake til skumle  og lokale skikkelser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
     <item>
       <title>Høydepunkter fra P3morgen!</title>
       <description><![CDATA[Katten til Fetisha skaper debatt, anklager om å bære blond gir Jonas Høy puls, og kan man følge digge folk på insta bare fordi de er digge?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>57:40</itunes:duration>
       <pubDate>Sat, 13 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Qqq5XpmRx32XNS5gsO7vUwvEEgjprA49NxMkxH0sOYrw.jpg"/>
-    </item>
-    <item>
-      <title>Slik gjør du hotellfrokost!</title>
-      <description><![CDATA[Arin og Henning blir kanskje søsken på papiret, Jonas vil på turné og vi drømmer oss bort i hotellfrokost.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/98545304-74c7-4f96-9453-0474c74f9616_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/98545304-74c7-4f96-9453-0474c74f9616_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:21</itunes:duration>
-      <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SALf6OmKojHmjp3h8CSiEg3HIH9L2s3IRzs8oybCGAZA.jpg"/>
     </item>
   </channel>
 </rss>
