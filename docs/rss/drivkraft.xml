@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:14:28 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 14:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:46:06 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 13:25:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Tommy Olsen</title>
+      <description><![CDATA[Han har reddet båtflyktninger i Middelhavet i årevis. Nå er han etterlyst av greske myndigheter. Men frikjent i Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/683aad47-6100-49a5-baad-47610009a5d2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/683aad47-6100-49a5-baad-47610009a5d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:18</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 13:25:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kyV98-7fDQkCexZQdIBR5gsuCueh2a2xIEXPrmdwQcFg.jpg"/>
+    </item>
     <item>
       <title>Steinar Suvatne</title>
       <description><![CDATA[- Jeg er ikke redd for å skape ubehagelig atmosfære, sier den nye programlederen i Debatten på NRK]]></description>
@@ -274,15 +283,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:10</itunes:duration>
       <pubDate>Tue, 21 Apr 2026 13:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/J53u1xSUhEkJsmPvR4smfQFp9bsEbcQucpZzrzUjnurw.jpg"/>
-    </item>
-    <item>
-      <title>Vegard Bjørsmo</title>
-      <description><![CDATA[– Jeg omfavnet først nylig at jeg er skeiv, sier musikeren]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/6463671d-6656-4636-a367-1d66562636a0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:10</itunes:duration>
-      <pubDate>Mon, 20 Apr 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/s_9DsrXgzBq06kvgosYBwQt_rfZ6vTivGEHLoIgoOvdA.jpg"/>
     </item>
   </channel>
 </rss>
