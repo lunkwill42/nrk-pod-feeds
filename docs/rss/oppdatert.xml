@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:04:36 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:05:12 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Heksejakt og juks? Skandalen som ryster akademia</title>
+      <description><![CDATA[Jason Arday var tidenes yngste svarte professor ved Cambridge. Så kom anklagene.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cc723fe0-5a3f-4acc-b23f-e05a3ffacc12_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cc723fe0-5a3f-4acc-b23f-e05a3ffacc12_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:27</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BGDajgI7OZYCL0NBeb_HsAuEBfkVsO7O-nDljqo7Uh0A.jpg"/>
+    </item>
     <item>
       <title>«Putins mareritt»: Dette er Ukrainas dronekommando</title>
       <description><![CDATA[På et hemmelig sted i Ukraina sitter mennene som er blitt en del av Ukrainas mektigste våpen i krigen.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>16:17</itunes:duration>
       <pubDate>Fri, 03 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3_9_u2ZI6UwB4aPAAJPbWg8WqEATeMGR4idRPKpM2zmQ.jpg"/>
-    </item>
-    <item>
-      <title>Tvang kvinner til sex: En telefon endret alt</title>
-      <description><![CDATA[Politiet fikk en telefon som åpnet dørene til en mørk sfære de ikke ante fantes i det norske samfunnet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/1ca05453-77c2-470a-a054-5377c2870a90_3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/1ca05453-77c2-470a-a054-5377c2870a90_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:33</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BvGQFDgz8RH17wtXHNgnOwHGb201cWhcEq3Z_hup0twQ.jpg"/>
     </item>
   </channel>
 </rss>
