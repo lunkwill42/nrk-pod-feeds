@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:15:58 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:13:41 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Forbanna på influensere</title>
+      <description><![CDATA[Anna er forbanna på mat-influensere på TikTok, Daniel nevner voksenbleier og vi får besøk av Chavad El Bacardi.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5674569a-cf4d-43c1-b456-9acf4df3c1c4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5674569a-cf4d-43c1-b456-9acf4df3c1c4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:50</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Kabaret med jordbærgelé</title>
       <description><![CDATA[Anna brekker seg i ubehag, vi avliver myte om grevlinger og Daniel lærer oss for mye om Henry Rinnan.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/8ec185cd-b1e6-4d12-8185-cdb1e6ed1257_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:26</itunes:duration>
       <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 6: Korte tennisskjørt</title>
-      <description><![CDATA[Finn Glede syns det er for mye menn i VM-dekninga og vi forsøker å finne ut hva «kort i skjetafadlet» betyr.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/a223d9cb-85f4-47d2-a3d9-cb85f497d2d8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/a223d9cb-85f4-47d2-a3d9-cb85f497d2d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:36</itunes:duration>
-      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
