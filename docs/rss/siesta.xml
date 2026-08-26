@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:13:41 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:18:34 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus har en dobbeltgjenger</title>
+      <description><![CDATA[Daniel har funnet den danske Markus, Anna er intervjua i avisa og hva tenker vi om reunion?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:41</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Forbanna på influensere</title>
       <description><![CDATA[Anna er forbanna på mat-influensere på TikTok, Daniel nevner voksenbleier og vi får besøk av Chavad El Bacardi.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/f139d629-41f1-41a4-b9d6-2941f1a1a467_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:07</itunes:duration>
       <pubDate>Thu, 09 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 7: Magnus Devold er her!</title>
-      <description><![CDATA[Magnus Devold titter innom denne timen. Vi har det motsatte av lego, konkurrerer i papegøye og får besøk av Hermansen fra Olsenbanden-universet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8ec185cd-b1e6-4d12-8185-cdb1e6ed1257_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/8ec185cd-b1e6-4d12-8185-cdb1e6ed1257_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:26</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
