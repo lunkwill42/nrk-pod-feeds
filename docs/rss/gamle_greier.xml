@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:51:51 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:57:59 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    <item>
+      <title>Syndebukken for 9. april</title>
+      <description><![CDATA[Utenriksminister Halvdan Kohts viktigste oppgave er å holde Norge utenfor andre verdenskrig. Men planen feiler, og han får skylda.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/8b4bcec6-2900-4666-8bce-c62900166638_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/8b4bcec6-2900-4666-8bce-c62900166638_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:39</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ.jpg"/>
+    </item>
     <item>
       <title>Fra slave til slaveeier 3:3</title>
       <description><![CDATA[Med dødsdommen hengende over seg, får Jacob et uventet tilbud: forbli i lenker eller tvinge andre inn i dem.]]></description>
@@ -273,15 +282,6 @@ festning. Men han er en dyktig sjømann, og får derfor en ny, utrolig sjanse.]]
       <itunes:duration>30:00</itunes:duration>
       <pubDate>Thu, 03 Jul 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y6MW3bMLBcYdvEMtNADYkgu3F9WlyDodwHAvxg-PKqqQ.jpg"/>
-    </item>
-    <item>
-      <title>Nordmannen som endret verden</title>
-      <description><![CDATA[Niels Abel klarer å løse en matematisk gåte som kan forandre verden. Men før han får varslet om funnet, blir han dødssyk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/gamle_greier/b5814ca8-c9c5-4454-b004-65c96c50904a_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/gamle_greier/b5814ca8-c9c5-4454-b004-65c96c50904a_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:53</itunes:duration>
-      <pubDate>Tue, 01 Jul 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7W_DIlhpZIhxQ3p0MdF8OgEYgEU4ijo6vyL0u7NNIPCA.jpg"/>
     </item>
   </channel>
 </rss>

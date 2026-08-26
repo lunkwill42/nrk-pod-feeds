@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:04:02 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:57:36 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Vinduet ditt gir deg mangelsykdommer</title>
+      <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:24</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Du kan faktisk bli allergisk mot kjøtt</title>
       <description><![CDATA[Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg]]></description>
@@ -278,15 +287,6 @@ Lurer du på snåle saker? Send inn spørsmål til Abels Tårns kompetente ekspe
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/acf27e64-5b6d-4a55-b27e-645b6d8a55cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:41</itunes:duration>
       <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Fuglesang er bra for deg</title>
-      <description><![CDATA[Og forskere vet nå hva slags fuglesang som er best. Fysikere har bevist at mørket beveger seg raskere enn lyset. Og kanskje skal Pluto bli planet igjen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/33469a0c-005c-4a83-869a-0c005c8a83d1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/33469a0c-005c-4a83-869a-0c005c8a83d1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:13</itunes:duration>
-      <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>

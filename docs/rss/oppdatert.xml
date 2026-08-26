@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:05:12 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:58:48 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Odysseen: Slik ble diktet en milliard-suksess</title>
+      <description><![CDATA[Hvordan kan en 2700 år gammel historie fortsatt være relevant i dag?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/4da7703b-cb0e-4fc8-a770-3bcb0e2fc817_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/4da7703b-cb0e-4fc8-a770-3bcb0e2fc817_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:41</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CHvkEV9yvfdi20QWAG1BVgrAdgeZvP4vlJ6Si03crQpA.jpg"/>
+    </item>
     <item>
       <title>Heksejakt og juks? Skandalen som ryster akademia</title>
       <description><![CDATA[Jason Arday var tidenes yngste svarte professor ved Cambridge. Så kom anklagene.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>16:22</itunes:duration>
       <pubDate>Mon, 06 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7hWGLvFwToGZ97XJldNAuQx4Pki475QlXP21ek1yFzUQ.jpg"/>
-    </item>
-    <item>
-      <title>Kampen vi aldri glemmer: Kan historien gjenta seg?</title>
-      <description><![CDATA[Kampen mot Brasil i 1998 anses som tidenes norske fotballprestasjon. Nå møter vi dem igjen i VM.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b6381c0b-180a-443c-b81c-0b180a043cfd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b6381c0b-180a-443c-b81c-0b180a043cfd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:17</itunes:duration>
-      <pubDate>Fri, 03 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3_9_u2ZI6UwB4aPAAJPbWg8WqEATeMGR4idRPKpM2zmQ.jpg"/>
     </item>
   </channel>
 </rss>

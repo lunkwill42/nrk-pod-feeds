@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:04:47 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:58:16 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Dolly Parton døde av kreft</title>
+      <description><![CDATA[Nå strømmer kondolansene inn fra hele verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/124827e2-486a-4c56-8827-e2486a0c5670_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/124827e2-486a-4c56-8827-e2486a0c5670_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>04:45</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/082RmVhrHxmj97OZ20yAvwUannkzIx-eqanwTGCZCe2Q.jpg"/>
+    </item>
     <item>
       <title>Færre stoler på eldreomsorgen</title>
       <description><![CDATA[Og flere norske fotballklubber kan få masse penger i kassa.]]></description>
@@ -275,15 +284,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:30</itunes:duration>
       <pubDate>Thu, 16 Jul 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8P0cBIfZFtRhAP7H2eTgVwrdOPMpK1_rjP_gGF0cm1lA.jpg"/>
-    </item>
-    <item>
-      <title>I dag kan det bli satt ny varmerekord i Norge</title>
-      <description><![CDATA[Og  i natt har det vært nye angrep mellom USA og Iran.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f73113a2-5d6b-4e98-b113-a25d6b9e98d3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f73113a2-5d6b-4e98-b113-a25d6b9e98d3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:16</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/AGPk9Fsc5cXJUvNHMlJ92AeUk1LmcnmUsI-1XZRvnhfw.jpg"/>
     </item>
   </channel>
 </rss>
