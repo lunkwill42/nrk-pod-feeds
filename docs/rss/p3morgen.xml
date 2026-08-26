@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:02:27 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:04:41 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Abid Raja går bananas.</title>
+      <description><![CDATA[Arin har fikset neglene, Henning har en høne å plukke og Jonas har vokst opp med navn på biler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/04f59f11-e2e3-4272-b59f-11e2e3d2724d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/04f59f11-e2e3-4272-b59f-11e2e3d2724d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:32</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
+    </item>
     <item>
       <title>Kjeks med smak av boyband</title>
       <description><![CDATA[Henning har med et tankeeksperiment, Arin deler sin hevn på en rasist og vi diskuterer utløpsdatoer.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/2076643e-0229-48d6-b664-3e0229c8d6d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
-    </item>
-    <item>
-      <title>Sædfuck og triks på bussen.</title>
-      <description><![CDATA[Vi deler gode og dårlige banneord, og vi introduserer en ny karakter i P3morgens extended cinematic universe<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/592faf9c-5f70-4b88-afaf-9c5f706b8896_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/592faf9c-5f70-4b88-afaf-9c5f706b8896_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:21</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>

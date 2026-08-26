@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:10:38 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:04:48 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Vil gi gass mot nord</title>
+      <description><![CDATA[Ein offensiv oljebransje vil leite meir - også ved Lofoten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/833cd309-fdbd-4830-bcd3-09fdbd58306c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/833cd309-fdbd-4830-bcd3-09fdbd58306c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ok0VyjoQYjQGfYvJ8b0hkQD5Nn5bo0SOOD7MorbccQPA.jpg"/>
+    </item>
     <item>
       <title>Island, EU og oss</title>
       <description><![CDATA[Norske politikere valfarter til Island denne uka. Mimir Kristjansson bønnfaller islandske sosialister om å si nei til EU. Bare Donald Trump vil tjene på islandsk nei, advarer MDG-politiker.]]></description>
@@ -281,15 +290,6 @@ Helt uansvarlig oppførsel, ifølge Høyre.]]></description>
       <itunes:duration>15:08</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WT9k9Zdw7F_3q-3r1Kc-cQg80wtOKZCQ0YjKddEaD-Ag.jpg"/>
-    </item>
-    <item>
-      <title>Skolesatsingen som slo feil</title>
-      <description><![CDATA[Har norske politikere tenkt helt feil om skolen? En av tre elever går ut av grunnskolen uten å skrive, regne eller lese skikkelig. SV advarer mot "politisk panikk"]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/271c2d0c-7a88-4a69-9c2d-0c7a889a6910_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/271c2d0c-7a88-4a69-9c2d-0c7a889a6910_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oOYymvc_hIZR1ZmYJk95yQl8H4bj_I4yWa1Mg6HhwvFw.jpg"/>
     </item>
   </channel>
 </rss>
