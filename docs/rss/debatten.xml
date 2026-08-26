@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Debatten</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Debatten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/debatten for mer informasjon.</description>
+    <title>De 30 siste fra Debatten</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Debatten. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/debatten for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 28 May 2026 22:10:21 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 23:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:27:10 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 23:15:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    <item>
+      <title>"Ditt rasshøl!"</title>
+      <description><![CDATA[Hvor går grensene for hva vi skal tåle? Og er spillereglene for hva som er lov å si like for begge sidene i politikken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <pubDate>Tue, 25 Aug 2026 23:15:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E585QEdhkBcHwh8LgjntYw_CmqvflzHEI4qtVfepuI4w.jpg"/>
+    </item>
     <item>
       <title>Har vi nok kraft?</title>
       <description><![CDATA[Hvordan sikre nok strøm når datasentrene truer kraftoverskuddet?]]></description>
@@ -101,6 +110,177 @@
       <itunes:duration>41:24</itunes:duration>
       <pubDate>Thu, 16 Apr 2026 22:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Vil utdanne ny type politi</title>
+      <description><![CDATA[Politiet avviser Frps ønske om ettårig politiskole for å utføre vakt- og sikringsoppdrag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/ad77fbef-6d67-4a9a-b7fb-ef6d67ba9a27_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/ad77fbef-6d67-4a9a-b7fb-ef6d67ba9a27_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:00</itunes:duration>
+      <pubDate>Wed, 15 Apr 2026 09:36:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Vil kjøre på med kjernekraftverk</title>
+      <description><![CDATA[Kommunene vil komme raskt i gang med kjernekraft selv om Kjernekraftutvalget fraråder.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/0adaf242-3464-40b5-9af2-42346440b54e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/0adaf242-3464-40b5-9af2-42346440b54e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:47</itunes:duration>
+      <pubDate>Thu, 09 Apr 2026 22:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Angriper politikerne</title>
+      <description><![CDATA[Økonomer kritiserer politikerne for å gjøre bensinen billigere. – Almisser hjelper ikke folk som sliter økonomisk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/a4925cec-c189-476d-925c-ecc189376dff_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/a4925cec-c189-476d-925c-ecc189376dff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:20</itunes:duration>
+      <pubDate>Tue, 07 Apr 2026 23:50:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Stortinget kuttet dieselprisen</title>
+      <description><![CDATA[Ap tapte, demonstrantene er fortsatt misfornøyd og stortingsflertallet beskyldes for populisme. Men drivstoffet blir litt billigere.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/7f1943ba-5dff-46a8-9943-ba5dffc6a84e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/7f1943ba-5dff-46a8-9943-ba5dffc6a84e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:27</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 22:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Kronprinsessen og mediene</title>
+      <description><![CDATA[Hvorfor jager pressen nye svar fra kronprinsesse Mette-Marit om kontakten med den den dømte overgripere Jeffrey Epstein?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/bf6b0b4e-c17c-4565-ab0b-4ec17cf56526_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/bf6b0b4e-c17c-4565-ab0b-4ec17cf56526_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:56</itunes:duration>
+      <pubDate>Tue, 24 Mar 2026 22:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Har Tangen og Westerlin rett?</title>
+      <description><![CDATA[Nicolai Tangen og Oskar Westerlin mener det er farlig ikke å henge med i utviklingen av kunstig intelligens.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/3cc25cf0-19c0-4a29-825c-f019c08a29a1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/3cc25cf0-19c0-4a29-825c-f019c08a29a1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:57</itunes:duration>
+      <pubDate>Thu, 19 Mar 2026 22:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Hvor dyrt skal det bli her i landet?</title>
+      <description><![CDATA[Svenskene halverer matmomsen. Hvorfor gjør ikke regjeringen som søta bror?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/735b2d03-f3a1-419c-9b2d-03f3a1719cdb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/735b2d03-f3a1-419c-9b2d-03f3a1719cdb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:22</itunes:duration>
+      <pubDate>Tue, 17 Mar 2026 22:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>VM-øl hele natten</title>
+      <description><![CDATA[Arbeiderpartiet vil servere øl helt til morgengry - på grunn av Haaland og Ødegaard]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/350d443c-3415-47b0-8d44-3c3415f7b073_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/350d443c-3415-47b0-8d44-3c3415f7b073_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:55</itunes:duration>
+      <pubDate>Thu, 12 Mar 2026 22:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Jobb mindre, tjen mer!</title>
+      <description><![CDATA[Nye dommer for overtid kan føre til at det lønner seg å gå ned i stillingsprosent.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/8c897fdf-b467-4244-897f-dfb467024491_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/8c897fdf-b467-4244-897f-dfb467024491_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:22</itunes:duration>
+      <pubDate>Tue, 10 Mar 2026 22:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Macron inviterer til atomsamarbeid</title>
+      <description><![CDATA[Bør Norge søke ly under Frankrikes atomparaply?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/d3880d62-fa70-47ef-880d-62fa7087ef6a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/d3880d62-fa70-47ef-880d-62fa7087ef6a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:23</itunes:duration>
+      <pubDate>Thu, 05 Mar 2026 22:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Trump bomber Irans ledere</title>
+      <description><![CDATA[Hva slags fremtid venter Irans hardt prøvede folk?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/de03091a-7ec9-47b2-8309-1a7ec9c7b2f8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/de03091a-7ec9-47b2-8309-1a7ec9c7b2f8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:36</itunes:duration>
+      <pubDate>Tue, 03 Mar 2026 22:27:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Epstein-svarene vi ennå ikke har fått</title>
+      <description><![CDATA[Snart fire uker etter at Epstein-dokumentene kom, er det fortsatt mange ubesvarte spørsmål.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/3b9aeaa5-0bbe-40c9-9aea-a50bbed0c913_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/3b9aeaa5-0bbe-40c9-9aea-a50bbed0c913_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:01</itunes:duration>
+      <pubDate>Thu, 26 Feb 2026 22:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Krever OL i Norge etter gullrush</title>
+      <description><![CDATA[Medaljefangsten i Milano - Cortina gir politisk flertall for et nytt OL i Norge. Men blir vi enige om hvordan og hvor?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/74e1b719-b73a-4c6f-a1b7-19b73a0c6f5d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/74e1b719-b73a-4c6f-a1b7-19b73a0c6f5d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:12</itunes:duration>
+      <pubDate>Tue, 24 Feb 2026 22:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Politisk påvirkning</title>
+      <description><![CDATA[I kjølvannet av Epsteinavsløringene går debatten om åpenhet og bindinger. Er det for tett mellom politikere og lobbyister i Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/658e1877-e29c-4b32-8e18-77e29c6b32f6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/658e1877-e29c-4b32-8e18-77e29c6b32f6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:13</itunes:duration>
+      <pubDate>Thu, 19 Feb 2026 22:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
+    </item>
+    <item>
+      <title>Epstein-offer utfordrer kronprinsessen</title>
+      <description><![CDATA[Marina Lacerda utfordrer Mette Marit og sier hun kan gjøre en forskjell i kampen mot overgrep mot barn. Marina er et av Epsteins offer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/4d4c0cd8-e78b-4838-8c0c-d8e78bf83852_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/4d4c0cd8-e78b-4838-8c0c-d8e78bf83852_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:56</itunes:duration>
+      <pubDate>Tue, 17 Feb 2026 22:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Zto-TXcHV2D_snV7St62owFiRVdRCvYAkP_-bZXdP_3Q.jpg"/>
+    </item>
+    <item>
+      <title>Får sykehusene mer penger nå?</title>
+      <description><![CDATA[Stortinget kjekler om sykehusøkonomien. Men får pasientene det bedre av den grunn?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/700d8045-1f9a-4b64-8d80-451f9a4b64eb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/700d8045-1f9a-4b64-8d80-451f9a4b64eb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:07</itunes:duration>
+      <pubDate>Thu, 12 Feb 2026 22:37:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/pIF1u30Gemmz1g21XQZW3AfGPOuHoVx64sFeSsxqvx4g.jpg"/>
+    </item>
+    <item>
+      <title>-Hva var det vi sa?</title>
+      <description><![CDATA[Allerede for flere år siden advarte Carl I. Hagen og Bjørnar Moxnes om pengestrømmen til Terje Rød-Larsen og om elitediplomati.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/13f1d1b2-380e-429a-b1d1-b2380e929a1c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/13f1d1b2-380e-429a-b1d1-b2380e929a1c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:39</itunes:duration>
+      <pubDate>Tue, 10 Feb 2026 22:40:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6b21loq3lz-0zygqEvhYnAisl9BvwjQf86CewiRqZX1w.jpg"/>
+    </item>
+    <item>
+      <title>Får vi Epstein-svar snart?</title>
+      <description><![CDATA[Hvorfor sier de nei til intervju? I kveld stiller vi spørsmål vi lurer på til Jagland, Rød-Larsen, Juul, Brende og kronprinsessen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/6d7213ad-9acd-4237-b213-ad9acdd2375b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/6d7213ad-9acd-4237-b213-ad9acdd2375b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:05</itunes:duration>
+      <pubDate>Thu, 05 Feb 2026 22:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/goiX4y1AzmOC7bkDU7wiLwhAHr-RGB8plGQu9A2Cy4VA.jpg"/>
+    </item>
+    <item>
+      <title>- En tsunami mot Høiby</title>
+      <description><![CDATA[Forsvareren til Marius Borg Høiby langer ut mot pressen på rettssakens første dag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/988973b0-ba12-4564-8973-b0ba123564a5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/988973b0-ba12-4564-8973-b0ba123564a5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:57</itunes:duration>
+      <pubDate>Tue, 03 Feb 2026 22:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/F3zx8DEiAHlq2sp5kEPB9w8bgiHwE9umt7ebVbFHhPQg.jpg"/>
     </item>
   </channel>
 </rss>
