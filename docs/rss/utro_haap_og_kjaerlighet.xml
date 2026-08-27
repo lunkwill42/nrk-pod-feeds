@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:05:26 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:54:33 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Hedvig Glestad: Farget av fortiden</title>
+      <description><![CDATA[Hedvig Glestad deler erfaringer med gjentatte svik og reflekterer over hvordan det har påvirket henne i nye relasjoner.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f09fb6a9-3334-462d-9fb6-a93334562d0c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f09fb6a9-3334-462d-9fb6-a93334562d0c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:16</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-nv9jgLb1jGCMCyqayAbWwdeLC_bWiTsaYIqkf5dLgOw.jpg"/>
+    </item>
     <item>
       <title>Rima Iraki: Parforhold og familieliv</title>
       <description><![CDATA[Journalist Rima Iraki forteller om opp- og nedturene gjennom et langt forhold. Hvordan bevarer man kjærligheten når man oppdrar barn?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>49:48</itunes:duration>
       <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Wqcy_aUAttRKl-W2cQ6LvAljlEayC7-gK-7jN_I9gd0w.jpg"/>
-    </item>
-    <item>
-      <title>Jan Christian Vestre: Karriere og kjærlighet</title>
-      <description><![CDATA[Helse- og omsorgsminister Jan Christian Vestre om møtet med forloveden og hvordan han balanserer kjærligheten med en krevende jobb.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/759bcd41-2aa0-4b3e-9bcd-412aa05b3e66_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/759bcd41-2aa0-4b3e-9bcd-412aa05b3e66_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:10</itunes:duration>
-      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/e_PKcswlq7IpXNEtZi3e7QgTkuz106qUzed4SETzGqHw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:58:16 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:53:53 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 06:10:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Nepal rammet for andre år på rad</title>
+      <description><![CDATA[Men eksperter er i tvil om årsaken]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/2ea43217-a9ad-4ca3-a432-17a9adbca36e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/2ea43217-a9ad-4ca3-a432-17a9adbca36e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:28</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 06:10:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mf82fUuIRmk7pQiKqzbAVw96obpapAgPetTPXB0PvA_Q.jpg"/>
+    </item>
     <item>
       <title>Dolly Parton døde av kreft</title>
       <description><![CDATA[Nå strømmer kondolansene inn fra hele verden.]]></description>
@@ -275,15 +284,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:26</itunes:duration>
       <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/L9PR1LeQNh1t8IdYSRyqfwKwElOoSFjGSvDkPbPhJ1ag.jpg"/>
-    </item>
-    <item>
-      <title>Stemte ja til assistert selvmord i Frankrike</title>
-      <description><![CDATA[Og det blir nok ikke ulovlig med smartbriller i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/0e8d3a51-c9d3-493e-8d3a-51c9d3293e72_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/0e8d3a51-c9d3-493e-8d3a-51c9d3293e72_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:30</itunes:duration>
-      <pubDate>Thu, 16 Jul 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8P0cBIfZFtRhAP7H2eTgVwrdOPMpK1_rjP_gGF0cm1lA.jpg"/>
     </item>
   </channel>
 </rss>

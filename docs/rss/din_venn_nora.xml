@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 20 Aug 2026 04:02:20 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:53:44 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Den store episoden om Kina</title>
+      <description><![CDATA[En nøye gjennomgang av tidenes solotur, inkludert den SJOKKERENDE grunnen til hvorfor ferien tok BRÅTT slutt. Heng med<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/c574af25-fa96-4086-b4af-25fa96708614_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/c574af25-fa96-4086-b4af-25fa96708614_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:32</itunes:duration>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Å smøre fremmede med solkrem</title>
       <description><![CDATA[Traumatiske sommerminner, jakten på den perfekte garderoben og en liten prat om tunge kropper.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/09248487-77f1-454f-a484-8777f1254f1b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:29</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
-    </item>
-    <item>
-      <title>Kutta vitser fra «Nytt på nytt»</title>
-      <description><![CDATA[Kleskrise og vitser som ikke kom med. Nora har vært på «Nytt på nytt».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/0ee0e6cd-b5a0-4a3b-a0e6-cdb5a04a3b8a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:23</itunes:duration>
-      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
   </channel>
