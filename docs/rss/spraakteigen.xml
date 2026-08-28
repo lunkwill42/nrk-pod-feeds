@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 10 siste fra Språksnakk</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 10 episodene fra podkasten Språksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spraakteigen for mer informasjon.</description>
+    <title>De 30 siste fra Språksnakk</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Språksnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/spraakteigen for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 19 Jun 2026 07:29:23 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:46:34 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw.jpg"/>
+    <item>
+      <title>Bånnski i schauen</title>
+      <description><![CDATA[Drives en kolonialhandel av en kolonialist? Kan rulle-r læres? Vi lærer historien til og forskjellen på novelle og roman.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/b357926f-ded6-48ca-9792-6fded6e8ca89_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/b357926f-ded6-48ca-9792-6fded6e8ca89_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:31</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
+    </item>
     <item>
       <title>Upålitelig forelsking</title>
       <description><![CDATA[An-be-het-else - hva er god nynorsk? Endelsene -else og -ing styres av 5 forskjellige regler - minst! Så var det gradbøyingen da..]]></description>
@@ -101,6 +110,177 @@
       <itunes:duration>57:33</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Halvtredje kogg</title>
+      <description><![CDATA[Har du hørt om halvannen, men hva med halvtredje? Snekke, kogg, sjekte. Samme båt, mange navn. Og hva har Mikkel gjort galt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/49223b34-9c90-4c4e-a23b-349c900c4e83_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/49223b34-9c90-4c4e-a23b-349c900c4e83_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:30</itunes:duration>
+      <pubDate>Fri, 10 Apr 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Underveldende tipp-tipp</title>
+      <description><![CDATA[Hvorfor sier vi "var" om noe som skjer nå? Legekjendis eller kjendislege? Vi tar en runde på sammensatte ord, og tolker uttrykk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/9122fe7c-1fcf-4405-a2fe-7c1fcf6405a8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/9122fe7c-1fcf-4405-a2fe-7c1fcf6405a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:30</itunes:duration>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Woke er effent</title>
+      <description><![CDATA[Hvor kommer nyordet woke fra, og hvordan brukes det? Kan vi bruke både dere og dems i skrift? Ueffent brukes men er effent et ord?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/8ed45e96-3e2a-4cd7-945e-963e2a9cd775_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/8ed45e96-3e2a-4cd7-945e-963e2a9cd775_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:36</itunes:duration>
+      <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg8o-3z347I9n1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Reise kjerringa mutters alene</title>
+      <description><![CDATA[Sabla, mutters, og reise kjerringa, hvor kommer de fra? Hvor mange salver er det? Pengeverdier i entall og flertall er vanskelig.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/cdda0f97-39de-485e-9a0f-9739de585eec_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/cdda0f97-39de-485e-9a0f-9739de585eec_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:15</itunes:duration>
+      <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Stilig på måfå?</title>
+      <description><![CDATA[Bruker du pronomenet hvis? Hva betyr tjåke? Det er forskjell på spratt og sprettet, så man kan ikke bruke det på måfå - som betyr?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/957526df-9b06-403d-b526-df9b06a03de5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/957526df-9b06-403d-b526-df9b06a03de5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:40</itunes:duration>
+      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Lumske uhumskheter</title>
+      <description><![CDATA[Uhumskheter eller ulumskheter? Er det tydelig skille mellom vokaler og konsonanter? Hvordan klarer vi egentlig å snakke uplanlagt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/984781c9-d3b4-41f7-8781-c9d3b4d1f7b6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/984781c9-d3b4-41f7-8781-c9d3b4d1f7b6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Vi fordøyer kødd</title>
+      <description><![CDATA[Om kødd er et skjellsord avhenger av konteksten. Pleier eller bruker, rørt eller berørt, hva er likt og ulikt med disse ordparene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/5e37e33d-75a3-47f7-b7e3-3d75a357f713_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/5e37e33d-75a3-47f7-b7e3-3d75a357f713_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:28</itunes:duration>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Fyselig dørslag</title>
+      <description><![CDATA[Hvordan skal r'en i dørslag uttales? Hva har ordet sykkel og Ku Klux Klan til felles? Mange skriver knukket, men er det riktig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/879609e9-edba-4795-9609-e9edba9795d2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/879609e9-edba-4795-9609-e9edba9795d2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Kontrafaktisk gulleple</title>
+      <description><![CDATA[Samisk har ikke et enkelt for for ja eller nei. Nei her må du bøye verb! Kan man bruke forlate, uten å si hva det er man forlater?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/e9f190d9-8de5-43d7-b190-d98de553d7fb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/e9f190d9-8de5-43d7-b190-d98de553d7fb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:27</itunes:duration>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Henholdsvis svigers</title>
+      <description><![CDATA[Henholdsvis kan være et vanskelig ord å bruke. Å handle på krita vet vi hva betyr, men hva betyr egentlig selve ordet krita?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/f696041a-5275-449d-9604-1a5275f49d00_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/f696041a-5275-449d-9604-1a5275f49d00_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:06</itunes:duration>
+      <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Skråsikre åttdaga</title>
+      <description><![CDATA[Hva betyr skrå i skråsikker? Ordet har en god forklaring! Åttdaga, et annet begrep om hva en uke er, og hva er hulter til bulter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/0e11666e-eb52-406a-9166-6eeb52806a94_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/0e11666e-eb52-406a-9166-6eeb52806a94_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:08</itunes:duration>
+      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Fortløpende ferdighet</title>
+      <description><![CDATA[Bjørnetjeneste betyr noe annet nå enn før. Åssen i skrift er mer lov enn mange tror, og sammensatte navn - hva er det med dem.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/97828579-8e62-4a97-8285-798e62da9785_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/97828579-8e62-4a97-8285-798e62da9785_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:31</itunes:duration>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>En motsatt bjørnetjeneste</title>
+      <description><![CDATA[Hva er en bjørnetjeneste nå for tida? Oslo eller Oschlo? Hva skal en kalle en amerikaner fra Usa, og hvorfor sier vi Kiel med kj?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/830f136e-024d-439b-8f13-6e024de39b5f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/830f136e-024d-439b-8f13-6e024de39b5f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:41</itunes:duration>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Språk i borgelig tussmørke</title>
+      <description><![CDATA[Når inntrer et borgelig tussmørke? Daure - du har sansynligvis spist det. Er det på eller om julekvelden? Hva er en gyllen meter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/7c4665f0-5d08-4619-8665-f05d08f61930_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/7c4665f0-5d08-4619-8665-f05d08f61930_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:16</itunes:duration>
+      <pubDate>Fri, 02 Jan 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Tekoligark i dagslys</title>
+      <description><![CDATA[Vi mangler navn på mange slags familierelasjoner. Går det så det griner eller gviner? Tekoligark - hva syns vi om årets nyord?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/3af7f038-6fe1-4551-b7f0-386fe1a5518e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/3af7f038-6fe1-4551-b7f0-386fe1a5518e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:38</itunes:duration>
+      <pubDate>Fri, 26 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Lutfattig jernbaneskinke</title>
+      <description><![CDATA[Hva er jernbaneskinke? Buksene kan være både en- og flertall, det er flere typer lut, og kjønn er både enkel og dobbelkonsonant.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/2ffd11a8-8cdb-484a-bd11-a88cdb384ac0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/2ffd11a8-8cdb-484a-bd11-a88cdb384ac0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:29</itunes:duration>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egg9otF-xq2gL1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Infinitivsmerket i god tro</title>
+      <description><![CDATA[Hva er ei dokke garn? Ankomme til, eller bare ankomme? Jens Stoltenbergs bruk av "asså" - har du tenkt over det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/3eb6531e-6732-4e16-b653-1e6732ee1636_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/3eb6531e-6732-4e16-b653-1e6732ee1636_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:20</itunes:duration>
+      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Uvurderlig tæknbok</title>
+      <description><![CDATA[Kan du sette en pris på noe, er det da uvurderlig? Kjølvann og kjølevann er ikke det samme! "Tæknbok" sier noen, men hva er det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/71fb27a8-3fda-4ed7-bb27-a83fda5ed7a5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/71fb27a8-3fda-4ed7-bb27-a83fda5ed7a5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
+    </item>
+    <item>
+      <title>Kritisabel allikevel</title>
+      <description><![CDATA[Allikevel og likevel - helt lik, eller forskjellig? September, november og desember. Hvorfor ikke oktember? Er kritisabel et ord?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/b7cef568-145a-4380-8ef5-68145ab38002_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/b7cef568-145a-4380-8ef5-68145ab38002_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:33</itunes:duration>
+      <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6eg2L-w_TLHgVv1JlPjGwqVHg.jpg"/>
     </item>
   </channel>
 </rss>
