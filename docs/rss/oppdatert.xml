@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:54:07 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:27:14 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Dolly Parton: Artisten som forente USA</title>
+      <description><![CDATA[Hvordan klarte hun å forene et helt land?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ff0da274-384f-4f2a-8da2-74384f0f2a98_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ff0da274-384f-4f2a-8da2-74384f0f2a98_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:18</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rkREHUMwxeCeaEIyKDQV1AenEs4GGnP49Lnf16hblFIg.jpg"/>
+    </item>
     <item>
       <title>Et liv som syk: Så begynte varsellampene å blinke</title>
       <description><![CDATA[I barndommen trodde «Kamilla» at hun kunne dø om hun spiste en is. Men er det sant?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>11:52</itunes:duration>
       <pubDate>Fri, 10 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ff57R6u0DxuxNYWzVuHGQwLVjj_RzxSTrrunFNgIt7oA.jpg"/>
-    </item>
-    <item>
-      <title>Spion under vann?</title>
-      <description><![CDATA[Nå vet vi mer om gåten Hvaldimir.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d447fc16-3077-4eb7-87fc-1630773eb70c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aAnJHyi4YIwt5-hmRav2ygnBOsJRMtXlvavIXpjFhrsw.jpg"/>
     </item>
   </channel>
 </rss>

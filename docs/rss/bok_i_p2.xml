@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 21 Aug 2026 04:56:06 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:26:33 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Feita</title>
+      <description><![CDATA[En slengbemerkning da hun gikk på gata endret alt. Anne B. Ragde om fattigdom, forfalskede underskrifter og ordet feita.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/6225b947-a909-478c-a5b9-47a909878c38_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/6225b947-a909-478c-a5b9-47a909878c38_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0oRViTFa4OCViYR66AZUmArh00gmHRmMfJss12NexvBQ.jpg"/>
+    </item>
     <item>
       <title>Tore Renberg</title>
       <description><![CDATA[Adoptert på 80-tallet. Tore Renberg om perfeksjonisme, rasisme og hvorfor kåte Jarle Klepp gjør comeback som bikarakter.]]></description>
@@ -292,16 +301,6 @@ Nyeste bok: «Litteratur i Andeby»]]></description>
       <itunes:duration>57:22</itunes:duration>
       <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tLOm1hN637deUpOGeZslIgmoTGYWWyW2BBXVokNUrRyA.jpg"/>
-    </item>
-    <item>
-      <title>Hilde Hagerup: Skeiv kjærlighet i mørk tid</title>
-      <description><![CDATA[To unge nyforelska jenter møtes i Europas mørketid. Kjærlighetshistorien om jødiske Ruth Maier og norske Gunvor Hofmo har blitt prisbelønnet bok.
-Nyeste roman «Du eneste».]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/a9c0eb8d-4ad5-4490-80eb-8d4ad51490d3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/a9c0eb8d-4ad5-4490-80eb-8d4ad51490d3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:30</itunes:duration>
-      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RZiEQT7RCPJK2clInVVzxA0hgTtEUpS8sCR1RbeAeNLw.jpg"/>
     </item>
   </channel>
 </rss>
