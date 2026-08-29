@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 26 siste fra Harald V</title>
+    <title>De 27 siste fra Harald V</title>
     <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 26 episodene fra podkasten Harald V. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/harald_v for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 27 episodene fra podkasten Harald V. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/harald_v for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:46:02 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 16:35:00 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:34:06 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"/>
+    <item>
+      <title>Den nye kongens første tale til folket</title>
+      <description><![CDATA[Kong Haakon VIII sin første tale til folket som konge. En minnetale over sin far, kong Harald.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/7d27f48b-a51d-4016-a7f4-8ba51d3016ed_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/7d27f48b-a51d-4016-a7f4-8ba51d3016ed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:43</itunes:duration>
+      <pubDate>Sat, 29 Aug 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tSwXr-W80cCT4grvsa5gXwECwiTD1hONWAnUF2WlhptQ.jpg"/>
+    </item>
     <item>
       <title>Sogneprest på Svalbard</title>
       <description><![CDATA[– Det her er verdens nordligste kirkeklokker, sier sogneprest Siv Limstrand. Kongens død ble markert ved at kirkeklokkene i Longyearbyen ringte i en time.]]></description>
