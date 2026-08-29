@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:54:13 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:10:18 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Det beste fra P3morgen</title>
+      <description><![CDATA[Feite rotter, kylling som smaker rullekake, og fortelleren fra Brødrene Dahl, nyt det beste fra denne ukens P3morgen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d07a7e4b-bc4f-4d34-ba7e-4bbc4fbd34ed_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d07a7e4b-bc4f-4d34-ba7e-4bbc4fbd34ed_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:42</itunes:duration>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
     <item>
       <title>Naken på TV for 50 kroner.</title>
       <description><![CDATA[Arin har dummet seg litt ut og ber om råd fra Henning, og vi diskuterer prisen for å være naken på TV.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:21</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Henning ble forlatt under vann</title>
-      <description><![CDATA[Arin vil være en fantasi-pirat, Henning forteller om sitt møte med en hai og produsent Johannes er en selverklært pyse!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9ef2c560-cb86-457d-b2c5-60cb86f57dc1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9ef2c560-cb86-457d-b2c5-60cb86f57dc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:22</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DZCsMGbdhyxeB7YaKvm2QgfGABhrZuqpnIJWA0k1mUnA.jpg"/>
     </item>
   </channel>
 </rss>
