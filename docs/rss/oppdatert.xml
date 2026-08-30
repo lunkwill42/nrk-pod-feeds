@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:10:10 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Aug 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:56:32 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
     <item>
-      <title>Slik husker folket kong Harald</title>
-      <description><![CDATA[Dette er øyeblikkene nordmenn vil huske.]]></description>
+      <title>Dette er Norges nye konge</title>
+      <description><![CDATA[Som ung tvilte han på kongerollen. Nå er Haakon VIII landets statsoverhode.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/bd2a15bb-7545-479b-aa15-bb7545e79bfa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/bd2a15bb-7545-479b-aa15-bb7545e79bfa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:34</itunes:duration>
+      <pubDate>Sun, 30 Aug 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PkHFNu-6MCMU-R0dKKRgLwBXEx3t93zaT7Vc_983sgKg.jpg"/>
+    </item>
+    <item>
+      <title>Øyeblikkene folket husker</title>
+      <description><![CDATA[Folk forteller om minnene som sitter igjen etter kong Harald.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c647ac82-0d98-4c69-87ac-820d987c69e3_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/c647ac82-0d98-4c69-87ac-820d987c69e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>07:22</itunes:duration>
@@ -272,15 +281,6 @@
       <itunes:duration>11:48</itunes:duration>
       <pubDate>Fri, 17 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bkSQFTBZKTKRO6q9mAKctwGhUq8fU01fF34G2fAT5ufQ.jpg"/>
-    </item>
-    <item>
-      <title>Norges VM-exit: Har VAR blitt et maktmiddel?</title>
-      <description><![CDATA[Dømming ved hjelp av video skaper raseri blant fotball-supportere verden over. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b86181a2-2b93-4a47-a181-a22b937a472b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b86181a2-2b93-4a47-a181-a22b937a472b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:47</itunes:duration>
-      <pubDate>Tue, 14 Jul 2026 16:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x8GNz9C9vHG5yZ9HadPREgur-WTGeWcTUqe1ail2iGcg.jpg"/>
     </item>
   </channel>
 </rss>
