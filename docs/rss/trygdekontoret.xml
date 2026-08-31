@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:04:57 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:41:40 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Jonestown</title>
+      <description><![CDATA[Sektlederen Jim Jones lovet et sosialistisk paradis, men det endte i et massedrap. Even Hauen forteller historien om Jonestown-massakren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/0ec434f3-3496-495c-8434-f33496695c14_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0ec434f3-3496-495c-8434-f33496695c14_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:58</itunes:duration>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HV48QSLlp9jmF68k0ubmzAEf8oaV-UbS0tCG5mkeAAvw.jpg"/>
+    </item>
     <item>
       <title>Punk i 50 år</title>
       <description><![CDATA[1976 kom Sex Pistols, Ramones og The Damned med platene som endret musikkhistorien. Vi feirer 50 år med punk med journalist og veteranpunker Harald Fossberg!]]></description>
@@ -281,15 +290,6 @@ https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
-    </item>
-    <item>
-      <title>Musikk spessial: Oasis</title>
-      <description><![CDATA[Kritiker Aksel Kielland og debattansvarlig Hans Petter Sjøli om Noel og Liams Oasis-comeback som helbreder et splittet Storbritannia.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/f0c7a6fe-587f-4b31-87a6-fe587fab317e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/f0c7a6fe-587f-4b31-87a6-fe587fab317e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:09:07</itunes:duration>
-      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7_HlJfzQbuBhcXJiaOBcWQIiSinxs4OGUGKxERQFqq5A.jpg"/>
     </item>
   </channel>
 </rss>
