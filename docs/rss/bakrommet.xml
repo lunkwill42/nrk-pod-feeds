@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:14:17 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 14:50:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:57:04 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 14:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Kongen hedret og Europa-suksess.</title>
+      <description><![CDATA[Europa neste for fire norske lag, Nusa og Haaland viser klasse og fotballheder til kongen i helgen. I tillegg lukkes overgangsvinduet straks.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/e9404491-5638-4db4-8044-9156384db421_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/e9404491-5638-4db4-8044-9156384db421_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:46</itunes:duration>
+      <pubDate>Mon, 31 Aug 2026 14:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Vi er klare for høstens fotballfest!</title>
       <description><![CDATA[VM er over, men landslagsfesten fortsetter. Men ny storscorersveis og kaptein i storform. Danmark og Portugal venter, men hva skjer med klubbyttene alle ventet på?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/e7b70174-93ac-4531-b701-7493ac85312e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:47</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 08:48:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Endelig er det kamp igjen!</title>
-      <description><![CDATA[Norge mot Senegal er bare timer unna. Hva vet vi om motstanderen, laget og baneforholdene? Og Andrine er tilbake i gjengen,.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/e50405ca-d93b-46f5-8405-cad93b76f540_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/e50405ca-d93b-46f5-8405-cad93b76f540_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:14</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 03:12:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>

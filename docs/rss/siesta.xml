@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:33:52 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:58:02 +0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Stormer ut av studio</title>
+      <description><![CDATA[Det blir ekte ubehagelig når Daniel har funnet gamle sendinger fra Markus, vi får Chavad El Bacardi på besøk og ukas dumfette kåres.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/311d0621-3be1-42cf-9d06-213be1b2cf00_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/311d0621-3be1-42cf-9d06-213be1b2cf00_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel er blitt dement</title>
       <description><![CDATA[Det blir imitasjon av Elvis i spalte-spalten, Ørjan Elisæther ringer inn og er forbanna og Daniel har bikka.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/f678bd2e-8da9-4cc7-b8bd-2e8da9fcc76f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:59</itunes:duration>
       <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 09: Spise fra Annas mage</title>
-      <description><![CDATA[Vi  smalltalker dritten ut av ting, Markus har laget en voldelig smurfehit og Anna tvinger oss til å spise sjokolade fra magen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/a89e3738-d922-4f32-9e37-38d922cf32a2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/a89e3738-d922-4f32-9e37-38d922cf32a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:46</itunes:duration>
-      <pubDate>Mon, 13 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
