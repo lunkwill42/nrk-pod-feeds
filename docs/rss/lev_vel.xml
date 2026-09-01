@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:11:07 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:15:10 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>På hjertet: Hvordan motivere seg for høsten</title>
+      <description><![CDATA[Hvordan har Linnéa taklet en sommer uten alkohol? Og hva skal til for å unngå vinterdepresjon? Linnéa oppsummerer sommeren og setter nye mål for september.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a1161de5-72f8-4bfc-961d-e572f88bfc75_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a1161de5-72f8-4bfc-961d-e572f88bfc75_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:32</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g.jpg"/>
+    </item>
     <item>
       <title>Slik unngår du brudd</title>
       <description><![CDATA[August er høysesong for brudd og flere parforhold ryker etter konfliktfylte ferier. Men hva er det egentlig som får kjærligheten til å vare? Parterapeut Stine Kase har rådene som kan reparere forholdet og gjøre deg til en bedre partner.]]></description>
@@ -273,15 +282,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <itunes:duration>01:04:47</itunes:duration>
       <pubDate>Wed, 04 Feb 2026 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Månedschallenge: Har Linnéa klaget mindre?</title>
-      <description><![CDATA[Linnéa oppsummerer årets første månedschallenge, sjekker inn med lytterne, og gir deg en utfordring for februar: Null baksnakking!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a36076fb-86f2-42b4-a076-fb86f2a2b41e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a36076fb-86f2-42b4-a076-fb86f2a2b41e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:53</itunes:duration>
-      <pubDate>Fri, 30 Jan 2026 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
     </item>
   </channel>
 </rss>

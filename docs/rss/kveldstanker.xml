@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:58:32 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:15:03 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Laksekongen - med Svein Sæter</title>
+      <description><![CDATA[Noen ganger er det med konger som med små barn, forteller forfatteren Svein Sæter]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/9d7c99e8-f5dd-4dd6-bc99-e8f5ddddd649_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9d7c99e8-f5dd-4dd6-bc99-e8f5ddddd649_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:05</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5wWhHh0P4y7wm8X5dNHN4ANDF_rZAE1cpXHMxj7Dsy7A.jpg"/>
+    </item>
     <item>
       <title>Trekkspillprinsessa - med Gunn Marit Nisja</title>
       <description><![CDATA[- Det eneste som er verre for meg enn lyden av en torader, er to av dem, forteller forfatter Gunn Marit Nisja.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>03:24</itunes:duration>
       <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ga3K2LhZVpYGpSJG6h5USgzsuJxnjrpQbRD_m1mNZGxw.jpg"/>
-    </item>
-    <item>
-      <title>Godlin - med Gunn Marit Nisja</title>
-      <description><![CDATA[Det tok tid for forfatteren Gunn Marit Nisja å bli dus med en god biff.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/6ef6557f-abea-4fa8-b655-7fabea5fa85d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/6ef6557f-abea-4fa8-b655-7fabea5fa85d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:22</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
     </item>
   </channel>
 </rss>

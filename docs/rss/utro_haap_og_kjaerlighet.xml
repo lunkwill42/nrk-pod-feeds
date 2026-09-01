@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 30 Aug 2026 06:43:31 +0000</lastBuildDate>
-    <pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:15:40 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Siri Kristiansen: Sammen for bestandig</title>
+      <description><![CDATA[Siri Kristiansen forteller om oppvekst, kjærlighetslivet og hvorfor det tok åtte år fra første møtet til den første daten med ektemannen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/21162724-4f03-4899-9627-244f030899da_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/21162724-4f03-4899-9627-244f030899da_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:35</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZOFC-nnUKDrxfQKHzioKYgRPd9bALZs8SA1HotmGmJ5w.jpg"/>
+    </item>
     <item>
       <title>Panelet: Tarotkort og psykologtime</title>
       <description><![CDATA[Aksel Hennie har klare oppfordringer til Panelet: Hva skal til for å lykkes på date?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>48:06</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/c5NtxmhXbObqYKQVwZ9ceQWFRhfBK9vDI9rr235Cfa4g.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Opp og ned</title>
-      <description><![CDATA[Panelet om sin seksuelle debut, det å flytte for kjærligheten og hvor lenge man bør vente før man deler såre ting med en date?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/93ae1675-dc61-492f-ae16-75dc61c92fb1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/93ae1675-dc61-492f-ae16-75dc61c92fb1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:33</itunes:duration>
-      <pubDate>Sun, 14 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw.jpg"/>
     </item>
   </channel>
 </rss>
