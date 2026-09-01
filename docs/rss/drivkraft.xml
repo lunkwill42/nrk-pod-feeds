@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:57:17 +0000</lastBuildDate>
-    <pubDate>Mon, 31 Aug 2026 14:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:57:48 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 13:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ragnar Hovland</title>
+      <description><![CDATA[– Dette kommer aldri til å gå bra, sier vestlandsforfatteren om å bli intervjuet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ad3ee877-b1d6-4955-bee8-77b1d6195501_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ad3ee877-b1d6-4955-bee8-77b1d6195501_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:11</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 13:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fkwnUUz75FjOgHkJZCHBBQv3N4Qlq6ZK5DhmbItxMCtg.jpg"/>
+    </item>
     <item>
       <title>Tonje Gilje</title>
       <description><![CDATA[– Lykken er å game fra fredag til søndag. Å glemme  dusjing og spising, bare være helt nerd! sier  Flipp Klipp- profilen.]]></description>
@@ -274,15 +283,6 @@ Overveldet av Karpe-sorg]]></description>
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/25Y1XNIdtXEMqoRQD-t-JwbZucZorN6LBix7Akp3wsaw.jpg"/>
-    </item>
-    <item>
-      <title>Isalill Kolpus</title>
-      <description><![CDATA[Jakten på sannheten om John Savio: Isalill Kolpus om bestefarens hemmelighet og hvorfor hun forlater Nytt på nytt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/ba434362-aabc-4700-8343-62aabca70055_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ba434362-aabc-4700-8343-62aabca70055_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:45</itunes:duration>
-      <pubDate>Mon, 27 Apr 2026 14:51:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HM-rcwfnH56m_3fPaiYItQ8x0-gJxf2CSYvv__v3h8sg.jpg"/>
     </item>
   </channel>
 </rss>

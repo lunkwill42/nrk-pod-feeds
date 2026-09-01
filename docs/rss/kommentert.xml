@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:46:15 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 20:34:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:58:09 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 15:13:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Høiby på slottet: Hvilket signal sender kongehuset?</title>
+      <description><![CDATA[Marius Borg Høiby på slottet vekker reaksjoner. Hva slags signal sender kongehuset? 
+Og Islands nei til EU: Hvor sure ble de egentlig i Brussel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3b473ed7-adb2-48e7-873e-d7adb2a8e732_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/3b473ed7-adb2-48e7-873e-d7adb2a8e732_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:33</itunes:duration>
+      <pubDate>Tue, 01 Sep 2026 15:13:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z5ctqILWCgahsTm1sYOfgQJL8H2UDEL48TrYlHWVBBpA.jpg"/>
+    </item>
     <item>
       <title>Hva slags konge blir Haakon?</title>
       <description><![CDATA[Norge har mistet en konge og fått en ny. Hva tar vi med oss fra kong Harald? Og hva slags konge blir Haakon?]]></description>
@@ -295,15 +305,6 @@ Og Epstein-gransking: Systemsvikt i Norge eller enkeltpersoner som ødelegger?]]
       <itunes:duration>19:19</itunes:duration>
       <pubDate>Sun, 01 Mar 2026 16:12:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0CM7VvnAWsR6R8y8cGt_7AQ7MzZ9mCwefySr3bpM59zg.jpg"/>
-    </item>
-    <item>
-      <title>Børge Brende går av: Fortsatt ting vi lurer på</title>
-      <description><![CDATA[Børge Brende, leder av Verdens økonomiske forum, trekker seg på grunn av kontakten med Epstein. Og nå sitter mange hjemme og tenker at vi har en elite her i Norge med altfor tette bånd, stemmer det? Og er vi i media en del av dette problemet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/ef1bb3d4-815a-4628-9bb3-d4815a662825_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:49</itunes:duration>
-      <pubDate>Thu, 26 Feb 2026 15:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xJKtngNlP5uyuybDKYXIUAaMc7gFIWD_3GLySVWTwhdg.jpg"/>
     </item>
   </channel>
 </rss>
