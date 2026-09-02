@@ -1,36 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 6 siste fra Leseklubben</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 6 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
+    <title>De 30 siste fra Leseklubben</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Leseklubben. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/leseklubben for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:28:23 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:53:00 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>– Gleder meg like mye som til fotball-VM! (1:5)</title>
-      <description><![CDATA[Nå starter Hot Lindgren Summer i Leseklubben! Folk gråter, Else gleder seg og Kristoffer tviler. Men hvorfor skal voksne lese en barnebok?
+      <title>«Prosessen» (2:10 Samtale med Fru Grubach så frøken Büstner)</title>
+      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 1-2 kan du høre Leseklubben episode 2.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
 Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
-Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
-Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:12</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8531bf8a-7e7d-4934-b1bf-8a7e7de934e0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8531bf8a-7e7d-4934-b1bf-8a7e7de934e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:55</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+    </item>
+    <item>
+      <title>«Prosessen» (1:10 Arrestasjon)</title>
+      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 1-2 kan du høre Leseklubben episode 2.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/dc14ff9d-a46b-44dd-94ff-9da46b64ddd7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/dc14ff9d-a46b-44dd-94ff-9da46b64ddd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:58</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+    </item>
+    <item>
+      <title>– Skrytemateriale!</title>
+      <description><![CDATA[Hvorfor vil Einar lese «Prosessen» når han ikke liker å lese bøker? En sammenligning med «The Office» trigger leselysten. Nyhet om Boktober!
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5d6ea579-7eaa-4c13-aea5-797eaa9c13e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5d6ea579-7eaa-4c13-aea5-797eaa9c13e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:21</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
+    </item>
+    <item>
+      <title>BONUS: Lindgrens fortsettelse på «Brødrene Løvehjerte»</title>
+      <description><![CDATA[Kristoffer leser Lindgrens svar til tusenvis av barn som ville vite mer om livet i Nangilima. Publisert i Expressen i 1974.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:08</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+    </item>
+    <item>
+      <title>– Skulle kanskje ikke lest den som voksen? (5:5)</title>
+      <description><![CDATA[Full forvirring om slutten: trist eller lykkelig? Else gjør som Astrid og gir en lærepenge. Vår «Prosessen»-gjest venter på Kristoffer i kaninhullet! (Episoden omtaler selvmord)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:29</itunes:duration>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+    </item>
+    <item>
+      <title>Nord-Korea, farfar og fatshaming (4:5)</title>
+      <description><![CDATA[Else elsker farfar Mathias. Driver Lindgren med fatshaming? Christine forteller om Astrid, krig og politikk.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:58</itunes:duration>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+    </item>
+    <item>
+      <title>– Kan vi ikke ha det litt mer koselig? (3:6)</title>
+      <description><![CDATA[Else gisper av forræderen. Full debatt om å true barn med kniv. Hvem bør spille brødrene i ny TV-serie?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:56</itunes:duration>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
     </item>
     <item>
       <title>– Jeg har mitt eget Nangijala (2:5)</title>
-      <description><![CDATA[Else gråter på toget og forteller om en sky full av sjokolade. Kristoffer er psykolog, mens Christine blir stadig mer forkjøla i øynene. (Episoden omtaler selvmord)
+      <description><![CDATA[Else gråter på toget og forteller om en sky full av sjokolade. Kristoffer er psykolog, mens Christine blir stadig mer forkjøla i øynene. (Episoden omtaler selvmord) Lydboka er ikke tilgjengelig lenger.
 
 Lese-/lytteoppskrift:
 Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
@@ -45,40 +113,344 @@ Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
       <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
     </item>
     <item>
-      <title>– Kan vi ikke ha det litt mer koselig? (3:6)</title>
-      <description><![CDATA[Else gisper av forræderen. Full debatt om å true barn med kniv. Hvem bør spille brødrene i ny TV-serie?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:56</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+      <title>– Gleder meg like mye som til fotball-VM! (1:5)</title>
+      <description><![CDATA[Nå starter Hot Lindgren Summer i Leseklubben! Folk gråter, Else gleder seg og Kristoffer tviler. Men hvorfor skal voksne lese en barnebok? Lydboka er ikke tilgjengelig lenger.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
+Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
+Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:12</itunes:duration>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
     </item>
     <item>
-      <title>Nord-Korea, farfar og fatshaming (4:5)</title>
-      <description><![CDATA[Else elsker farfar Mathias. Driver Lindgren med fatshaming? Christine forteller om Astrid, krig og politikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:58</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>– Jeg er litt forandret nå (6:6)</title>
+      <description><![CDATA[Vidar våkner opp til en ny verden. Christine blir rørt og Kristoffer karrer seg over målstreken. Men hva handler egentlig boka om? Lydboka er ikke tilgjengelig lenger.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:51</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
     <item>
-      <title>– Skulle kanskje ikke lest den som voksen? (5:5)</title>
-      <description><![CDATA[Full forvirring om slutten: trist eller lykkelig? Else gjør som Astrid og gir en lærepenge. Vår «Prosessen»-gjest venter på Kristoffer i kaninhullet! (Episoden omtaler selvmord)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:29</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>– Dette er ikke en koseklubb! (5:6)</title>
+      <description><![CDATA[Lytterne er lei av pikk og Murakamis sex-scener får kjørt seg. Men må vi elske ALT ved en bok eller en forfatter? Lydboka er ikke tilgjengelig lenger.
+
+Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:51</itunes:duration>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
     <item>
-      <title>BONUS: Lindgrens fortsettelse på «Brødrene Løvehjerte»</title>
-      <description><![CDATA[Kristoffer leser Lindgrens svar til tusenvis av barn som ville vite mer om livet i Nangilima. Publisert i Expressen i 1974.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:08</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>– Dere må holde kjeft! (4:6)</title>
+      <description><![CDATA[Det regner makrell, feminist-knock out i biblioteket og Vidar rykker ut som Asia-korrespondent.
+
+Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d2bd4879-5d12-4122-bd48-795d12512280_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d2bd4879-5d12-4122-bd48-795d12512280_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:07</itunes:duration>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+    </item>
+    <item>
+      <title>– Det verste jeg har lest! (3:6)</title>
+      <description><![CDATA[Sjokk, vemmelse og kattedrap. Har Murakami skapt tidenes ondeste superskurk? En Oshima-aktig mann har inntatt Kristoffers stol.
+
+Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben 
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben 
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben 
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/01b3c950-4c10-4399-b3c9-504c109399ff_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/01b3c950-4c10-4399-b3c9-504c109399ff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:27</itunes:duration>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+    </item>
+    <item>
+      <title>– Følte jeg leste Døden på Oslo S! (2:6)</title>
+      <description><![CDATA[Ereksjonsfrykt på bussen, storsnutede stavkarler og hvem er egentlig denne kråka? 
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/dabc3ab3-8fee-42de-bc3a-b38feef2def5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/dabc3ab3-8fee-42de-bc3a-b38feef2def5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:45</itunes:duration>
+      <pubDate>Thu, 07 May 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+    </item>
+    <item>
+      <title>– Jeg har en innrømmelse! (1:6)</title>
+      <description><![CDATA[Murakami+Magnussen= maratonstemning i klubben! Vil Vidar klare å gjennomføre løpet? Leseklubben er blitt moderne, nå også på video!
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
+Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
+Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
+Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
+Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ba435514-b8ee-4c7d-8355-14b8ee5c7d8e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ba435514-b8ee-4c7d-8355-14b8ee5c7d8e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:28</itunes:duration>
+      <pubDate>Thu, 30 Apr 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+    </item>
+    <item>
+      <title>Skandale-spesial, krydder og Poirot (4:4)</title>
+      <description><![CDATA[Dypdykk om Wilde og rettssaken. Hvilket krydder mener Fredrik boka er? Avsløring av neste bok og gjest!
+
+Leseoppskrift: Slik deler vi inn boka:
+Leseklubben: Episode 1 → Les/hør Oscar Wildes forord + kapittel 1–3
+Leseklubben: Episode 2 → Les/hør kapittel 4–13
+Leseklubben: Episode 3 → Les/hør kapittel 14–20
+Leseklubben: Episode 4
+Lydboka er tilgjengelig til 20. mai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/64ebd354-8fab-4485-abd3-548fab648588_4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/64ebd354-8fab-4485-abd3-548fab648588_4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:31</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 06:23:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f0NneoT0FVOF8TARGD5VnQ86iuCLA1iP13XqXTpRLkMA.jpg"/>
+    </item>
+    <item>
+      <title>Epstein og erotiske steiner (3:4)</title>
+      <description><![CDATA[Fredrik kjenner seg igjen i halvkald suppe. Christine er streng mot Oscar. Er kapittel 11 et slags rusmiddel? 
+
+Leseoppskrift: Slik deler vi inn boka:
+Leseklubben: Episode 1 → Les/hør Oscar Wildes forord + kapittel 1-3
+Leseklubben: Episode 2 → Les/hør kapittel 4-13
+Leseklubben: Episode 3 → Les/hør kapittel 14-20
+Leseklubben: Episode 4
+Lydboka er tilgjengelig til 20. mai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a1cb9c26-a158-4ad4-8b9c-26a158dad4ec_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a1cb9c26-a158-4ad4-8b9c-26a158dad4ec_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:19</itunes:duration>
+      <pubDate>Wed, 01 Apr 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f0NneoT0FVOF8TARGD5VnQ86iuCLA1iP13XqXTpRLkMA.jpg"/>
+    </item>
+    <item>
+      <title>– Helt vanvittig! (2:4)</title>
+      <description><![CDATA[Fredrik overveldes av alle sitatene og drar linjer til Trump og kjendiseri. Er Dorian mest lik Michael Jackson eller Jude Law? 
+
+Leseoppskrift: Slik deler vi inn boka:
+Leseklubben: Episode 1 → Les/hør Oscar Wildes forord + kapittel 1-3
+Leseklubben: Episode 2 → Les/hør kapittel 4-13
+Leseklubben: Episode 3 → Les/hør kapittel 14-20
+Leseklubben: Episode 4
+Lydboka er tilgjengelig til 20. mai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d010c0f4-d09b-47a7-90c0-f4d09ba7a78c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d010c0f4-d09b-47a7-90c0-f4d09ba7a78c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:22</itunes:duration>
+      <pubDate>Thu, 26 Mar 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f0NneoT0FVOF8TARGD5VnQ86iuCLA1iP13XqXTpRLkMA.jpg"/>
+    </item>
+    <item>
+      <title>– Skumlere enn å lede Debatten (1:4)</title>
+      <description><![CDATA[Fredriks leselyst er pirret. Professor Janne tar oss til Hollywood. Kristoffer truer med at noe i boka kan velte hele Leseklubben.
+
+Lese- og lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
+Les/hør Oscar Wildes forord + kapittel 1–3 → hør episode 2 av Leseklubben 
+Les/hør kapittel 4–13 → hør episode 3 av Leseklubben 
+Les/hør kapittel 14–20 → hør episode 4 av Leseklubben 
+Lydboka er tilgjengelig til 20. mai.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bce9beb4-5b3c-4135-a9be-b45b3c21355b_6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bce9beb4-5b3c-4135-a9be-b45b3c21355b_6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:37</itunes:duration>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/f0NneoT0FVOF8TARGD5VnQ86iuCLA1iP13XqXTpRLkMA.jpg"/>
+    </item>
+    <item>
+      <title>Forbanna feminist (6:6)</title>
+      <description><![CDATA[Har boka endret Jenny? Blir Offred reddet eller tatt? Et siste Epstein-grøss fra en lytter. AVSLØRING: neste bok + gjest. Lydboka er tilgjengelig til 11. mars.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/615f51ae-0719-4291-9f51-ae0719129197_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/615f51ae-0719-4291-9f51-ae0719129197_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:14</itunes:duration>
+      <pubDate>Wed, 18 Feb 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hyaESW7BzT8KRjfuA7SLhgAsPB5z789AttV_olAmTC1Q.jpg"/>
+    </item>
+    <item>
+      <title>– Vi må håne dem, for noen tapere! (5:6)</title>
+      <description><![CDATA[Ukens kapitler er som å åpne døra til Epsteins univers og Jenny blir stadig mer forbanna. Hvilket spørsmål svarte Atwood på? Lydboka er tilgjengelig til 11. mars.
+
+Leseoppskrift: Slik deler vi inn «The Handmaid's Tale»:
+Leseklubben: Episode 1 → Les/hør kapittel 1-5
+Leseklubben: Episode 2 → Les/hør kapittel 6-16
+Leseklubben: Episode 3 → Les/hør kapittel 17-29
+Leseklubben: Episode 4 → Les/hør kapittel 30-40
+Leseklubben: Episode 5 → Les/hør og kapittel 41-46 og «Historiske merknader»/epilogen.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/54e15b3d-da9d-4de7-a15b-3dda9dcde79a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/54e15b3d-da9d-4de7-a15b-3dda9dcde79a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:15</itunes:duration>
+      <pubDate>Wed, 11 Feb 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hyaESW7BzT8KRjfuA7SLhgAsPB5z789AttV_olAmTC1Q.jpg"/>
+    </item>
+    <item>
+      <title>Er Jenny angiver eller jente på skauen? (4:6)</title>
+      <description><![CDATA[Kristoffer stilles til veggs: Hadde han likt å ha makt over kona si? Jenny ser egg overalt. Christine nerder om latinsk uttrykk. Lydboka er tilgjengelig til 11. mars.
+
+Leseoppskrift: Slik deler vi inn «The Handmaid's Tale»:
+Leseklubben: Episode 1 → Les/hør kapittel 1-5
+Leseklubben: Episode 2 → Les/hør kapittel 6-16
+Leseklubben: Episode 3 → Les/hør kapittel 17-29
+Leseklubben: Episode 4 → Les/hør kapittel 30-40
+Leseklubben: Episode 5 → Les/hør og kapittel 41-46 og «Historiske merknader»/epilogen.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6cd178c3-24b6-46c6-9178-c324b656c6bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6cd178c3-24b6-46c6-9178-c324b656c6bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:00</itunes:duration>
+      <pubDate>Wed, 04 Feb 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hyaESW7BzT8KRjfuA7SLhgAsPB5z789AttV_olAmTC1Q.jpg"/>
+    </item>
+    <item>
+      <title>– Har infiltrert livet mitt (3:6)</title>
+      <description><![CDATA[Jenny tenker på boka både hos gynekologen og når hun leser om ICE. Spennende nyhet om Margaret! Sarah Gaulin sammenligner Gilead med Iran. Lydboka er tilgjengelig til 11. mars.
+
+Leseoppskrift: Slik deler vi inn «The Handmaid's Tale»:
+Leseklubben: Episode 1 → Les/hør kapittel 1-5
+Leseklubben: Episode 2 → Les/hør kapittel 6-16
+Leseklubben: Episode 3 → Les/hør kapittel 17-29
+Leseklubben: Episode 4 → Les/hør kapittel 30-40
+Leseklubben: Episode 5 → Les/hør og kapittel 41-46 og «Historiske merknader»/epilogen.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/befcf585-e5f9-4c83-bcf5-85e5f99c83a5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/befcf585-e5f9-4c83-bcf5-85e5f99c83a5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:53</itunes:duration>
+      <pubDate>Wed, 28 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hyaESW7BzT8KRjfuA7SLhgAsPB5z789AttV_olAmTC1Q.jpg"/>
+    </item>
+    <item>
+      <title>– Jeg er lett å fyre opp! (2:6)</title>
+      <description><![CDATA[Jenny vil ha fjes-roast av Margaret Atwood. Kristoffer elsker at boka er et tusen biters puslespill. Det lefles med totalitære tanker. Lydboka er tilgjengelig til 11. mars.
+
+Leseoppskrift: Slik deler vi inn «The Handmaid's Tale»:
+Leseklubben: Episode 1 → Les/hør kapittel 1-5
+Leseklubben: Episode 2 → Les/hør kapittel 6-16 
+Leseklubben: Episode 3 → Les/hør kapittel 17-29
+Leseklubben: Episode 4 → Les/hør kapittel 30-40
+Leseklubben: Episode 5 → Les/hør og kapittel 41-46 og «Historiske merknader»/epilogen.
+Leseklubben: Episode 6.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/7f1c39ef-fa89-4c2b-9c39-effa895c2ba8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/7f1c39ef-fa89-4c2b-9c39-effa895c2ba8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:51</itunes:duration>
+      <pubDate>Wed, 21 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hyaESW7BzT8KRjfuA7SLhgAsPB5z789AttV_olAmTC1Q.jpg"/>
+    </item>
+    <item>
+      <title>– Kan være det siste vi gjør! (1:6)</title>
+      <description><![CDATA[Kan boka gjøre Jenny mer forbanna? Kristoffer har trodd den er litt som Downtown Abbey. Hvordan finne noe snacks i det mørke? Lydboka er tilgjengelig til 11. mars.
+
+Leseoppskrift: Slik deler vi inn «The Handmaid's Tale»:
+Leseklubben: Episode 1 → Les/hør kapittel 1-5
+Leseklubben: Episode 2 → Les/hør kapittel 6-16 
+Leseklubben: Episode 3 → Les/hør kapittel 17-29
+Leseklubben: Episode 4 → Les/hør kapittel 30-40
+Leseklubben: Episode 5 → Les/hør og kapittel 41-46 og «Historiske merknader»/epilogen.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6c0d35f1-2ebb-4443-8d35-f12ebb64438a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6c0d35f1-2ebb-4443-8d35-f12ebb64438a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:07</itunes:duration>
+      <pubDate>Wed, 14 Jan 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hyaESW7BzT8KRjfuA7SLhgAsPB5z789AttV_olAmTC1Q.jpg"/>
+    </item>
+    <item>
+      <title>– Er de jentene med svovelstikkene?</title>
+      <description><![CDATA[Solveig kjenner seg igjen i søstrene. Er Kristoffers sammendrag mer verdensskjent enn Dua Lipa? Hvor er Kleenexen? Avsløring av januar-bok! Lydboka er ikke tilgjengelig lenger.
+
+Leseoppskrift: 
+Lytt først til episode 1 av Leseklubben. Lytt eller les hele boka. Lytt på episode 2 av Leseklubben.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/69e62131-7516-4ad7-a621-317516ead7c7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/69e62131-7516-4ad7-a621-317516ead7c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:59</itunes:duration>
+      <pubDate>Sun, 14 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fr6HzgfJlUL4NUV-W43JUgPbj-IgO10oMhUfLEfSCyHg.jpg"/>
+    </item>
+    <item>
+      <title>– Ikke les denne på bussen!</title>
+      <description><![CDATA[Er «Stargate» begynnelsen på en ny juletradisjon i Leseklubben? Solveig teaser slutten, men har hun smilefjes eller gråtefjes? Lydboka er ikke tilgjengelig lenger.
+
+Leseoppskrift: 
+Lytt først til episode 1 av Leseklubben. Lytt eller les hele boka. Lytt på episode 2 av Leseklubben.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/84128fcb-eadf-4b6c-928f-cbeadf4b6cb9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/84128fcb-eadf-4b6c-928f-cbeadf4b6cb9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:02</itunes:duration>
+      <pubDate>Wed, 10 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Fr6HzgfJlUL4NUV-W43JUgPbj-IgO10oMhUfLEfSCyHg.jpg"/>
+    </item>
+    <item>
+      <title>Hvem er monsteret? Kavehs fasit (6:6)</title>
+      <description><![CDATA[Frankenstein med Ståle Solbakken-tale. Hvordan tenne likbål på Nordpolen? Utdeling av bøker, eggstokker, tankestreker og kroppsdeler. Lydboka er dessverre ikke tilgjengelig lenger.
+
+Leseoppskrift: Slik deler vi inn «Frankenstein»:
+Leseklubben: Episode 1 → Les/hør DEL 1 1. - 4. brev og kapittel 1-2 i boka.
+Leseklubben: Episode 2 → Les/hør DEL 1 kapittel 3-7 i boka.
+Leseklubben: Episode 3 → Les/hør DEL 2 kapittel 1-9 i boka.
+Leseklubben: Episode 4 → Les/hør DEL 3 kapittel 1-5 i boka.
+Leseklubben: Episode 5 → Les/hør DEL 3 kapittel 6-7 og «Waltons framhald» i boka.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/235a45d5-ed63-46cf-9a45-d5ed6396cfa2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/235a45d5-ed63-46cf-9a45-d5ed6396cfa2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:22</itunes:duration>
+      <pubDate>Wed, 03 Dec 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9vC3bckJlXsZiginDq2Kxg1KuXAF-w9isfE4Gc9XwNqA.jpg"/>
+    </item>
+    <item>
+      <title>Kan man gjøre som Frankenstein i 2025? (5:6)</title>
+      <description><![CDATA[Kurven med kroppsdeler skaper grøss. Er pappa Frankenstein det virkelige monsteret? Leseklubben + Abels tårn = heftig hjernekok. Lydboka er dessverre ikke tilgjengelig lenger.
+
+Leseoppskrift: Slik deler vi inn «Frankenstein»:
+Leseklubben: Episode 1 → Les/hør DEL 1 1. - 4. brev og kapittel 1-2 i boka.
+Leseklubben: Episode 2 → Les/hør DEL 1 kapittel 3-7 i boka.
+Leseklubben: Episode 3 → Les/hør DEL 2 kapittel 1-9 i boka.
+Leseklubben: Episode 4 → Les/hør DEL 3 kapittel 1-5 i boka.
+Leseklubben: Episode 5 → Les/hør DEL 3 kapittel 6-7 og «Waltons framhald» i boka.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/9f0820cf-020f-4ff9-8820-cf020f3ff992_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/9f0820cf-020f-4ff9-8820-cf020f3ff992_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:50</itunes:duration>
+      <pubDate>Wed, 26 Nov 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9vC3bckJlXsZiginDq2Kxg1KuXAF-w9isfE4Gc9XwNqA.jpg"/>
+    </item>
+    <item>
+      <title>– Handler om radikalisering og ekstremisme! (4:6)</title>
+      <description><![CDATA[Monsteret har talt! Bonusgjest Morten Hegseth og Kaveh drar linjer til rasisme og Foxtrot. Hva finner Kristoffer bak flax-loddet? Lydboka er dessverre ikke tilgjengelig lenger.
+
+Leseoppskrift: Slik deler vi inn «Frankenstein»:
+Leseklubben: Episode 1 → Les/hør DEL 1 1. - 4. brev og kapittel 1-2 i boka.
+Leseklubben: Episode 2 → Les/hør DEL 1 kapittel 3-7 i boka.
+Leseklubben: Episode 3 → Les/hør DEL 2 kapittel 1-9 i boka.
+Leseklubben: Episode 4 → Les/hør DEL 3 kapittel 1-5 i boka.
+Leseklubben: Episode 5 → Les/hør DEL 3 kapittel 6-7 og «Waltons framhald» i boka.
+Leseklubben: Episode 6]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b2a496b5-b223-492b-a496-b5b223792bae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b2a496b5-b223-492b-a496-b5b223792bae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:27</itunes:duration>
+      <pubDate>Wed, 19 Nov 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9vC3bckJlXsZiginDq2Kxg1KuXAF-w9isfE4Gc9XwNqA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 05:15:10 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:53:06 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>Slik avslører du en narsissist</title>
+      <description><![CDATA[Hvordan oppstår narsissisme? Og hva gjør du hvis samboeren din viser seg å være en? Nevropsykolog Mia Tuft tar oss gjennom 14 ​kjennetegn på narsissisme.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/3e82c25b-8015-4ea0-82c2-5b80156ea056_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/3e82c25b-8015-4ea0-82c2-5b80156ea056_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:02</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
     <item>
       <title>På hjertet: Hvordan motivere seg for høsten</title>
       <description><![CDATA[Hvordan har Linnéa taklet en sommer uten alkohol? Og hva skal til for å unngå vinterdepresjon? Linnéa oppsummerer sommeren og setter nye mål for september.]]></description>
@@ -272,15 +281,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/d2647f07-33af-49e0-a47f-0733af49e06f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:01:38</itunes:duration>
       <pubDate>Wed, 11 Feb 2026 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Selvkritikk</title>
-      <description><![CDATA[Hva gjør at vi blir vår egen verste fiende og hvordan kan man håndtere sin indre kritiker? Psykolog Aksel Inge Sinding svarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/a0778777-d0fc-429d-b787-77d0fcf29d01_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a0778777-d0fc-429d-b787-77d0fcf29d01_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:04:47</itunes:duration>
-      <pubDate>Wed, 04 Feb 2026 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>

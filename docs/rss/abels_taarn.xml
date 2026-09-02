@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:57:36 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:52:12 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     <item>
-      <title>Vinduet ditt gir deg mangelsykdommer</title>
+      <title>Har du ødelagt mobilen?</title>
+      <description><![CDATA[Snart kan den reparere seg selv. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:45</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
+    <item>
+      <title>Kan vinduet ditt gi deg mangelsykdommer?</title>
       <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -279,15 +288,6 @@ Lurer du på snåle saker? Send inn spørsmål til Abels Tårns kompetente ekspe
       <itunes:duration>57:35</itunes:duration>
       <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ajGyMdQQ7v1JInaDjW4OEQk1t0-5-p1dqc84rYqW6Jdg.jpg"/>
-    </item>
-    <item>
-      <title>Slik lagrer hjernen din minner</title>
-      <description><![CDATA[Og det er mer finurlig enn forskere tidligere har trodd. Og ikke kast melketennene dine. De kan avsløre din mentale helse.  Og så, i Bangladesh dør folk  av meslinger igjen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/acf27e64-5b6d-4a55-b27e-645b6d8a55cf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/acf27e64-5b6d-4a55-b27e-645b6d8a55cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:41</itunes:duration>
-      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>

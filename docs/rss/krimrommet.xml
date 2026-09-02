@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:58:25 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:52:43 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Clancy (1): Drap eller depresjon?</title>
+      <description><![CDATA[En januardag i 2023 blir tre små barn drept på grusomt vis – i sitt eget hjem. Men kan moren deres straffes for å ha begått drapene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/1542b4e7-33ea-41e7-82b4-e733ea51e78c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1542b4e7-33ea-41e7-82b4-e733ea51e78c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:18</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QPx1ddirCoRcgq68TA5AFw4xQvqxgdSD4Z9mtJ7sWj_Q.jpg"/>
+    </item>
     <item>
       <title>Kvinnen i kofferten</title>
       <description><![CDATA[En mann triller en koffert langs et fortau i Athen. Like etter blir en skotsk misjonær meldt savnet.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/b0060f09-9498-43a1-860f-09949863a111_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/krimrommet/b0060f09-9498-43a1-860f-09949863a111_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:09</itunes:duration>
+      <itunes:duration>28:14</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MA78-aLLRxTzUBWoxnTjNgX18UJpwLeuyd8cHx9QocwQ.jpg"/>
     </item>
@@ -272,15 +281,6 @@
       <itunes:duration>24:54</itunes:duration>
       <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/W3n4E34EzeqNnubWehHSGAvar1J4Fkxou8FPj9CO0Nug.jpg"/>
-    </item>
-    <item>
-      <title>Økse-drapet i Løten (2): Slik endret kvinnen forklaring</title>
-      <description><![CDATA[Drapsdømte Veronica Lystrup tilstod å ha drept, men hevdet nødverge, da saken kom opp i lagmannsretten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/6ed02099-248a-4691-9020-99248af6912f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6ed02099-248a-4691-9020-99248af6912f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:45</itunes:duration>
-      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rX_7sQwj4o0bP6A8aQE6ZAEjIJnbOt-tb_lPvHxKWnzA.jpg"/>
     </item>
   </channel>
 </rss>
