@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:13:26 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:23:37 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Vi tester chipskomboer</title>
+      <description><![CDATA[Er potetgull og brun saus en god kombo! Nå mener flere at brun saus er den nye holidaydippen, og i dag skal vi endelig teste det.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:50</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Krig om skalken på brødet.</title>
+      <description><![CDATA[Henning har tatt i bruk sin nye kjøkkenmaskin, Arin prøver å bidra med noe i podkasten og Jonas får høre om 6-7 Grill.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/397e59fa-22bd-47fe-be59-fa22bd37fec1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/397e59fa-22bd-47fe-be59-fa22bd37fec1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:33</itunes:duration>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
+    </item>
     <item>
       <title>Potetgull til julemidaggen</title>
       <description><![CDATA[Kjenner du igjen låten ved å kun høre Jason Derulo si sitt eget navn? Vi tester det i dag. Henning lurer på om hans nye hobby er problematisk. Vi hører om folks potetgullvaner]]></description>
@@ -263,24 +281,6 @@
       <itunes:duration>20:20</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
-    </item>
-    <item>
-      <title>Henning har blitt jekket ned.</title>
-      <description><![CDATA[Arin hater fortsatt at folk raper i offentligheten og Henning har blitt jekket ned av kjæresten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/295641b7-de67-4fd6-9641-b7de67afd6d0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/295641b7-de67-4fd6-9641-b7de67afd6d0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:21</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
-    </item>
-    <item>
-      <title>Søvn og skrolling.</title>
-      <description><![CDATA[Henning er trøtt.no og Arin får igjen høre det, når hun tar opp sine skrollevaner før leggetid.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/58ec273a-3ff6-4639-ac27-3a3ff6863996_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/58ec273a-3ff6-4639-ac27-3a3ff6863996_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
     </item>
   </channel>
 </rss>
