@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:58:09 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 15:13:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:28:57 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 15:11:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?</title>
+      <description><![CDATA[Vladimir Putin går hardt ut mot Norge, etter at et russisk skip på Svalbard er satt i norsk arrest. Hvilke konsekvenser kan det få?<]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/757e7a7a-5218-4cdf-be7a-7a5218ecdf08_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/757e7a7a-5218-4cdf-be7a-7a5218ecdf08_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:14</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 15:11:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I0QmE81nkhzsVWnnXjYcswSaBs3FIxeaz912q6A9owCw.jpg"/>
+    </item>
     <item>
       <title>Høiby på slottet: Hvilket signal sender kongehuset?</title>
       <description><![CDATA[Marius Borg Høiby på slottet vekker reaksjoner. Hva slags signal sender kongehuset? 
@@ -296,15 +305,6 @@ Og Epstein-gransking: Systemsvikt i Norge eller enkeltpersoner som ødelegger?]]
       <itunes:duration>29:31</itunes:duration>
       <pubDate>Wed, 04 Mar 2026 16:58:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWg2ZgJvPAF9_Vijq2PRJQEi2vldKPYsLQ4a8u6wiVtg.jpg"/>
-    </item>
-    <item>
-      <title>Irans leder drept: Hva skjer nå?</title>
-      <description><![CDATA[USA og Israels angrep mot Iran er det største i midtøsten siden Irak-krigen. Irans øverste leder Ali Khamenei er drept, hva skjer nå? Kan det bli revolusjon i Iran? Og hvor stor kan denne krigen bli?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/783bd5e2-77f1-464d-bbd5-e277f1a64d4e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:19</itunes:duration>
-      <pubDate>Sun, 01 Mar 2026 16:12:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0CM7VvnAWsR6R8y8cGt_7AQ7MzZ9mCwefySr3bpM59zg.jpg"/>
     </item>
   </channel>
 </rss>
