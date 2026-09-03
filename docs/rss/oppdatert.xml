@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 05:53:19 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 05:52:25 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>2Pac-mysteriet: Gjengleder felt av egen bok?</title>
+      <description><![CDATA[Drapet på den verdenskjente rapperen ble aldri oppklart. Har vi endelig fått svaret på hvem som sto bak?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f1834f26-3ed6-4aa1-834f-263ed6daa1c1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f1834f26-3ed6-4aa1-834f-263ed6daa1c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:51</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IQOLpmymrP1NNjnUSpneuwgxGvYpuyzyTELVGXW_IWIw.jpg"/>
+    </item>
     <item>
       <title>Urfolks-ikonet: Bygget hun karrieren på en løgn?</title>
       <description><![CDATA[Buffy Sainte-Marie var en viktig stemme for urfolk verden over. Så begynte historien hennes å slå sprekker.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>21:17</itunes:duration>
       <pubDate>Fri, 24 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/c6JYdQ9qkJyMdTIxcJcCNAYUGZedTTna8lt7aiH3exvw.jpg"/>
-    </item>
-    <item>
-      <title>22. juli-terroren: Helenes navn sto i manifestet</title>
-      <description><![CDATA[Siden terrorangrepet har en stor del av artisten ligget gjemt bort. Nå tar hun musikken tilbake.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/0356457f-bd78-44b1-9645-7fbd7854b1eb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/0356457f-bd78-44b1-9645-7fbd7854b1eb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:59</itunes:duration>
-      <pubDate>Wed, 22 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xPjyjvDvD-gn6tNFKoSH3Qaw3dL2jUbK3XFKJrh1jnXA.jpg"/>
     </item>
   </channel>
 </rss>

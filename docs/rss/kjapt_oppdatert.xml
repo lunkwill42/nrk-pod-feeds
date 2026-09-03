@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 05:52:37 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 05:52:05 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Norge venter reaksjoner fra Russland</title>
+      <description><![CDATA[Og mange er redde for at boligprisene blir høye i flere år]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/93498506-9633-49e4-8985-06963349e4e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/93498506-9633-49e4-8985-06963349e4e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:45</itunes:duration>
+      <pubDate>Thu, 03 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NHUTp13RWsgpzr7ci9En6A6uLbzYFsgaqOiZwjmWXT0w.jpg"/>
+    </item>
     <item>
       <title>7 av 10 vil beholde monarkiet</title>
       <description><![CDATA[Og USA har inngått en enorm oljeavtale med Venezuela.]]></description>
@@ -275,15 +284,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>05:50</itunes:duration>
       <pubDate>Mon, 27 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lWPzAMuQhEOF6etpDNjhlg4FZv_Ng8KgdbaU355LXJcw.jpg"/>
-    </item>
-    <item>
-      <title>Ny straffetoll fra USA</title>
-      <description><![CDATA[Og nordmenn er rekordgode på sparing, og vi gir deg svaret på hvorfor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/c76c2ac0-4d8e-4aad-ac2a-c04d8eeaadbc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c76c2ac0-4d8e-4aad-ac2a-c04d8eeaadbc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:09</itunes:duration>
-      <pubDate>Fri, 24 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/m2_pQFrOJKrHtGdxkE2F1AUtgVDmlb7QTepqFwmDpXig.jpg"/>
     </item>
   </channel>
 </rss>
