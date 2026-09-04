@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 28 Aug 2026 05:26:44 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 05:57:43 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Alle har en venninne på Rikshospitalet</title>
+      <description><![CDATA[Vi ser nærmere på rykteflommen før (og alle som slapp låter etter) Kong Haralds død. Flatindeksen for august 2026 er klar. Smartbriller kan være siste spiker i kista for personvernet vårt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/2c6045c3-3b09-41ab-a045-c33b09a1ab95_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/2c6045c3-3b09-41ab-a045-c33b09a1ab95_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:57</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>En kort beskjed</title>
       <description><![CDATA[Desken brenner utgår denne uka – vi er tilbake neste fredag.]]></description>
@@ -274,15 +283,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <itunes:duration>26:17</itunes:duration>
       <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/HKRcDkKIYu0QEEqUlCofFAzgUaQs-iceXa5B4C0wpi8w.jpg"/>
-    </item>
-    <item>
-      <title>Statlig organ møter kjønnsorgan</title>
-      <description><![CDATA[Råd om møter med kjønnsmangfold skaper motstand. Hvem har skylda for at solcelle-bransjen sliter? Kun den beste HPV-vaksinen or god nok for våre barn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/9648675f-cbf8-43b8-8867-5fcbf8f3b805_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/9648675f-cbf8-43b8-8867-5fcbf8f3b805_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:45</itunes:duration>
-      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>
 </rss>

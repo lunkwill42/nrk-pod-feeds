@@ -8,13 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 05:52:12 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 05:57:31 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
     <item>
-      <title>Har du ødelagt mobilen?</title>
-      <description><![CDATA[Snart kan den reparere seg selv. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
+      <title>Østers i fjorden - yea or nay?</title>
+      <description><![CDATA[Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
+Lurer du på ting? Spør Abels Tårn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:09</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw.jpg"/>
+    </item>
+    <item>
+      <title>En mobil som reparerer seg selv</title>
+      <description><![CDATA[Er det NASA drømmer om. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:45</itunes:duration>
@@ -22,7 +32,7 @@
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
     <item>
-      <title>Kan vinduet ditt gi deg mangelsykdommer?</title>
+      <title>Vinduet ditt gjør deg syk</title>
       <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -278,16 +288,6 @@ Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!]]></descripti
       <itunes:duration>31:48</itunes:duration>
       <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Hva kan snegleslim brukes til?</title>
-      <description><![CDATA[Bortsett fra som glidemiddel, selvfølgelig!
-Lurer du på snåle saker? Send inn spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/cbc423e5-c894-4515-8423-e5c894c51513_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cbc423e5-c894-4515-8423-e5c894c51513_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:35</itunes:duration>
-      <pubDate>Fri, 22 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ajGyMdQQ7v1JInaDjW4OEQk1t0-5-p1dqc84rYqW6Jdg.jpg"/>
     </item>
   </channel>
 </rss>
