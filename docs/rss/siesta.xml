@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:29:11 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:25:02 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Sigurd Sollien om Forræder</title>
+      <description><![CDATA[Vi hilser på ny pub i jakten etter Norges beste, Anna intervjuer Sigurd Sollien om topp 3 på Kjelsås og Quizvang ruller av gårde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3038c531-c131-42c8-b8c5-31c131a2c8b4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3038c531-c131-42c8-b8c5-31c131a2c8b4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:22</itunes:duration>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Groviser i landesorg</title>
       <description><![CDATA[Markus forteller groviser, Daniel ble overfalt på gata og Anna kjører en Donald Trump-parodi.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/ac4fe878-ff74-487c-8fe8-78ff74a87cde_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:13</itunes:duration>
       <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 13: Arin Soltanpanah er her</title>
-      <description><![CDATA[Er middag etter klokka 19 bra eller ræv? Hvem vinner papegøye med barne-tv helter og Arin har med verdens verste ubehag vi skal veie oss.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/abb0a05a-c565-436b-b0a0-5ac565936b84_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/abb0a05a-c565-436b-b0a0-5ac565936b84_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:09</itunes:duration>
-      <pubDate>Mon, 20 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
