@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:22:55 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:23:06 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Vi vil døpe en øy</title>
+      <description><![CDATA[Det har blitt oppdaget en ny øy, vi vil døpe den. Vi har mange forslag og kontakter Norsk Polarinstitutt for å få det til å skje.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/4b9c6d90-e9f8-4af4-9c6d-90e9f83af4a2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4b9c6d90-e9f8-4af4-9c6d-90e9f83af4a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:09</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
+    </item>
+    <item>
+      <title>Markert av skarpskytter.</title>
+      <description><![CDATA[Arin har vært på harry-tur og kjøpt sauehoder og Henning deler en historie om da han ble siktet på av en skarpskytter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
+    </item>
     <item>
       <title>MAGA videospill fra Det hvite hus</title>
       <description><![CDATA[Ødelegger sugerør for smaken til brus? Arin mener nemlig at det ødelegger smaken, enten det er papp, plast eller metall. Det hvite hus har også lansert MAGA videospill]]></description>
@@ -263,24 +281,6 @@
       <itunes:duration>01:10:00</itunes:duration>
       <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/a5ixfPCC0f9HT2e2ahqz5g68Lqj304bug8ZNdCKcznsw.jpg"/>
-    </item>
-    <item>
-      <title>Barn + mozzarella = trylletriks</title>
-      <description><![CDATA[Henning deler en rystende historie om et barn og mozzarella, og Arin har vært en tilskuer i en skummel situasjon]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ebce8eea-0783-49db-8e8e-ea078399db2c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ebce8eea-0783-49db-8e8e-ea078399db2c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:30</itunes:duration>
-      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>Ruses av billettsalg.</title>
-      <description><![CDATA[Nora får rus av billettsalg, Johannes har en høne å plukke med Fisherman's Friend og Henning sympatiserer med servitører.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ed05e102-450b-452c-85e1-02450ba52cc8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ed05e102-450b-452c-85e1-02450ba52cc8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>

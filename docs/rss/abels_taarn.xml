@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:57:31 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:22:44 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Enkelt triks skjerper konsentrasjonen</title>
+      <description><![CDATA[Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:06</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Østers i fjorden - yea or nay?</title>
       <description><![CDATA[Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
@@ -279,15 +288,6 @@ Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!]]></descripti
       <itunes:duration>26:57</itunes:duration>
       <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
-    </item>
-    <item>
-      <title>Send en beskjed til fortida</title>
-      <description><![CDATA[I teorien er det mulig i følge ny forskning. Dessuten, leger har gjort en steril mann fruktbar, og et effektivt våpen mot farlige mikrober er funnet hos insektene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/cbfeaa20-69cd-41a4-beaa-2069cda1a4f6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/cbfeaa20-69cd-41a4-beaa-2069cda1a4f6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:48</itunes:duration>
-      <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
