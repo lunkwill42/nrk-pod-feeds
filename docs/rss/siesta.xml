@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:25:02 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:30:32 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Dr. Bergland kommer innom</title>
+      <description><![CDATA[Daniel skal få tips fra Dr. Bergland i ubehag, Mikke mus ringer oss og Anna klikker. Alt er som det pleier!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/020faa9f-4c81-4988-8faa-9f4c81498854_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/020faa9f-4c81-4988-8faa-9f4c81498854_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:07</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Sigurd Sollien om Forræder</title>
       <description><![CDATA[Vi hilser på ny pub i jakten etter Norges beste, Anna intervjuer Sigurd Sollien om topp 3 på Kjelsås og Quizvang ruller av gårde.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/b1b432da-f617-438b-b432-daf617838be5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:35</itunes:duration>
       <pubDate>Wed, 22 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 14: Reiste rundt med lykkehjul</title>
-      <description><![CDATA[Markus har sjokkerende info om tidligere arbeidsliv, Sofie kommer innom for å sjekke ståa og verdens beste låt skal oversettes!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ac4fe878-ff74-487c-8fe8-78ff74a87cde_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/ac4fe878-ff74-487c-8fe8-78ff74a87cde_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:13</itunes:duration>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:28:49 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:30:09 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Sergej Lavrov - fra koseprat til krigsretorikk</title>
+      <description><![CDATA[En gang tuslet han rundt på Storskog og roste samarbeidet med Norge. Nå kaller han Norge en risiko mot Russland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0962f6d-2ee3-4c22-962f-6d2ee30c2244_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0962f6d-2ee3-4c22-962f-6d2ee30c2244_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:19</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mfge3gqnQvmCQzW-9o5XBwNtM8x0-jGrSwuLMfHE4Xgw.jpg"/>
+    </item>
     <item>
       <title>Nytt håp for organdonasjon</title>
       <description><![CDATA[Da lille Saga på 6 uker døde ønsket familien at hun skulle bli donor, men fikk nei. Nå er det endringer som gir håp for andre.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>23:10</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 13:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/htNuoy7ntKuOrYmbModWaQ_El0O0SSjrXWjg04FjF_cw.jpg"/>
-    </item>
-    <item>
-      <title>Pride: Fest eller politikk?</title>
-      <description><![CDATA[Juni er Pride-måneden. Pride er både rettighetskamp og brennhet kulturdebatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/48fa405e-63f6-4a77-ba40-5e63f68a77b3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:06</itunes:duration>
-      <pubDate>Tue, 09 Jun 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Wwx_OWonQNwx9CMAI9wrqA4ibF3npK02tHMYVUfKJo9g.jpg"/>
     </item>
   </channel>
 </rss>
