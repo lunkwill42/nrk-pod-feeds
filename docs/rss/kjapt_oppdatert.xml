@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 05:57:57 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:47:34 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Oslo forbereder seg på gravferd</title>
+      <description><![CDATA[Og årets El Niño blir trolig den kraftigste noensinne.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/710ff972-1add-4254-8ff9-721addc25447_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/710ff972-1add-4254-8ff9-721addc25447_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:10</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/v9iJxp25OFSmxVyfEhgb8w8FMZsAuaz88n-fVdjR9ZUw.jpg"/>
+    </item>
     <item>
       <title>– Jeg ble kvalm av det</title>
       <description><![CDATA[Tidligere FpU-leder og varsler møtte i Debatten.]]></description>
@@ -275,15 +284,6 @@ Episoden ble oppdatert den 20. august 2026 kl. 08.37 med kommentar fra TV2.]]></
       <itunes:duration>06:45</itunes:duration>
       <pubDate>Wed, 29 Jul 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/waohCA-K7YDAL9BkcQntQA_9sLBfntSkZKSlcKwkAkIg.jpg"/>
-    </item>
-    <item>
-      <title>Sterke reaksjoner etter pride-terror</title>
-      <description><![CDATA[Og hvor sjeldne er store rekkehusbranner i Norge?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/d8506d74-07f2-4374-906d-7407f203745f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d8506d74-07f2-4374-906d-7407f203745f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:27</itunes:duration>
-      <pubDate>Tue, 28 Jul 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ED0m-GoH0epaUzYmg9ySJQ9cwaHR9HyUg6pUD3IZdb9A.jpg"/>
     </item>
   </channel>
 </rss>
