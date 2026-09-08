@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:23:06 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:36:00 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Pepsi Max = lavstatus?</title>
+      <description><![CDATA[Kan man bestille brus på fin restaurant? Og i så fall hvilken? Arin og Jonas har listen til deg. Henning elsker interne vitser, og leter etter de beste.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/630c1b36-665e-4b55-8c1b-36665ebb557d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/630c1b36-665e-4b55-8c1b-36665ebb557d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:37</itunes:duration>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Attentatordre på musikklæreren.</title>
+      <description><![CDATA[Jonas ble homo da han så jentene i klassen danse til «Bumpy ride» og Henning deler sine tanker om «En stjerne skinner i natt».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e464eeb6-8155-42c3-a4ee-b6815572c328_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e464eeb6-8155-42c3-a4ee-b6815572c328_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:36</itunes:duration>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
     <item>
       <title>Vi vil døpe en øy</title>
       <description><![CDATA[Det har blitt oppdaget en ny øy, vi vil døpe den. Vi har mange forslag og kontakter Norsk Polarinstitutt for å få det til å skje.]]></description>
@@ -22,7 +40,7 @@
       <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
     </item>
     <item>
-      <title>Markert av skarpskytter.</title>
+      <title>B-mennesker: Markert av skarpskytter.</title>
       <description><![CDATA[Arin har vært på harry-tur og kjøpt sauehoder og Henning deler en historie om da han ble siktet på av en skarpskytter.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -263,24 +281,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
-    </item>
-    <item>
-      <title>Kongen befaler</title>
-      <description><![CDATA[Vi er tilbake fra ferie! Henning har kjøpt øl på spansk og vi diskuterer hva som skjer når monarker dør.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/bcb5204c-7ba5-4745-b520-4c7ba587452f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Det beste fra P3morgen</title>
-      <description><![CDATA[Du får det beste fra denne uka med P3morgen. Karpe-historiker Sandeep Singh, barne-TV legende Stian Barsnes Simonsen forteller om programmet Amigo, Arin har valgt vold, og Henning har tatt på seg søndagstrusa på feil dag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d69d8488-7429-4572-9d84-887429e57228_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d69d8488-7429-4572-9d84-887429e57228_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:10:00</itunes:duration>
-      <pubDate>Sat, 04 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/a5ixfPCC0f9HT2e2ahqz5g68Lqj304bug8ZNdCKcznsw.jpg"/>
     </item>
   </channel>
 </rss>
