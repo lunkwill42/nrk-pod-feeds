@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:43:03 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:02:13 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Frivillighet - med Jon Niklas Rønning</title>
+      <description><![CDATA[Jeg er dypt imponert av frivillige i idretts- og fritidsaktiviteter for barn, forteller musiker Jon Niklas Rønning.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/ec6e4003-0201-43a5-ae40-03020143a5ee_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ec6e4003-0201-43a5-ae40-03020143a5ee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:12</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw.jpg"/>
+    </item>
     <item>
       <title>Forglem meg ei - med Sigrun Loe Sparboe</title>
       <description><![CDATA[- Tenk at mye i oss som voksen var der allerede da vi var barn, undrer musiker og komponist Sigrun Loe Sparboe.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>02:45</itunes:duration>
       <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Kokosnøtt - med Maria Parr</title>
-      <description><![CDATA[Ein gjeng må innimellom høyre og sjå det same for å hengje i hop, meiner barnebokforfattaren Maria Parr.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/322f3f5b-ab9c-4b71-af3f-5bab9cbb71ac_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/322f3f5b-ab9c-4b71-af3f-5bab9cbb71ac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>04:10</itunes:duration>
-      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4wiqqtqufXm1b_sGS2WbXg6CjWchuv_Mf9Sg_iYbzSww.jpg"/>
     </item>
   </channel>
 </rss>

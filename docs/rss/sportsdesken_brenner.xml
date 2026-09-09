@@ -8,14 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 02 Sep 2026 05:53:27 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:02:43 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     <item>
-      <title>Nattasang for Bodø: Ta med ekstra stilongs!</title>
+      <title>En gjeng med tapere</title>
+      <description><![CDATA[Er det greit å kalle konkurrentene sine for en gjeng med tapere, eller bør man heller heie på seg selv underveis? 
+Gjengen avdekker sjokkerende garderobelyd fra Sogndal og gransker NRKs elsk for Emilie Nerengs løpesko.
+Vi kårer også det beste fantasy-lagnavnet i Sportsdesken!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/d9703e98-f41f-42de-b03e-98f41f62de5a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/d9703e98-f41f-42de-b03e-98f41f62de5a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:55</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
+    <item>
+      <title>Sportsidioten</title>
       <description><![CDATA[Nora varmer opp til Bodø/Glimts mesterliga-eventyr med nattasang og i Stavanger går Viking-kommentatorer bananas. 
-Sportsdesken hyller også hele Norges idrettskonge, Kong Harald.
+Sportsdesken hyller også hele Norges idrettskonge, kong Harald.
 Bli med i vår Fantasy-liga med koden: oyuwxr]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/c8a024b8-0756-4dbc-a024-b807568dbccd_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c8a024b8-0756-4dbc-a024-b807568dbccd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -282,15 +293,6 @@ Og hva må Klæbo gjøre for å miste tilliten?]]></description>
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/593e999e-50aa-406f-be99-9e50aa406f0a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:55</itunes:duration>
       <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
-    </item>
-    <item>
-      <title>Sportsdesken brenner</title>
-      <description><![CDATA[En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå. Premiere onsdag 18. februar:]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/0407ad7e-8a6d-4d2f-87ad-7e8a6d8d2faf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/0407ad7e-8a6d-4d2f-87ad-7e8a6d8d2faf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00</itunes:duration>
-      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     </item>
   </channel>
