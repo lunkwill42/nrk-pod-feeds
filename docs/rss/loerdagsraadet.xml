@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 05 Sep 2026 13:53:45 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Sep 2026 14:20:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:42:01 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 16:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>To kjærlighetshistorier</title>
+      <description><![CDATA[To tilbakemeldinger hvor mye har skjedd!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/16fd1a1c-efde-403c-bd1a-1cefde303c60_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/16fd1a1c-efde-403c-bd1a-1cefde303c60_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:07</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 16:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Cecilie Kåss Furuseth / Trond-Viggo Torgersen / Hilde Skaar</title>
       <description><![CDATA[TILBAKEMELDING: Fikk morgenstemningen gull i munn? / PROBLEMER: Jeg har blitt fanget i mitt eget fråtseri / Vi vil gifte oss i hemmelighet / Hva skal jeg plotte inn i kalenderen? / Pappas tupéhemmelighet / Ta initiativ, selv om jeg ikke er så interessert / Quizlag, men ikke venner lenger / Forholdet forsvinner inn i doomscrolling / Antivaxx-svigerinne]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:46</itunes:duration>
       <pubDate>Wed, 20 May 2026 15:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
-    </item>
-    <item>
-      <title>Amalie Stuve / Galvan Mehidi / Marlene Stavrum</title>
-      <description><![CDATA[TILBAKEMELDING: En ren hilsen fra Katja og Frodo? / PROBLEMER: Flau av kjæresten / Altoppslukende powernaps / Hvor mye må brudens bestevenninne ofre? / Kreativ kontorrotte / Skal jeg selge farmor for 20 kvadratmeter på Grünerløkka? / «Før de dør» / N-ordet slenges rundt / Kan vi finne en kur mot fylleangst? / For liten søppeldunk]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/77d5807c-f753-4406-9580-7cf7530406f2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/77d5807c-f753-4406-9580-7cf7530406f2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:20:43</itunes:duration>
-      <pubDate>Sat, 16 May 2026 14:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qV1WPwSmTrplbFYGj1gvjwh7uwWrTItAssj0LwfRy6wQ.jpg"/>
     </item>
   </channel>
 </rss>

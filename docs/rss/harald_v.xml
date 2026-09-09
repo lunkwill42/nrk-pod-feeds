@@ -1,17 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 28 siste fra Harald V</title>
+    <title>De 30 siste fra Harald V</title>
     <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 28 episodene fra podkasten Harald V. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/harald_v for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Harald V. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/harald_v for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:58:02 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Sep 2026 13:38:00 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:41:47 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 15:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"/>
+    <item>
+      <title>Preses Olav Fykse Tveit si tale</title>
+      <description><![CDATA[– Det meste tek slutt i dette livet. Nesten alt. Men ikkje kjærleiken. Kjærleiken tek aldri slutt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/f2e9f37e-da81-4d4b-a9f3-7eda813d4bf8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/f2e9f37e-da81-4d4b-a9f3-7eda813d4bf8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>08:54</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 15:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"/>
+    </item>
+    <item>
+      <title>Statsminister Jonas Gahr Støres minneord</title>
+      <description><![CDATA[– Vi er dypt takknemlig for 35 år med kong Harald som Norges konge, sa statsministeren under seremonien i Oslo domkirke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/f3f02fc2-7ff3-48c6-b02f-c27ff338c622_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/f3f02fc2-7ff3-48c6-b02f-c27ff338c622_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:15</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 15:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"/>
+    </item>
+    <item>
+      <title>Stortingspresident Masud Gharahkhanis minneord</title>
+      <description><![CDATA[– Kong Harald så mennesker, ikke bare de med posisjoner, sa stortingspresidenten i Oslo domkirke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/9ac8da03-252b-433d-88da-03252b533db5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/9ac8da03-252b-433d-88da-03252b533db5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:46</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ.jpg"/>
+    </item>
     <item>
       <title>Kong Haakon avlegger ed</title>
       <description><![CDATA[I Stortinget lovet Kong Haakon VIII å regjere landet i tråd med Grunnloven.]]></description>
@@ -254,15 +281,6 @@
       <itunes:duration>02:24</itunes:duration>
       <pubDate>Fri, 28 Aug 2026 08:39:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-RpCjHj8Le5J7bwzkcYk5Aq8gX1XIrdafXuCfCVrswYg.jpg"/>
-    </item>
-    <item>
-      <title>Prins Haralds dåp</title>
-      <description><![CDATA[Slottskapellet i Oslo var fylt av gjester da Norges arveprins ble døpt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/harald_v/b48a32d4-8a38-45d8-8a32-d48a38b5d842_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/harald_v/b48a32d4-8a38-45d8-8a32-d48a38b5d842_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:27</itunes:duration>
-      <pubDate>Fri, 28 Aug 2026 08:38:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3ylZ7RtqAI7vO1JVm15z2AWZYWXnsgIImNT8MLoOVtqQ.jpg"/>
     </item>
   </channel>
 </rss>
