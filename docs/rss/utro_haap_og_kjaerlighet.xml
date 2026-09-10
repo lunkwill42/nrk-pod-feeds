@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:43:39 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:01:16 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Jenny Huse: Selvrealisering</title>
+      <description><![CDATA[Jenny Huse har lagt kjærligheten på hylla for å følge drømmen. Må man velge mellom karriere og kjærlighet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ca6e0f9e-5d41-45c9-ae0f-9e5d4165c9d3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ca6e0f9e-5d41-45c9-ae0f-9e5d4165c9d3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:02</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QsuwL7l5nlNjCdKXsSr6EQYZOFLuUhMWBoo4Taqiuqxw.jpg"/>
+    </item>
     <item>
       <title>Ingar Helge Gimle: 60+ og Tinder</title>
       <description><![CDATA[Skuespiller Ingar Helge Gimle om dating i voksen alder og om å finne kjærligheten igjen.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>37:15</itunes:duration>
       <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/H4Ts_mo6V5-PCUCA_19rggca3CwV-cVGxMVC1yy5Zkjg.jpg"/>
-    </item>
-    <item>
-      <title>Aksel Hennie: Synet på kjærlighet</title>
-      <description><![CDATA[Aksel Hennie forteller om sitt syn på kjærlighet, årene som singel, møtet med kona og hva som er viktig i et langvarig forhold.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/81c37958-a58d-4364-8379-58a58d436476_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/81c37958-a58d-4364-8379-58a58d436476_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:47</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/K_1GirdfPjWqAYLJ3AL8aQBihpGjZCYZTNF-POoxJh8A.jpg"/>
     </item>
   </channel>
 </rss>
