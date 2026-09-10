@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:28:57 +0000</lastBuildDate>
-    <pubDate>Thu, 03 Sep 2026 15:11:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:27:30 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 13:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Pisa-tall sjokkerer: Hvem har skylda?</title>
+      <description><![CDATA[Norske 15-åringer med elendige resultater i Pisa-undersøkelsen 2025. Noe er feil, men hva? Er det politikerne? Skolen? Ungdommene eller foreldrene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/db2b7097-be44-4271-ab70-97be44f271bd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/db2b7097-be44-4271-ab70-97be44f271bd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:40</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 13:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OnkY5gDlrPQSNAl2H4Ga1Q4ZJWrt2DXLZvLST26Hu5xQ.jpg"/>
+    </item>
     <item>
       <title>Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?</title>
       <description><![CDATA[Vladimir Putin går hardt ut mot Norge, etter at et russisk skip på Svalbard er satt i norsk arrest. Hvilke konsekvenser kan det få?<]]></description>
@@ -70,7 +79,7 @@ Og vi debriefer sesongens første partilederdebatt. Episoden er spilt inn under 
       <itunes:image href="https://gfx.nrk.no/RTDNHOf5_FQUU1B20rFY4glTSywcxzVynslvMdPAK4hg.jpg"/>
     </item>
     <item>
-      <title>Søreide vs Listhaug: Harde angrep fra Høyre</title>
+      <title>Hvorfor angriper Høyre Sylvi Listhaug?</title>
       <description><![CDATA[Ine Eriksen Søreide tar et kraftig oppgjør med Frp-leder Sylvi Listhaug. 
 Debatten-programleder Steinar Suvatne tar et ikke så kraftig oppgjør med Kommentert.
 Og vi debriefer VM-roing. Opptaket er tatt under Arendalsuka.]]></description>
@@ -294,17 +303,6 @@ Og Affeksjonsverdi er nominert til 9 priser under årets Oscar-utdeling. Kan de 
       <itunes:duration>27:53</itunes:duration>
       <pubDate>Thu, 05 Mar 2026 15:16:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/CaUWy5gWYm9Oo1NpMoVHOwSnfJBXH-m5ARHb35OgOJPg.jpg"/>
-    </item>
-    <item>
-      <title>Støre-spesial: Iran og Epstein-gransking</title>
-      <description><![CDATA[Jonas Gahr Støre er gjest.
-Hvorfor tviholder Norge på folkerett, når så mange andre heier på et nytt og bedre regime i Iran? 
-Og Epstein-gransking: Systemsvikt i Norge eller enkeltpersoner som ødelegger?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/d89999cd-9274-47ce-9999-cd927427ce65_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:31</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 16:58:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWg2ZgJvPAF9_Vijq2PRJQEi2vldKPYsLQ4a8u6wiVtg.jpg"/>
     </item>
   </channel>
 </rss>
