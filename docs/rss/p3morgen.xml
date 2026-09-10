@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:28:20 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:24:35 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Er vi smartere enn en 10ende klassing?</title>
+      <description><![CDATA[Vi har fått prøveresultatene våre og skal finne ut hvor smarte vi er. Blir det fotballfest neste år også, under fotball-VM for kvinner? Eller er det en fare for at vi ikke en gang blir med? Vi skal se framover med programleder Gunnhild Toldnes!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/194fb3e0-fdfa-4f79-8fb3-e0fdfa9f7983_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/194fb3e0-fdfa-4f79-8fb3-e0fdfa9f7983_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:09</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jDR0Cfi1jYCrfJeP5uZaUQmpGyqc9fKe30aH6k_u7FSg.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: 60 vårruller og GoSupermodel.</title>
+      <description><![CDATA[Hodebunn, puling, jakt og mat - hva tenker dyr på egentlig? Har Henning laget en million vårruller? Vi diskuterer<3]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c58b4945-6fc7-42b7-8b49-456fc7b2b790_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c58b4945-6fc7-42b7-8b49-456fc7b2b790_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:28</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
     <item>
       <title>3+3=9?</title>
       <description><![CDATA[Norske elever blir dårligere og dårligere på lesing og regning. Hvordan står det til med oss i studio? Jonas har gjort klar en vaskeekte prøve.]]></description>
@@ -263,24 +281,6 @@
       <itunes:duration>54:45</itunes:duration>
       <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan «lounge» på flyplassen</title>
-      <description><![CDATA[Hvem er vi på flyplassen? Vi deler ulike flyplassopplevelser og flyplasser vi setter pris på.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/170dae1f-e6a4-4437-8dae-1fe6a4f43749_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/170dae1f-e6a4-4437-8dae-1fe6a4f43749_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5Xj92Pjdby_LrcmZr18BYwBGIyGL-S4Nc0YoD43gOpPQ.jpg"/>
-    </item>
-    <item>
-      <title>Infantino vs. Swift</title>
-      <description><![CDATA[Hvordan er vi i møte med dansker som ikke forstår norsk, og husker du da telefonopplysningene kranglet på TV?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/50d4eecc-1664-4877-94ee-cc166438775d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/50d4eecc-1664-4877-94ee-cc166438775d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
     </item>
   </channel>
 </rss>

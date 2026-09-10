@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:28:28 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:24:40 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Statsministerduell: dieselpriser og skolekrise</title>
+      <description><![CDATA[Borgfredens tid er forbi. Jonas Gahr Støre møter Sylvi Listhaug om drivstoffavgifter og elendige skoleresultater.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/9c0718c3-44c0-492a-8718-c344c0092aad_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9c0718c3-44c0-492a-8718-c344c0092aad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bT9NqHBpfErxKhgmGc71hQ319IbjoVx0uKSFySsPNxPQ.jpg"/>
+    </item>
     <item>
       <title>Det politiske monarkiet</title>
       <description><![CDATA[Spanskekongen måtte sende faren i eksil. Prinsen av Wales skrev anonyme brev til regjeringen. Kong Harald startet WWF. Upolitiske kongehus er en illusjon, sier kommentator.]]></description>
@@ -281,15 +290,6 @@ Men kan det også vere tida for politisk samhald?]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Thu, 02 Jul 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TDf7WeLUHR0xutCmYxIerwOpMaAh5I7p_jLMyGTm-ojA.jpg"/>
-    </item>
-    <item>
-      <title>Radikale ungdomspartier?</title>
-      <description><![CDATA[Er ungdomspartiene mer radikale enn sine moderpartier?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/f77495ac-bed7-4298-b495-acbed712986b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/f77495ac-bed7-4298-b495-acbed712986b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:42</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 08:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bH56GcRw9o1d7Z5Ryz5v4gqk8P3-d4b9WHkEUYS9kJPg.jpg"/>
     </item>
   </channel>
 </rss>
