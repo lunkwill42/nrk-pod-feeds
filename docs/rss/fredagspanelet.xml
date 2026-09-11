@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:22:41 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:26:43 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 08:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Lesing, drivstoff og fraværet av Trump</title>
+      <description><![CDATA[Slipper foreldre for billig unna når barn ikke lærer å lese godt nok?  Klager nordmenn for mye over dårlig råd til å være så rike? Var dere skuffa over at Trump ikke kom i kong Haralds gravferd?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/8446c86e-cd1b-4015-86c8-6ecd1b501576_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/8446c86e-cd1b-4015-86c8-6ecd1b501576_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:40</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 08:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Fremmedord, dansk språk og Aschehoug</title>
       <description><![CDATA[Fremmedord-bonanza etter kongens død. Redningsaksjon for det danske språk. Aschehoug solgt til Amedia]]></description>
@@ -286,17 +295,6 @@ Hva betyr det egentlig at Jonas er streng, at Rybak deltar i MGP og at Brooklyn 
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/5c67618f-f5dc-49e9-a761-8ff5dc79e9b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:41</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 08:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>Skjermer, trumpspråk og KI-musikk</title>
-      <description><![CDATA[Burde vi fjerne all skjerm fra skolen? 
-Er vi for feige i møte med Donald Trump?
-Er KI-musikk like bra som musikk laget av ekte mennesker?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/10c6041c-154d-43cc-8604-1c154d43cc7d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/10c6041c-154d-43cc-8604-1c154d43cc7d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:21</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 09:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>

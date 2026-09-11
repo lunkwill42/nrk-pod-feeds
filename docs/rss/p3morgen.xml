@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:24:35 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:27:01 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Girl in red har blitt skuespiller</title>
+      <description><![CDATA[Girl in red har blitt skuespiller! Hun kommer på besøk for å snakke om da hun rodde på Karl Johan, og om det er sant at hun avlyste en danseopptreden for Charli XCX.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/62abcc2c-4370-4d92-abcc-2c43705d925e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/62abcc2c-4370-4d92-abcc-2c43705d925e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:18</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Mormonisme, Buddhisme og kamelsalg</title>
+      <description><![CDATA[Arin prøver å forklare mormoner-drama, Henning lurer på hva vi kommer til å bli gjenfødt som, og vi deler hvem vi vil «soake» med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ff751c8d-d114-4ad9-b51c-8dd114bad926_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ff751c8d-d114-4ad9-b51c-8dd114bad926_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w.jpg"/>
+    </item>
     <item>
       <title>Er vi smartere enn en 10ende klassing?</title>
       <description><![CDATA[Vi har fått prøveresultatene våre og skal finne ut hvor smarte vi er. Blir det fotballfest neste år også, under fotball-VM for kvinner? Eller er det en fare for at vi ikke en gang blir med? Vi skal se framover med programleder Gunnhild Toldnes!]]></description>
@@ -263,24 +281,6 @@
       <itunes:duration>19:59</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
-    </item>
-    <item>
-      <title>20 kg bæsj</title>
-      <description><![CDATA[Jonas og Henning har «benka» og vært i dyreparken, og Arin har endelig fått oppleve lounge på flyplassen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/64495ad6-4c3b-4604-895a-d64c3b5604cf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/64495ad6-4c3b-4604-895a-d64c3b5604cf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:29</itunes:duration>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen</title>
-      <description><![CDATA[Det beste fra denne ukens P3morgen! Vi tester norsk produkt som går viralt i Kina, og diskuterer hvordan man overlever på fly og hvor mange underbukser man skal ha på langhelgtur. Arin får kjørt seg med spy, gråt, og smerte]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f4e33b1c-c793-40da-a33b-1cc79390da9b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:45</itunes:duration>
-      <pubDate>Sat, 15 Aug 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A.jpg"/>
     </item>
   </channel>
 </rss>

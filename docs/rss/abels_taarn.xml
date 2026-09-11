@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:22:44 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:26:23 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Var T-rex tjukk i hodehuden?</title>
+      <description><![CDATA[Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
+Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:35</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/afYDzOjWNP8YCOF9byaTuwcWlX0Fk5Kc9GOG2Infg6gQ.jpg"/>
+    </item>
     <item>
       <title>Enkelt triks skjerper konsentrasjonen</title>
       <description><![CDATA[Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på]]></description>
@@ -279,15 +289,6 @@ Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!]]></descripti
       <itunes:duration>57:37</itunes:duration>
       <pubDate>Fri, 29 May 2026 09:03:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/f4bk__zvKGMDoZ4KenCaHAM1TQ5wLsy0qkxt60UY0UIw.jpg"/>
-    </item>
-    <item>
-      <title>Klærne dine kan gjenvinnes</title>
-      <description><![CDATA[Forskere har nemlig en resirkulerings-plan. Dessuten, ny forskning viser hvordan måker kan stoppes fra å stjele mat, og hvordan hjernen din endres hvis du får vinger]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4d2fd5c2-292f-4bba-afd5-c2292f3bba6f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4d2fd5c2-292f-4bba-afd5-c2292f3bba6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:57</itunes:duration>
-      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
     </item>
   </channel>
 </rss>
