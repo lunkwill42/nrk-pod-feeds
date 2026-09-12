@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:26:23 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:51:06 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Det finnes en riktig tissevinkel</title>
+      <description><![CDATA[Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Var T-rex tjukk i hodehuden?</title>
       <description><![CDATA[Vi vet i hvert fall at det var ikke var spesielt mye på innsida.
@@ -279,16 +288,6 @@ Lurer du på ting, tang og tare? Send inn dine spørsmål til Abels Tårns ekspe
       <itunes:duration>34:29</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Gjør gruver verden grønnere?</title>
-      <description><![CDATA[Abels Tårn besøker Narvik og sjekker ut malmbyens energipotensiale.
-Lurer du på ting? Send inn spørsmål til Abels Tårns eksperter!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/827dde0e-d071-4c7a-bdde-0ed071dc7a6f_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/827dde0e-d071-4c7a-bdde-0ed071dc7a6f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:37</itunes:duration>
-      <pubDate>Fri, 29 May 2026 09:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/f4bk__zvKGMDoZ4KenCaHAM1TQ5wLsy0qkxt60UY0UIw.jpg"/>
     </item>
   </channel>
 </rss>
