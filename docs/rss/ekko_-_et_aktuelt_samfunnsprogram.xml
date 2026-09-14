@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:27:20 +0000</lastBuildDate>
-    <pubDate>Thu, 10 Sep 2026 14:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:07:55 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Oppdage ADHD ved fødsel?</title>
+      <description><![CDATA[Blod frå navlestrengen kan gi svar om ADHD. Ny forsking opnar for at barna kan få betre og tidlegare hjelp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e84b9ef0-93e6-457b-8b9e-f093e6757b27_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e84b9ef0-93e6-457b-8b9e-f093e6757b27_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:16</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JEUDe7swYHHnAbrstO7a3grrMvMUxyuNSgzy9iEzUwPg.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Et dystert 25-årsminne</title>
       <description><![CDATA[For tjuefem år siden skrev en fryktelig terrorhandling seg inn i verdenshistorien. Det skjedde på amerikansk jord.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>57:53</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xYTj6HAXBroMs-d0_fd3agjxed1nIUBdAmanCxUJnHxw.jpg"/>
-    </item>
-    <item>
-      <title>Glimt av håp i Sudan</title>
-      <description><![CDATA[I Sudan finnes en av verdens mest glemte konflikter. Men midt i katastrofen finnes også håp: mennesker som hjelper hverandre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fd24ac3a-4d92-49bb-a4ac-3a4d9229bb67_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fd24ac3a-4d92-49bb-a4ac-3a4d9229bb67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:37</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/yvTRkdZzHFzu7zgfzxsgfwlF-j5f-gJ3bOV3WOTE-l8Q.jpg"/>
     </item>
   </channel>
 </rss>

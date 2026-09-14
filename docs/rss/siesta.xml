@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:32:21 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:08:17 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Sprengt lyd fra hælvete</title>
+      <description><![CDATA[Daniel har krangla med en amerikaner, Anna vil lage skjerf med påkjørt røyskatt og Markus lager lyder fra hælvete.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/e9b143d9-68ac-4186-b143-d968ace18679_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/e9b143d9-68ac-4186-b143-d968ace18679_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:04</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>- Heter du faktisk Gladkokken?</title>
       <description><![CDATA[Daniel intervjuer Gladkokken, Markus leder Quizvang og hva betyr ikåddn?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/41a53773-4c9a-495d-a537-734c9a595dfd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:39</itunes:duration>
       <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 18: Isbit i rumpa</title>
-      <description><![CDATA[Markus putter isbiter i rumpa, den ekle onkel Anders kommer innom og synes vi egentlig det er gøy å døgne?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/e5a187b4-d804-40d1-a187-b4d80420d1c1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/e5a187b4-d804-40d1-a187-b4d80420d1c1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:05</itunes:duration>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
