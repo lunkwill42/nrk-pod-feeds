@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:47:10 +0000</lastBuildDate>
-    <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:21:54 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Erlend letter på sløret</title>
+      <description><![CDATA[Trenger alle en idrettspsykolog? Hvor lenge kan man egentlig sitte på kafé? Og hva lukter Norge?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/beb99ebc-3e8b-4dab-b99e-bc3e8b9dabf1_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/beb99ebc-3e8b-4dab-b99e-bc3e8b9dabf1_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:50</itunes:duration>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>En ubehagelig god gjerning</title>
       <description><![CDATA[Har Erlend blitt en KI-doomer? Hvordan får man egentlig et bedre selvbilde? Og en lytter har vært vitne til en ubehagelig god gjerning.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/5465fe8e-8bb9-48d0-a5fe-8e8bb9e8d099_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:10</itunes:duration>
       <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Hotte babes trenger hjelp</title>
-      <description><![CDATA[Erlend har en ny geopolitisk strategi for Norge. Steinar har ny info om byllen på kjeven. Og hvor står egentlig Nissen politisk?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1316ee2d-dc74-4521-96ee-2ddc740521e8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1316ee2d-dc74-4521-96ee-2ddc740521e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:02:23</itunes:duration>
-      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>
