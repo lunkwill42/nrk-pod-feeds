@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:22:23 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:49:34 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>I strupen på datasentre: Kan Erin stoppe dem?</title>
+      <description><![CDATA[Hun slo et av USAs mektigste energiselskaper. Nå har hun tatt på seg en ny kamp. Kan hun klare det igjen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b5bb419f-db57-4c9a-bb41-9fdb57cc9a67_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5bb419f-db57-4c9a-bb41-9fdb57cc9a67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:52</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j4RFzlO3jOal1rJ5osJa8wSUrDq1DJQC8Rr5kNMUooMA.jpg"/>
+    </item>
     <item>
       <title>Dette er «Tysklands farlegaste mann»</title>
       <description><![CDATA[Partiet hans, AfD, er under overvaking mistenkt for høgreekstremisme. No kan dei for første gong få regjeringsmakt.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>19:43</itunes:duration>
       <pubDate>Fri, 07 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/MRnzaNzPd8Mn5YfVWZpBcg6e02qh0t3rXxfFszIL6yyQ.jpg"/>
-    </item>
-    <item>
-      <title>Infantino-bråket: Kan Klaveness redde Fifa?</title>
-      <description><![CDATA[Fleire peikar på norske Lise Klaveness som ein kandidat til å ta over jobben som internasjonal fotballpresident.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/44b6cbba-1008-4d05-b6cb-ba10087d05d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/44b6cbba-1008-4d05-b6cb-ba10087d05d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:59</itunes:duration>
-      <pubDate>Thu, 06 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nCSGfOXqH6EGnV_7a5a_gQlPWUXBBpLm58MBBUaC1Jjg.jpg"/>
     </item>
   </channel>
 </rss>

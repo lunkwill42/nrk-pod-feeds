@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:02:13 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:49:14 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Støveldans - med Lena Lindahl</title>
+      <description><![CDATA[Fottøyet kan fortelle mye om den som går i det, tenkte forfatteren Lena Lindahl. Men kan det egentlig det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/3e66d0d7-8b9c-4eac-a6d0-d78b9cbeac03_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3e66d0d7-8b9c-4eac-a6d0-d78b9cbeac03_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:23</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
+    </item>
     <item>
       <title>Frivillighet - med Jon Niklas Rønning</title>
       <description><![CDATA[Jeg er dypt imponert av frivillige i idretts- og fritidsaktiviteter for barn, forteller musiker Jon Niklas Rønning.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>02:55</itunes:duration>
       <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
-    </item>
-    <item>
-      <title>Grønn mann - med Lena Lindahl</title>
-      <description><![CDATA[- Å gå på rød mann ga meg en opplevelse for livet, forteller forfatter Lena Lindahl.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/581d80ce-7354-4eea-9d80-ce73549eeaa6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/581d80ce-7354-4eea-9d80-ce73549eeaa6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:45</itunes:duration>
-      <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
     </item>
   </channel>
 </rss>
