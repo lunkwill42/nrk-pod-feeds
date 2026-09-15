@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:07:39 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 12:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:14:18 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 16:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     <item>
-      <title>- Dette laget bør Ståle ta ut</title>
+      <title>Ekstra:Dette syns vi om Norges tropp</title>
+      <description><![CDATA[Etter noen dager med spekulasjoner om hvem som ville komme med i Norges tropp, har nå landslagstrener Ståle Solbakken levert fasiten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/1244c4af-d2cf-4a80-84c4-afd2cf4a80a6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/1244c4af-d2cf-4a80-84c4-afd2cf4a80a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:41</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
+    <item>
+      <title>Mats som hooligan + vi tipper laget</title>
       <description><![CDATA[Dagen før landslagstroppen tas ut, gir ekspertene sine tips om hvem som kommer med. Hvem de tror og hvem de mener bør få sjansen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/c6fc948b-d86e-4167-bc94-8bd86e0167a9_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/c6fc948b-d86e-4167-bc94-8bd86e0167a9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -272,15 +281,6 @@ Kampene mot Danmark og Portugal nærmer seg.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/f341236c-363f-4889-8123-6c363fe88988_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>35:45</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 04:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Gule kort og utespiller i mål</title>
-      <description><![CDATA[Hvor lenge drar man med seg gule kort i VM. Og hvem ville vi satt i mål om keeper skades og byttene er brukt opp?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/f2073e7e-0909-47d4-873e-7e0909d7d41d_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/f2073e7e-0909-47d4-873e-7e0909d7d41d_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:44</itunes:duration>
-      <pubDate>Thu, 25 Jun 2026 02:51:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
