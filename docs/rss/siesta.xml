@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:08:17 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:37:19 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Lager kunst med egen fis</title>
+      <description><![CDATA[Vi får besøk av kunstner Saune And, hvem har den beste fotball-talen og vi smalltalker ting som ser godt ut, men smaker vondt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/93f6986b-7a4c-4aa9-b698-6b7a4caaa938_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/93f6986b-7a4c-4aa9-b698-6b7a4caaa938_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:15</itunes:duration>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Sprengt lyd fra hælvete</title>
       <description><![CDATA[Daniel har krangla med en amerikaner, Anna vil lage skjerf med påkjørt røyskatt og Markus lager lyder fra hælvete.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/40b870de-52a8-4977-b870-de52a83977f7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:32</itunes:duration>
       <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 19: Hannah Lerfaldet er gjest!</title>
-      <description><![CDATA[Vi har besøk av komiker og Mental helse-arbeider Hannah! Dette er også episoden der Daniel mister det fullstending, så heng på<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/41a53773-4c9a-495d-a537-734c9a595dfd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/41a53773-4c9a-495d-a537-734c9a595dfd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:39</itunes:duration>
-      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
