@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:49:43 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:41:26 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Leite etter meir olje</title>
+      <description><![CDATA[Bør vi lytte til ei offensiv oljenæring som vil leite meir?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/6a8ff69b-645a-4d92-8ff6-9b645acd92b9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/6a8ff69b-645a-4d92-8ff6-9b645acd92b9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-sucGdE7A12O11z3qhwrsAZGZ7lLy17amWSmTPWwI89g.jpg"/>
+    </item>
     <item>
       <title>Regjeringen varsler mer statlig styring av skolen</title>
       <description><![CDATA[Vil ha samme lærebok til alle]]></description>
@@ -281,15 +290,6 @@ MDG lider av katastrofefantasier, svarer Tor Mikkel Wara.]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_Um4SQWQ8PLtU9VZDE_63AxfVCMdDil1HUD1hwE0JCFw.jpg"/>
-    </item>
-    <item>
-      <title>Bedre med trygd enn jobb?</title>
-      <description><![CDATA[For sosialhjelpsmottakere med mange barn lønner det seg ikke å jobbe,  advarer Høyre. Gjelder ikke arbeidslinja for dem?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/3c2761a6-ff3a-471e-a761-a6ff3a871e5f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3c2761a6-ff3a-471e-a761-a6ff3a871e5f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Tue, 04 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1NE0TdsQrsTcvu1aLhqaiQduVi4TB9dGlKsNn0mbD13A.jpg"/>
     </item>
   </channel>
 </rss>

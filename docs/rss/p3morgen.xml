@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:37:11 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:41:20 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <item>
+      <title>Vi samler gode gruppechatnavn!</title>
+      <description><![CDATA[Hva var du redd for som barn, som viste seg å gå bra! Vi feirer at ozonlaget er blitt bedre med å dykke ned i barndomsfrykter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/2824d9aa-59ac-4911-8a2b-c1d7fc74d3f7_fc5a095c-344c-4b16-b783-f0c08b9f01dd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2824d9aa-59ac-4911-8a2b-c1d7fc74d3f7_fc5a095c-344c-4b16-b783-f0c08b9f01dd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:16</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Overtrøtt gjeng med inngrodd hår. </title>
+      <description><![CDATA[Arin stjeler fra kolleger, Jonas har fått et inngrodd hår (æsj) og vi er lei av pop-up-sjapper. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1eebd019-077e-4545-9cf3-d13d6f7d6eb7_65302440-0bd7-45ea-a6c0-7d152a25b9c6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1eebd019-077e-4545-9cf3-d13d6f7d6eb7_65302440-0bd7-45ea-a6c0-7d152a25b9c6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w.jpg"/>
+    </item>
     <item>
       <title>Hva skal man ha på seg på konsert?</title>
       <description><![CDATA[Norske influensere har blitt millionbedrifter som mange følger med på. Men følger de faktisk spillereglene? Vi får besøk av en journalist som har gravd i bedriftene til blant annet Isabell Raad og Christian Brennhovd, for å se hva som skjuler seg bak Snapchat-innleggene.]]></description>
@@ -263,24 +281,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
-    </item>
-    <item>
-      <title>Kattehuset og  Lommemannen</title>
-      <description><![CDATA[Jonas har fått bart, vi gir deg resultatet på voksengjemselen og vi mimrer tilbake til skumle  og lokale skikkelser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/36bb44ab-a66d-4efd-bb44-aba66daefd32_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra P3morgen!</title>
-      <description><![CDATA[Katten til Fetisha skaper debatt, anklager om å bære blond gir Jonas Høy puls, og kan man følge digge folk på insta bare fordi de er digge?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e2e3629e-1bfa-474e-a362-9e1bfa974ec7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e2e3629e-1bfa-474e-a362-9e1bfa974ec7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:34</itunes:duration>
-      <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-Kwcw3xPPKnTOv9zL3a_iw0AmQ-iO70Oymu8GlqKsybw.jpg"/>
     </item>
   </channel>
 </rss>
