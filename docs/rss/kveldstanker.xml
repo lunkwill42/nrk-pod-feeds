@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:49:14 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:06:03 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Handlejakke - med Ingelin Røssland</title>
+      <description><![CDATA[- Besto mi var trendy på ein praktisk måte, fortel forfattaren Ingelin Røssland.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/fe181def-f11d-46ca-981d-eff11df6caf8_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/fe181def-f11d-46ca-981d-eff11df6caf8_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:15</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg.jpg"/>
+    </item>
     <item>
       <title>Støveldans - med Lena Lindahl</title>
       <description><![CDATA[Fottøyet kan fortelle mye om den som går i det, tenkte forfatteren Lena Lindahl. Men kan det egentlig det?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>02:47</itunes:duration>
       <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ly14kpNQz-45MmdbQ6ry2wgPgJfxEni9KvsX3wb0FY_Q.jpg"/>
-    </item>
-    <item>
-      <title>Slapp av - med Oda Gravdal Ulriksen</title>
-      <description><![CDATA[- Slutt å lev livet ditt med en sjekkliste, råder studenten Oda Gravdal Ulriksen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/567a7b87-79e0-48bb-ba7b-8779e068bbd8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/567a7b87-79e0-48bb-ba7b-8779e068bbd8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:55</itunes:duration>
-      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw.jpg"/>
     </item>
   </channel>
 </rss>

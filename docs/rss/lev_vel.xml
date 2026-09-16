@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:02:24 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:06:18 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>Åpent forhold</title>
+      <description><![CDATA[Hvordan tolerere flere sex-partnere? Sexolog Nanna Klingenberg gir oss innsikt i hvordan et åpent forhold fungerer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/25264a7d-bc2e-4186-a64a-7dbc2ef186dc_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/25264a7d-bc2e-4186-a64a-7dbc2ef186dc_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:30</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
     <item>
       <title>Vil du studere smartere?</title>
       <description><![CDATA[Hvor nyttig er skippertak? Og hvordan lærer du deg pensum mest effektivt før eksamen? Læringsforsker Olav Schewe har tipsene som gjør studietiden lettere.]]></description>
@@ -272,15 +281,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/76abfe2c-af17-4046-abfe-2caf179046c0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>59:39</itunes:duration>
       <pubDate>Wed, 25 Feb 2026 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Høytfungerende depresjon</title>
-      <description><![CDATA[Hva er egentlig fenomenet «høytfungerende depresjon» eller «smilende depresjon»? Psykolog Sondre Risholm Liverød forklarer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8570d011-ec78-4687-b0d0-11ec7886872a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:24</itunes:duration>
-      <pubDate>Wed, 18 Feb 2026 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
