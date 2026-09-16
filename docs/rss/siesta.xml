@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:37:19 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:02:15 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Husedderkoppens tyranni</title>
+      <description><![CDATA[Anna er redd for norsk husedderkopp, Markus sin finger lukter pizzasaus og burde Daniel trene poledancing?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7304efb6-aafe-4499-84ef-b6aafed4997b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7304efb6-aafe-4499-84ef-b6aafed4997b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:09</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Lager kunst med egen fis</title>
       <description><![CDATA[Vi får besøk av kunstner Saune And, hvem har den beste fotball-talen og vi smalltalker ting som ser godt ut, men smaker vondt.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/2e34ef9b-8a32-4c55-b4ef-9b8a324c5593_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:05</itunes:duration>
       <pubDate>Mon, 03 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 20: Danseband fra helvete</title>
-      <description><![CDATA[Knekken har tatt én i studio, Anna har med en noget spesiell smurfehit og kan ankelsokker gjøre comeback?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/40b870de-52a8-4977-b870-de52a83977f7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/40b870de-52a8-4977-b870-de52a83977f7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:32</itunes:duration>
-      <pubDate>Thu, 30 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

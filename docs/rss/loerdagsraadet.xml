@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:11:11 +0000</lastBuildDate>
-    <pubDate>Sat, 12 Sep 2026 13:02:00 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:02:05 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 17:35:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Fluff!</title>
+      <description><![CDATA[Tilbakemelding fra et problem vi løste i 2018 (!)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/49d4bad8-d7ff-4ba7-94ba-d8d7ffeba7ee_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/49d4bad8-d7ff-4ba7-94ba-d8d7ffeba7ee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:47</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 17:35:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Solveig Kloppen / Are Sende Osen / Nora Svenningsen</title>
       <description><![CDATA[TILBAKEMELDING: Har Hermine tatt initiativ? / PROBLEMER: Feire antibryllupsdag? / Er jeg for opptatt av titler?  / Vil ut i vannet... på en verdig måte / Lat trenger motivasjon / Han er min beste venn, men skal vi dele livet? / Godteriproblemet / Jeg søker en gjeng / Pappa røff / Spesielle vaner på kontoret]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>26:49</itunes:duration>
       <pubDate>Thu, 28 May 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
-    </item>
-    <item>
-      <title>Tore Sagen / Adelina Ibishi / Emil Berntsen</title>
-      <description><![CDATA[TILBAKEMELDING: Vet alle alt nå? / PROBLEMER: Hjelp, samboer lager techno / Feil bok / Skal jeg være onkel? / En gamme sjel i en ung kropp /  Oppsigelsesmotivasjon /  Er jeg ødelagt av det tidlige forholdet? / Hjelp til å bevare søskenrelasjonen / Jeg savner å ikke bry meg / Varm tale til kald person]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/3f0b58b0-cec4-4233-8b58-b0cec4123347_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/3f0b58b0-cec4-4233-8b58-b0cec4123347_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:21:59</itunes:duration>
-      <pubDate>Sat, 23 May 2026 13:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GRRmfY9kwa0mZJmwIADW7gzwDxmpt5YIjfy4awtFrQLg.jpg"/>
     </item>
   </channel>
 </rss>
