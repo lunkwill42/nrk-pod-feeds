@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:29:23 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 22:10:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:12:51 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 22:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Utsletter KI menneskeheten innen 3 til 5 år?</title>
+      <description><![CDATA[Flere mener KI kan komme ut av kontroll og gjøre slutt på alt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/4a1f6b20-a025-49d2-9f6b-20a02589d2c5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/4a1f6b20-a025-49d2-9f6b-20a02589d2c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:24</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 22:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/V_uBFiVI66FeDVILfdGPTQHbD-Uweoapy2ny70FH0QMQ.jpg"/>
+    </item>
     <item>
       <title>Har foreldrene skylda for skoletallene?</title>
       <description><![CDATA[Kunnskapsministeren møter både oppgitte foreldre og frustrerte politiske motstandere til debatt om PISA-tallene.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>41:13</itunes:duration>
       <pubDate>Thu, 19 Feb 2026 22:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Epstein-offer utfordrer kronprinsessen</title>
-      <description><![CDATA[Marina Lacerda utfordrer Mette Marit og sier hun kan gjøre en forskjell i kampen mot overgrep mot barn. Marina er et av Epsteins offer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/4d4c0cd8-e78b-4838-8c0c-d8e78bf83852_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/4d4c0cd8-e78b-4838-8c0c-d8e78bf83852_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:56</itunes:duration>
-      <pubDate>Tue, 17 Feb 2026 22:15:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Zto-TXcHV2D_snV7St62owFiRVdRCvYAkP_-bZXdP_3Q.jpg"/>
     </item>
   </channel>
 </rss>
