@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:02:15 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:31:37 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Alpelue er stygt</title>
+      <description><![CDATA[Anna har verdens lengste vignett, hva hadde vi gjort som kjøttmeiser og Markus sliter seg igjennom stand-up.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7a98e1e3-6d8a-4b5c-98e1-e36d8a9b5c0a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7a98e1e3-6d8a-4b5c-98e1-e36d8a9b5c0a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:51</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Husedderkoppens tyranni</title>
       <description><![CDATA[Anna er redd for norsk husedderkopp, Markus sin finger lukter pizzasaus og burde Daniel trene poledancing?]]></description>
@@ -131,7 +140,7 @@
     </item>
     <item>
       <title>Markus har en dobbeltgjenger</title>
-      <description><![CDATA[Daniel har funnet den danske Markus, Anna er intervjua i avisa og hva tenker vi om reunion?]]></description>
+      <description><![CDATA[Den danske kjendisen Jesper Ole Andersen er Markus sin dobbeltgjenger, Anna er intervjua i avisa og hva tenker vi om reunion?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:41</itunes:duration>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/b3585d32-6dd0-48e6-985d-326dd0e8e673_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:30</itunes:duration>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 21: Vangen i psykose</title>
-      <description><![CDATA[Klokka er 5 på morgenen her og Vangen er på kjøret, Finn Glede kommer innom og hva i alle dager er brallor?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2e34ef9b-8a32-4c55-b4ef-9b8a324c5593_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/2e34ef9b-8a32-4c55-b4ef-9b8a324c5593_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:05</itunes:duration>
-      <pubDate>Mon, 03 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

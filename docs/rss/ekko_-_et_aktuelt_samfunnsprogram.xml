@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:41:05 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:31:11 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Mykje motstand</title>
+      <description><![CDATA[Det går trått for Trump når den handplukka mannen hans trassar han, og to sterke demokratar truer republikanarane.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/01d82fa4-8e37-4d24-982f-a48e378d241f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/01d82fa4-8e37-4d24-982f-a48e378d241f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:33</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/N1NaOicRHZCmFl7jX-a7XwIJn_he1vejMZYSY5U5jWNg.jpg"/>
+    </item>
     <item>
       <title>Solarpunk - en bærekraftig drøm</title>
       <description><![CDATA[Mørke nyheter slukker optimismen. Kan grønn sci-fi gi oss troen på framtida igjen?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>23:01</itunes:duration>
       <pubDate>Tue, 23 Jun 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/G4iQBBEh_7sruudiyqBNUQg-5hpuhV8c8PegtgTjIlCw.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: Fest, fiender og fredsavtaler</title>
-      <description><![CDATA[Trump vil være fredsmekler i verden, men hjemme er det fortsatt krig mot fiendene. Hva sier uka som gikk om USA nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9a50951c-fcf1-40dc-9095-1cfcf1c0dc62_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9a50951c-fcf1-40dc-9095-1cfcf1c0dc62_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:47</itunes:duration>
-      <pubDate>Thu, 18 Jun 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TqDIT3WMXkIEJAJWimDH-QyMiacaxXtBX26oCeOFVStA.jpg"/>
     </item>
   </channel>
 </rss>
