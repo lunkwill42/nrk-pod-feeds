@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:49:57 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:45:11 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Frida Grande: Kjærlighet og PMDD</title>
+      <description><![CDATA[Frida Grande lever med PMDD, en alvorlig form for PMS. Hvordan påvirker det parforhold, dating og kjærlighetslivet i 30-årene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/57b506ba-60b7-4a9d-b506-ba60b71a9de8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/57b506ba-60b7-4a9d-b506-ba60b71a9de8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:22</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mxAdHkFOkiDTq7qaZv7dbgWp27Gs7duzrkTcu5QHJ0Mw.jpg"/>
+    </item>
     <item>
       <title>Janne Amble: Likestilt parforhold</title>
       <description><![CDATA[Janne Amble om å fordele 50/50 hjemme, og hvordan et likestilt samliv gir rom for både familie og karriere.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>32:31</itunes:duration>
       <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oSF8uAYQ_f-JCFMU1JbWsQF_jI2a7HXKGqGDIFHU54mw.jpg"/>
-    </item>
-    <item>
-      <title>Simon Nitsche: Fra "fuckboy" til forlovet</title>
-      <description><![CDATA[Simon Nitsche reflekterer over sine 15 år som singel og forteller om hvordan han til slutt kapret drømmedama og forlovet seg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/db6e6bed-86b2-4e42-ae6b-ed86b20e4220_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/db6e6bed-86b2-4e42-ae6b-ed86b20e4220_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:12</itunes:duration>
-      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aD-B2ClmNC9HnPtnzyTRFQdHPVUa1NpMpSknMM3WGfiQ.jpg"/>
     </item>
   </channel>
 </rss>

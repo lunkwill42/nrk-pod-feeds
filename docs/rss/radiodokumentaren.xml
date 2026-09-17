@@ -8,10 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:30:15 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Aug 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:44:56 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 06:08:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA.jpg"/>
+    <item>
+      <title>Epilog: Boka (5:5)</title>
+      <description><![CDATA[Plutselig dukker det opp en mann med en oppsiktsvekkende historie. Men kan vi stole på det han forteller?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6d32b632-5225-4dfa-b2b6-325225bdfaac_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:10</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>Hva visste Rinson? (4:5)</title>
+      <description><![CDATA[Etterretningsverden er mørk og hemmelighetsfull. Levde nordmannen et dobbeltliv – eller kan han selv ha blitt lurt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/168a6637-9d5a-4227-8a66-379d5a72277e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:43</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>Rinsons hemmeligheter (3:5)</title>
+      <description><![CDATA[Nordmannen er fortsatt forsvunnet. Politiet sender ut etterlysning verden over. Men noe foregår i det skjulte.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/6bdd25b5-2c4a-495f-9d25-b52c4a495f7e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:15</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>Et nøye planlagt blodbad (2:5)</title>
+      <description><![CDATA[I det skjulte planla israelske Mossad en intrikat etterretningsoperasjon, for å lure fienden Hizbollah. Hadde Mossad virkelig en nordmann på laget?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b4fc3fc6-00e2-44f2-bc3f-c600e2f4f2bb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:31</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
+    <item>
+      <title>En mystisk forsvinning (1:5)</title>
+      <description><![CDATA[Vennene venter på at Rinson skal komme hjem fra en jobbkonferanse i USA. Så knyttes navnet hans til en blodig, israelsk etterretningsoperasjon.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4e75ba5c-b941-4d68-b5ba-5cb9418d68e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:56</itunes:duration>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yL6RauqWtsY7t1yu7n9uMQRNystLceyb-iNocggazwww.jpg"/>
+    </item>
     <item>
       <title>Den store scenen (3:3)</title>
       <description><![CDATA[Gamle spøkelser truer i skyggene når Bodø/Glimt sikter mot nye høyder.]]></description>
@@ -37,15 +82,6 @@
       <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/68cac64b-bf05-4422-8ac6-4bbf05842247_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:22</itunes:duration>
       <pubDate>Sat, 08 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA.jpg"/>
-    </item>
-    <item>
-      <title>Smakebit: Glimtkoden</title>
-      <description><![CDATA[På få år går Bodø/Glimt fra nedrykk og kaos til eventyrlig suksess i Mesterligaen – og blir hele fotballverdenens kjæledegger. I NRK Radio fra 8.8.2026.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/4bde230a-a1d5-4a76-9e23-0aa1d5fa76c3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/4bde230a-a1d5-4a76-9e23-0aa1d5fa76c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>00:30</itunes:duration>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/InIMnPNV-8UffH4a2PBakg1uLTe74cxYo4LfxUMMPDxA.jpg"/>
     </item>
     <item>
@@ -245,42 +281,6 @@
       <itunes:duration>38:28</itunes:duration>
       <pubDate>Sat, 25 Oct 2025 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DZ1csuwHpsG9u4aDfIi_UwsV8UMwQHi7V90ktlKpMbwg.jpg"/>
-    </item>
-    <item>
-      <title>Den som vingla (2:2)</title>
-      <description><![CDATA[Rettssaken mot Fredrik nærmer seg. Den vil avgjøre framtiden hans. Nå må han for første gang fortelle alt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/117229be-272d-48dd-b229-be272da8ddc1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/117229be-272d-48dd-b229-be272da8ddc1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:59</itunes:duration>
-      <pubDate>Sat, 11 Oct 2025 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TfwwIbD8a4KPpkjQu1j9Hwh_USM_DJYDYThFCD0McurQ.jpg"/>
-    </item>
-    <item>
-      <title>Mye mørke i den byen her (1:2)</title>
-      <description><![CDATA[Fredrik lever drømmelivet som rockestjerne. Men en dag våkner han opp på glattcelle, og husker ikke hva som har skjedd.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/24c539bd-e019-4ead-8539-bde019ceada6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/24c539bd-e019-4ead-8539-bde019ceada6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:29</itunes:duration>
-      <pubDate>Sat, 11 Oct 2025 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TfwwIbD8a4KPpkjQu1j9Hwh_USM_DJYDYThFCD0McurQ.jpg"/>
-    </item>
-    <item>
-      <title>Mørke hemmeligheter (3:3)</title>
-      <description><![CDATA[Telenor fryktet at kunder kunne bli arrestert hvis teledata ble utlevert til kuppmakerne. Likevel skjedde det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/d1ed3781-9b02-4f38-b1b6-130d573a17b4_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/d1ed3781-9b02-4f38-b1b6-130d573a17b4_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:28</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_DcJ3Em-2vbO2ATITT3R6wHeghFIwqqWGGo_UqEaBVuA.jpg"/>
-    </item>
-    <item>
-      <title>Minnepinnen (2:3)</title>
-      <description><![CDATA[En hemmelig kilde sitter på eksplosiv informasjon om  hvordan Telenor ble tvunget til å samarbeide med militærdiktaturet – men han er redd for å si for mye.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/radiodokumentaren/b7b09721-0242-4a42-bd8b-54d3c500ae27_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/radiodokumentaren/b7b09721-0242-4a42-bd8b-54d3c500ae27_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:02</itunes:duration>
-      <pubDate>Wed, 20 Aug 2025 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_DcJ3Em-2vbO2ATITT3R6wHeghFIwqqWGGo_UqEaBVuA.jpg"/>
     </item>
   </channel>
 </rss>
