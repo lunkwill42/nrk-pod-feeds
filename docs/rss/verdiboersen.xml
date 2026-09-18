@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:27:19 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 10:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:59:35 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Hva var det med tyskerne?</title>
+      <description><![CDATA[Historikeren svarer på spørsmål fra lytterne om Det tredje riket. Om krigen og Holocaust - og lever vi nå i en ny mellomkrigstid?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/18a822e4-8afb-4a7c-a822-e48afb5a7c10_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/18a822e4-8afb-4a7c-a822-e48afb5a7c10_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:10</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/D5KcsVd8Rr4TmJHLJr-1IgtpwD7AarVB2gSas_1biXUQ.jpg"/>
+    </item>
     <item>
       <title>Kupp i USA?</title>
       <description><![CDATA[Hvordan kan et kupp skje i USA? Og hvor nære er USA et statskupp?]]></description>
@@ -19,6 +28,15 @@
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/85346aa1-b3e3-4e34-b46a-a1b3e30e3487_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:59</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Perfekte babyer</title>
+      <description><![CDATA[Kontroversiell og i stor grad forbudt teknikk  skaper frykt - og framtidstro]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/98513e48-753b-4066-913e-48753b6066d5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/98513e48-753b-4066-913e-48753b6066d5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:28</itunes:duration>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
     <item>
@@ -264,24 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>24:56</itunes:duration>
       <pubDate>Sun, 19 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/13dwYo1NqEerBn_08FJS_AmIlzSHxK-3v__iC3fDge9w.jpg"/>
-    </item>
-    <item>
-      <title>Rase 5:12</title>
-      <description><![CDATA[-Hva koster en mentalpasient og hva kunne vi ha brukt  pengene på i stedet? En skoleoppgave i Det 3. riket.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/69888498-da10-4b8c-8884-98da10fb8c9a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/69888498-da10-4b8c-8884-98da10fb8c9a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:53</itunes:duration>
-      <pubDate>Fri, 17 Apr 2026 10:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-6-wOyuq2UlpYr5-gLwDoAXkWJLGyBZAza4sSDq-xPuQ.jpg"/>
-    </item>
-    <item>
-      <title>USAs demokrati kollapser</title>
-      <description><![CDATA[Nå er det klart: USA er ikke lenger et liberalt demokrati. Blir det valg til høsten?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/efca572d-5593-4d3a-8a57-2d5593bd3a8a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/efca572d-5593-4d3a-8a57-2d5593bd3a8a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:16</itunes:duration>
-      <pubDate>Fri, 10 Apr 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/SPXDW137HFSNLx1T5nSBrgo5aBLMG7XV8ItgmlAPwk8w.jpg"/>
     </item>
   </channel>
 </rss>

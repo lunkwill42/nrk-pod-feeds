@@ -1,43 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 5 siste fra Seriesnakk</title>
-    <link>https://sindrel.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 5 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
+    <title>De 30 siste fra Seriesnakk</title>
+    <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
+    <description>Uoffisiell feed med de siste 30 episodene fra podkasten Seriesnakk. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/seriesnakk for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 08 May 2026 09:54:44 +0000</lastBuildDate>
-    <pubDate>Fri, 08 May 2026 11:30:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:58:56 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
     <item>
-      <title>– Det forholdet må ryke (1:4)</title>
-      <description><![CDATA[Marlene Stavrum kjenner seg igjen i «LIS» – hvorfor det? Og Sofia Tjelta forteller om sykehus-hospiteringen som endte på gulvet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:34</itunes:duration>
-      <pubDate>Sat, 11 Apr 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sbaqy-VNtQ9HYxsStoYM0w9t8JK1HUNvTpV3a9vf4p6w.jpg"/>
+      <title>Smakebit: Seriesnakk: LIS 2</title>
+      <description><![CDATA[«LIS» er tilbake! Seriesnakk gir deg personene bak serien, de beste øyeblikkene og historier fra helsevesenet.
+Premiere 26. september.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/550be3b1-2c46-46c4-8be3-b12c46b6c4ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:20</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/IhKL3N0jMuLx4QiU40ubBAMQU7BLSuCyOaM2XHAVUF5Q.jpg"/>
     </item>
     <item>
-      <title>– Petra er irriterende (2:4)</title>
-      <description><![CDATA[Marlene Stavrum vil ha old lovin’, og Elpida Stojcevska deler hvilken pasient som gjorde inntrykk på både henne og Petra.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:17</itunes:duration>
-      <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CFeQTf-pEYodLQpBFqatgg_tsl18nPqDbthxDBrL0gKw.jpg"/>
-    </item>
-    <item>
-      <title>– En du går i krigen med (3:4)</title>
-      <description><![CDATA[Cathrine Frost forteller om forberedelsene til «LIS»-rollen, mens Marlene Stavrum måtte spole over en scene i serien. Hvilken?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:04</itunes:duration>
-      <pubDate>Sat, 25 Apr 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA.jpg"/>
+      <title>– Jeg er som Joakim (Q&amp;A)</title>
+      <description><![CDATA[Lytterspørsmål! Hva mener helseminister Jan Christian Vestre om «LIS»? Hvilken karakter er Kaveh Rashidi? Og hva skjer i sesong 2?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:59</itunes:duration>
+      <pubDate>Fri, 08 May 2026 11:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tsrYj42ueZDmWKmAsegjEAv9Yfq5-dAUexdgX7HOkPWQ.jpg"/>
     </item>
     <item>
       <title>– Vi gråt og gråt (4:4)</title>
@@ -49,13 +41,259 @@
       <itunes:image href="https://gfx.nrk.no/c3-N8VRnxFbylirp0LXOxAigqdqn6E64B0gutnDpfs0Q.jpg"/>
     </item>
     <item>
-      <title>– Jeg er som Joakim (Q&amp;A)</title>
-      <description><![CDATA[Lytterspørsmål! Hva mener helseminister Jan Christian Vestre om «LIS»? Hvilken karakter er Kaveh Rashidi? Og hva skjer i sesong 2?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/993c1ba6-7e8f-476f-bc1b-a67e8f176f8c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:59</itunes:duration>
-      <pubDate>Fri, 08 May 2026 11:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tsrYj42ueZDmWKmAsegjEAv9Yfq5-dAUexdgX7HOkPWQ.jpg"/>
+      <title>– En du går i krigen med (3:4)</title>
+      <description><![CDATA[Cathrine Frost forteller om forberedelsene til «LIS»-rollen, mens Marlene Stavrum måtte spole over en scene i serien. Hvilken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a783c6dc-e70b-4a15-83c6-dce70b4a15b8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:04</itunes:duration>
+      <pubDate>Sat, 25 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JymodgCgoUEI8Z09Qf0HAgUttrGSmpgorwvGqI4FbQnA.jpg"/>
+    </item>
+    <item>
+      <title>– Petra er irriterende (2:4)</title>
+      <description><![CDATA[Marlene Stavrum vil ha old lovin’, og Elpida Stojcevska deler hvilken pasient som gjorde inntrykk på både henne og Petra.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/9abea730-3ff6-4fe6-bea7-303ff6ffe655_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:17</itunes:duration>
+      <pubDate>Sat, 18 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CFeQTf-pEYodLQpBFqatgg_tsl18nPqDbthxDBrL0gKw.jpg"/>
+    </item>
+    <item>
+      <title>– Det forholdet må ryke (1:4)</title>
+      <description><![CDATA[Marlene Stavrum kjenner seg igjen i «LIS» – hvorfor det? Og Sofia Tjelta forteller om sykehus-hospiteringen som endte på gulvet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/5fea2b4b-d700-41be-aa2b-4bd70001be6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <pubDate>Sat, 11 Apr 2026 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sbaqy-VNtQ9HYxsStoYM0w9t8JK1HUNvTpV3a9vf4p6w.jpg"/>
+    </item>
+    <item>
+      <title>Tom 2.0 (4:4)</title>
+      <description><![CDATA[Hvordan står det egentlig til med kjønnskrigen i virkeligheten – og hva forteller slutten oss?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/701a56b5-9d73-4138-9a56-b59d736138f0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/701a56b5-9d73-4138-9a56-b59d736138f0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:26</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ygX05DqqdGlILjnyigWBIgsyCOnvTpLFPaAw-lbdmr9g.jpg"/>
+    </item>
+    <item>
+      <title>Kuktåka (3:4)</title>
+      <description><![CDATA[Torkil Risan går inn i kuktåka og får høre om den ville innspillingen av homosauna i Litauen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/32bd1276-3468-4366-bd12-7634685366df_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/32bd1276-3468-4366-bd12-7634685366df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:40</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QE4Bv9npFeZna_e9E3N3QgRkrE_3X0D7t1TzpqsbA7gg.jpg"/>
+    </item>
+    <item>
+      <title>Nachspielet (2:4)</title>
+      <description><![CDATA[Serien tar en ny bekmørk vending, og Sigrid Bonde Tusvik forteller om sine egne verste opplevelser med trusler og netthat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2f446eb6-e8db-494c-846e-b6e8db794cc3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:22</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mF7O2cAa6p6DgSTuVO-oYwp_psB8jDuKX_ATGv0i4b_A.jpg"/>
+    </item>
+    <item>
+      <title>Troll i tweed (1:4)</title>
+      <description><![CDATA[Wolfgang Wee har sett serien med oss – hva synes han? Anders Baasmo forteller om hvordan han dyrket fram Tom-Berit.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/fa886739-553a-4fee-8867-39553a9fee1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/fa886739-553a-4fee-8867-39553a9fee1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:32</itunes:duration>
+      <pubDate>Sun, 09 Nov 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xwiF-OZupugAVDgdIsEwqgkgC1N5OkNmGFVaSerwB0kw.jpg"/>
+    </item>
+    <item>
+      <title>– Mye klemming i Nato (2:2)</title>
+      <description><![CDATA[Vi får endelig tak i Stoltenberg og stiller spørsmålene han ikke svarer på i filmen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/2c42e07d-dc30-46b6-82e0-7ddc3026b6f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/2c42e07d-dc30-46b6-82e0-7ddc3026b6f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:40</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 06:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vu1nVOYYWscfvqb3hhI-0wJzL76ybkIb9v63qCVacLkg.jpg"/>
+    </item>
+    <item>
+      <title>– Jeg ville slite ut Jens (1:2)</title>
+      <description><![CDATA[Nato-toppmøtene er som en skolegård, med bøller og tapere. Filmskaper Tommy Gulliksen var flue på veggen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/f6f7fb10-9062-4481-b7fb-109062748110_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/f6f7fb10-9062-4481-b7fb-109062748110_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:29</itunes:duration>
+      <pubDate>Sun, 21 Sep 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-2xFzKxURgfeIuCbkAWcUAZFbX_BPq_hZ4Oq_yBApFxg.jpg"/>
+    </item>
+    <item>
+      <title>– Jeg får gåsehud! (9:9)</title>
+      <description><![CDATA[Sofia Srour gir oss perspektiv på religionsspørsmålene som blir tatt opp, og Tale Torjussen elsker den siste episoden av SKAM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/1f384a35-2bce-4a0f-9671-aa5f06c53d54_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/1f384a35-2bce-4a0f-9671-aa5f06c53d54_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:32</itunes:duration>
+      <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/HfPPzL5oLw5cr8BMgQorpw8e4PLndUPJnXtRRWRIaPwA.jpg"/>
+    </item>
+    <item>
+      <title>– Hun skulle få føkke opp (8:9)</title>
+      <description><![CDATA[Sofia Srour kjenner seg igjen i Sana som ung hijabi. Vi snakker også om russebuss og utenforskap med Tale Torjussen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/dfe8ee23-7727-47c7-9480-115a6a68d3c8_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/dfe8ee23-7727-47c7-9480-115a6a68d3c8_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:51</itunes:duration>
+      <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/16HAjxirSWwl6Xt59KBWhgEWlwR5nBZu6z-5QWZlLBpQ.jpg"/>
+    </item>
+    <item>
+      <title>– Folk har trodd vi var Isak og Even (7:9)</title>
+      <description><![CDATA[Henrik Holm om den enorme oppmerksomheten, Morten Hegseths favoritt-scene og Julie Andem om hva som er greia med “O helga natt”]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/4994ec53-c04e-449c-9762-4a42ab0f481c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/4994ec53-c04e-449c-9762-4a42ab0f481c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:16</itunes:duration>
+      <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lozx1PvT4ToYqAUhPZ6guQouMjJhrxp9jGVDf5wInwHg.jpg"/>
+    </item>
+    <item>
+      <title>– Alt i livet har vært lettere etter SKAM (6:9)</title>
+      <description><![CDATA[Isaks historie inspirerte og endret liv. Carl Martin Eggesbø lærte oss alle om Pride, og Julie Andem forteller om å forme den scenen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/93330f69-8a48-447f-9998-572788b1aefe_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/93330f69-8a48-447f-9998-572788b1aefe_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:07</itunes:duration>
+      <pubDate>Wed, 09 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iWp4tIeJgpCShRW__m3phgGhu_7_Am6TRqcnQdbDcryw.jpg"/>
+    </item>
+    <item>
+      <title>– Evnen til å ta noen med storm (5:9)</title>
+      <description><![CDATA[Carl Martin Eggesbø fikk spørsmål om han var «homo på ekte», og Henrik Holm deler om hvordan han fikk rollen som Even.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/ebf1100b-c130-4562-bbff-59219b9f443d_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/ebf1100b-c130-4562-bbff-59219b9f443d_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:51</itunes:duration>
+      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bpnaRLSZrvQYwtCMidPU9wn0o0GSlNOta-xnKUFLNyhg.jpg"/>
+    </item>
+    <item>
+      <title>– William må svare (4:9)</title>
+      <description><![CDATA[Hvor var du da William forsvant? Hele Norge ventet på svar, men hvordan fikk serieskaperne oss lenket til skjermen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/ab3a1f57-90e3-4b4b-a08f-5b521cf1bec6_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/ab3a1f57-90e3-4b4b-a08f-5b521cf1bec6_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:25</itunes:duration>
+      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q76QL7sImAfEnd22SPsXUgGUkwZhBDyN7VdibEFUI-_A.jpg"/>
+    </item>
+    <item>
+      <title>– De hatet slow motion (3:9)</title>
+      <description><![CDATA[Julie Andem forteller hvordan Noora + William ble til, og Morten Hegseth og Tale Torjussen elsker starten på forholdet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/3bc12e53-461d-44b2-91a6-aef3f2fefa2f_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/3bc12e53-461d-44b2-91a6-aef3f2fefa2f_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:47</itunes:duration>
+      <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oWYbxMjhoOBqclDzjIP88A_-BwLbDLzR1Ngeogke5raQ.jpg"/>
+    </item>
+    <item>
+      <title>– Det er så ikonisk! (2:9)</title>
+      <description><![CDATA[Noora blir feminist-ikonet Tale Torjussen digger, og hele Norge hyller. Men hvorfor har Lisa Teige aldri sett SKAM?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/946a3dcf-3a3c-4887-a861-0bf9f89fb804_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/946a3dcf-3a3c-4887-a861-0bf9f89fb804_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:35</itunes:duration>
+      <pubDate>Fri, 27 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nFF9wrrbZKNzZHv67ibUQAJjf_csqUK3hwEZ0PCY9yYw.jpg"/>
+    </item>
+    <item>
+      <title>– Hun har jo ingen venner (1:9) </title>
+      <description><![CDATA[Hvor mye av Lisa Teige er det i Eva? Lisa forteller om å kline på første opptaksdag, og Julie Andem røper hvorfor serien heter SKAM.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/a0c97e96-80c7-4404-8e00-c3e9436cf6c5_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/a0c97e96-80c7-4404-8e00-c3e9436cf6c5_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:49</itunes:duration>
+      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TM6oiB7qcfCBbzO-brXUTQsoYdMdo202bkTJRfHIrK0w.jpg"/>
+    </item>
+    <item>
+      <title>– Måtte tilgi meg selv (Q&amp;A)</title>
+      <description><![CDATA[Sophie Elise og Linnéa Myhre svarer på lytterspørsmål! Hat, taco, bloggkrig og veien videre.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/d3cd1b86-b7bc-4c9a-8dcb-3e7a2caeff80_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/d3cd1b86-b7bc-4c9a-8dcb-3e7a2caeff80_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:29</itunes:duration>
+      <pubDate>Fri, 21 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YNMnOIlzhwxukRWDS1re5wko_53h2pBGwJEzYDfcEI6g.jpg"/>
+    </item>
+    <item>
+      <title>– Følte meg så død (6:6)</title>
+      <description><![CDATA[Sophie Elise om Skal vi danse-exiten, TV 2-sjef Vegard Normann om Bloggerne, og Linnea Myhre om hvorfor hun aldri blogger igjen.
+
+Musikken er komponert av Espen Lind.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/57bbebed-c8b5-4f37-bccd-43f56612b2f7_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/57bbebed-c8b5-4f37-bccd-43f56612b2f7_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:18</itunes:duration>
+      <pubDate>Sat, 15 Mar 2025 06:06:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ebQU1wNHJx2NcgJTY22rsQqIy4HIP43uKAi_HvXK2G_w.jpg"/>
+    </item>
+    <item>
+      <title>– Fikk 17 drapstrusler på én dag  (5:6)</title>
+      <description><![CDATA[Sophie Elise om å rømme inn i rusen, Linnéa Myhre om bloggbusiness og Morten Hegseth om kjendiskulturens nye maktsentrum.
+
+Musikken er komponert av Espen Lind.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/b4310d15-a3c0-4280-8a71-50bcd8cc2822_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/b4310d15-a3c0-4280-8a71-50bcd8cc2822_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:40</itunes:duration>
+      <pubDate>Sat, 15 Mar 2025 06:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sg6gz2LN59EttjNLlvnkLQNfSQ3PXdBkE4Z5ddUXEYSQ.jpg"/>
+    </item>
+    <item>
+      <title>–  Alle her er tapere, liksom (4:6)</title>
+      <description><![CDATA[Sophie Elise om tapet som fortsatt preger henne, Linnéa Myhre om bloggernes maktkamp og Voe om skandalen hun aldri så komme. 
+
+Espen Lind har komponert musikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/913aabac-ef84-436f-a111-84e584d362be_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/913aabac-ef84-436f-a111-84e584d362be_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:17</itunes:duration>
+      <pubDate>Sat, 15 Mar 2025 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwI_GKKIFA62d12793bGHQzclAIk3uCeI3sc_zOJH5AQ.jpg"/>
+    </item>
+    <item>
+      <title>–  Skjønte ikke at jeg kunne si nei (3:6)</title>
+      <description><![CDATA[Sophie Elise om hvorfor hun hata Voe, Linnéa Myhre om bloggens cowboy business og fotograf Rolf Ørjan Høgseth om bransjen han forlot. 
+
+Musikken er komponert av Espen Lind.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/95e127f3-779d-47fb-a05e-1096151f821c_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/95e127f3-779d-47fb-a05e-1096151f821c_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:28</itunes:duration>
+      <pubDate>Sat, 15 Mar 2025 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/UY9uN2UFefHGDi4NHm5CGwnlCOiNflZvSbjOg_i-2EKw.jpg"/>
+    </item>
+    <item>
+      <title>– Du kan ikke ha silikon på CV-en (2:6)</title>
+      <description><![CDATA[Elli Müller Osborne om å kaste seg ut i rollen som Selina, Sophie Elise om operasjonen som 18 åring og Linnéa Myhre om hatet som knekte henne. 
+
+Espen Lind har komponert musikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/36254b0d-18d3-47f3-8f8b-28eef70d7253_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/36254b0d-18d3-47f3-8f8b-28eef70d7253_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:00</itunes:duration>
+      <pubDate>Sat, 15 Mar 2025 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qexvkwm5ehZfZbb9gPW9MQcmelimovjFp78F6WAht-9g.jpg"/>
+    </item>
+    <item>
+      <title>– Som å se meg selv (1:6)</title>
+      <description><![CDATA[Hvor mye av Sophie er det i Selina? Sophie Elise og serieskaper Emmeline Berglund forteller mens Linnéa Myhre deler fra blogg-Norge anno 2005. 
+
+Espen Lind har komponert musikken.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/90be9beb-97ce-4e5a-a298-e59c91f1cdec_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/90be9beb-97ce-4e5a-a298-e59c91f1cdec_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:45</itunes:duration>
+      <pubDate>Sat, 15 Mar 2025 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PVGWYpCWJirsoMG0SF96ZASpBiHi62iF4TFQO1OVLHAg.jpg"/>
+    </item>
+    <item>
+      <title>Seriesnakk: Familien Nerdrum</title>
+      <description><![CDATA[Öde mistet sin beste venn. Odd fikk en far som 50-åring. Regissør Linn ble usynlig. Kunstkritiker Mona mener Odd har rett til å være sur.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/95e5bfed-5be4-4a13-9bd6-01bb93d47382_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/95e5bfed-5be4-4a13-9bd6-01bb93d47382_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:52:20</itunes:duration>
+      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9g9re6OagHX2w2JC1MDqJgdWzEmOkjxCj7FyV0ceiYgQ.jpg"/>
+    </item>
+    <item>
+      <title>- Fin slutt for henne, men også for ham (8:8)</title>
+      <description><![CDATA[Dokumentarfilmskaper Jan Christian Mollestad ba Cohen sende en siste hilsen til den døende Marianne. Hvordan ble Mariannes liv?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/95671ccd-ce08-4900-b744-72eb6c205449_0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/95671ccd-ce08-4900-b744-72eb6c205449_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:54</itunes:duration>
+      <pubDate>Sat, 05 Oct 2024 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gdgP7v_Fkj9JzXpICa3ZTA07u75ID5p5-uH2qn0teeoA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:03:07 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:58:00 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Unni Lindell</title>
+      <description><![CDATA[30 år med krim: Unni Lindell markerer med store nyheter - skriver baklengs i «Rødt flagg» og følger en fangeflukt i jeg-form.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/033394c4-c4dc-4168-b394-c4c4dcc168ae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/033394c4-c4dc-4168-b394-c4c4dcc168ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:05</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cNmsAP4-QedKGJgdEQjSCw_mwGgRoTewJPkfHf1DBZRQ.jpg"/>
+    </item>
     <item>
       <title>Alexander Kielland Krag: Begjær, aldersforskjell og skam</title>
       <description><![CDATA[Han ville det selv. Men var de egentlig likestilte? Alexander Kielland Krag om sex, makt og skam.]]></description>
@@ -22,7 +31,7 @@
       <itunes:image href="https://gfx.nrk.no/b7qyUakgYPxT9KQOckziJwmMiujEynHmDQns4SytPRCg.jpg"/>
     </item>
     <item>
-      <title>Feita</title>
+      <title>Anne B. Ragde: Miniskjørt og hundeparing</title>
       <description><![CDATA[En slengbemerkning da hun gikk på gata endret alt. Anne B. Ragde om fattigdom, forfalskede underskrifter og ordet feita.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/6225b947-a909-478c-a5b9-47a909878c38_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/6225b947-a909-478c-a5b9-47a909878c38_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -291,16 +300,6 @@ Nyeste bok: «I mitt lune hi»]]></description>
       <itunes:duration>57:31</itunes:duration>
       <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/0AAfUPlXOP7FC4a-zluS_g57nEd5tDhyYHw_vkeS1-bw.jpg"/>
-    </item>
-    <item>
-      <title>Alf Kjetil Walgermo: Kjærlig hilsen til Donald</title>
-      <description><![CDATA[Magica fra Tryll var hans første forelskelse. Journalisten og forfatteren mener intens Donaldlesing gjorde ham til skribent.
-Nyeste bok: «Litteratur i Andeby»]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/b40747c8-cdd6-4630-8747-c8cdd606305f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/b40747c8-cdd6-4630-8747-c8cdd606305f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:31</itunes:duration>
-      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1uVw4gJCFS3WdIlhQiVQ6wt6qgIyITjdMABH4GV33R0w.jpg"/>
     </item>
   </channel>
 </rss>
