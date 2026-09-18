@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:31:37 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:28:01 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus intervjuer Simen Velle</title>
+      <description><![CDATA[Hva betyr ordet kørv, Onkel Thor Alf forteller hva en big mac inneholder og Markus intervjuer Simen Velle.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/dc67b9ef-6d39-40bb-a7b9-ef6d39c0bbb2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/dc67b9ef-6d39-40bb-a7b9-ef6d39c0bbb2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:40</itunes:duration>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/6mxX2RkZOIUUr-vj44Z5LQPzvtsgLAFHI9g66gHiW3Fg.jpg"/>
+    </item>
     <item>
       <title>Alpelue er stygt</title>
       <description><![CDATA[Anna har verdens lengste vignett, hva hadde vi gjort som kjøttmeiser og Markus sliter seg igjennom stand-up.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/91b80137-5c02-4f2c-b801-375c027f2c34_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:30</itunes:duration>
       <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 22: Siestas fjerde medlem</title>
-      <description><![CDATA[Daniel prøver sin siste hatt, Anna har mista initiativ og hvem hadde vært Siestas fjerde medlem?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/b3585d32-6dd0-48e6-985d-326dd0e8e673_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/b3585d32-6dd0-48e6-985d-326dd0e8e673_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>25:30</itunes:duration>
-      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
