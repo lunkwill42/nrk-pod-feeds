@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:51:31 +0000</lastBuildDate>
-    <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 05:59:20 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Vanskelige venner</title>
+      <description><![CDATA[Hvorfor gjorde Sosialdemokratene tidenes dårligste valg i Sverige? Truer ukrainsk korrupsjon Vesten? Og kan jenter egentlig ha guttevenner?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fb3c06e-27f5-4582-b3c0-6e27f5f5822c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fb3c06e-27f5-4582-b3c0-6e27f5f5822c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Ekstreme ytterkanter</title>
       <description><![CDATA[Svensk thrillervalg på trappene, Pisasjokk for Norden og Cannes-vinnende suksessfilm fillerister norsk barnevern.]]></description>
@@ -274,15 +283,6 @@ Danmark ser ut til å trives tettere på makten, mens FN vakler
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c7fe7d2a-35f3-48c9-be7d-2a35f3c8c9b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
-    </item>
-    <item>
-      <title>Deilig er Norden!</title>
-      <description><![CDATA[Helt til noen invaderer Grønland, da. Må Norge og Sverige gå i krig for Danmark nå? Og hva røpet nyttårstalene om lederne våre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ca07bd92-5682-41b3-87bd-92568211b32f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/ca07bd92-5682-41b3-87bd-92568211b32f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
     </item>
   </channel>
