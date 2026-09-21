@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:20:57 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:25:16 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>SVs budsjettkrav</title>
+      <description><![CDATA[SV krever gratis tannregulering for barn. Det kan føre til kroppspress, advarer Høyre]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/fac0b422-e26b-4473-80b4-22e26b047389_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/fac0b422-e26b-4473-80b4-22e26b047389_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OZfKCOPUfSIn6g_Rb32RtgsOFsPfyYpip22b72VZghYQ.jpg"/>
+    </item>
     <item>
       <title>Kun de beste får bli?</title>
       <description><![CDATA[Nærmere 19.000 ukrainere kan få varig opphold i Norge hvis de tjener nok penger.
@@ -284,15 +293,6 @@ MDG lider av katastrofefantasier, svarer Tor Mikkel Wara.]]></description>
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Mon, 10 Aug 2026 08:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DnvZzcDSPZP6OLApmfLZ0g3-PTK_4eZavQJdvvsqB2dQ.jpg"/>
-    </item>
-    <item>
-      <title>Høyre-lederens oppgjør med FrP</title>
-      <description><![CDATA[Ansvarlige politikere må sette en grense, sier Ine Eriksen Søreide. Hun kaller FrP uansvarlige som vil ha krisepakker på alt fra strøm til mat og diesel. Sylvi Listhaug møter Høyre-lederen til debatt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/26f06ac2-0021-4da9-b06a-c20021eda927_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/26f06ac2-0021-4da9-b06a-c20021eda927_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Fri, 07 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TIBnCrO3M_98-PCy88pdrQa803wjs3aVUeXR5cSVjcGA.jpg"/>
     </item>
   </channel>
 </rss>

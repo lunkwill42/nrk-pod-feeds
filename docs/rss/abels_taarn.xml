@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:57:50 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:24:46 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Se krystallklart i stupmørke</title>
+      <description><![CDATA[Forskere har utviklet nye superbriller. Dessuten, skadde hjerner kan reparere seg selv. Og gode opplevelser gir også bra søvn]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:34</itunes:duration>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Hvor vakker er naturen?</title>
       <description><![CDATA[Om det nå er det den er da.
@@ -280,15 +289,6 @@ Lurer du på ting, tang og tare? Send inn dine spørsmål til Abels Tårns ekspe
       <itunes:duration>57:36</itunes:duration>
       <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1Iq6cl1VFNzIID6_3lQxDgFUCzhWRG6T_gDms5dDvZ1Q.jpg"/>
-    </item>
-    <item>
-      <title>Kaffe bremser antakelig demens</title>
-      <description><![CDATA[Men ikke all type kaffe, viser ny forskning. Dessuten, kryptering sikrere enn banken, kan være på veg. Mens en populær IQ-test på TikTok er helt ubrukelig]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/45ef7e0e-f2fe-49dd-af7e-0ef2fe79ddf0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/45ef7e0e-f2fe-49dd-af7e-0ef2fe79ddf0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:44</itunes:duration>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hQ-d-qQCtDBzA35xlutitghBItxQ1fXBp5m0C5yzK2Ug.jpg"/>
     </item>
   </channel>
 </rss>
