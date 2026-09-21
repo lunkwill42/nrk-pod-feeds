@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:31:11 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:14:29 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Hva skjedde med verdenskartet?</title>
+      <description><![CDATA[På FNs nye kart krymper Norge og Grønland, og Afrika eser ut. Å tegne kloden er storpolitikk. Hør om kartets historie.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e4f34ebf-440a-4ffa-b34e-bf440acffaae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e4f34ebf-440a-4ffa-b34e-bf440acffaae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:34</itunes:duration>
+      <pubDate>Mon, 21 Sep 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Ciea13Flluy5kTFZ2jMGCQZw4fV8_2Ss4cfr1L1Hfa-w.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Mykje motstand</title>
       <description><![CDATA[Det går trått for Trump når den handplukka mannen hans trassar han, og to sterke demokratar truer republikanarane.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>22:50</itunes:duration>
       <pubDate>Tue, 30 Jun 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LNm1_XllkM3gBOI5462JKAylQUEjim3uGOiW2pZX22Ig.jpg"/>
-    </item>
-    <item>
-      <title>Flere blir syke av flåtten</title>
-      <description><![CDATA[Selv om rekordmange velger å vaksinere seg, blir stadig flere av oss syke av flåttbitt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0b26c424-c4c4-447a-a6c4-24c4c4647a2e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/0b26c424-c4c4-447a-a6c4-24c4c4647a2e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:01</itunes:duration>
-      <pubDate>Tue, 23 Jun 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G4iQBBEh_7sruudiyqBNUQg-5hpuhV8c8PegtgTjIlCw.jpg"/>
     </item>
   </channel>
 </rss>
