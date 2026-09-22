@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:27:52 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 16:15:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:01:28 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Fra eventyr til katastrofe: Kan KI drepe oss?</title>
+      <description><![CDATA[Nylig gikk en av hjernene bak kunstig intelligens ut med en krass advarsel. Han mener KI kan ta livet av menneskeheten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/8eea7f2f-d1da-4a84-aa7f-2fd1daaa8435_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8eea7f2f-d1da-4a84-aa7f-2fd1daaa8435_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:51</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/wgvFDFRJWJLo6luROgEyPg9b5LYXoMpZ1h8UxpUnq9zg.jpg"/>
+    </item>
     <item>
       <title>Ed Sheeran-bråket: Derfor trekker artistene seg</title>
       <description><![CDATA[Rapperen Macklemore ble fjernet fra Sheerans turné. Siden har sosiale medier kokt over.]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>13:25</itunes:duration>
       <pubDate>Fri, 14 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mgpbz-egrE8fTXGzNoRVmAB4AFRMW4niPcEfdGaVw57w.jpg"/>
-    </item>
-    <item>
-      <title>Jared Leto: Anklagene som ryster Hollywood</title>
-      <description><![CDATA[Gjennom tre tiår har han briljert både på film- og musikkscenen. Nå er han i hardt vær.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/5c87f9af-cf6e-4e8b-87f9-afcf6e8e8b03_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/5c87f9af-cf6e-4e8b-87f9-afcf6e8e8b03_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:27</itunes:duration>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/R5UNuCw3XurBIOJHVSMLlQ0dRFm1VQaGyH_2_2h_UYgg.jpg"/>
     </item>
   </channel>
 </rss>
