@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:14:58 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:58:24 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Banner på kino</title>
+      <description><![CDATA[Markus skvatt på kino, Daniel har intervjua humorforsker om sprengt lyd og det blir heftig diskusjon om hvordan man uttaler «morder».]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c486bba2-02f7-46de-86bb-a202f7b6de9f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c486bba2-02f7-46de-86bb-a202f7b6de9f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:27</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel ammer Markus</title>
       <description><![CDATA[Finn Glede tar avstand fra artist, Anna får bever-hatt og Daniel er ekte guffen i ubehag.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/6131889e-f8af-4e54-b188-9ef8af7e5443_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:42</itunes:duration>
       <pubDate>Mon, 10 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Time 24: VI GREIDE DET</title>
-      <description><![CDATA[Vi har sendt radio i 24 timer! I den siste timen får du vite hvilken hatt Daniel skal erstatte capsen med og en siste Quizvang<3]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/eb1748aa-9ee5-45a7-9748-aa9ee595a7c2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/eb1748aa-9ee5-45a7-9748-aa9ee595a7c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:02</itunes:duration>
-      <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
