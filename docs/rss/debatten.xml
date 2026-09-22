@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:12:51 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 22:05:00 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:13:17 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 20:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Går Document-redaktøren for langt?</title>
+      <description><![CDATA[Redaktører melder seg ut i protest mot Hans Rustad fra Document. Er det han sier virkelig så ille?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/7883a164-fbd2-4e4e-83a1-64fbd28e4eab_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/7883a164-fbd2-4e4e-83a1-64fbd28e4eab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:17</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 20:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NoQcbyxnOizItxNU6ltECgphESpawFcYbVXJeFFDxqRQ.jpg"/>
+    </item>
     <item>
       <title>Utsletter KI menneskeheten innen 3 til 5 år?</title>
       <description><![CDATA[Flere mener KI kan komme ut av kontroll og gjøre slutt på alt.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/74e1b719-b73a-4c6f-a1b7-19b73a0c6f5d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:12</itunes:duration>
       <pubDate>Tue, 24 Feb 2026 22:20:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Politisk påvirkning</title>
-      <description><![CDATA[I kjølvannet av Epsteinavsløringene går debatten om åpenhet og bindinger. Er det for tett mellom politikere og lobbyister i Norge?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/658e1877-e29c-4b32-8e18-77e29c6b32f6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/658e1877-e29c-4b32-8e18-77e29c6b32f6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:13</itunes:duration>
-      <pubDate>Thu, 19 Feb 2026 22:45:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>
