@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 21 Sep 2026 06:24:46 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:01:27 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Et gjennombrudd i kreftforskning</title>
+      <description><![CDATA[Ny lovende kreftvaksine på veg. Dessuten, slankemedisiner overrasker forskerne. Og Antarktis har til tross for klimakrisa, fått mer is!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f9f65c4d-2915-49ea-b65c-4d2915b9ead7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:57</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>Se krystallklart i stupmørke</title>
       <description><![CDATA[Forskere har utviklet nye superbriller. Dessuten, skadde hjerner kan reparere seg selv. Og gode opplevelser gir også bra søvn]]></description>
@@ -279,16 +288,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>31:12</itunes:duration>
       <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Blir bananer bra brennstoff?</title>
-      <description><![CDATA[Siden de jo hevdes å inneholde antimaterie.
-Lurer du på ting, tang og tare? Send inn dine spørsmål til Abels Tårns ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/5e54dee8-c823-4d3b-94de-e8c8236d3b3e_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/5e54dee8-c823-4d3b-94de-e8c8236d3b3e_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:36</itunes:duration>
-      <pubDate>Fri, 05 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1Iq6cl1VFNzIID6_3lQxDgFUCzhWRG6T_gDms5dDvZ1Q.jpg"/>
     </item>
   </channel>
 </rss>

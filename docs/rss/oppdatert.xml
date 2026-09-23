@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:01:28 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:02:25 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>AOC: Kan ho bli USAs neste president?</title>
+      <description><![CDATA[Samtidig som ho har opna opp om ein intim, medisinsk prosess, går spekulasjonane om at alt er ein del av ein kalkulert plan.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/7e6fc26c-ca8b-42a9-afc2-6cca8ba2a970_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/7e6fc26c-ca8b-42a9-afc2-6cca8ba2a970_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:12</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mgpMoKwPlxyBI1k_BagWyAbddts_Xg324hBcxwGPOa7w.jpg"/>
+    </item>
     <item>
       <title>Fra eventyr til katastrofe: Kan KI drepe oss?</title>
       <description><![CDATA[Nylig gikk en av hjernene bak kunstig intelligens ut med en krass advarsel. Han mener KI kan ta livet av menneskeheten.]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>17:45</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6gSHRGhCgDVCSJOZJ97lhAIHd3ET9pH9s6-w-njAd6kQ.jpg"/>
-    </item>
-    <item>
-      <title>Tørke, regn og varme: Kva skal vi ete i 2050?</title>
-      <description><![CDATA[Kanskje består fredagstacoen av norsk avokado og ein pose tang-chips.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/fd3d524b-2cf6-4367-bd52-4b2cf6b3675a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fd3d524b-2cf6-4367-bd52-4b2cf6b3675a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:25</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mgpbz-egrE8fTXGzNoRVmAB4AFRMW4niPcEfdGaVw57w.jpg"/>
     </item>
   </channel>
 </rss>

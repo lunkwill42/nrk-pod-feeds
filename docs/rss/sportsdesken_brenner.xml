@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:06:45 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:02:33 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Sportsdesken ringer Danmark</title>
+      <description><![CDATA[Sportsdesken varmer opp til landskamp ved å ringe to elleville dansker for å grave i forholdet mellom Norge og Danmark.
+Du kan fortsatt bli med i vår fantasy-liga med koden: oyuwxr.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/3cab1434-c0bf-4911-b76c-9458ba3da34b_0b54908d-f041-4744-9191-2287fc3fe8d3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/3cab1434-c0bf-4911-b76c-9458ba3da34b_0b54908d-f041-4744-9191-2287fc3fe8d3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:27</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>Sport er også følelser</title>
       <description><![CDATA[Sportsdesken rystes av et VM-gull vunnet med avføring nedover beina, og Vålerenga-fans som rasérer toaletter etter derby-tapet. 
@@ -288,15 +299,6 @@ Espen og gjengen diskuterer hvor grensen går når tyske medier omtaler overvekt
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/bd31a421-a4d5-432e-b1a4-21a4d5432ec4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:58</itunes:duration>
       <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
-    </item>
-    <item>
-      <title>Hvorfor mangler O-en i Paralympics?</title>
-      <description><![CDATA[Arrivederci, Italia!  Bodø/Glimt slo Inter, og er videre i Champions League! Men hvordan ville Nora ha reagert hvis de røk ut?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/c354f815-7e77-45e0-94f8-157e77f5e098_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c354f815-7e77-45e0-94f8-157e77f5e098_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:07</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     </item>
   </channel>
