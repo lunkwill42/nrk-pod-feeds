@@ -8,17 +8,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:01:37 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 10:30:00 +0200</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:43:32 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
-    <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
+    <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
     <item>
-      <title>Slik slutter du å være kresen</title>
-      <description><![CDATA[Hvordan dreper man kresenhet? Gjengen har en teori.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:00</itunes:duration>
-      <pubDate>Tue, 22 Sep 2026 10:30:00 +0200</pubDate>
+      <title>Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»</title>
+      <description><![CDATA[Stig Brenner har så mye selvtillit på egen humor at han tryglet Mads Hansen om å få være med på «Ikke lov å le på hytta». I dag kommer han til oss for å forklare historien bak den fantastiske Martin Schanche-parodien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7d81cdce-33ae-4b73-b702-d0106883270f_8a23b0cf-c1f9-4841-a53e-dbe57c886b04_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7d81cdce-33ae-4b73-b702-d0106883270f_8a23b0cf-c1f9-4841-a53e-dbe57c886b04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:57</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PBHy4gFIHcm6Ta9KgfP_2ArWhD198wCuWlT5cJekG75g.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Alt som er digg er dårlig for deg. </title>
+      <description><![CDATA[Arin og Henning skåler med maten og vi spår fremtidens historiebøker.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/187eb3b4-e4a4-44fe-853d-099ba43140d1_566665f7-d128-402a-81a0-fbaabc9b6940_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/187eb3b4-e4a4-44fe-853d-099ba43140d1_566665f7-d128-402a-81a0-fbaabc9b6940_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:25</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     </item>
     <item>
@@ -29,6 +38,15 @@
       <itunes:duration>40:45</itunes:duration>
       <pubDate>Tue, 22 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mpINOQCnkDAygdR4buTgEAGRg1pnIULfiNVgw6pMk_cg.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Slik slutter du å være kresen</title>
+      <description><![CDATA[Hvordan dreper man kresenhet? Gjengen har en teori.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:00</itunes:duration>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     </item>
     <item>
       <title>Mannen som ble slått av Martin Schanche</title>
@@ -263,24 +281,6 @@
       <itunes:duration>20:33</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
-    </item>
-    <item>
-      <title>Potetgull til julemidaggen</title>
-      <description><![CDATA[Kjenner du igjen låten ved å kun høre Jason Derulo si sitt eget navn? Vi tester det i dag. Henning lurer på om hans nye hobby er problematisk. Vi hører om folks potetgullvaner]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f6e0ca9d-b721-47ef-a0ca-9db721a7efd6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f6e0ca9d-b721-47ef-a0ca-9db721a7efd6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:02</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Jonas trenger tvangstanker.</title>
-      <description><![CDATA[Jonas glemte en pizza i ovnen alt for lenge, Henning vil snakke om internasjonale menyer og Arin har vært i Tunisia før.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d71a02d9-8fdc-4639-9a02-d98fdcb63917_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d71a02d9-8fdc-4639-9a02-d98fdcb63917_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA.jpg"/>
     </item>
   </channel>
 </rss>
