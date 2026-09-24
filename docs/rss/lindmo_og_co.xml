@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:44:25 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:57:06 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Skammens kartotek</title>
+      <description><![CDATA[Anne har blitt forsøkt svindlet, Rune hyller rampestreker og Halvor holdes våken av skam.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/9fde770a-8115-47b0-9e77-0a8115a7b03c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/9fde770a-8115-47b0-9e77-0a8115a7b03c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:36</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
     <item>
       <title>Teppetrøbbel og maratonmage</title>
       <description><![CDATA[Anne har en dødsfelle i leiligheten og vi avslører maratonløpets ubeleilige baksider.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>26:56</itunes:duration>
       <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Retur for Rønnis</title>
-      <description><![CDATA[Harald Rønneberg forteller om turgleden og skuffelsen over å måtte forlate ekspedisjonen til Denali.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/2e9979bf-5ae7-4ae8-9979-bf5ae7fae83a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/2e9979bf-5ae7-4ae8-9979-bf5ae7fae83a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:42</itunes:duration>
-      <pubDate>Sat, 22 Nov 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zK3rdag4pzRhkRr1ukYlhg_Br6uORFe7qM8EOD46SGdA.jpg"/>
     </item>
   </channel>
 </rss>

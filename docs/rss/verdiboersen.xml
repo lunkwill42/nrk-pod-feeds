@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:59:35 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:57:43 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Aldri mer 9. april</title>
+      <description><![CDATA[Hvorfor var Norge så dårlig forberedt på krig? Vi snakker om året 1939- og hvordan man tenkte]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/9533c49c-4cfd-430f-b3c4-9c4cfdd30fae_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9533c49c-4cfd-430f-b3c4-9c4cfdd30fae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:40</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i1WzEThKKSqlDfT3FvPShwuD6_oHkEY5qrfwV9dtocIg.jpg"/>
+    </item>
     <item>
       <title>Hva var det med tyskerne?</title>
       <description><![CDATA[Historikeren svarer på spørsmål fra lytterne om Det tredje riket. Om krigen og Holocaust - og lever vi nå i en ny mellomkrigstid?]]></description>
@@ -273,15 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>18:06</itunes:duration>
       <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jZLvVqO2rkwhHmqfA67ELwuFCK5t9DWWcBTBnuWInAQA.jpg"/>
-    </item>
-    <item>
-      <title>Den rike pøbelen</title>
-      <description><![CDATA[Både fattigdom og rikdom kan ødelegge deg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/158bc89d-fcf3-48ff-8bc8-9dfcf328ffab_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/158bc89d-fcf3-48ff-8bc8-9dfcf328ffab_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:56</itunes:duration>
-      <pubDate>Sun, 19 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/13dwYo1NqEerBn_08FJS_AmIlzSHxK-3v__iC3fDge9w.jpg"/>
     </item>
   </channel>
 </rss>
