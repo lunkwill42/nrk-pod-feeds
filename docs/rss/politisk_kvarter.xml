@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:43:39 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:05:41 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Mistenkt for valgjuks i Sverige </title>
+      <description><![CDATA[Vänsterpartiet gjorde et brakvalg - nå beskyldes de for valgjuks. 
+Og Frp-politikk kan gi industridød, hevder Næringsforeningen i Stavanger. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/0dee6f6d-1f4a-4714-99c7-1c7a375b616e_db9c790e-e6bf-442a-8d56-a4d4b3f343ed_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0dee6f6d-1f4a-4714-99c7-1c7a375b616e_db9c790e-e6bf-442a-8d56-a4d4b3f343ed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:59</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/e77A9kjvr6vuSew1cM5yPAGhjNo3xeK2HDHfyQTlxgeg.jpg"/>
+    </item>
     <item>
       <title>Flyplasser i fare?</title>
       <description><![CDATA[Ny samferdselsminister fra Oslo truer med å legge ned flyplasser i nord, mener Senterpartiet.
@@ -283,16 +293,6 @@ Kan det løse eldrebølgen – og samtidig gi oss mer fritid?]]></description>
       <itunes:duration>15:05</itunes:duration>
       <pubDate>Thu, 13 Aug 2026 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iKGl-js4CdpIf7dMPtT9TApVR4PnNKgBzAiOJhEmF_Jg.jpg"/>
-    </item>
-    <item>
-      <title>Næringslivet jubler for vindkraft</title>
-      <description><![CDATA[Næringslivet var svært fornøyd med regjeringens nye planer for vindkraft.
-Fremskrittspartiet mener det vil føre til industridød.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/3332ecf7-da60-4bb4-b2ec-f7da60fbb479_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3332ecf7-da60-4bb4-b2ec-f7da60fbb479_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:00</itunes:duration>
-      <pubDate>Wed, 12 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/RV3PdxxyXqQHL2mj3yLTjQG-5rP6FeAznzZfHxAvCbPA.jpg"/>
     </item>
   </channel>
 </rss>

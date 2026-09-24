@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:44:01 +0000</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:05:06 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Verdens verste liggeliste</title>
+      <description><![CDATA[Dårlig musikksmak kan ødelegge både en hel dag og et enkelt ligg, og en tur til Lofoten kan få deg til å revurdere alle livsvalgene dine.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/7c85d168-017b-4c2d-85d1-68017b5c2dff_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/7c85d168-017b-4c2d-85d1-68017b5c2dff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:57</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Et hekseliv</title>
       <description><![CDATA[En innføring i hevn, en etiketteguide for idrettsarrangementer og et endelig bevis på det jeg alltid har trodd: Jeg er 100 % heks.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>28:44</itunes:duration>
       <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
-    </item>
-    <item>
-      <title>8 retters psykisk terror</title>
-      <description><![CDATA[En glemt livskrise dukker opp, en uforglemmelig tur til Fjaler og et gourmetmåltid utarter til psykisk terror.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cdd4a312-8760-4b8f-94a3-1287607b8f20_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:56</itunes:duration>
-      <pubDate>Wed, 25 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:43:32 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:05:30 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Hvilken prat er KI?</title>
+      <description><![CDATA[En samtale fra dagens sending er 100% skrevet av KI og fremført av oss. Klarer du å høre når det er KI? Oliver Bergset har laget en viral dans og lagt den død, han er på besøk]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/969e59b9-9e57-4716-9b44-3cfcb9cfa904_4e4d2213-5565-4313-a8a2-9c2ee5bbe475_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/969e59b9-9e57-4716-9b44-3cfcb9cfa904_4e4d2213-5565-4313-a8a2-9c2ee5bbe475_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:18</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Mat, mat og mer mat. </title>
+      <description><![CDATA[Arin har med seg Nora og Heidi fra P3morgens extended cinematic universe, og praten går utelukkende i mat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/852bc9e6-c046-414f-9a7f-1ecb64eff557_df3c6996-5ac7-4a5d-af01-5aef17de4a97_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/852bc9e6-c046-414f-9a7f-1ecb64eff557_df3c6996-5ac7-4a5d-af01-5aef17de4a97_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
     <item>
       <title>Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»</title>
       <description><![CDATA[Stig Brenner har så mye selvtillit på egen humor at han tryglet Mads Hansen om å få være med på «Ikke lov å le på hytta». I dag kommer han til oss for å forklare historien bak den fantastiske Martin Schanche-parodien.]]></description>
@@ -263,24 +281,6 @@
       <itunes:duration>20:28</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
-    </item>
-    <item>
-      <title>Vi tester chipskomboer</title>
-      <description><![CDATA[Er potetgull og brun saus en god kombo! Nå mener flere at brun saus er den nye holidaydippen, og i dag skal vi endelig teste det.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:50</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Krig om skalken på brødet.</title>
-      <description><![CDATA[Henning har tatt i bruk sin nye kjøkkenmaskin, Arin prøver å bidra med noe i podkasten og Jonas får høre om 6-7 Grill.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/397e59fa-22bd-47fe-be59-fa22bd37fec1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/397e59fa-22bd-47fe-be59-fa22bd37fec1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ.jpg"/>
     </item>
   </channel>
 </rss>
