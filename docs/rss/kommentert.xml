@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:58:12 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 15:57:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:10:18 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 15:41:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Hvorfor stoppet ingen Terje Rød-Larsen?</title>
+      <description><![CDATA[Terje Rød-Larsen fikk 116 millioner over 15 år til tenketanken han var leder for. Nå vet vi at han pleide nær kontakt med Jeffrey Epstein, men hvordan kunne dette skje? Noen av svarene ligger kanskje i Epstein-høringen.
+
+Og hvorfor hever Norges Bank styringsrenta?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/02b1bdfb-0201-4f02-9c3d-31c3085f315c_b591f14c-a3cb-41c2-a7d2-2461362c151a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/02b1bdfb-0201-4f02-9c3d-31c3085f315c_b591f14c-a3cb-41c2-a7d2-2461362c151a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:33</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 15:41:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gdi7qLzfIieh_nmK4_eL5gDVcgByH8HVyMKujTWLnSbw.jpg"/>
+    </item>
     <item>
       <title>Prinsesse Diana: Nytt bråk og nye beskyldninger</title>
       <description><![CDATA[Hvorfor skaper prinsesse Dianas død bråk og trøbbel for den britiske kongefamilien etter snart 30 år? Dianas bror med kraftige påstander om kong Charles.
@@ -294,16 +305,6 @@ Og i Danmark sitter en piperøykende mann og smiler: Han bestemmer hvem landets 
       <itunes:duration>24:26</itunes:duration>
       <pubDate>Fri, 20 Mar 2026 10:48:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/TIMM7mLR06fM6qrB5Fi3KgZAHmlN_y3fNvcexx6tNrow.jpg"/>
-    </item>
-    <item>
-      <title>Nachspiel og sex: – Media har mistet gangsynet</title>
-      <description><![CDATA[Hva er verst for Marius Borg Høiby? Mange år i fengsel eller å få brettet ut detaljer fra hele livet hans i media? 
-Og oljeprisen stiger og stiger: Hva skjer med verden hvis den fortsetter å øke?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d8d392b7-3eba-452c-9392-b73eba452c59_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/d8d392b7-3eba-452c-9392-b73eba452c59_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:27</itunes:duration>
-      <pubDate>Thu, 19 Mar 2026 15:53:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xNXCOypuz8AHyM1KcLVzcAnW8ygIeAmOyS1TDwYJqqUg.jpg"/>
     </item>
   </channel>
 </rss>

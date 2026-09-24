@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:07:02 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:10:32 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Fikk ikke bursdagsgratulasjon</title>
+      <description><![CDATA[Vi feirer Markus sine 31 år med spesielle sanger, det blir dagsaktuell stand up og hvilken bokstav vi trenger vi egentlig ikke?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/7b9e0b47-6e55-43e5-9e0b-476e5523e5e7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7b9e0b47-6e55-43e5-9e0b-476e5523e5e7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:47</itunes:duration>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna er sur på Markus og Daniel</title>
       <description><![CDATA[Markus har med en flue, Daniel skal finne veien til Sophie Elise og Anna har marinert fingeren i solkrem og er generelt sur i dag.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/8079f007-cba6-4996-b9f0-07cba6e9964f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:39</itunes:duration>
       <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Lydopptak fra dass</title>
-      <description><![CDATA[Daniel har med et spesielt lydopptak og det skal konkurreres som hvem som er den beste taleren i vår nye spalte!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/1cf0c7ff-1fe5-471e-b0c7-ff1fe5a71e41_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:43</itunes:duration>
-      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
