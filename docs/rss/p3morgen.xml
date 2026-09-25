@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:05:30 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:52:06 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Renteheving for dummies</title>
+      <description><![CDATA[Henning har vært å provosert danske fotballfans som er på tur i Norge. Fikk han en på tygga? I dag får vi høre hvordan det gikk. Vi får også besøk av Hallgeir Kvadsheim som svarer på alle våre dumme spørsmål om renteheving.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9b82bd72-7e0d-4193-9885-fc795df87cd8_1440a092-ecf2-49a4-ba38-3a595c91d382_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9b82bd72-7e0d-4193-9885-fc795df87cd8_1440a092-ecf2-49a4-ba38-3a595c91d382_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:24</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jGk9relNWQeGESlgaGCSjwwsr5UCX8Ak18UZ7KazmjNQ.jpg"/>
+    </item>
+    <item>
+      <title>B-mennesker: Det er slutt.</title>
+      <description><![CDATA[Dette er den siste episoden av P3morgen for B-mennesker, derfor snakker vi om nakenhet<3 ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/fbaf45e0-6270-476f-a88d-5715dabfe3f7_13edc9bb-a92c-4e74-a479-8974bcfaa264_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fbaf45e0-6270-476f-a88d-5715dabfe3f7_13edc9bb-a92c-4e74-a479-8974bcfaa264_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
+    </item>
     <item>
       <title>Hvilken prat er KI?</title>
       <description><![CDATA[En samtale fra dagens sending er 100% skrevet av KI og fremført av oss. Klarer du å høre når det er KI? Oliver Bergset har laget en viral dans og lagt den død, han er på besøk]]></description>
@@ -263,24 +281,6 @@
       <itunes:duration>20:27</itunes:duration>
       <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA.jpg"/>
-    </item>
-    <item>
-      <title>Ingen engelske ord tillatt</title>
-      <description><![CDATA[Vi slår et slag for det norske språket og prøver å ikke si et eneste ikke-norsk ord. Hvert yes, sorry, eller fuck blir straffet med en bot]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/1a30b2ab-1b8d-4113-b0b2-ab1b8df1133e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1a30b2ab-1b8d-4113-b0b2-ab1b8df1133e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:44</itunes:duration>
-      <pubDate>Thu, 03 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1eJULp2ECr4ymizsKKaaVgApsf-m3gBi7PmhSPwX1QVw.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Blod, kjønnshår og flytende mais.</title>
-      <description><![CDATA[Vi har ikke hatt lov til å bruke fremmedord i dag, Henning har havnet i «middagsfella» og vi prater om den ekle doen på NRK.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/20cace70-c7f1-4716-8ace-70c7f13716ce_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/20cace70-c7f1-4716-8ace-70c7f13716ce_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:28</itunes:duration>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>

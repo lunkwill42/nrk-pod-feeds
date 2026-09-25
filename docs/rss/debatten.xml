@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 22 Sep 2026 22:13:17 +0000</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 20:01:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:51:51 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 11:55:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Renta går opp, opp, opp</title>
+      <description><![CDATA[Politikerne kappes om hva som må til for å gi folk bedre råd.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/66f90e6b-8f5a-4482-b90e-6b8f5a948204_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/66f90e6b-8f5a-4482-b90e-6b8f5a948204_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:00</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 11:55:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VNZfhX1GmIcKTTSRwjMX3gXTO1fMMPA0hpg1fQ2YuJHQ.jpg"/>
+    </item>
     <item>
       <title>Går Document-redaktøren for langt?</title>
       <description><![CDATA[Redaktører melder seg ut i protest mot Hans Rustad fra Document. Er det han sier virkelig så ille?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/3b9aeaa5-0bbe-40c9-9aea-a50bbed0c913_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:01</itunes:duration>
       <pubDate>Thu, 26 Feb 2026 22:30:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Krever OL i Norge etter gullrush</title>
-      <description><![CDATA[Medaljefangsten i Milano - Cortina gir politisk flertall for et nytt OL i Norge. Men blir vi enige om hvordan og hvor?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/74e1b719-b73a-4c6f-a1b7-19b73a0c6f5d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/74e1b719-b73a-4c6f-a1b7-19b73a0c6f5d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:12</itunes:duration>
-      <pubDate>Tue, 24 Feb 2026 22:20:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:01:27 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:51:40 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Tok Einstein feil?</title>
+      <description><![CDATA[Selv genier kan stå for fall.
+Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/2a1c21f0-8d3f-4806-9c21-f08d3ff80633_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2a1c21f0-8d3f-4806-9c21-f08d3ff80633_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:53</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMMzvT1ZF3ULyKG98hLLpQPRWFAVtcoira7V7FcJuCQQ.jpg"/>
+    </item>
     <item>
       <title>Et gjennombrudd i kreftforskning</title>
       <description><![CDATA[Ny lovende kreftvaksine på veg. Dessuten, slankemedisiner overrasker forskerne. Og Antarktis har til tross for klimakrisa, fått mer is!]]></description>
@@ -279,15 +289,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>26:31</itunes:duration>
       <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Øv til eksamen mens du sover</title>
-      <description><![CDATA[Forskere er på sporet av en metode. Dessuten, James Webb-teleskopet har avslørt stygg diskriminering. Og befolkningskollaps overrasker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9f510fdf-a2c9-47ab-910f-dfa2c917abcf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9f510fdf-a2c9-47ab-910f-dfa2c917abcf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:12</itunes:duration>
-      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
