@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:57:20 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:53:44 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Erdogans «trygge» Tyrkia: Et angrep mot skeive?</title>
+      <description><![CDATA[Tyrkias president lover å beskytte familier i ny kampanje. Det skaper redsel i det skeive miljøet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a099add7-1872-4094-99ad-d7187280941a_3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a099add7-1872-4094-99ad-d7187280941a_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:04</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CYu78fAS7e7njMPKJGL_yQywakABAA7LBL94YNg3tZbg.jpg"/>
+    </item>
     <item>
       <title>Pavens oppgjør: Slik vil han redde kirkens rykte</title>
       <description><![CDATA[Robert Prevost ble pave i 2025. Nå tar pave Leo XIV et oppgjør med kirkens mørke fortid.]]></description>
@@ -19,7 +28,7 @@
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>15:39</itunes:duration>
       <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/5r9vGrJQYymzBfsSkQ98NwyXdl46_lz96Kd3imRJwJtA.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/alFEP2hwF__eT_2fB3KNiwOiMLT1tiQH48CtLzDeK_gQ.jpg"/>
     </item>
     <item>
       <title>AOC: Kan ho bli USAs neste president?</title>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>18:21</itunes:duration>
       <pubDate>Wed, 19 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GOFnIx3u8czGG6W11PkHGAys_iU2WDj1WnYRbnAeSdJA.jpg"/>
-    </item>
-    <item>
-      <title>De mystiske brannene i Lofoten: Sto noen bak?</title>
-      <description><![CDATA[Da den lille bygda Laukvik ble rammet av flere uforklarlige branner, tok lokalbefolkningen affære.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cde2c83b-00cf-4586-a2c8-3b00cf1586a6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cde2c83b-00cf-4586-a2c8-3b00cf1586a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:34</itunes:duration>
-      <pubDate>Tue, 18 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/URvWruIzC6rSbKKiWLsLAgGWHq1oyt5SSCaLKqiE1N2A.jpg"/>
     </item>
   </channel>
 </rss>
