@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:58:56 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:46:34 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
+    <item>
+      <title>– Hun bør miste legelisensen (1:4)</title>
+      <description><![CDATA[Kaveh Rashidi er rasende på Kissy. LIS-legene er endelig tilbake!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/6289b33e-2bfa-4d58-89b3-3e2bfadd580f_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/6289b33e-2bfa-4d58-89b3-3e2bfadd580f_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:51</itunes:duration>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LPeudd28uFT9C4LRkbEICQqYbcFu0YRN4ki6Dhz-noag.jpg"/>
+    </item>
     <item>
       <title>Smakebit: Seriesnakk: LIS 2</title>
       <description><![CDATA[«LIS» er tilbake! Seriesnakk gir deg personene bak serien, de beste øyeblikkene og historier fra helsevesenet.
@@ -285,15 +294,6 @@ Espen Lind har komponert musikken.]]></description>
       <itunes:duration>02:52:20</itunes:duration>
       <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/9g9re6OagHX2w2JC1MDqJgdWzEmOkjxCj7FyV0ceiYgQ.jpg"/>
-    </item>
-    <item>
-      <title>- Fin slutt for henne, men også for ham (8:8)</title>
-      <description><![CDATA[Dokumentarfilmskaper Jan Christian Mollestad ba Cohen sende en siste hilsen til den døende Marianne. Hvordan ble Mariannes liv?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/95671ccd-ce08-4900-b744-72eb6c205449_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/95671ccd-ce08-4900-b744-72eb6c205449_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:54</itunes:duration>
-      <pubDate>Sat, 05 Oct 2024 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gdgP7v_Fkj9JzXpICa3ZTA07u75ID5p5-uH2qn0teeoA.jpg"/>
     </item>
   </channel>
 </rss>

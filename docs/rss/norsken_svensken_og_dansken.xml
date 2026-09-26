@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 19 Sep 2026 05:59:20 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:46:27 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Djevelpakt</title>
+      <description><![CDATA[Er Grønland virkelig sikret for all fremtid? Har islamister kuppet valget i Sverige? Og kan influenserne redde oss fra lesekrisen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/1a22aabe-1b61-4a62-a2aa-be1b61ba62d8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/1a22aabe-1b61-4a62-a2aa-be1b61ba62d8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Vanskelige venner</title>
       <description><![CDATA[Hvorfor gjorde Sosialdemokratene tidenes dårligste valg i Sverige? Truer ukrainsk korrupsjon Vesten? Og kan jenter egentlig ha guttevenner?]]></description>
@@ -274,15 +283,6 @@ Danmark ser ut til å trives tettere på makten, mens FN vakler
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/7a893bc5-2760-4857-893b-c527608857a9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
-    </item>
-    <item>
-      <title>Danske spark i sjelen</title>
-      <description><![CDATA[Alt står på spill for Grønland og Danmark. Hva må Norden forsvare og hvor langt er vi villige til å gå? Og må alle gå med forkle nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c7fe7d2a-35f3-48c9-be7d-2a35f3c8c9b9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/c7fe7d2a-35f3-48c9-be7d-2a35f3c8c9b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
     </item>
   </channel>
