@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:52:13 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:33:12 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel har blitt overvåka</title>
+      <description><![CDATA[Anna har tatt opp lyd av Daniel i skjul, Rafael Eriksen lærer bort radiomagi og hva er det motsatte av en sugekopp?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/03db79c9-fe6a-48e8-9b79-c9fe6a58e819_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/03db79c9-fe6a-48e8-9b79-c9fe6a58e819_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:43</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna intervjuer Tara Lina</title>
       <description><![CDATA[Selveste Tara Lina Shahin er hemmelig gjest, vi avslører ny pub i jakten etter Norges beste og det blir dyrelyd-spesial i Quizvang]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/606ce293-6891-4db7-ace2-9368916db70e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>48:59</itunes:duration>
       <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Norges mest komplette by</title>
-      <description><![CDATA[Det blir rykende fersk stand up fra Markus, hva er den beste byen i Norge og er det forsvarlig at 16-åringer bor alene?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/c9c9beae-45dc-4499-89be-ae45dc4499b1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:38</itunes:duration>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
