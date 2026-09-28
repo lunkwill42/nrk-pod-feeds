@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:51:40 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:58:59 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Da KI slukte matematikken</title>
+      <description><![CDATA[Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. 
+Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0B59pjE2aHd-m73GNveqCAhzWVxAwFMkcHd0OhVITrrw.jpg"/>
+    </item>
     <item>
       <title>Tok Einstein feil?</title>
       <description><![CDATA[Selv genier kan stå for fall.
@@ -280,15 +290,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:18</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6ri4ceXFj2xwoL00yRu1twA2OgjVxebOpJjN-SqQ1QqQ.jpg"/>
-    </item>
-    <item>
-      <title>Er pavens KI-advarsel skrevet av KI?</title>
-      <description><![CDATA[Tekstanalyser tyder på det. Dessuten, forskere har oppdaget intelligens hos et encellet dyr uten hjerne. Og gullsjakalen bruker folk som skjold mot ulv]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0dde9aae-e385-4a17-9e9a-aee3856a177f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0dde9aae-e385-4a17-9e9a-aee3856a177f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:31</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>
