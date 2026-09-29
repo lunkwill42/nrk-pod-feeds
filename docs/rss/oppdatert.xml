@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:59:36 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:36:45 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Storpolitisk flørt: Derfor frir Canada til Europa</title>
+      <description><![CDATA[Etter ett år med turbulens mellom den kanadiske statsministeren og Donald Trump, ser Canada mot EU og Norge.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e3e48c50-ef58-4d73-a48c-50ef588d7379_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3e48c50-ef58-4d73-a48c-50ef588d7379_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:22</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XUHNjOuLqR6iaBfD2i-dUQ664eQ4-1cMvNhAJpfLzuGA.jpg"/>
+    </item>
     <item>
       <title>Uefa mot Fifa: Slik vil de finte ut Infantino</title>
       <description><![CDATA[Fotballens mektigste mann har skapt kaos. Nå prøver Uefa å felle ham.]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>14:27</itunes:duration>
       <pubDate>Fri, 21 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jRCTVafTllCmvZYG5ZspOAI72ubMlTtlE2Aj_ao5b4oA.jpg"/>
-    </item>
-    <item>
-      <title>Streamet selvskading: Hva skjedde med Perez Hilton?</title>
-      <description><![CDATA[Kjendisbloggeren Perez Hilton var en av verdens mest fryktede sladrekonger før han lovet å bli snill. Nå er han selv i fokus etter en dramatisk direktesending.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6f20bd94-de2f-46c9-a0bd-94de2f96c9a7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6f20bd94-de2f-46c9-a0bd-94de2f96c9a7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:55</itunes:duration>
-      <pubDate>Thu, 20 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fETtcP16CBCnTvIdYs3dJAje8nWAWHiMrTLsf0x5NBfg.jpg"/>
     </item>
   </channel>
 </rss>

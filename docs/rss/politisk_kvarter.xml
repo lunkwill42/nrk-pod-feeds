@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:59:42 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:37:01 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Norsk drivstoff</title>
+      <description><![CDATA[Senterpartiet mener Norge må lage mer drivstoff selv, og vil bygge raffineri i Nord-Norge.
+Det er en veldig dårlig ide, sier økonomiprofessor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4641ed1e-44ea-4a7b-a510-8ef1dc0f166f_8f69ffe0-a125-41c8-8660-ceb1526cffad_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4641ed1e-44ea-4a7b-a510-8ef1dc0f166f_8f69ffe0-a125-41c8-8660-ceb1526cffad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/crvSbnn7nVy76oviGpjP4Ah6OFIIRGclFgdS7N64Xd-w.jpg"/>
+    </item>
     <item>
       <title>Bryllupsbonus fra KrFU</title>
       <description><![CDATA[KrFU vil gi 50 000 kroner i bonus til dem som gifter seg tidlig. Maga på norsk, mener Grønn ungdom. Og - i Sverige vil Vänsterpartiet i regjering - tross alle skandalene. ]]></description>
@@ -283,16 +293,6 @@ Vi snakker med en pendler som mener dette går på helsa løs.]]></description>
       <itunes:duration>15:07</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_j53mqVJ1lVXucrn-oZziQuUYPUbzhpuUpSHswoVgE1Q.jpg"/>
-    </item>
-    <item>
-      <title>KI kan løse eldrebølgen – og gi oss mer fritid?</title>
-      <description><![CDATA[KI kan gjøre oss langt mer effektive og frigjøre arbeidskraft.
-Kan det løse eldrebølgen – og samtidig gi oss mer fritid?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/5c39bedd-0699-42fc-b9be-dd069992fcc6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5c39bedd-0699-42fc-b9be-dd069992fcc6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:03</itunes:duration>
-      <pubDate>Mon, 17 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CD-ro8evKyQeGPYGJz8uUAIBMJIuGBatL2LVVZZQHKzA.jpg"/>
     </item>
   </channel>
 </rss>
