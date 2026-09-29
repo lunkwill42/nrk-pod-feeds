@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:32:46 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Sep 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:55:44 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 12:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Unge ryddar opp gamle synder</title>
+      <description><![CDATA[Kysten druknar i søppel. Reddar ryddedugnadane fjordane våre, eller er det berre ei dråpe i eit gigantisk hav av plast?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/18c11b12-d7b0-4941-811b-12d7b0b941dc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/18c11b12-d7b0-4941-811b-12d7b0b941dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:07</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 12:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sSz-vbFESlRgoiREcO8hDwM0ENYbPfLKBQ9Y_lnDfprg.jpg"/>
+    </item>
     <item>
       <title>Umodne skolebarn</title>
       <description><![CDATA[Noen barn møter skolen før de egentlig er klare for det. Nye undersøkelser viser overraskende resultater.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>26:43</itunes:duration>
       <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r8Ey8ezGM1CCPx2Ar0grHAborvNyZKLNOuoYqP0f3xsA.jpg"/>
-    </item>
-    <item>
-      <title>Natur er kur mot ensomhet</title>
-      <description><![CDATA[Skog, fjell og sjø kan gjøre oss mindre ensomme, selv om vi er der alene. Hva gir naturen oss, som andre mennesker ikke kan?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5ba56467-4658-410a-a564-674658d10a97_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5ba56467-4658-410a-a564-674658d10a97_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:25</itunes:duration>
-      <pubDate>Tue, 28 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/E6bgM9qRmlyz9ZC7h1NEGghSYmm2dlmTMPdqgn_wK2Yw.jpg"/>
     </item>
   </channel>
 </rss>
