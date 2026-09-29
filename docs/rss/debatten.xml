@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:51:51 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 11:55:00 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:51:01 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 22:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Har du dårligere råd, eller er det bare føleri?</title>
+      <description><![CDATA[Økonomer og politikere er veldig uenige om virkeligheten vi lever i; har folk flest fått dårligere råd eller ei?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/324cddac-cde6-4f05-8cdd-accde68f0535_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/324cddac-cde6-4f05-8cdd-accde68f0535_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:48</itunes:duration>
+      <pubDate>Tue, 29 Sep 2026 22:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9QMz_ypRXKUCAnFwabkLrQm-fGIv9E_rxBxkLFZxAzXw.jpg"/>
+    </item>
     <item>
       <title>Renta går opp, opp, opp</title>
       <description><![CDATA[Politikerne kappes om hva som må til for å gi folk bedre råd.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/de03091a-7ec9-47b2-8309-1a7ec9c7b2f8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:36</itunes:duration>
       <pubDate>Tue, 03 Mar 2026 22:27:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Epstein-svarene vi ennå ikke har fått</title>
-      <description><![CDATA[Snart fire uker etter at Epstein-dokumentene kom, er det fortsatt mange ubesvarte spørsmål.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/3b9aeaa5-0bbe-40c9-9aea-a50bbed0c913_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/3b9aeaa5-0bbe-40c9-9aea-a50bbed0c913_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:01</itunes:duration>
-      <pubDate>Thu, 26 Feb 2026 22:30:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>
