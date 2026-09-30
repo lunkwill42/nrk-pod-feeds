@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:10:18 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 15:41:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:24:41 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 20:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Epstein-høring: – Politisk teater og angrende synder</title>
+      <description><![CDATA[Hvorfor fikk Terje Rød-Larsens tenketank så mye penger av utenriksdepartementet? Flere tidligere statsråder ble grillet i Stortingets Epstein-høring, og stemningen var tidvis amper og hissig. Var det en ukultur? Og har departementet en utfordring med kameraderi?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/fed8cfeb-2847-466a-99e1-420f47ffb935_b214b9cd-876c-4226-861c-b6bc7dbf6cab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fed8cfeb-2847-466a-99e1-420f47ffb935_b214b9cd-876c-4226-861c-b6bc7dbf6cab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:51</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 20:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uZXXzOlFFsrFef2M47hZUA0btFN3NcprOybQ5Bhs2rYQ.jpg"/>
+    </item>
     <item>
       <title>Hvorfor stoppet ingen Terje Rød-Larsen?</title>
       <description><![CDATA[Terje Rød-Larsen fikk 116 millioner over 15 år til tenketanken han var leder for. Nå vet vi at han pleide nær kontakt med Jeffrey Epstein, men hvordan kunne dette skje? Noen av svarene ligger kanskje i Epstein-høringen.
@@ -296,15 +305,6 @@ Og i Danmark sitter en piperøykende mann og smiler: Han bestemmer hvem landets 
       <itunes:duration>15:09</itunes:duration>
       <pubDate>Tue, 24 Mar 2026 15:49:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Y1kRTCGry1-5jF9LgTRSSwBaPIxvrx_QdzIlIBZPGVfQ.jpg"/>
-    </item>
-    <item>
-      <title>Nå snakker Mette-Marit: – Gjenoppretter ikke tillit</title>
-      <description><![CDATA[Kronprinsesse Mette-Marit har i sju uker latt være å svare på spørsmål om hvorfor hun hadde omfattende kontakt med Jeffrey Epstein. Nå har hun svart, men er det godt nok?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d08c03f5-1f72-4fbc-8c03-f51f72cfbc7f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/d08c03f5-1f72-4fbc-8c03-f51f72cfbc7f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:26</itunes:duration>
-      <pubDate>Fri, 20 Mar 2026 10:48:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/TIMM7mLR06fM6qrB5Fi3KgZAHmlN_y3fNvcexx6tNrow.jpg"/>
     </item>
   </channel>
 </rss>
