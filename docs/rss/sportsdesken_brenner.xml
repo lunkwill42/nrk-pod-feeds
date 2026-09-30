@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:02:33 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:48:17 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Vi prater piss fra A til Å</title>
+      <description><![CDATA[Ståle Solbakken feller en nådeløs dom over podkasten, mens panelet irriterer seg over Ronaldo-hysteri blant voksne menn og Ørjan Nylands skjebnesvangre keepertabbe. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/bd902eb8-f1c8-4aa1-8c16-a0f5e5ac2672_da70febd-163e-41e4-b7a0-40bf96658336_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/bd902eb8-f1c8-4aa1-8c16-a0f5e5ac2672_da70febd-163e-41e4-b7a0-40bf96658336_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:11</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>Sportsdesken ringer Danmark</title>
       <description><![CDATA[Sportsdesken varmer opp til landskamp ved å ringe to elleville dansker for å grave i forholdet mellom Norge og Danmark.
@@ -19,7 +28,7 @@ Du kan fortsatt bli med i vår fantasy-liga med koden: oyuwxr.
 ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/3cab1434-c0bf-4911-b76c-9458ba3da34b_0b54908d-f041-4744-9191-2287fc3fe8d3_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/3cab1434-c0bf-4911-b76c-9458ba3da34b_0b54908d-f041-4744-9191-2287fc3fe8d3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:27</itunes:duration>
+      <itunes:duration>41:09</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     </item>
@@ -290,15 +299,6 @@ Espen og gjengen diskuterer hvor grensen går når tyske medier omtaler overvekt
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c4a9b691-1727-4494-a9b6-911727b494e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:27</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
-    </item>
-    <item>
-      <title>Syndsforlatte gule kort</title>
-      <description><![CDATA[Sportsdesken diskuterer ukas mest absurde fotballnyhet og Nora får vite at hennes Glimt-låt er tragisk drithumor]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/bd31a421-a4d5-432e-b1a4-21a4d5432ec4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/bd31a421-a4d5-432e-b1a4-21a4d5432ec4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:58</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     </item>
   </channel>

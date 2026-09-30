@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:01:33 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:46:43 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Graven er tom! (37:40)</title>
+      <description><![CDATA[Helt om natta – helt om dagen! Jesus kommer seg opp, men hva skjedde med Judas?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/18e0d3fa-e4b9-4ed0-a0d3-fae4b93ed0f0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/18e0d3fa-e4b9-4ed0-a0d3-fae4b93ed0f0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:42</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/E1-GBIl8JQ7U3WexTE4Zuwyw_J_MZ5wdNJAFXS1Ksr7g.jpg"/>
+    </item>
     <item>
       <title>Jesus på korset (36:40)</title>
       <description><![CDATA[Ikke akkurat en stille uke for Jesus.]]></description>
@@ -273,15 +282,6 @@ FLERE EPISODER KOMMER 13.08 2025.]]></description>
       <itunes:duration>31:29</itunes:duration>
       <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/mGeZEymZSTLxIye7KM5qZwBQLYUwqsXnUKvhxp4o2yTQ.jpg"/>
-    </item>
-    <item>
-      <title>Abraham og Isak (7:40)</title>
-      <description><![CDATA[Endelig blir Sara (90) en «milf». Men så kommer en grusom test fra Gud!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/d25e738e-59e5-4771-b7d8-6e63bb56de82_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/d25e738e-59e5-4771-b7d8-6e63bb56de82_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:40</itunes:duration>
-      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kWAHjzdLMYUn88lPedqiJwbgh76EPbg5VG2ldZZu3i9w.jpg"/>
     </item>
   </channel>
 </rss>

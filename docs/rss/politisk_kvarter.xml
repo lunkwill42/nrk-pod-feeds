@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:37:01 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:48:04 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Står Oslo-avtalen seg som en diplomatisk bragd?  </title>
+      <description><![CDATA[Oslo-avtalen var beviset på at Norge kunne spille en stor rolle i fredsdiplomati og bidro til storsatsingen som nå granskes. Men var Oslo-avtalen en så stor bragd som hyllesten her i Norge tilsier?   ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/78ac5508-e7db-4643-ae4c-7a33aa646ac3_d46afd58-6b68-46c7-bfe0-d3d4b470eab3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/78ac5508-e7db-4643-ae4c-7a33aa646ac3_d46afd58-6b68-46c7-bfe0-d3d4b470eab3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:07</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NhyzkDn-QKSqe9AnW9kZmQGPrgvvNde-_XqR9BD3UXyw.jpg"/>
+    </item>
     <item>
       <title>Norsk drivstoff</title>
       <description><![CDATA[Senterpartiet mener Norge må lage mer drivstoff selv, og vil bygge raffineri i Nord-Norge.
@@ -284,15 +293,6 @@ Vi snakker med en pendler som mener dette går på helsa løs.]]></description>
       <itunes:duration>15:03</itunes:duration>
       <pubDate>Wed, 19 Aug 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/UimeB47eFkCvRtBB7hFbiwCxMH8a5DtcWaDsbOBG6FZw.jpg"/>
-    </item>
-    <item>
-      <title>Svenneby savner Frp i kamp mot nett-troll</title>
-      <description><![CDATA[Frps Jon Helgheim framstår som en konservativ, muslimsk predikant, mener Høyres Ola Svenneby. Frp sier én ting, men kunne gjort langt mer for å stanse netthets, hevder han. Uforståelig kritikk, svarer Frp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4272fb4a-efda-4f00-b2fb-4aefda9f00e6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4272fb4a-efda-4f00-b2fb-4aefda9f00e6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Tue, 18 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_j53mqVJ1lVXucrn-oZziQuUYPUbzhpuUpSHswoVgE1Q.jpg"/>
     </item>
   </channel>
 </rss>

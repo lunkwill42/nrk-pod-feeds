@@ -8,10 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:56:59 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 06:06:00 +0200</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:47:33 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 06:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
+    <item>
+      <title>–En livsendrende opplevelse (5:5)</title>
+      <description><![CDATA[Dommens dag! Einar har gjennomgått en stor prosess. Siste setning, tusen tolkninger og Kristoffer bedømmer boken på kafkaesk vis.
+
+Lese-/lytteoppskrift: 
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben 
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben 
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben 
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:22</itunes:duration>
+      <pubDate>Wed, 30 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
+    </item>
     <item>
       <title>KOMMER: Boktober i Leseklubben!</title>
       <description><![CDATA[Les en bok i oktober! Fra 1. oktober kan du være med og lese og delta i Boktober. Påmeldingen er allerede åpnet på nrk.no/boktober. Det kommer nye episoder med Linnéa Myhre om boka «Verity» hver uke gjennom hele oktober. Lydboka legges ut 1. oktober. ]]></description>
@@ -252,7 +269,7 @@ Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
       <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (2:10 Samtale med Fru Grubach så frøken Büstner)</title>
+      <title>«Prosessen» (2:10 Samtale med Fru Grubach så frøken Bürstner)</title>
       <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 1-2 kan du høre Leseklubben episode 2.
 
 Lese-/lytteoppskrift:
@@ -406,22 +423,6 @@ Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
       <enclosure url="https://podkast.nrk.no/fil/leseklubben/d2bd4879-5d12-4122-bd48-795d12512280_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:07</itunes:duration>
       <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
-    </item>
-    <item>
-      <title>– Det verste jeg har lest! (3:6)</title>
-      <description><![CDATA[Sjokk, vemmelse og kattedrap. Har Murakami skapt tidenes ondeste superskurk? En Oshima-aktig mann har inntatt Kristoffers stol.
-
-Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
-Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben 
-Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben 
-Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben 
-Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/01b3c950-4c10-4399-b3c9-504c109399ff_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/01b3c950-4c10-4399-b3c9-504c109399ff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:27</itunes:duration>
-      <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
     </item>
   </channel>
