@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:36:53 +0000</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 09:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:23:11 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Mímir Kristjánsson sitt alter ego</title>
+      <description><![CDATA[Bytter du personlighet når du er på fylla? Vi må diskutere om det er innafor eller bare kleint. Vi skal også prate fotball med Mímir Kristjánsson!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/531b4b0d-4898-4c81-a7bb-54970497e87e_66769135-26c0-4395-951e-3b6ebdb5f54c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/531b4b0d-4898-4c81-a7bb-54970497e87e_66769135-26c0-4395-951e-3b6ebdb5f54c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:02</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/xpuemwzkapBuV_AkNFtuigN2PjZuX1C6gyT5EfjP5Nsg.jpg"/>
+    </item>
     <item>
       <title>Når blir en quiz en quiz</title>
       <description><![CDATA[I følge TikTok tar gen-z med seg iskaffe på jobbintervju og det kan koste dem jobben. Jonas har med en quiz som bare har ett spørsmål, og vi lurer på om det er nok spørsmål til å kalles en quiz]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>41:09</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Markert av skarpskytter.</title>
-      <description><![CDATA[Arin har vært på harry-tur og kjøpt sauehoder og Henning deler en historie om da han ble siktet på av en skarpskytter.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/6dbd9a71-e4a4-451d-bd9a-71e4a4651de2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y3cbSSeZmpcFMBvlrZRmFQ9JKL9OnwxOo9A5BuCYJO1A.jpg"/>
     </item>
   </channel>
 </rss>

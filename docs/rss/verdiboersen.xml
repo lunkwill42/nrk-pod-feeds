@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:57:43 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:23:36 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Ondskapens banalitet</title>
+      <description><![CDATA[1961 fulgte filosofen Hannah Arendt rettssaken mot SS-offiseren Adolf Eichmann. Her så hun  "ondskapens banalitet"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>11:10</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
+    <item>
+      <title>Hvorfor velge KI-kjæreste!</title>
+      <description><![CDATA[- og hvorfor ikke!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:57</itunes:duration>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Aldri mer 9. april</title>
       <description><![CDATA[Hvorfor var Norge så dårlig forberedt på krig? Vi snakker om året 1939- og hvordan man tenkte]]></description>
@@ -221,13 +239,13 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
     </item>
     <item>
-      <title>Hva betyr "Dyrk din hage"?</title>
-      <description><![CDATA[Filosof Kaja Melsom forklarer kjente utrykk fra filosofihistorien. Hva mente  Voltaire med "Dyrk din hage"?]]></description>
+      <title>Dyrk din hage</title>
+      <description><![CDATA[Hva mente  Voltaire med "Dyrk din hage"?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/0352db34-87ab-4320-92db-3487abd320cb_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0352db34-87ab-4320-92db-3487abd320cb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:03</itunes:duration>
       <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hNPGWlo8IMhLQLjMlACBAA9YcGbc5HK5Gu71fYeN_aRQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
     <item>
       <title>Den onde (2:3)</title>
@@ -239,13 +257,13 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
     </item>
     <item>
-      <title>Hva betyr Den edle villmann?</title>
-      <description><![CDATA[Filosof Kaja Melsom forklarer kjente utrykk fra filosofihistorien. Hva mente Rousseau med "Sen edle villmann"?]]></description>
+      <title>Den edle villmann</title>
+      <description><![CDATA[Hva mente Rousseau med "Den edle villmann"?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ac10c29c-fe47-46c7-90c2-9cfe4776c7f1_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ac10c29c-fe47-46c7-90c2-9cfe4776c7f1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>13:52</itunes:duration>
       <pubDate>Mon, 04 May 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/hNPGWlo8IMhLQLjMlACBAA9YcGbc5HK5Gu71fYeN_aRQ.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
     <item>
       <title>Den grusomme (1:3)</title>
@@ -264,24 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>19:08</itunes:duration>
       <pubDate>Sun, 26 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/spfwvFL_xUuEP-jiXX7cggR4_TUdqMV0yH8eSTnrovFA.jpg"/>
-    </item>
-    <item>
-      <title>Krig mellom gode og onde</title>
-      <description><![CDATA[Alle de 3 partene i Iran-krigen støtter seg på religion. USA snakkes det mye om – men hva med Iran og Israel?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ae1eba35-9329-4b58-9eba-359329cb5835_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ae1eba35-9329-4b58-9eba-359329cb5835_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:18</itunes:duration>
-      <pubDate>Fri, 24 Apr 2026 11:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Det forskes på mye rart</title>
-      <description><![CDATA[Bør forskningen være nyttig? Er det for mye luksus og sløsing i forskningen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/1c06c748-7edd-414c-86c7-487edd514cbe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1c06c748-7edd-414c-86c7-487edd514cbe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:06</itunes:duration>
-      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jZLvVqO2rkwhHmqfA67ELwuFCK5t9DWWcBTBnuWInAQA.jpg"/>
     </item>
   </channel>
 </rss>
