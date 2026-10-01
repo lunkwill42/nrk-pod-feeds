@@ -8,422 +8,281 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:47:33 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 06:01:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:01:57 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 06:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>–En livsendrende opplevelse (5:5)</title>
-      <description><![CDATA[Dommens dag! Einar har gjennomgått en stor prosess. Siste setning, tusen tolkninger og Kristoffer bedømmer boken på kafkaesk vis.
-
-Lese-/lytteoppskrift: 
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben 
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben 
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben 
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben
+      <title>– En vanlig gutt fra Porsgrunn som leser (1:5)</title>
+      <description><![CDATA[Det blir guttastemning og nobelpris om hverandre når Oskar skal kjenne på urmennesket i seg. Meld deg på Boktober på nrk.no/boktober. Lydboka er tilgjengelig i hele oktober. 
 ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:22</itunes:duration>
-      <pubDate>Wed, 30 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
-    </item>
-    <item>
-      <title>KOMMER: Boktober i Leseklubben!</title>
-      <description><![CDATA[Les en bok i oktober! Fra 1. oktober kan du være med og lese og delta i Boktober. Påmeldingen er allerede åpnet på nrk.no/boktober. Det kommer nye episoder med Linnéa Myhre om boka «Verity» hver uke gjennom hele oktober. Lydboka legges ut 1. oktober. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/98ebe3d7-119e-4aa3-805d-10661a72429a_37c5b89e-e07e-4f60-8e82-686ff2bcf2c6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/98ebe3d7-119e-4aa3-805d-10661a72429a_37c5b89e-e07e-4f60-8e82-686ff2bcf2c6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:28</itunes:duration>
-      <pubDate>Thu, 24 Sep 2026 06:06:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fq3GcXKjaKKp3wWa1bDDJQAsVcfLESjqV38EqvYW-TCQ.jpg"/>
-    </item>
-    <item>
-      <title>KOMMER: Boktober i Leseklubben!</title>
-      <description><![CDATA[Les en bok i oktober! Fra 1. oktober kan du være med og lese og delta i Boktober. Påmeldingen er allerede åpnet på nrk.no/boktober. Det kommer nye episoder med Javad El Bakali om boka «I morgen og i morgen og i morgen» hver uke gjennom hele oktober. Lydboka legges ut 1. oktober.
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b50c2218-34d2-43e5-92a6-48707a757006_df799eb4-9946-4c0a-a747-b21128e744b3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b50c2218-34d2-43e5-92a6-48707a757006_df799eb4-9946-4c0a-a747-b21128e744b3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:28</itunes:duration>
-      <pubDate>Thu, 24 Sep 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KeKB4maTqQ4ljLK3Hf15eAXy7f9cQMXbXE4gq7YvNNhQ.jpg"/>
-    </item>
-    <item>
-      <title>KOMMER: Boktober i Leseklubben!</title>
-      <description><![CDATA[Les en bok i oktober! Fra 1. oktober kan du være med og lese og delta i Boktober. Påmeldingen er allerede åpnet på nrk.no/boktober. Det kommer nye episoder med Jens Kvernmo boka «Pelsjegerliv» hver uke gjennom hele oktober. Lydboka legges ut 1. oktober. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2920bbf0-c106-4a3f-8c37-422acaa1cfe4_fae42e5d-4a09-428c-adb0-3323a14245d6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2920bbf0-c106-4a3f-8c37-422acaa1cfe4_fae42e5d-4a09-428c-adb0-3323a14245d6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:28</itunes:duration>
-      <pubDate>Thu, 24 Sep 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/C7ijbqqn6bplxBv7PWZRvAYkCLoE6N3Bw_zJP9anHu7w.jpg"/>
-    </item>
-    <item>
-      <title>KOMMER: Boktober i Leseklubben!</title>
-      <description><![CDATA[Les en bok i oktober! Fra 1. oktober kan du være med og lese og delta i Boktober. Påmeldingen er allerede åpnet på nrk.no/boktober. Det kommer nye episoder med Oskar Westerlin om boka «Fluenes herre» hver uke gjennom hele oktober. Lydboka legges ut 1. oktober. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/93ab1638-5b7b-4d15-b3bc-f076b4c3548d_b4d5fadb-4938-48ed-834c-d4f214790703_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/93ab1638-5b7b-4d15-b3bc-f076b4c3548d_b4d5fadb-4938-48ed-834c-d4f214790703_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:28</itunes:duration>
-      <pubDate>Thu, 24 Sep 2026 06:02:00 +0200</pubDate>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ade52123-f769-4d5d-a03a-71824176a614_89570f9a-54ce-45c0-814f-fd1793ddfba4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ade52123-f769-4d5d-a03a-71824176a614_89570f9a-54ce-45c0-814f-fd1793ddfba4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:04</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 06:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QuhdkHiQt2ds9-vnp-PPXw87BDWVe1TFVNkwMlujUdMQ.jpg"/>
     </item>
     <item>
-      <title>KJEM: Boktober i Leseklubben!</title>
-      <description><![CDATA[Les ei bok i oktober! Frå 1. oktober kan du lese og delta i Boktober. Påmeldinga er allereie open på nrk.no/boktober. Det kjem nye episodar med Sigrid Bonde Tusvik om boka «Fugletribunalet»  kvar veke gjennom heile oktober. Lydboka blir lagt ut 1. oktober.
+      <title>- Vil være med på hypen (1:5) </title>
+      <description><![CDATA[Linnea lover rake pucker og knallhard ærlighet når hun full av skepsis går løs på Booktok-fenomenet Colleen Hoover. Meld deg på Boktober på nrk.no/boktober. Lydboka er tilgjengelig i hele oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/c32c58f1-ad9d-4798-b6cc-d8d6eef0f268_fd10281d-d6d7-428e-897a-71755c2a24fb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/c32c58f1-ad9d-4798-b6cc-d8d6eef0f268_fd10281d-d6d7-428e-897a-71755c2a24fb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:46</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fq3GcXKjaKKp3wWa1bDDJQAsVcfLESjqV38EqvYW-TCQ.jpg"/>
+    </item>
+    <item>
+      <title>– Fra loser til leser (1:5)</title>
+      <description><![CDATA[Javad bytter ut gaming og scrolling med lesing i oktober. Men har kjæresten truffet på bokanbefalingen? Meld deg på Boktober på nrk.no/boktober. Lydboka er tilgjengelig hele oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/52a4b6c5-a0c6-434a-926e-d39ad5e2762b_c77a1a9d-fa78-4e5e-b997-c15f8655f374_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/52a4b6c5-a0c6-434a-926e-d39ad5e2762b_c77a1a9d-fa78-4e5e-b997-c15f8655f374_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:14</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 06:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KeKB4maTqQ4ljLK3Hf15eAXy7f9cQMXbXE4gq7YvNNhQ.jpg"/>
+    </item>
+    <item>
+      <title>– Herregud! Skal vi kansellere Ravatn? (1:5)</title>
+      <description><![CDATA[Sigrid er klar for spenning og livets første bokklubb. Men hvorfor blir hun så flau over å diskutere bøker? Meld deg på Boktober på nrk.no/boktober. Lydboka er tilgjengelig hele oktober. 
 ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/10ac39a5-950f-4e53-8ecd-8c3acda5bffb_be0f7832-4132-463f-8370-6a2e5c1ad748_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/10ac39a5-950f-4e53-8ecd-8c3acda5bffb_be0f7832-4132-463f-8370-6a2e5c1ad748_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:28</itunes:duration>
-      <pubDate>Thu, 24 Sep 2026 06:01:00 +0200</pubDate>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/67aaadd3-8ed8-4b21-98c2-07a62907e63a_4e652701-f36e-4d61-90a2-79d6be0cd5e8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/67aaadd3-8ed8-4b21-98c2-07a62907e63a_4e652701-f36e-4d61-90a2-79d6be0cd5e8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:36</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 06:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Q4NmZ4EBTV8_fUUu1Bu41Qfh5Z4shHfqVTJFDTfVf8Zg.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (Fragmenter)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 9-10 kan du høre Leseklubben episode 5.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b5b749fc-d77a-4e48-b08f-081b64035d1b_2aaa19e7-651f-4282-933b-3a72ba53d490_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b5b749fc-d77a-4e48-b08f-081b64035d1b_2aaa19e7-651f-4282-933b-3a72ba53d490_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:47</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 06:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>– En reise inn i en drømmeverden</title>
+      <description><![CDATA[For ørtende gang skal Jens lese boka som førte ham ut på eventyr. Han ber oss pakke sekken og bli med! Meld deg på Boktober på nrk.no/boktober. Lydboka er tilgjengelig hele oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d6c2c04e-1ef2-49a4-8c24-9b06c4442b41_d0b9cf50-ec48-4a5d-8b8c-3a289e7685af_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d6c2c04e-1ef2-49a4-8c24-9b06c4442b41_d0b9cf50-ec48-4a5d-8b8c-3a289e7685af_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:15</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/C7ijbqqn6bplxBv7PWZRvAYkCLoE6N3Bw_zJP9anHu7w.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (10:10 Slutten)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 9-10 kan du høre Leseklubben episode 5.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b5bacca7-bbf4-43cf-8743-577cd7ad11b0_73fd3c08-ab9e-40f1-886d-bf12ea31b6cc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b5bacca7-bbf4-43cf-8743-577cd7ad11b0_73fd3c08-ab9e-40f1-886d-bf12ea31b6cc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:25</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Fluenes herre kap. 11-12 (6:6)</title>
+      <description><![CDATA[Ikke glem siste episoden av Leseklubben med Oskar Westerlin som slippes 31. oktober, hvor de diskuterer hele boka. Utålmodig? Gå inn på  nrk.no/boktober for å si din mening. Lydboka er lest av Axel Aubert og tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/121f34b2-71b9-45ad-9f34-b271b905ad0c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/121f34b2-71b9-45ad-9f34-b271b905ad0c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:58</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 09:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (9:10 I Domkirken)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 9-10 kan du høre Leseklubben episode 5.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b8a227f6-5af8-4418-b8e3-aeb9a7087179_767ce55f-c068-4fd9-a8be-e03a53ea124c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b8a227f6-5af8-4418-b8e3-aeb9a7087179_767ce55f-c068-4fd9-a8be-e03a53ea124c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Fluenes herre kap. 9-10 (5:6)</title>
+      <description><![CDATA[Diskuter boka med Oskar Westerlin og resten av Norge på nrk.no/boktober. Lydboka er lest av Axel Aubert og er tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/70452d1e-8a2d-47cd-852d-1e8a2d27cd02_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/70452d1e-8a2d-47cd-852d-1e8a2d27cd02_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:33</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 09:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
     </item>
     <item>
-      <title>– Nå er det dårlig luft, ass (4:5)</title>
-      <description><![CDATA[Einar er sliten og kjenner Josef Ks fortvilelse på kroppen. Advokat Brynjar Meling om uvisshet, håp og Guantanamo.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/010ad4d3-fc52-41cb-b4d2-1bad887724cf_edf0602f-7eb2-4ffc-8c18-181179432140_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/010ad4d3-fc52-41cb-b4d2-1bad887724cf_edf0602f-7eb2-4ffc-8c18-181179432140_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:48</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
+      <title>Fluenes herre kap. 7-8 (4:6)</title>
+      <description><![CDATA[Før du begynner på kapittel 7-8 kan du høre Leseklubbens halvveisepisode med Oskar Westerlin som publiseres 15. oktober. Lydboka er lest av Axel Aubert og tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/379f78e5-fc32-43b2-9f78-e5fc32b3b2d6_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/379f78e5-fc32-43b2-9f78-e5fc32b3b2d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12:25</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 09:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (8:10 Kjøpmann Block, Oppsigelse av Advokaten)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 6-8 kan du høre Leseklubben episode 4.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ab056ac6-87d6-46d8-856a-c687d616d884_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ab056ac6-87d6-46d8-856a-c687d616d884_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:18:13</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Fluenes herre kap. 5-6 (3:6)</title>
+      <description><![CDATA[Diskuter boka med Oskar Westerlin og resten av Norge på nrk.no/boktober. Lydboka er lest av Axel Aubert og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d5300c2f-9091-4971-b00c-2f909129713d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d5300c2f-9091-4971-b00c-2f909129713d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:15</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 09:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (7:10 Advokat, Fabrikant, Maler)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 6-8 kan du høre Leseklubben episode 4.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/10e1735d-dfed-46f0-a173-5ddfed86f0ad_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/10e1735d-dfed-46f0-a173-5ddfed86f0ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:56:50</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Fluenes herre kap. 3-4 (2:6)</title>
+      <description><![CDATA[Diskuter boka med Oskar Westerlin og resten av Norge på nrk.no/boktober. Lydboka er lest av Axel Aubert og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f7f5137a-b93a-48da-b513-7ab93a98daaa_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f7f5137a-b93a-48da-b513-7ab93a98daaa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:52</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 09:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (6:10 Onkelen Lenin)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 6-8 kan du høre Leseklubben episode 4.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2f301cfe-4db1-4ddb-b01c-fe4db1dddbbe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2f301cfe-4db1-4ddb-b01c-fe4db1dddbbe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:53</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Fluenes herre kap. 1-2 (1:6)</title>
+      <description><![CDATA[Hør episode 1 av Leseklubbens Boktober-spesial med Oskar Westerlin før du begynner å høre lydboka. Lydboka er lest av Axel Aubert og er tilgjengelig i oktober.  Meld deg på Boktober på nrk.no/boktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/4b2a4a2b-22a8-4206-aa4a-2b22a8720638_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/4b2a4a2b-22a8-4206-aa4a-2b22a8720638_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:22</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
     </item>
     <item>
-      <title>– Jeg kan ikke gi opp! (3:5)</title>
-      <description><![CDATA[Forhørsdommer Christine og mestermennene Einar og Kristoffer ler fortsatt godt, men er dette en bok man liker best ETTER å ha lest? 
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/30c5e4bd-3eda-4584-85e4-bd3eda558436_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/30c5e4bd-3eda-4584-85e4-bd3eda558436_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:32</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
+      <title>Verity kap. 22-25 (9:9)</title>
+      <description><![CDATA[Ikke glem siste episoden av Leseklubben med Linnéa Myhre som slippes 31. oktober, hvor hele boka diskuteres. Utålmodig? Gå inn på  nrk.no/boktober for å si din mening.  Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5c7e1970-f547-41e8-be19-70f54731e8a8_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5c7e1970-f547-41e8-be19-70f54731e8a8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:54</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (5:10 Mestermannen)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 3-5 kan du høre Leseklubben episode 3.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b5cc7d5d-bbf6-4ac8-8c7d-5dbbf67ac8c8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b5cc7d5d-bbf6-4ac8-8c7d-5dbbf67ac8c8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:00</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Verity kap. 19-21 (8:9)</title>
+      <description><![CDATA[ Diskuter boka med Linnéa Myhre og resten av Norge på nrk.no/boktober. Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ccf0a998-0a55-4096-b0a9-980a55f096dd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ccf0a998-0a55-4096-b0a9-980a55f096dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:11</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:07:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (4:10 I den tomme møtesalen, studenten, kontorene)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 3-5 kan du høre Leseklubben episode 3.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/e3a054cd-092c-45f0-a054-cd092c95f07c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/e3a054cd-092c-45f0-a054-cd092c95f07c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:20</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Verity kap. 16-18 (7:9)</title>
+      <description><![CDATA[ Diskuter boka med Linnéa Myhre og resten av Norge på nrk.no/boktober. Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/810b4482-96bf-4337-8b44-8296bf9337dc_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/810b4482-96bf-4337-8b44-8296bf9337dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:05:32</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (3:10 Første forundersøkelse)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 3-5 kan du høre Leseklubben episode 3.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/af98b050-389a-4eaf-98b0-50389afeaf27_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/af98b050-389a-4eaf-98b0-50389afeaf27_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:25</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Verity kap. 13-15 (6:9)</title>
+      <description><![CDATA[Før du begynner på kapittel 13-15 kan du høre Leseklubbens halvveisepisode med Linnéa Myhre som publiseres 15. oktober. Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/74edba8d-af5f-4cee-adba-8daf5fccee15_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/74edba8d-af5f-4cee-adba-8daf5fccee15_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:13:43</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>– Skikkelig morsomt! (2:5)</title>
-      <description><![CDATA[Komikk fra første side, en irriterende hovedkarakter og kyssing på strupehodet. Einar liker prosessen med å lese «Prosessen».
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8455044d-e819-4c87-9504-4de8193c87e0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8455044d-e819-4c87-9504-4de8193c87e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:21</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
+      <title>Verity kap. 11-12 (5:9)</title>
+      <description><![CDATA[ Diskuter boka med Linnéa Myhre og resten av Norge på nrk.no/boktober. Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/716b3432-ffd5-4e26-ab34-32ffd5be260e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/716b3432-ffd5-4e26-ab34-32ffd5be260e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:35</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (2:10 Samtale med Fru Grubach så frøken Bürstner)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 1-2 kan du høre Leseklubben episode 2.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8531bf8a-7e7d-4934-b1bf-8a7e7de934e0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8531bf8a-7e7d-4934-b1bf-8a7e7de934e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:55</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Verity kap. 7-10 (4:9)</title>
+      <description><![CDATA[ Diskuter boka med Linnéa Myhre og resten av Norge på nrk.no/boktober. Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/48ae59d5-d1be-491a-ae59-d5d1be991a65_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/48ae59d5-d1be-491a-ae59-d5d1be991a65_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:09:05</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>«Prosessen» (1:10 Arrestasjon)</title>
-      <description><![CDATA[Lydboka er lest av Håkon Ramstad. Når du har hørt kapittel 1-2 kan du høre Leseklubben episode 2.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/dc14ff9d-a46b-44dd-94ff-9da46b64ddd7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/dc14ff9d-a46b-44dd-94ff-9da46b64ddd7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:58</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/D793nSUIt9I_-FwaXbzX7Am2sMZa2S5CqMZtw9TDwk_w.jpg"/>
+      <title>Verity kap. 5-6 (3:9)</title>
+      <description><![CDATA[ Diskuter boka med Linnéa Myhre og resten av Norge på nrk.no/boktober. Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/3d4c7543-43be-4746-8c75-4343bec74624_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/3d4c7543-43be-4746-8c75-4343bec74624_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:58</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>– Skrytemateriale! (1:5)</title>
-      <description><![CDATA[Hvorfor vil Einar lese «Prosessen» når han ikke liker å lese bøker? En sammenligning med «The Office» trigger leselysten. Nyhet om Boktober!
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5d6ea579-7eaa-4c13-aea5-797eaa9c13e5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5d6ea579-7eaa-4c13-aea5-797eaa9c13e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:21</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
+      <title>Verity kap. 3-4 (2:9)</title>
+      <description><![CDATA[ Diskuter boka med Linnéa Myhre og resten av Norge på nrk.no/boktober. Lydboka er lest av Silje Hagrim Dahl og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/53fbdb36-2f89-4523-bbdb-362f893523ba_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/53fbdb36-2f89-4523-bbdb-362f893523ba_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:14:16</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>BONUS: Lindgrens fortsettelse på «Brødrene Løvehjerte»</title>
-      <description><![CDATA[Kristoffer leser Lindgrens svar til tusenvis av barn som ville vite mer om livet i Nangilima. Publisert i Expressen i 1974.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/5e1103ad-c8bc-4944-9103-adc8bc294454_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:08</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>Verity kap. 1-2 (1:9)</title>
+      <description><![CDATA[Hør episode 1 av Leseklubbens Boktober-spesial med Linnéa Myhre før du begynner å høre lydboka. Lydboka er lest av Silje Hagrim Dahl og tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/2cfda057-7f0e-46d6-bda0-577f0ea6d65e_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/2cfda057-7f0e-46d6-bda0-577f0ea6d65e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:28</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AA5RRn90R28NjNGs9vHYdANT_wT6PaWSc-DzJJDOqNKw.jpg"/>
     </item>
     <item>
-      <title>– Skulle kanskje ikke lest den som voksen? (5:5)</title>
-      <description><![CDATA[Full forvirring om slutten: trist eller lykkelig? Else gjør som Astrid og gir en lærepenge. Vår «Prosessen»-gjest venter på Kristoffer i kaninhullet! (Episoden omtaler selvmord)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/525aa4d2-c04a-4975-9aa4-d2c04af975d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:29</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>I morgen ... Del 10: Laster og falser (10:10)</title>
+      <description><![CDATA[Ikke glem siste episoden av Leseklubben med Javad El Bakali som slippes 31. oktober, hvor hele boka blir diskutert. Utålmodig? Gå inn på  nrk.no/boktober for å si din mening. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a111edbf-3d85-48db-96da-cd676dc86f7d_062b0083-c6c8-43d7-8f48-6471ac6ac56e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a111edbf-3d85-48db-96da-cd676dc86f7d_062b0083-c6c8-43d7-8f48-6471ac6ac56e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:10</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:09:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
     <item>
-      <title>Nord-Korea, farfar og fatshaming (4:5)</title>
-      <description><![CDATA[Else elsker farfar Mathias. Driver Lindgren med fatshaming? Christine forteller om Astrid, krig og politikk.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bb5911ba-a26a-4078-9911-baa26ac078d7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:58</itunes:duration>
-      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>I morgen ... Del 9: Pioners (9:10)</title>
+      <description><![CDATA[Diskuter boka med Javad El Bakali og resten av Norge på nrk.no/boktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/c1205249-6a18-4182-8b18-edea049a6cbe_33a15f4a-2701-451c-957a-540e7d6ff6b3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/c1205249-6a18-4182-8b18-edea049a6cbe_33a15f4a-2701-451c-957a-540e7d6ff6b3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:55</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
     <item>
-      <title>– Kan vi ikke ha det litt mer koselig? (3:6)</title>
-      <description><![CDATA[Else gisper av forræderen. Full debatt om å true barn med kniv. Hvem bør spille brødrene i ny TV-serie?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35b8d650-343c-492c-b8d6-50343c892c25_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:56</itunes:duration>
-      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>I morgen ... Del 8: Our infinite days (8:10)</title>
+      <description><![CDATA[Diskuter boka med Javad El Bakali og resten av Norge på nrk.no/boktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/861f7ab2-b516-44d0-86ab-39f29efc8825_88629b90-d5a6-44f5-bcc7-83bb59b48dab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/861f7ab2-b516-44d0-86ab-39f29efc8825_88629b90-d5a6-44f5-bcc7-83bb59b48dab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:08:46</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:07:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
     <item>
-      <title>– Jeg har mitt eget Nangijala (2:5)</title>
-      <description><![CDATA[Else gråter på toget og forteller om en sky full av sjokolade. Kristoffer er psykolog, mens Christine blir stadig mer forkjøla i øynene. (Episoden omtaler selvmord) Lydboka er ikke tilgjengelig lenger.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
-Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
-Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bd9885e7-cdd5-44fa-9885-e7cdd514faf5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bd9885e7-cdd5-44fa-9885-e7cdd514faf5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:56</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>I morgen ... Del 7 Ikke-spillbar figur (7:10)</title>
+      <description><![CDATA[Diskuter boka med Javad El Bakali og resten av Norge på nrk.no/boktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6910e6a8-a301-4430-b840-685926c61028_ef93fe84-d276-4636-833a-f688f5cc4a9c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6910e6a8-a301-4430-b840-685926c61028_ef93fe84-d276-4636-833a-f688f5cc4a9c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:07</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:06:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
     <item>
-      <title>– Gleder meg like mye som til fotball-VM! (1:5)</title>
-      <description><![CDATA[Nå starter Hot Lindgren Summer i Leseklubben! Folk gråter, Else gleder seg og Kristoffer tviler. Men hvorfor skal voksne lese en barnebok? Lydboka er ikke tilgjengelig lenger.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-7→ hør episode 3 av Leseklubben
-Les/hør kapittel 8-12 → hør episode 4 av Leseklubben
-Les/hør kapittel 13-17 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a1f95491-651d-47f2-b954-91651dc7f2e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:12</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-f6smKL9HOSQLfbkDQj-XAn1HWc0-RsFTrZiLnX2vD9Q.jpg"/>
+      <title>I morgen ... Del 6: Ekteskap (6:10)</title>
+      <description><![CDATA[Diskuter boka med Javad El Bakali og resten av Norge på nrk.no/boktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/663bd58e-711a-4f08-a293-3b0bf08baef1_0e78175d-f80d-4ba4-bbfd-1c59449f9443_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/663bd58e-711a-4f08-a293-3b0bf08baef1_0e78175d-f80d-4ba4-bbfd-1c59449f9443_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:01:36</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
     <item>
-      <title>– Jeg er litt forandret nå (6:6)</title>
-      <description><![CDATA[Vidar våkner opp til en ny verden. Christine blir rørt og Kristoffer karrer seg over målstreken. Men hva handler egentlig boka om? Lydboka er ikke tilgjengelig lenger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/bad0d5c3-4cc6-4d46-90d5-c34cc66d46b6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:00:51</itunes:duration>
-      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+      <title>I morgen ... Del 5: Kursendringer (5:10)</title>
+      <description><![CDATA[Diskuter boka med Javad El Bakali og resten av Norge på nrk.no/boktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/35a829b3-5a1c-4cb0-99a5-072d2b0f4e9b_a4d201de-10f8-435f-b9e7-ce5767162f64_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/35a829b3-5a1c-4cb0-99a5-072d2b0f4e9b_a4d201de-10f8-435f-b9e7-ce5767162f64_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:25</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
     <item>
-      <title>– Dette er ikke en koseklubb! (5:6)</title>
-      <description><![CDATA[Lytterne er lei av pikk og Murakamis sex-scener får kjørt seg. Men må vi elske ALT ved en bok eller en forfatter? Lydboka er ikke tilgjengelig lenger.
-
-Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8d317ee5-84e7-426c-b17e-e584e7526c23_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:51</itunes:duration>
-      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+      <title>I morgen ... Del 4: Both sides (4:10)</title>
+      <description><![CDATA[Før du begynner på del 4 kan du høre Leseklubbens halvveisepisode med Javad El Bakali som publiseres 15. oktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/e2d4db22-0781-4b22-b1d9-7e8139333da3_79bce2a9-b9a5-4a68-bf5c-1408bf028893_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/e2d4db22-0781-4b22-b1d9-7e8139333da3_79bce2a9-b9a5-4a68-bf5c-1408bf028893_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:10:21</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:03:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
     <item>
-      <title>– Dere må holde kjeft! (4:6)</title>
-      <description><![CDATA[Det regner makrell, feminist-knock out i biblioteket og Vidar rykker ut som Asia-korrespondent.
-
-Lese-/lytteoppskrift: Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør: prolog + kapittel 1-5 → hør episode 2 av Leseklubben
-Les/hør: kapittel 6-16 → hør episode 3 av Leseklubben
-Les/hør: kapittel 17-27 → hør episode 4 av Leseklubben
-Les/hør: kapittel 28-41 → hør episode 5 av Leseklubben
-Les/hør: kapittel 42-49 → hør episode 6 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d2bd4879-5d12-4122-bd48-795d12512280_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d2bd4879-5d12-4122-bd48-795d12512280_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:07</itunes:duration>
-      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YKKvPWqS2MgpPgN5zje7tQ8pmeCUtjzidQulwEqj8cZw.jpg"/>
+      <title>I morgen ... Del 3: Unfair games (3:10)</title>
+      <description><![CDATA[Diskuter boka med Javad El Bakali og resten av Norge på nrk.no/boktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/88b7dfa8-c245-4846-a122-dcd6239fec99_eba72939-5f6f-4887-88af-34392bc89ada_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/88b7dfa8-c245-4846-a122-dcd6239fec99_eba72939-5f6f-4887-88af-34392bc89ada_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:51:12</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
+    </item>
+    <item>
+      <title>I morgen ... Del 2: Innflytelser (2:10)</title>
+      <description><![CDATA[Diskuter boka med Javad El Bakali og resten av Norge på nrk.no/boktober. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/ed11a8d2-e0c4-4ff7-8412-2930ad7eb485_ef21bdb6-658b-46d7-906c-a7335d7891cd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/ed11a8d2-e0c4-4ff7-8412-2930ad7eb485_ef21bdb6-658b-46d7-906c-a7335d7891cd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:25:03</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
+    </item>
+    <item>
+      <title>I morgen ... Del 1: Syke barn (1:10)</title>
+      <description><![CDATA[Hør episode 1 av Leseklubbens Boktober-spesial med Javad El Bakali før du begynner å høre lydboka. Lydboka er lest av Synnøve Fossum Eriksen og er tilgjengelig i oktober. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/4f37f521-b489-44d6-b4a6-3e97747642bb_5580f3d7-9d90-4ea3-84f9-7be9f5c2d144_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/4f37f521-b489-44d6-b4a6-3e97747642bb_5580f3d7-9d90-4ea3-84f9-7be9f5c2d144_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:22:35</itunes:duration>
+      <pubDate>Mon, 28 Sep 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rPpuUl99uZ4elRgbzF8tswJqpCTkbi5B6UOc90YQqtTQ.jpg"/>
     </item>
   </channel>
 </rss>

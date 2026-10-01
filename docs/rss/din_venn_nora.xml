@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:05:06 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:01:41 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Er jeg en sexforbryter nå?</title>
+      <description><![CDATA[En ufrivillig flashing foran fjerdeklassinger, et dobesøk ble til et levende mareritt, og Katelyn Garbin motbeviser alle mine antakelser.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/43dd4509-c345-43ca-9d45-09c34503ca9d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/43dd4509-c345-43ca-9d45-09c34503ca9d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:01</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Verdens verste liggeliste</title>
       <description><![CDATA[Dårlig musikksmak kan ødelegge både en hel dag og et enkelt ligg, og en tur til Lofoten kan få deg til å revurdere alle livsvalgene dine.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>32:33</itunes:duration>
       <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
-    </item>
-    <item>
-      <title>Ny uke, ny diagnose</title>
-      <description><![CDATA[En økonomisk krise utløst av Sims, et oppgjør med behandlingen av Paralympics og en ny diagnose har ramlet inn i innboksen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4e6548df-34af-48df-a548-df34afe8dfc8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:44</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
   </channel>

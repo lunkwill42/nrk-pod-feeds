@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:47:40 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:02:03 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>På hjertet: Les med Linnéa</title>
+      <description><![CDATA[Hvordan står det til med skjermtiden et år etter scrollechallenge? Linnéa oppsummerer måneden og har et mål hun vil invitere lytterne med på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f7f4fe91-457c-42d8-b4fe-91457c72d886_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f7f4fe91-457c-42d8-b4fe-91457c72d886_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:03</itunes:duration>
+      <pubDate>Thu, 01 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g.jpg"/>
+    </item>
     <item>
       <title>Demens: Kan det forebygges? (1:2)</title>
       <description><![CDATA[Hvordan skiller vi «normal» glemskhet og demens?
@@ -273,15 +282,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/975c08e1-c37d-4615-9c08-e1c37d361561_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>53:52</itunes:duration>
       <pubDate>Wed, 11 Mar 2026 05:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Bli sosialt trygg</title>
-      <description><![CDATA[Blir du ofte usikker på hva du skal si i gruppesamtaler? Psykolog Jonas Sharma-Bakkevig gir deg rådene for å bli trygg i sosiale settinger.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f99b0060-9a3c-4ddf-9b00-609a3c3ddff4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:02</itunes:duration>
-      <pubDate>Wed, 04 Mar 2026 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
