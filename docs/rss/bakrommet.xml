@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 05:43:17 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 02:52:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:00:12 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 00:01:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Heksejakt på Nyland?</title>
+      <description><![CDATA[Kona til landslagskeeper Ørjan Håskjold Nyland går hardt ut mot norsk presse og får støtte av lytter. Hva tenker ekspertene? Vi er på plass i Porto der Ronaldo-kaoset fortsetter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6e595c26-8caa-4b9c-995c-268caa0b9c4c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6e595c26-8caa-4b9c-995c-268caa0b9c4c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:28</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 00:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Sjokktap - hva nå Norge?</title>
       <description><![CDATA[Det begynte så bra med ledelse, men så gikk det bare nedover.  Storfavoritt Norge ble knust av Wales. Hvordan kunne dette skje og hva nå?]]></description>
@@ -273,15 +282,6 @@ Kampene mot Danmark og Portugal nærmer seg.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/ff294fb4-dccc-434d-a94f-b4dccc034dc1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:23</itunes:duration>
       <pubDate>Sun, 05 Jul 2026 04:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>-Alle hånet Argentina og Messi</title>
-      <description><![CDATA[Mats så Argentina - Kapp Verde på en pub full av brasilianere  og meldinger fra Brasil-treningen ga oss grøsninger nedover ryggen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/4768adf0-c797-442c-a8ad-f0c797342cae_3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/4768adf0-c797-442c-a8ad-f0c797342cae_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:59</itunes:duration>
-      <pubDate>Sat, 04 Jul 2026 04:07:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
