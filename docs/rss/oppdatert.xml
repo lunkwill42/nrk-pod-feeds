@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:02:20 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:43:51 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Bolsonaro bak murene: Kan han påvirke valget?</title>
+      <description><![CDATA[Lenge var Jair Bolsonaro den mektigste i Brasil. Nå vil sønnen gå i hans fotspor.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d6e5e5c3-db50-4b65-a5e5-c3db502b656b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d6e5e5c3-db50-4b65-a5e5-c3db502b656b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:00</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GyKZItmGXtkqudKJS362-Q-POE4eC8PTiC78omQe5dRg.jpg"/>
+    </item>
     <item>
       <title>Springsteens protestfest: I strupen på Trump</title>
       <description><![CDATA[Superstjerna har langa ut mot presidenten. No toppar han kritikken med eigen festival.]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>14:41</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CHvkEV9yvfdi20QWAG1BVgrAdgeZvP4vlJ6Si03crQpA.jpg"/>
-    </item>
-    <item>
-      <title>Heksejakt og juks? Skandalen som ryster akademia</title>
-      <description><![CDATA[Jason Arday var tidenes yngste svarte professor ved Cambridge. Så kom anklagene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/cc723fe0-5a3f-4acc-b23f-e05a3ffacc12_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cc723fe0-5a3f-4acc-b23f-e05a3ffacc12_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:27</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BGDajgI7OZYCL0NBeb_HsAuEBfkVsO7O-nDljqo7Uh0A.jpg"/>
     </item>
   </channel>
 </rss>

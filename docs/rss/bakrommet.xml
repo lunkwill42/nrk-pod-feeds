@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 23:53:52 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 22:50:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:43:17 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 02:52:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     <item>
-      <title>- Klart de snakker om Man City</title>
+      <title>Sjokktap - hva nå Norge?</title>
+      <description><![CDATA[Det begynte så bra med ledelse, men så gikk det bare nedover.  Storfavoritt Norge ble knust av Wales. Hvordan kunne dette skje og hva nå?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/85311449-fbdd-49f4-b114-49fbddc9f4c7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/85311449-fbdd-49f4-b114-49fbddc9f4c7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:28</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 02:52:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
+    <item>
+      <title>Wales, Man City og Ronaldo-kaos</title>
       <description><![CDATA[Skandalen rundt Haalands arbeidsgiver ryster fotballverdenen, men landslaget holder kortene tett til brystet. Norge er storfavoritter. Ekspertene er nervøse, mens Ronaldo skaper kaos i Portugal.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/1872d803-0ef3-44e7-b2d8-030ef304e783_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/1872d803-0ef3-44e7-b2d8-030ef304e783_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -273,15 +282,6 @@ Kampene mot Danmark og Portugal nærmer seg.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/4768adf0-c797-442c-a8ad-f0c797342cae_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:59</itunes:duration>
       <pubDate>Sat, 04 Jul 2026 04:07:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Kan en sliten Haaland byttes ut?</title>
-      <description><![CDATA[Klarer Haaland å stå 120 min mot Brasil og skal han uansett bli på banen. Hvordan stoppe Vinicius jr og for noen kamper som venter!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/6a171c04-f4f3-4a2f-971c-04f4f37a2f17_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/6a171c04-f4f3-4a2f-971c-04f4f37a2f17_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:15</itunes:duration>
-      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
