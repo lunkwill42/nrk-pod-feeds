@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:23:17 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:42:36 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Fem flyplasser fredes</title>
+      <description><![CDATA[Samferdselsministeren freder flytilbudet i nord.
+Var det ikke så farlig med høringen likevel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/e13ab57e-1f24-482a-a22e-1b7e89fd23c5_2a15823c-58af-423c-8ad7-5eb2c217d717_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e13ab57e-1f24-482a-a22e-1b7e89fd23c5_2a15823c-58af-423c-8ad7-5eb2c217d717_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:07</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JWwDBFaWEAD6G4oiZw6qJAJfmKraUlbBOiBshtl-w29g.jpg"/>
+    </item>
     <item>
       <title>Krever endringer i SV ledelsen</title>
       <description><![CDATA[Misnøyen i SV vokser. På tide med et lederskifte?]]></description>
@@ -283,15 +293,6 @@ Og MDG-topp i Oslo anklages for kjeft og baksnakking.]]></description>
       <itunes:duration>14:53</itunes:duration>
       <pubDate>Fri, 21 Aug 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3jKzdMcNN6ts-5Q4mv8WVgiKeTrm3ZWsUtIhX_ZkWDwA.jpg"/>
-    </item>
-    <item>
-      <title>Internt opprør i Høyre</title>
-      <description><![CDATA[Flere kommunelag i Høyre ber partiledelsen snu om drivstoffavgiftene.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/456e195e-c927-4dd7-ae19-5ec927edd74e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/456e195e-c927-4dd7-ae19-5ec927edd74e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:02</itunes:duration>
-      <pubDate>Thu, 20 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NPGHzIrBL33faKotWQ3dvwFnKdKR3OFbJgcyI-OBPL7Q.jpg"/>
     </item>
   </channel>
 </rss>

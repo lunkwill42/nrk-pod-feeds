@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:23:36 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:42:59 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 10:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Russland skremmer Europa</title>
+      <description><![CDATA[Hva er det russerne egentlig vil?  Er det et budskap?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ceae0174-0736-4c5f-ae01-7407363c5fbd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ceae0174-0736-4c5f-ae01-7407363c5fbd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>19:06</itunes:duration>
+      <pubDate>Fri, 02 Oct 2026 10:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Ondskapens banalitet</title>
       <description><![CDATA[1961 fulgte filosofen Hannah Arendt rettssaken mot SS-offiseren Adolf Eichmann. Her så hun  "ondskapens banalitet"]]></description>
@@ -273,15 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>40:27</itunes:duration>
       <pubDate>Thu, 30 Apr 2026 11:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
-    </item>
-    <item>
-      <title>Hva fortjener du?</title>
-      <description><![CDATA[Del 17 av 20.  Hvordan dele rettferdig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/616a8be9-321b-4f02-aa8b-e9321b5f0237_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/616a8be9-321b-4f02-aa8b-e9321b5f0237_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:08</itunes:duration>
-      <pubDate>Sun, 26 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/spfwvFL_xUuEP-jiXX7cggR4_TUdqMV0yH8eSTnrovFA.jpg"/>
     </item>
   </channel>
 </rss>
