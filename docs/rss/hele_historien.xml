@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:42:14 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:11:08 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 06:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw.jpg"/>
+    <item>
+      <title>Kniver i Hyttegata (2:2)</title>
+      <description><![CDATA[Mens politiet jakter i gatene, skjuler angriperen seg i et boligstrøk. Han er bevæpnet med kniver og bryter seg inn i flere hus.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f3e0500c-4595-4dd5-a050-0c45950dd517_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f3e0500c-4595-4dd5-a050-0c45950dd517_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:07</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 06:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VMZIGGxm63OSVqYmLdIqKQgQBvpvnwZFDrEv4uIQgR0w.jpg"/>
+    </item>
+    <item>
+      <title>Pila i ryggen (1:2)</title>
+      <description><![CDATA[En livredd kvinne ringer 113 og sier at en mann med pil og bue skyter etter folk i butikken. En mann får en pil i ryggen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/b388a3ca-ac62-4b13-88a3-caac623b1351_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/hele_historien/b388a3ca-ac62-4b13-88a3-caac623b1351_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:01</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VMZIGGxm63OSVqYmLdIqKQgQBvpvnwZFDrEv4uIQgR0w.jpg"/>
+    </item>
     <item>
       <title>Kommer i NRK Radio: Bueskytteren</title>
       <description><![CDATA[En mann går amok i gatene i Kongsberg i 2021. Han skyter folk med pil og bue. Så stikker han av. Ingen vet at han også har med seg kniver.]]></description>
@@ -262,24 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/hele_historien/d4520f39-ca8d-4f8b-920f-39ca8d3f8b26_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:35</itunes:duration>
       <pubDate>Sat, 17 Jan 2026 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
-    </item>
-    <item>
-      <title>Dobbeltspill (2:3)</title>
-      <description><![CDATA[Alle tror Martin Pedersen er en suksessrik kunsthandler, men bak fasaden legger han en utspekulert plan.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/c5f7dca4-8b2e-43c9-b7dc-a48b2ea3c999_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/c5f7dca4-8b2e-43c9-b7dc-a48b2ea3c999_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:48</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 06:01:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
-    </item>
-    <item>
-      <title>Martins metode (1:3)</title>
-      <description><![CDATA[Med løsskjegg og strømpe over hodet truer Martin vettskremte bankkunder og ansatte i Norgeshistoriens største ransbølge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/hele_historien/f90ec1c2-c661-4d3b-8ec1-c2c661cd3b4a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/hele_historien/f90ec1c2-c661-4d3b-8ec1-c2c661cd3b4a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:27</itunes:duration>
-      <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Xww-0nJrmnkIRpSB4hs2PwBiOJje0VNGcmrKF8ENbsNg.jpg"/>
     </item>
   </channel>

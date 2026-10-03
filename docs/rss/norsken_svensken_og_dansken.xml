@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:46:27 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:11:20 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    <item>
+      <title>Ærlig talt!</title>
+      <description><![CDATA[Lille speil på veggen der, hvem er mest passiv-aggressiv i Norden her? 
+Er det norsken, svensken eller dansken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/e0da0c94-e310-4dd9-9a0c-94e310edd90d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/e0da0c94-e310-4dd9-9a0c-94e310edd90d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
+    </item>
     <item>
       <title>Djevelpakt</title>
       <description><![CDATA[Er Grønland virkelig sikret for all fremtid? Har islamister kuppet valget i Sverige? Og kan influenserne redde oss fra lesekrisen?]]></description>
@@ -274,15 +284,6 @@ Danmark ser ut til å trives tettere på makten, mens FN vakler
       <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/9f0a3c31-3cce-418f-8a3c-313cce718fd7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:03</itunes:duration>
       <pubDate>Sat, 31 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
-    </item>
-    <item>
-      <title>Vi som elsket Amerika</title>
-      <description><![CDATA[Er det fordi Norden har millioner av etterkommere i USA at mange av oss har vært så ukritiske? Og er «Mar-a-Lago-face» maktens sanne ansikt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/norsken_svensken_og_dansken/7a893bc5-2760-4857-893b-c527608857a9_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/7a893bc5-2760-4857-893b-c527608857a9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:03</itunes:duration>
-      <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ.jpg"/>
     </item>
   </channel>
