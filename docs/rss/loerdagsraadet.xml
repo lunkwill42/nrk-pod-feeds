@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 03 Oct 2026 13:27:16 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 14:10:00 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:59:11 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Kinamat og familievernkontor</title>
+      <description><![CDATA[Vi lærer mer om kinamat og om tilbudet til familievernkontorene rundt om i landet!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/5b3e045f-64d8-4dbe-be04-5f64d80dbee3_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5b3e045f-64d8-4dbe-be04-5f64d80dbee3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:45</itunes:duration>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
+    </item>
     <item>
       <title>Linnéa Myhre / Sindre Reinholt / Amalie Stuve</title>
       <description><![CDATA[TILBAKEMELDING: Hvordan ble antibryllupsdagen? / PROBLEMER: My big fat cheap wedding / Anbefale slutty bøker? / Usikker på det som har vært planen hele tiden / Alle elsker triatlon / Bo alene eller i kollektiv etter brudd / Burde jeg kjempe? / Hvordan blir jeg litt rausere? / Kjæresten min henger alene med eksen]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>02:14:25</itunes:duration>
       <pubDate>Sat, 13 Jun 2026 13:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/t4k8AwgsyGCZk-wVrO1PjADNO3o2MQpAHXMj9_e7V-iA.jpg"/>
-    </item>
-    <item>
-      <title>Unnskyld, Nord-Norge!</title>
-      <description><![CDATA[Vi ble kanskje litt vel ivrige da vi beskrev nordnorsk "drikkekultur"?! Fin tilbakemelding fra Claire - og godt musikkforslag!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/6eaad722-dbc1-443f-aad7-22dbc1c43fb2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/6eaad722-dbc1-443f-aad7-22dbc1c43fb2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>29:11</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 17:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
     </item>
   </channel>
 </rss>
