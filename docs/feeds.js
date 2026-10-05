@@ -708,7 +708,7 @@ const feeds = [
     "id": "kompass",
     "title": "De 30 siste fra Kompass",
     "season": null,
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kongerekka",

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:48:03 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 06:04:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:05:36 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 06:04:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw.jpg"/>
+    <item>
+      <title>Mitt indre kompass: Helge Hognestad</title>
+      <description><![CDATA[Han var prestestudenten som dro til England og fikk nye ideer. Mennesket er ikke ondt, og Jesus døde ikke for våre synder, mener Helge Hognestad. Nå ser 86-åringen tilbake på et liv i mye motvind.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/97441620-85bb-45fd-8416-2085bbd5fd91_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/97441620-85bb-45fd-8416-2085bbd5fd91_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:23</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 06:04:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q9OD1VAzr1AO3XH9vVby8w3nr7zAbCDt-A67TG3If6tg.jpg"/>
+    </item>
     <item>
       <title>Mitt indre kompass: Ingrid Bjørnov</title>
       <description><![CDATA[En alvorlig kreftsykdom forandret den folkekjære artisten. Plutselig fikk hun et annet syn på tid - og vil prøve å prioritere folka rundt seg på en annen måte. Men hvorfor har hun egentlig begynt å pynte seg mer i begravelser?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kompass/4298e493-808c-4e17-98e4-93808c9e17aa_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>18:35</itunes:duration>
       <pubDate>Fri, 19 Dec 2025 08:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
-    </item>
-    <item>
-      <title>Juleevangeliet forklart: Messias-feber (2:10)</title>
-      <description><![CDATA[Hvordan var stemninga i Midtøsten rundt år null, egentlig? Var det litt sånn Life of Brian-tilstander, - stod det en frelserkandidat på hvert hjørne på den tida?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kompass/97ac7e1c-1040-4618-ac7e-1c1040d6187d_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kompass/97ac7e1c-1040-4618-ac7e-1c1040d6187d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:45</itunes:duration>
-      <pubDate>Fri, 19 Dec 2025 07:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/khW4fQHrsN7hz1z7ittjMwGFbOrwj3OUnhgvGbMQi1uQ.jpg"/>
     </item>
   </channel>

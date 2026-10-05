@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:10:00 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 13:45:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:05:18 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 14:28:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Lilli Bendriss</title>
+      <description><![CDATA[– Jeg endte opp med å vaske toaletter da jeg kom tilbake til Norge, forteller Åndenes makt-profilen om tiden etter pyramidespillkonkursen. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8aef0977-057e-4bc2-b3cb-86d2ceeae559_85971cfe-441b-4344-bfa6-5f7efb150213_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8aef0977-057e-4bc2-b3cb-86d2ceeae559_85971cfe-441b-4344-bfa6-5f7efb150213_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:07</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 14:28:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ykVFqAnsrzNUhfu7T5PJsg8dar9k2A-Mm1XOI2ojCqJA.jpg"/>
+    </item>
     <item>
       <title>Kari Spjeldnæs</title>
       <description><![CDATA[– Det er bedre for hjernen å lese på papir, sier leseforskeren]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>57:17</itunes:duration>
       <pubDate>Mon, 01 Jun 2026 12:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/vw7nH2pUKBtGGMzyIDgoIQ4XGbY3s5JjShNSQhUcwIyg.jpg"/>
-    </item>
-    <item>
-      <title>Gaute Børstad Skjervø</title>
-      <description><![CDATA[- Det har vært et jevnt hat mot meg i lang tid, forteller lederen i AUF, som den siste tiden har mottatt nærmere 30 000 svært aggressive kommentarer]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/166b125c-9325-40b8-ab12-5c932550b8ae_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/166b125c-9325-40b8-ab12-5c932550b8ae_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:56</itunes:duration>
-      <pubDate>Wed, 27 May 2026 13:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/00YDEnnD759nOoWUHLZYhQH51Qgd6Gos8HyP57-_Y4Tg.jpg"/>
     </item>
   </channel>
 </rss>
