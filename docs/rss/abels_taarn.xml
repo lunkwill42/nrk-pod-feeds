@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:41:42 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:06:49 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Smarttelefon fører til færre fødsler</title>
+      <description><![CDATA[Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:11</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Hva er inni et datasenter?</title>
       <description><![CDATA[Håper det også finnes rom for folk der.
@@ -281,15 +290,6 @@ Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente eks
       <itunes:duration>26:17</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Døde galakser strømmer gjennom deg</title>
-      <description><![CDATA[Nanonettinger kan vris til superledere, og proteiner produseres rare steder i hjernen. Alt i følge årets vinnere av Kavliprisene]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/ff5eb043-75df-492d-9eb0-4375df592d86_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:05</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>

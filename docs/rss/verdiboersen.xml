@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:42:59 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 10:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:07:43 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Hvorfor er noen imot vaksine?</title>
+      <description><![CDATA[Det handler ikke alltid om manglende kunnskap.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:37</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Russland skremmer Europa</title>
       <description><![CDATA[Hva er det russerne egentlig vil?  Er det et budskap?]]></description>
@@ -273,15 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>13:52</itunes:duration>
       <pubDate>Mon, 04 May 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Den grusomme (1:3)</title>
-      <description><![CDATA[-Trolig overlever vi ikke KI]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/f077d736-675a-4840-b7d7-36675ab8405c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f077d736-675a-4840-b7d7-36675ab8405c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:27</itunes:duration>
-      <pubDate>Thu, 30 Apr 2026 11:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
     </item>
   </channel>
 </rss>

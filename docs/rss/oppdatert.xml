@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 05:43:51 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:07:22 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>«Dødsengelen» i retten igjen: Aktivist eller morder?</title>
+      <description><![CDATA[Hva skjedde egentlig med Steinar Wangen, og vil han bli dømt til Norges strengeste straff i ankesaken?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/bfa12652-6697-4894-a126-5266975894e6_2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/bfa12652-6697-4894-a126-5266975894e6_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DRa69jWkJg6OHbwFK1CyKge4hacCs0lSsnirCQT6dnDw.jpg"/>
+    </item>
     <item>
       <title>Bolsonaro bak murene: Kan han påvirke valget?</title>
       <description><![CDATA[Lenge var Jair Bolsonaro den mektigste i Brasil. Nå vil sønnen gå i hans fotspor.]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>16:49</itunes:duration>
       <pubDate>Thu, 27 Aug 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FAhEQLJ-1z1dxs-l5k2FSQs-eTUFujL37Fn8SMqLWGJA.jpg"/>
-    </item>
-    <item>
-      <title>Odysseen: Slik ble diktet en milliard-suksess</title>
-      <description><![CDATA[Hvordan kan en 2700 år gammel historie fortsatt være relevant i dag?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/4da7703b-cb0e-4fc8-a770-3bcb0e2fc817_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/4da7703b-cb0e-4fc8-a770-3bcb0e2fc817_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:41</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CHvkEV9yvfdi20QWAG1BVgrAdgeZvP4vlJ6Si03crQpA.jpg"/>
     </item>
   </channel>
 </rss>
