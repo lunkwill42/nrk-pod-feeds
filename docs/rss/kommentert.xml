@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:24:41 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 20:05:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:14:12 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 16:08:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Cornell-saken: – Kanskje toppen av isfjellet</title>
+      <description><![CDATA[En påstått gjengvoldtekt fra 2024 har skapt fyr og flamme i USA. Først henlagt, nå gjenåpnet: Hva handler Cornell-saken egentlig om? Og hvorfor er folk så sinte?
+
+Og regjeringen vil heve aldersgrensen på elsparkesykkel. Endrer det egentlig noe?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/015aa999-9258-4977-ad4d-d8a5271bb798_bd65a6cf-5fd5-4101-bf70-976df79fc317_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/015aa999-9258-4977-ad4d-d8a5271bb798_bd65a6cf-5fd5-4101-bf70-976df79fc317_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:41</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 16:08:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fAfkCdwphuZHBN1qqC2ocAtSTozVrV10lBDJgboMbqrg.jpg"/>
+    </item>
     <item>
       <title>Epstein-høring: – Politisk teater og angrende synder</title>
       <description><![CDATA[Hvorfor fikk Terje Rød-Larsens tenketank så mye penger av utenriksdepartementet? Flere tidligere statsråder ble grillet i Stortingets Epstein-høring, og stemningen var tidvis amper og hissig. Var det en ukultur? Og har departementet en utfordring med kameraderi?]]></description>
@@ -296,15 +307,6 @@ Og i Danmark sitter en piperøykende mann og smiler: Han bestemmer hvem landets 
       <itunes:duration>31:00</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 16:28:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3RXWF7mszWchn_z4cIRZNAdDZsZJlJbt4PomDDfSzjnw.jpg"/>
-    </item>
-    <item>
-      <title>Har Donald Trump diktet opp fredsforslag?</title>
-      <description><![CDATA[Donald Trump sier USA har hatt gode og produktive samtaler med Iran. Men, Iran sier at de ikke har snakket sammen. Og mens det skjer holder verdensøkonomien pusten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/e72c273b-7a23-4f90-ac27-3b7a238f9027_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/e72c273b-7a23-4f90-ac27-3b7a238f9027_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:09</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 15:49:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Y1kRTCGry1-5jF9LgTRSSwBaPIxvrx_QdzIlIBZPGVfQ.jpg"/>
     </item>
   </channel>
 </rss>
