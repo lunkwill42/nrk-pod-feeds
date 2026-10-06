@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:05:47 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:24:30 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Steinar Klouman Hallert har blitt tryllekunstner</title>
+      <description><![CDATA[Jonas er sint på vennene sine, hvordan du sier hvor]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:10</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+    </item>
     <item>
       <title>Bli hos meg-Dina konfronterer Jonas!</title>
       <description><![CDATA[Jonas har spredd falske rykter om artisten bak låta "Bli hos meg". Dina kommer på besøk til oss for å få ryddet opp i dette og motbevise ryktene. I tillegg diskuterer vi hvor terskelen for å ta smertestillende går. Er du en av de som tar en paracet om du føler deg litt pjusk, eller må du være døden nær før du rører smertestillende?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:35</itunes:duration>
       <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w.jpg"/>
-    </item>
-    <item>
-      <title>Pepsi Max = lavstatus?</title>
-      <description><![CDATA[Kan man bestille brus på fin restaurant? Og i så fall hvilken? Arin og Jonas har listen til deg. Henning elsker interne vitser, og leter etter de beste.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/630c1b36-665e-4b55-8c1b-36665ebb557d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/630c1b36-665e-4b55-8c1b-36665ebb557d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:37</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA.jpg"/>
     </item>
   </channel>
 </rss>

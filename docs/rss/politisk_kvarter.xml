@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:07:28 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:24:35 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Fakta og følelser i økonomien </title>
+      <description><![CDATA[Tar økonomene feil når de sier folk flest har fått mer å rutte med? Rødt-lederen tror mer på folk som sier de har fått trangere økonomi. Hun velger føleri framfor fakta, advarer MDG. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1e7a8875-8697-4ba6-9609-265794dc96c3_c2cf0e66-daa6-47f1-926b-e65ebebf17da_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1e7a8875-8697-4ba6-9609-265794dc96c3_c2cf0e66-daa6-47f1-926b-e65ebebf17da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lxI9mfpbk6mnZIMt114BlQriwawby1_o1_sz5tuD4caA.jpg"/>
+    </item>
     <item>
       <title>Ein billig plass å bu</title>
       <description><![CDATA[Korleis kan vi få bygd fleire billige bustader for unge vaksne?]]></description>
@@ -284,15 +293,6 @@ Og MDG-topp i Oslo anklages for kjeft og baksnakking.]]></description>
       <itunes:duration>15:01</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sf6qU_IBtA5GBgeoLVEzBgqAV4BhaPXHe2JQKDxds6TA.jpg"/>
-    </item>
-    <item>
-      <title>Ein meir klassisk skule</title>
-      <description><![CDATA[Høgreleiaren meiner Aps skule bommar og vil ha ein klassisk skule med høgtlesing, penn og papir.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/79864712-2c2b-4e45-8647-122c2b4e454d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/79864712-2c2b-4e45-8647-122c2b4e454d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Mon, 24 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1qXSI52qX6nutKGqp5hCHQ66vqcM0i7pVc3xTyc3WyrA.jpg"/>
     </item>
   </channel>
 </rss>

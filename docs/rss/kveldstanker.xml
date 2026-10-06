@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:47:25 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:24:12 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
+    <item>
+      <title>Skam - med Ann Helen Kolås Ingebrigtsen</title>
+      <description><![CDATA[- Eg har båre på ei skam heile livet, fortel forfattaren Ann Helen Kolås Ingebrigtsen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/930c738f-3790-47a9-af03-b5d7a5c122d7_d3d820f4-8dab-437e-951c-0b53ab266edc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/930c738f-3790-47a9-af03-b5d7a5c122d7_d3d820f4-8dab-437e-951c-0b53ab266edc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:50</itunes:duration>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw.jpg"/>
+    </item>
     <item>
       <title>Kulde - med Sunniva Relling Berg</title>
       <description><![CDATA[Litteratur kan viske ut landegrenser, hevder forfatteren Sunniva Relling Berg]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>03:06</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/6VVTzuvC1D93sS0gdcb9tg6B8uDHzhR3m5lt_Z-5aNxw.jpg"/>
-    </item>
-    <item>
-      <title>Jeg faller - med Carline Tromp</title>
-      <description><![CDATA[- Denne vinteren har jeg brukt mye tid på å lære meg noe jeg aldri har fått til, forteller litteraturkritiker Carline Tromp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/831d1154-0e20-487a-9d11-540e20f87aea_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/831d1154-0e20-487a-9d11-540e20f87aea_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EG61784IOV8uAY-azhLZHQBdZgohDDKU2MU5mLlivUSQ.jpg"/>
     </item>
   </channel>
 </rss>
