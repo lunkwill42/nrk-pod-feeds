@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:24:35 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:45:14 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Får du betre råd no?</title>
+      <description><![CDATA[Jens Stoltenberg legg fram 27-budsjettet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/07b161ca-a5c0-4b07-8b9a-c76b506712d8_1e0d7118-3b11-487e-ac1c-c59688750768_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/07b161ca-a5c0-4b07-8b9a-c76b506712d8_1e0d7118-3b11-487e-ac1c-c59688750768_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:05</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qREGc34mtJkLdcTLOSAH_gxpBB0Vb-O65HVAwhkWBxFg.jpg"/>
+    </item>
     <item>
       <title>Fakta og følelser i økonomien </title>
       <description><![CDATA[Tar økonomene feil når de sier folk flest har fått mer å rutte med? Rødt-lederen tror mer på folk som sier de har fått trangere økonomi. Hun velger føleri framfor fakta, advarer MDG. ]]></description>
@@ -284,15 +293,6 @@ Og MDG-topp i Oslo anklages for kjeft og baksnakking.]]></description>
       <itunes:duration>15:09</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ok0VyjoQYjQGfYvJ8b0hkQD5Nn5bo0SOOD7MorbccQPA.jpg"/>
-    </item>
-    <item>
-      <title>Island, EU og oss</title>
-      <description><![CDATA[Norske politikere valfarter til Island denne uka. Mimir Kristjansson bønnfaller islandske sosialister om å si nei til EU. Bare Donald Trump vil tjene på islandsk nei, advarer MDG-politiker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/17483e10-165a-4715-883e-10165a771584_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/17483e10-165a-4715-883e-10165a771584_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:01</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sf6qU_IBtA5GBgeoLVEzBgqAV4BhaPXHe2JQKDxds6TA.jpg"/>
     </item>
   </channel>
 </rss>

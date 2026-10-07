@@ -1510,7 +1510,7 @@ const feeds = [
     "id": "strid",
     "title": "De 30 siste fra Strid – de norske borgerkrigene",
     "season": null,
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "stroemwasenius",

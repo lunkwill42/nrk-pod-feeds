@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:46:43 +0000</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:44:14 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw.jpg"/>
+    <item>
+      <title>Apostlenes gjerninger (38:40)</title>
+      <description><![CDATA[Hvordan skal gjengen klare seg nå som Jesus har dratt? De får ånden over seg.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/130b3d80-7391-408b-8b3d-807391608b53_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/130b3d80-7391-408b-8b3d-807391608b53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:03</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lMEs8aKKysb7EITGDR8IEwA5UHMmH-q67BNY2jV-cDXA.jpg"/>
+    </item>
     <item>
       <title>Graven er tom! (37:40)</title>
       <description><![CDATA[Helt om natta – helt om dagen! Jesus kommer seg opp, men hva skjedde med Judas?]]></description>
@@ -273,15 +282,6 @@ FLERE EPISODER KOMMER 13.08 2025.]]></description>
       <itunes:duration>19:34</itunes:duration>
       <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/hCoxEV2tVNS9Zct7uEVYwQQSWYue3gHwh2WW74ocVjKA.jpg"/>
-    </item>
-    <item>
-      <title>Jakob (8:40)</title>
-      <description><![CDATA[Luring kler seg ut som sin egen bror, ligger med feil dame og slåss med en engel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bibelen/0ad5312e-4464-4415-8c3d-e3676917cb61_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bibelen/0ad5312e-4464-4415-8c3d-e3676917cb61_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:29</itunes:duration>
-      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mGeZEymZSTLxIye7KM5qZwBQLYUwqsXnUKvhxp4o2yTQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,18 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:24:30 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:45:07 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 09:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
     <item>
+      <title>Vi har fått lydmeldinger!</title>
+      <description><![CDATA[Kjøpte dine foreldre alkohol til deg før du ble 18? En fersk undersøkelse viser at det blir mer og mer vanlig. Vi må også snakke om at KI skal erstatte flere hundre ansatte i DNB.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/17c1e8a0-2bde-44f0-87ee-2253b375b553_6e03d0c7-13c0-46c4-ab09-c402ba608ba7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/17c1e8a0-2bde-44f0-87ee-2253b375b553_6e03d0c7-13c0-46c4-ab09-c402ba608ba7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:30</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 09:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
+    </item>
+    <item>
       <title>Steinar Klouman Hallert har blitt tryllekunstner</title>
-      <description><![CDATA[Jonas er sint på vennene sine, hvordan du sier hvor]]></description>
+      <description><![CDATA[Jonas er sint på vennene sine, det er en generasjonsforskjell på hvordan man sier hvor gammel man er, og skuespiller og komiker, Steinar Klouman Hallert, har blitt tryllekunstner]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/p3morgen/60289bb8-9c04-41fe-b34c-64e1eb36b131_d1e5919d-5f6f-41fc-ae8e-901af5bab249_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:10</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Vw07dK2OQr6BxgEYXc-ubwjuiv2QRUs53sThUVgQr6Rg.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/WzTiMuVWSI72iFc6MmgRWgWPz_YAzYBNxQTlG8gw6b2w.jpg"/>
     </item>
     <item>
       <title>Bli hos meg-Dina konfronterer Jonas!</title>
@@ -272,15 +281,6 @@
       <itunes:duration>38:25</itunes:duration>
       <pubDate>Wed, 09 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Vi lager musikaler!</title>
-      <description><![CDATA[Arin skjønner seg ikke på tannlegeskrekk, Jonas skal på musikal-ferie, og Henning får en spennende melding.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/913b85a4-f3d5-4cdf-bb85-a4f3d52cdfa8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/913b85a4-f3d5-4cdf-bb85-a4f3d52cdfa8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:35</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w.jpg"/>
     </item>
   </channel>
 </rss>

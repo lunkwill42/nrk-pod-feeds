@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:06:49 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:44:05 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Er gen Z dummere enn sine foreldre?</title>
+      <description><![CDATA[Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:54</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Smarttelefon fører til færre fødsler</title>
       <description><![CDATA[Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget]]></description>
@@ -281,15 +290,6 @@ Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente eks
       <itunes:duration>57:32</itunes:duration>
       <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Oqpe8fY6sMG20u8MKrlhgQDX4j4em_TitnBnTZzFNJ0A.jpg"/>
-    </item>
-    <item>
-      <title>Frister brød med gjær fra død mann?</title>
-      <description><![CDATA[Forskere har testet oppskrift. Dessuten, slik får du barna til å spise grønnsaker. Og lyden "The hum" har en ny mulig forklaring]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e49c4d4b-933e-40b3-9c4d-4b933ea0b35d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>26:17</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
