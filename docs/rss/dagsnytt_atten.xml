@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 21:42:32 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:01:26 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Forslag til statsbudsjettet 2027 lagt frem</title>
+      <description><![CDATA[Frp mener regjeringens forslag til statsbudsjett vil gi mange dårligere råd, til tross for skattekutt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a03d0777-51b0-4a60-899b-d4c4031e3ede_91d7f437-3f28-4851-a6a8-8aa6426e6b22_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a03d0777-51b0-4a60-899b-d4c4031e3ede_91d7f437-3f28-4851-a6a8-8aa6426e6b22_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TE9kIteU-esynB4umOxmIwjwaJQCIPZ-eWmg4W9DsiRA.jpg"/>
+    </item>
     <item>
       <title>Regjeringen vil gjøre Norgespris dyrere</title>
       <description><![CDATA[Økning på 12,5%, fire ganger så mye som prisstigningen ellers.]]></description>
@@ -273,15 +282,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/1GAu18I0-lseYb44n807JgdPgYqGuboYp7KRKfDIrwNg.jpg"/>
-    </item>
-    <item>
-      <title>Ny utvikling i eldreomsorgen</title>
-      <description><![CDATA[Mange pårørende går av tidlig for å ta seg av gamle foreldre, Frp mener Ap styrer mot havari i eldreomsorgen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/42d40803-5cd9-4e95-9408-035cd95e9508_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/42d40803-5cd9-4e95-9408-035cd95e9508_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7TxK4Vgqr8r4ptvGseIkZAso4qjInwIW6lq_amnVePNQ.jpg"/>
     </item>
   </channel>
 </rss>
