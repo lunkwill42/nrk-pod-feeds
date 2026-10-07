@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 05 Sep 2026 05:47:55 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Sep 2026 06:04:00 +0200</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:34:26 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Macías - kommer lørdag</title>
+      <description><![CDATA[Francisco Macías Nguema kalte seg hitler-marxist, var klinisk gal og en av verdens aller mest brutale og inkompetente diktatorer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/9c9bf002-0d0e-42ba-9bf0-020d0e62badd_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/9c9bf002-0d0e-42ba-9bf0-020d0e62badd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:39</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/W1_dRT3YisJOs1MtDvnlcAXvsWQFP1gCzuTk-pUerrFQ.jpg"/>
+    </item>
     <item>
       <title>Gaddafi (5:5)</title>
       <description><![CDATA[Lockerbie-katastrofen tvinger Gaddafi til å endre taktikk. Men ingen maktmidler kan redde Gaddafi fra hans egen befolknings vrede.]]></description>
@@ -323,15 +332,6 @@ The Autobiography of Nicolae Ceaușescu (2010) rumensk dokumentar]]></descriptio
       <enclosure url="https://podkast.nrk.no/fil/tyrann/2e9ab28f-8702-415c-9ab2-8f8702315cfd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:13</itunes:duration>
       <pubDate>Sat, 07 Feb 2026 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg"/>
-    </item>
-    <item>
-      <title>Trujillo (2:3)</title>
-      <description><![CDATA[Når Trujillo blir lei av dårlige haitiske naboer, løser han det med et grusomt folkemord på alle de som ikke kan uttale "persille".]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/92848756-ff05-4287-8487-56ff05e28797_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:30</itunes:duration>
-      <pubDate>Sat, 07 Feb 2026 06:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/zXzvcEYNhVY8WJ-djHKXKgJ5ssBDL4dHIvxY9G22cnwA.jpg"/>
     </item>
   </channel>
