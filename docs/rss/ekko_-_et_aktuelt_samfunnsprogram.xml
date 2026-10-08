@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:33:58 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:32:25 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: På friarferd igjen</title>
+      <description><![CDATA[Trump dansar på nye folkemøte før mellomvalet, men er historisk upopulær. Vi ser på kontrastane i USA før valet.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8834c93e-b69d-43c8-8ac3-9ef5e81f29d2_b34330b1-5a10-402f-b872-3d363015044c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8834c93e-b69d-43c8-8ac3-9ef5e81f29d2_b34330b1-5a10-402f-b872-3d363015044c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:25</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mofumOR0ET2ty1a6d7TzLgrfh2GMD_hn7YlFIfcwt8EA.jpg"/>
+    </item>
     <item>
       <title>Rafto-prisen - den nye Nobel?</title>
       <description><![CDATA[Mens Fredsprisen kan drukne i storpolitikk, treffer bergenske Raftoprisen stadig tidsånden. Har Nobelkomiteen mistet retningssansen –og kan prisvinnerne i Bergen få større reell betydning enn de i Oslo?  ]]></description>
@@ -272,15 +282,6 @@
       <itunes:duration>58:02</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/R2reCuKa-xHdKOimY045fw5oX5I3GkzmlqGhz-tytHBw.jpg"/>
-    </item>
-    <item>
-      <title>Venstrehendtes hverdag</title>
-      <description><![CDATA[Tidligere ble venstrehendte sett på som feilvare, mindre intelligente. Hvorfor var det slik?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8111998e-78ce-4aab-9199-8e78ce9aab06_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8111998e-78ce-4aab-9199-8e78ce9aab06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:53</itunes:duration>
-      <pubDate>Mon, 17 Aug 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HM4UHITRHHgFBIxi3YGtcA2_B-nicsduf-qvywfQl-uQ.jpg"/>
     </item>
   </channel>
 </rss>

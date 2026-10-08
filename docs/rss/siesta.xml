@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:34:17 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:32:52 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Klarer Markus å kjøpe tampong?</title>
+      <description><![CDATA[Det blir lattermildt i spalte-spalten, Daniel koser seg med nynning i kontorlanskapet og Markus forlater studio for tampongkjøp.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/13ef2be7-82ac-451a-af2b-e782ac251a0b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/13ef2be7-82ac-451a-af2b-e782ac251a0b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:11</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Annas hot take på statsbudsjett</title>
       <description><![CDATA[Markus har marinert fingeren i wasabi, Anna tar en runde på statsbudsjettet og Daniel har med seg gamle trønder vitser.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:41</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Forbanna på influensere</title>
-      <description><![CDATA[Anna er forbanna på mat-influensere på TikTok, Daniel nevner voksenbleier og vi får besøk av Chavad El Bacardi.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5674569a-cf4d-43c1-b456-9acf4df3c1c4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/5674569a-cf4d-43c1-b456-9acf4df3c1c4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:50</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:33:51 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 13:50:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:32:18 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 13:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Dag Simastuen</title>
+      <description><![CDATA[– Det ER en guttedrøm, og ikke  oppskrytt, mener en av landets mest erfarne jagerflygere]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/d57ed2e8-7244-4e82-9293-a8e976a60e12_722fb26a-52d8-455f-af61-545f4b1becab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d57ed2e8-7244-4e82-9293-a8e976a60e12_722fb26a-52d8-455f-af61-545f4b1becab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:00</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 13:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ta_WkgnhE-IJIuq8tlsaSQp9jDxmIRCf4mLTFXRHJ1og.jpg"/>
+    </item>
     <item>
       <title>Jeanette Dyhre Kvisvik</title>
       <description><![CDATA[– Jenter setter seg ofte i baksetet, men sånn er ikke jeg, forteller Villoid-gründer med stor suksess.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 13:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/SNBjAarmrl-4-H8v8GM3wgRaSMMCamJHqu87yGpb9Wtw.jpg"/>
-    </item>
-    <item>
-      <title>Cecilia Brækhus</title>
-      <description><![CDATA[- Jeg er innadvendt, men måtte være frekk og utadvendt for å selge meg selv, forteller boksestjernen]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4ba15131-d23f-4eda-a151-31d23f1edaa7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4ba15131-d23f-4eda-a151-31d23f1edaa7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:35</itunes:duration>
-      <pubDate>Tue, 02 Jun 2026 14:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kXQiKkllnO03T_2Jp1iVPw-A6slLvCXW-um8Pm8NpUqg.jpg"/>
     </item>
   </channel>
 </rss>
