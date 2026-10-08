@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 22:01:26 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:07:15 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Store mobilproblemer</title>
+      <description><![CDATA[Politiet får ikke inn alle anrop, og 
+Bane Nor varsler full togstans i hele landet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/605ed521-93da-4060-bce9-6397ed0176f8_8370b35d-7ecf-42ef-a1c0-e6f8367e266a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/605ed521-93da-4060-bce9-6397ed0176f8_8370b35d-7ecf-42ef-a1c0-e6f8367e266a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:41</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0td8cQhY8cSeI_i-Wo651gWO9kLkJG3IJnVuR0GWThLQ.jpg"/>
+    </item>
     <item>
       <title>Forslag til statsbudsjettet 2027 lagt frem</title>
       <description><![CDATA[Frp mener regjeringens forslag til statsbudsjett vil gi mange dårligere råd, til tross for skattekutt.]]></description>
@@ -273,15 +283,6 @@
       <itunes:duration>58:51</itunes:duration>
       <pubDate>Thu, 27 Aug 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aO3njf-8Ew0ypn80cnj7-QbPRgMGFD0UyaAKfh0uh47Q.jpg"/>
-    </item>
-    <item>
-      <title>Kriminelle tilknyttet barnevernet</title>
-      <description><![CDATA[Ny rapport viser at kriminelle har sentrale roller i selskaper som leverer barnevernstjenester. Nå skal Økokrim kartlegge hele landet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/721b586e-ed4d-4051-9b58-6eed4d205152_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/721b586e-ed4d-4051-9b58-6eed4d205152_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1GAu18I0-lseYb44n807JgdPgYqGuboYp7KRKfDIrwNg.jpg"/>
     </item>
   </channel>
 </rss>
