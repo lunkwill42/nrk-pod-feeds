@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:44:28 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:02:34 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Vi oppsummerer statsbudsjettet</title>
+      <description><![CDATA[Og Donald Trump vil (igjen) ha Nobels fredspris.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f531e072-4bbb-4d7f-b1e0-724bbbad7fb7_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f531e072-4bbb-4d7f-b1e0-724bbbad7fb7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:02</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YKuDkuaQmtGSsKGbfYmNEwB-DBQfMdCEM4Y5r54iDg2Q.jpg"/>
+    </item>
     <item>
       <title>Tre år siden krigen mellom Israel og Hamas ble utløst</title>
       <description><![CDATA[Og i dag legger regjeringen frem statsbudsjettet for neste år.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>05:18</itunes:duration>
       <pubDate>Fri, 28 Aug 2026 09:46:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/m9tja0WsAJovDxqIIYoLag_kOY4aZnFuMdcz0xxiHePg.jpg"/>
-    </item>
-    <item>
-      <title>Norge holder pusten</title>
-      <description><![CDATA[Kong Haralds helsetilstand fortsatt svært alvorlig]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/2851c66f-29c1-4a2e-91c6-6f29c1ca2e6a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/2851c66f-29c1-4a2e-91c6-6f29c1ca2e6a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:05</itunes:duration>
-      <pubDate>Fri, 28 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uOoMWAVgdVWGpQukevKxbw_N5Tv6sybtGKqitHU7MEVQ.jpg"/>
     </item>
   </channel>
 </rss>

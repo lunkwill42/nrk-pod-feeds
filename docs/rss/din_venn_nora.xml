@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:01:41 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:02:25 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>Har alle vært utro?</title>
+      <description><![CDATA[Lilli Tetris havner i en het utroskapsdebatt, barndommens store drømmer mimres fram, og er jeg «Herr Bæsj» i Maskorama?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/4f136d71-80ec-4f99-936d-7180ecff999d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/4f136d71-80ec-4f99-936d-7180ecff999d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:02</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Er jeg en sexforbryter nå?</title>
       <description><![CDATA[En ufrivillig flashing foran fjerdeklassinger, et dobesøk ble til et levende mareritt, og Katelyn Garbin motbeviser alle mine antakelser.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/ed12f0c7-e6c9-4c95-92f0-c7e6c93c952e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:04</itunes:duration>
       <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
-    </item>
-    <item>
-      <title>Banning og barndomstraumer</title>
-      <description><![CDATA[En mystisk pakke i postkassa, en sensurert oppvekst og en liten tordentale om kvinner i kommentarfelt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/cff4abb3-2e7f-43de-b4ab-b32e7f23de70_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:33</itunes:duration>
-      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:24:44 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:03:23 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Else Kåss: Knekke kjærlighetskoden</title>
+      <description><![CDATA[Else Kåss Furuseth forteller om kjipe erfaringer fra singellivet og hvordan hun endelig har funnet ekte kjærlighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/37e1e92e-de88-4288-a1e9-2ede88528875_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/37e1e92e-de88-4288-a1e9-2ede88528875_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:57</itunes:duration>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/b-UJzRbXg_6RdT6I4VGzNA5JGiHMOLHHpBpY6wkp3hYQ.jpg"/>
+    </item>
     <item>
       <title>Sophie Elise: Bekreftelse</title>
       <description><![CDATA[Sophie Elise forteller åpent om hvordan hun tidligere har søkt mannlig bekreftelse, og hva som ble vendepunktet.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>55:36</itunes:duration>
       <pubDate>Sun, 02 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zk67A7ymRVXwba6_ckwRAAKes6cD7YpzJMPLUDxwafFQ.jpg"/>
-    </item>
-    <item>
-      <title>Sandra Lyng: Å bryte mønsteret</title>
-      <description><![CDATA[Sandra Lyng forteller om hvordan hun har lært å bryte mønster knyttet til selvsabotasje og det å velge feil relasjoner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/04b877ab-22ea-4943-b877-ab22ea3943a2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/04b877ab-22ea-4943-b877-ab22ea3943a2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:16</itunes:duration>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZBv6z7-b42sT4GfBVMbduQOhMbU23bW_sHpfTRouNnlA.jpg"/>
     </item>
   </channel>
 </rss>
