@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:44:05 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:20:03 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 11:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Hvordan lader du mobilen perfekt?</title>
+      <description><![CDATA[Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 11:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iJM4L3gh1slXOtu2L4FZHAHs-6QmzSLzYYW91WQLFJ4Q.jpg"/>
+    </item>
     <item>
       <title>Er gen Z dummere enn sine foreldre?</title>
       <description><![CDATA[Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle]]></description>
@@ -20,6 +29,15 @@
       <itunes:duration>25:54</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
+    <item>
+      <title>Hjernens hemmelige av/på-knapp</title>
+      <description><![CDATA[Årets nobelpriser i realfag går til hjerneforskning, spøkelsespartikler og speilvendte molekyler]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d99301c3-6259-4d04-9301-c36259fd0463_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:13</itunes:duration>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
     <item>
       <title>Smarttelefon fører til færre fødsler</title>
@@ -271,25 +289,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>30:35</itunes:duration>
       <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Svinger du helst til høyre eller venstre?</title>
-      <description><![CDATA[Forskere har snublet over et mystisk instinkt i oss alle. Formelen for beste restaurant er oppdaget. Og solbriller kan byttes ut med øyedråper.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0ef9e28f-9fdf-4520-b9e2-8f9fdfe5202b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0ef9e28f-9fdf-4520-b9e2-8f9fdfe5202b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:42</itunes:duration>
-      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Prater spekkhoggere?</title>
-      <description><![CDATA[Kunne vært kult å finne ut hva de prater OM!
-Lurer du på rare ting? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d5a8113d-6b3f-475a-a811-3d6b3fb75a73_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:32</itunes:duration>
-      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Oqpe8fY6sMG20u8MKrlhgQDX4j4em_TitnBnTZzFNJ0A.jpg"/>
     </item>
   </channel>
 </rss>

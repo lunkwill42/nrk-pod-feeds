@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:32:52 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:20:57 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus intervjuer Espen Nakstad</title>
+      <description><![CDATA[Vi avslører ny pub i jakten etter Norges beste, Markus intervjuer Nakstad og hvem er best på imitasjon av hverandre?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3ccf1876-700f-418a-8f18-76700f918a1f_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3ccf1876-700f-418a-8f18-76700f918a1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:42</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Klarer Markus å kjøpe tampong?</title>
       <description><![CDATA[Det blir lattermildt i spalte-spalten, Daniel koser seg med nynning i kontorlanskapet og Markus forlater studio for tampongkjøp.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/7055f989-7cfd-4c90-95f9-897cfd6c901f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:26</itunes:duration>
       <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus har en dobbeltgjenger</title>
-      <description><![CDATA[Den danske kjendisen Jesper Ole Andersen er Markus sin dobbeltgjenger, Anna er intervjua i avisa og hva tenker vi om reunion?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/04359618-749e-4be3-b596-18749e6be367_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:41</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
