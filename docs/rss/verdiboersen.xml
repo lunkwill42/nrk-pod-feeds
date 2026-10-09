@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:07:43 +0000</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:15:43 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Intelligent liv i MAGA</title>
+      <description><![CDATA[Om tenkerne og ideene bak den mektige MAGA-bevegelsen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:26</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Hvorfor er noen imot vaksine?</title>
       <description><![CDATA[Det handler ikke alltid om manglende kunnskap.]]></description>
@@ -273,15 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>47:40</itunes:duration>
       <pubDate>Wed, 06 May 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
-    </item>
-    <item>
-      <title>Den edle villmann</title>
-      <description><![CDATA[Hva mente Rousseau med "Den edle villmann"?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ac10c29c-fe47-46c7-90c2-9cfe4776c7f1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ac10c29c-fe47-46c7-90c2-9cfe4776c7f1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:52</itunes:duration>
-      <pubDate>Mon, 04 May 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
 </rss>

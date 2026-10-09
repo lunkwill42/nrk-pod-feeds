@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:03:02 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:15:11 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Venter på dødsstraff: Er «Ørkenmorderen» uskyldig?</title>
+      <description><![CDATA[Nå stormer det rundt den kontroversielle straffemetoden. En av dem som venter på å dø er David Wood.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/917baa75-9986-419b-bbaa-759986619b89_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/917baa75-9986-419b-bbaa-759986619b89_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:12</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K8kNhV2nCsaicWlTG98-5AGBT7pQDUz0w9NmcfV0ou0Q.jpg"/>
+    </item>
     <item>
       <title>Derfor stormer det rundt Document-sjefen</title>
       <description><![CDATA[Hvorfor er presse-Norge i strupen på redaktøren?]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>50:35</itunes:duration>
       <pubDate>Sun, 30 Aug 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PkHFNu-6MCMU-R0dKKRgLwBXEx3t93zaT7Vc_983sgKg.jpg"/>
-    </item>
-    <item>
-      <title>Øyeblikkene folket husker</title>
-      <description><![CDATA[Folk forteller om minnene som sitter igjen etter kong Harald.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c647ac82-0d98-4c69-87ac-820d987c69e3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c647ac82-0d98-4c69-87ac-820d987c69e3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:22</itunes:duration>
-      <pubDate>Sat, 29 Aug 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/s1mAM-8HGTlakTnnVxf7NQH192eVLrWs5bMjYoirb5ww.jpg"/>
     </item>
   </channel>
 </rss>

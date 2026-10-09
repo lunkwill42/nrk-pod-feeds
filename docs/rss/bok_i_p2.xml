@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 02 Oct 2026 05:43:23 +0000</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:14:16 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Line Baugstø: Demens og skilsmisse</title>
+      <description><![CDATA[Hennes mann ble syk og døde. Midt i sorgen skrev Line Baugstø en underholdende roman om skilsmisse og demens.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/915a26e2-7a6d-4578-9e4a-4368e7e4496e_26e20a04-7ac4-4f5c-90d1-3016247a46cf_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/915a26e2-7a6d-4578-9e4a-4368e7e4496e_26e20a04-7ac4-4f5c-90d1-3016247a46cf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:02</itunes:duration>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/sof0gn8mhk4hmmieDEw5fwP2Fkgr7PukbDXWD8ch5JMg.jpg"/>
+    </item>
     <item>
       <title>Kim Leine: Sekt, overgrep, røtter</title>
       <description><![CDATA[I «Olavs hus» graver Kim Leine i sin mørke slektshistorie. Fra fjøshore til brutal overlevelse.]]></description>
@@ -287,16 +296,6 @@ Romanen «Sjelesorg» er nominert til Lytternes Romanpris]]></description>
       <itunes:duration>57:31</itunes:duration>
       <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aeZWsFiJI1VoqprQVz-1dwqfpaWjIYCyP3sjkLwaYDDA.jpg"/>
-    </item>
-    <item>
-      <title>Marte Magnusdotter Solem: Når mor tar over</title>
-      <description><![CDATA[- Det skal gjøre vondt hos leseren, sier Solem. Hun skriver om en mors smerte og frykt når barnet tar for stor plass.  
-Romanen «Gustav» er nominert til Lytternes romanpris 2025]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/d62b0ba3-73e1-49e6-ab0b-a373e149e69f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/d62b0ba3-73e1-49e6-ab0b-a373e149e69f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7PP0jS4Fq-guOtxd4mtDfwU4UtVtEtHdIbbTIkbAJpyQ.jpg"/>
     </item>
   </channel>
 </rss>
