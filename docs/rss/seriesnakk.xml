@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:11:29 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:33:21 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw.jpg"/>
+    <item>
+      <title>– Joakim er ikke slem (3:4)</title>
+      <description><![CDATA[Deniz Kaya forsvarer rollefiguren sin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/467bff47-a7cc-4fa1-bbff-47a7cc8fa15d_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/467bff47-a7cc-4fa1-bbff-47a7cc8fa15d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/dBa60zUNzuJS6vtmJE8ClA4MGN6BpjNv1YZxeKMRdHhw.jpg"/>
+    </item>
     <item>
       <title>– Det såreste av det såre (2:4)</title>
       <description><![CDATA[Sofia Tjelta forteller om vond søskenkjærlighet i «LIS».]]></description>
@@ -284,15 +293,6 @@ Espen Lind har komponert musikken.]]></description>
       <itunes:duration>29:45</itunes:duration>
       <pubDate>Sat, 15 Mar 2025 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/PVGWYpCWJirsoMG0SF96ZASpBiHi62iF4TFQO1OVLHAg.jpg"/>
-    </item>
-    <item>
-      <title>Seriesnakk: Familien Nerdrum</title>
-      <description><![CDATA[Öde mistet sin beste venn. Odd fikk en far som 50-åring. Regissør Linn ble usynlig. Kunstkritiker Mona mener Odd har rett til å være sur.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/seriesnakk/95e5bfed-5be4-4a13-9bd6-01bb93d47382_0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/seriesnakk/95e5bfed-5be4-4a13-9bd6-01bb93d47382_0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:52:20</itunes:duration>
-      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9g9re6OagHX2w2JC1MDqJgdWzEmOkjxCj7FyV0ceiYgQ.jpg"/>
     </item>
   </channel>
 </rss>
