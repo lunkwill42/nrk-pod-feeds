@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:15:43 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:53:00 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Eksistensen går forut for essensen</title>
+      <description><![CDATA[Du må selv skape ditt liv]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/ded263a4-43ee-45b0-9263-a443ee25b0e4_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ded263a4-43ee-45b0-9263-a443ee25b0e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:40</itunes:duration>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Intelligent liv i MAGA</title>
       <description><![CDATA[Om tenkerne og ideene bak den mektige MAGA-bevegelsen]]></description>
@@ -273,15 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>09:03</itunes:duration>
       <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Den onde (2:3)</title>
-      <description><![CDATA[På vei mot en tommere og dummere verden?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/48bdf65f-d7e8-42ff-bdf6-5fd7e8b2ff4c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/48bdf65f-d7e8-42ff-bdf6-5fd7e8b2ff4c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:40</itunes:duration>
-      <pubDate>Wed, 06 May 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
     </item>
   </channel>
 </rss>
