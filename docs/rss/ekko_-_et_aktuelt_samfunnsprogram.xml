@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:32:25 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 13:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:50:02 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>- Menn må ta samtalen</title>
+      <description><![CDATA[Hvorfor snakker ikke flere menn om overgrep? Seksuelle overgrep er et stort samfunnsproblem, men det er ofte kvinnene selv som må løfte debatten. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/22e7de41-cb2d-447f-aff0-8eb6c1a12959_ce12d493-aea3-4401-bf48-e6269f6c186d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/22e7de41-cb2d-447f-aff0-8eb6c1a12959_ce12d493-aea3-4401-bf48-e6269f6c186d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:31</itunes:duration>
+      <pubDate>Mon, 12 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-9J2l_prmEvQRwch1isODAbIkoFLd01yOH3tpw6CCvJg.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: På friarferd igjen</title>
       <description><![CDATA[Trump dansar på nye folkemøte før mellomvalet, men er historisk upopulær. Vi ser på kontrastane i USA før valet.
@@ -273,15 +282,6 @@
       <itunes:duration>23:49</itunes:duration>
       <pubDate>Wed, 19 Aug 2026 13:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/chvuyNtGI48PI3897NtpvAR2H4zJuSJ6GTZhiOStyUvg.jpg"/>
-    </item>
-    <item>
-      <title>Kva kosta Talibans «fred»?</title>
-      <description><![CDATA[Det er mindre væpna konflikt i Afghanistan, men freden har kosta folket kvinnerettar, ytringsfridom og rettstryggleik.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3d9be5b4-840e-4fa4-9be5-b4840e0fa404_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3d9be5b4-840e-4fa4-9be5-b4840e0fa404_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:02</itunes:duration>
-      <pubDate>Tue, 18 Aug 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/R2reCuKa-xHdKOimY045fw5oX5I3GkzmlqGhz-tytHBw.jpg"/>
     </item>
   </channel>
 </rss>
