@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:20:03 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 11:30:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:17:18 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Du får bedre helse av å lese</title>
+      <description><![CDATA[Forskere ser at hjernen fysisk styrkes. Dessuten, menneskeceller opereres inn i mus. Og KI har tråkket over en grense]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/b5474e37-ce04-4e64-874e-37ce041e643c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:35</itunes:duration>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Hvordan lader du mobilen perfekt?</title>
       <description><![CDATA[Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?]]></description>
@@ -280,15 +289,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:25</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/brHXQJ1UULA6YA4YAbxlQw2WPpKxLcC0FoA7oMQXZfAw.jpg"/>
-    </item>
-    <item>
-      <title>Når myggen elsker myggspray</title>
-      <description><![CDATA[Forsøk viser at mygg forbinder myggspraylukt med mat. Humler er også overraskende smarte. Og duer bruker leveren til å finne veien hjem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1645b7a7-0444-4df5-85b7-a704442df5af_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1645b7a7-0444-4df5-85b7-a704442df5af_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:35</itunes:duration>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>

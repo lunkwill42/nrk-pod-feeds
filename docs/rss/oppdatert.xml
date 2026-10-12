@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:20:41 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:17:57 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Mystisk innbruddsbølge: Står fremmed makt bak?</title>
+      <description><![CDATA[Over 20 finske toppolitikere har opplevd mystiske innbrudd i hjemmene deres. Nå slår politiet alarm.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/91fd8484-ad4f-4016-bd84-84ad4f1016bf_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/91fd8484-ad4f-4016-bd84-84ad4f1016bf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:22</itunes:duration>
+      <pubDate>Mon, 12 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rcKFOwh-GcthnwfX6Hgg4A4jsmSSzW11j8EMbqf13zyw.jpg"/>
+    </item>
     <item>
       <title>Manchester City-dommen: Juksa de seg til topps?</title>
       <description><![CDATA[En av verdens beste fotballklubber står midt i en massiv skandale.]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>19:43</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KIt-OZ6qmMmlNVMn3wL3yAZp410f9pNfttrTkwkxYQaA.jpg"/>
-    </item>
-    <item>
-      <title>Slottet: Fra elite til «folkets leirbål»</title>
-      <description><![CDATA[Da det kongelige slott ble bygget, var det ikke gitt at det skulle bli folkets samlingspunkt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/c7eca9a9-4cf9-418a-aca9-a94cf9b18ad7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c7eca9a9-4cf9-418a-aca9-a94cf9b18ad7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:15</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/R-IKwvwD0D-fgtkaBYx2cQgxDSPdWPkIuztOGcoWcHxQ.jpg"/>
     </item>
   </channel>
 </rss>
