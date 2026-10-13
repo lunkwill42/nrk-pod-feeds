@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 11 Oct 2026 05:52:51 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:29:40 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Eva B. Ragde: Rikt liv alene</title>
+      <description><![CDATA[Krimtekniker Eva B. Ragde trives godt alene. Hun deler sine beste tips til hvordan man kan leve et rikt liv som singel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1903d01a-0a3d-4e9f-83d0-1a0a3d0e9fa1_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1903d01a-0a3d-4e9f-83d0-1a0a3d0e9fa1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:17</itunes:duration>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4BZjgGJRzbSnSndZJwaM-AMoE5ZpT3Gd0C0Nqp5fXh-A.jpg"/>
+    </item>
     <item>
       <title>Panelet: Rollespill og tungeskrubb</title>
       <description><![CDATA[Panelet forteller om "delulu-uke". Hvor ærlig kan man være om kjærestens klesstil, og hva kan man gjøre for å spice opp sexlivet?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>53:38</itunes:duration>
       <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yBC4IIY6Y22N3CVRRu-jZgLusWiiuG475RvL6Uk-Mz6A.jpg"/>
-    </item>
-    <item>
-      <title>Lubna Jaffery: Kjærlighet og selvtillit</title>
-      <description><![CDATA[Lubna Jaffery forteller om kjærlighetslivet – og hvordan selvtilliten har påvirket valg av partner og egne grenser.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2005c043-d07d-49fd-85c0-43d07d69fd09_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2005c043-d07d-49fd-85c0-43d07d69fd09_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:11</itunes:duration>
-      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w19U1WcA54GOax_wQVqKPgZoJ1K0_UWjjphA3Bpvg0oA.jpg"/>
     </item>
   </channel>
 </rss>
