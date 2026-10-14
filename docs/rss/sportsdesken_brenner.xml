@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:45:23 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:42:14 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Fire m-høns</title>
+      <description><![CDATA[Rögle-spilleren Tinus Luc Koblar går i tydelig forvar for sin mor, City-fansen kjører på med en snart 40år gammel bananreferanse, og vi rangerer pep-talks.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/c984b6bf-792f-44de-b9da-b40aae870164_325c6a59-920a-4425-823f-aa8e74243942_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c984b6bf-792f-44de-b9da-b40aae870164_325c6a59-920a-4425-823f-aa8e74243942_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:21</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>Oliver Solberg hopper av i svingen</title>
       <description><![CDATA[Norge taper i Nations League og Oliver Solberg krasjer to svinger unna VM-gull. – Fytti fætta så jævlig dårlig!]]></description>
@@ -290,15 +299,6 @@ Espen og gjengen diskuterer hvor grensen går når tyske medier omtaler overvekt
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/0d8f40dc-f086-4563-8f40-dcf08645632f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:49</itunes:duration>
       <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
-    </item>
-    <item>
-      <title>Tromme tribuner i Bergen</title>
-      <description><![CDATA[Supporterne kjemper for stillhet på Brann stadion: – Det er jo ingen som heier på Brann fordi de er gode.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/96f1bb4f-6839-4618-b1bb-4f6839b618c5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/96f1bb4f-6839-4618-b1bb-4f6839b618c5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:08</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     </item>
   </channel>

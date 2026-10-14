@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:29:07 +0000</lastBuildDate>
-    <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:41:52 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Virtuell kokain </title>
+      <description><![CDATA[Tara har investert i en annerledes bukse, Abu har blitt til en katt (heldigvis kun i et spill). GTA 6 er rett rundt hjørnet – stappfullt av virtuell kokain!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/a1dbaaaa-f8ae-49a7-aaf5-76d582ee3505_91a0d720-7f9c-434d-9526-0f79cb31e0c5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/a1dbaaaa-f8ae-49a7-aaf5-76d582ee3505_91a0d720-7f9c-434d-9526-0f79cb31e0c5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:55</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Bart på barneskolen</title>
       <description><![CDATA[Noen har aldri trengt å vise leg på Vinmonopolet. Vi hjelper noen morrapulere i trassrådet.]]></description>
@@ -272,15 +281,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/f773de74-648b-4a9d-b3de-74648b5a9d8d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:17</itunes:duration>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Boller og nabopikk</title>
-      <description><![CDATA[Vi tester bollene fra Galvan sitt nye matkonsept! Kan man snakke med foreldre etter sex? Hva med å sutte på pikken til naboen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/e861d5f9-e7ff-4f14-a1d5-f9e7ffbf146f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/e861d5f9-e7ff-4f14-a1d5-f9e7ffbf146f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:51</itunes:duration>
-      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

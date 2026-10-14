@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:44:44 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:41:46 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
     <item>
+      <title>Medisinerer vi vanlig følelser?</title>
+      <description><![CDATA[Hjelper Paracet mot angst og uro? Og hvorfor øker bruken av legemidler blant unge? Lege Kari Løvendahl Mogstad svarer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/83b5ad1f-62df-4346-b5ad-1f62df234689_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/83b5ad1f-62df-4346-b5ad-1f62df234689_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:33</itunes:duration>
+      <pubDate>Wed, 14 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
+    <item>
       <title>Søskenflokken: Kan rekkefølgen definere deg?</title>
-      <description><![CDATA[Hvorfor har den eldste ofte høyest IQ? Utviklingspsykolog Frida Felicia Vennerød-Diesen forteller oss hvordan rollene vi har i søskenflokken påvirker oss.]]></description>
+      <description><![CDATA[Hvorfor har den eldste ofte høyest IQ? Forsker med doktorgrad i utviklingspsykologi Frida Felicia Vennerød-Diesen forteller oss hvordan rollene vi har i søskenflokken påvirker oss.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/19be2e7e-ad5f-4719-be2e-7ead5f671947_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/19be2e7e-ad5f-4719-be2e-7ead5f671947_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:07</itunes:duration>
@@ -273,15 +282,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:51</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 04:55:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Slik knakk jeg løpekoden</title>
-      <description><![CDATA[Det tok mange år, men i fjor ble Linnéa bitt av «løpebasillen». Hva var det som gjorde at løping gikk fra straff til ren glede?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/9d662281-b7fe-4700-a622-81b7fef7002c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/9d662281-b7fe-4700-a622-81b7fef7002c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:31</itunes:duration>
-      <pubDate>Fri, 13 Mar 2026 05:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
     </item>
   </channel>
