@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:46:36 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:29:00 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Seksuelt trakassert av en robot</title>
+      <description><![CDATA[Det er refleksens dag, og er refleks egentlig litt sexy? Jonas har oppgradert tacoen, og er på jakt etter flere taco-hacks]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/05914f59-6393-4841-8742-a2c57a190b03_95486fca-5d0a-4e50-ad58-0e30da1a9bd4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/05914f59-6393-4841-8742-a2c57a190b03_95486fca-5d0a-4e50-ad58-0e30da1a9bd4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:48</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw.jpg"/>
+    </item>
     <item>
       <title>Jonas lever Ole Brumm-drømmen</title>
       <description><![CDATA[Har Ole Brumm en håndgranat i rumpen, eller en sprettkniv i lommen? Vi feirer bjørnens 100-årsjubileum med litt mimring til upassende barnelåter.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>39:51</itunes:duration>
       <pubDate>Mon, 14 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Har du fingret en kanelstang?</title>
-      <description><![CDATA[Både Arin og Henning har en lookalike i Trondheim, og Jonas kjefter på fulle folk i trappoppgangen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c92e6f4c-40b5-484b-ae6f-4c40b5384ba1_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c92e6f4c-40b5-484b-ae6f-4c40b5384ba1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:34</itunes:duration>
-      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ.jpg"/>
     </item>
   </channel>
 </rss>

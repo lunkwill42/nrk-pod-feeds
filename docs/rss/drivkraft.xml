@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:46:08 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 13:54:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:28:24 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 15:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Snorre Klanderud</title>
+      <description><![CDATA[Vi satt i studio og drakk oss dritings sammen med kjendiser, forteller influenseren Snorrepus om tiden i podkasten "Kontoret", som han drev sammen med Oskar Westerlin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/197fb3e5-3dce-47ab-b39a-2c3fa4f200e0_7f1ab391-9677-4263-837f-d794b7e6de60_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/197fb3e5-3dce-47ab-b39a-2c3fa4f200e0_7f1ab391-9677-4263-837f-d794b7e6de60_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:22</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ZVl4KNq49ciLj5nxFqxqgg6OCUrmo092lc4vDLc0htcg.jpg"/>
+    </item>
     <item>
       <title>Linda Eide</title>
       <description><![CDATA[– Eg har pådratt meg hjernerysting for eit godt sjov, fortel programleiaren som er perfeksjonist. ]]></description>
@@ -273,15 +282,6 @@
       <itunes:duration>57:04</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/LsYOjooFx0F1NbHClnmu_Ad1b76ewfv4j8KgwVZQZ4og.jpg"/>
-    </item>
-    <item>
-      <title>Rune Bratseth</title>
-      <description><![CDATA[- Treningen med søppelsekker var ikke så idiotisk som man skulle tro, mener landslagskapteinen fra VM i fotball i 1994]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/4098aa9f-371c-4a95-98aa-9f371c8a9562_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/4098aa9f-371c-4a95-98aa-9f371c8a9562_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 12:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ftDrUzRI6UdEMnCjZG0YlgSOOcahsPihf-dYypBxs4fQ.jpg"/>
     </item>
   </channel>
 </rss>

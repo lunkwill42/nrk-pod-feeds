@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:46:43 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:29:11 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus redda kvinne med mensen</title>
+      <description><![CDATA[Hvem lager den beste låta basert på en gate, hva synes vi om at isbilen er lagt ned og Finn Glede kommer innom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/f674225e-9c80-4f26-b422-5e9c80ff262c_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f674225e-9c80-4f26-b422-5e9c80ff262c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:59</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel elsker excel og hater snø</title>
       <description><![CDATA[Finn Glede intervjuer "Jan Eggum", Anna kom for seint på grunn av vaffelsteking og Daniel er klimaflytkning som hater snø.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/3d742924-c789-446b-b429-24c789d46b2d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:09</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Tisser ikke i andres dusj</title>
-      <description><![CDATA[Daniel røper litt om privatlivet sitt, Markus er (som vanlig) misfornøyd med pizzaen vi får på jobb og er kamskjell godt?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/01669b76-b38a-4d24-a69b-76b38aed2431_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/01669b76-b38a-4d24-a69b-76b38aed2431_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:11</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
