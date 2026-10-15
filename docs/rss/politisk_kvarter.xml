@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:42:04 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 08:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:30:48 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 08:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Grønt lys for midlertidig dumping av gruveavfall i Førdefjorden</title>
+      <description><![CDATA[Regjeringen tillater 4,5 millioner tonn med gruveavfall i i Førdefjorden. Trosser klimaministeren høyesterett?  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/0378324c-4b3d-4417-bb66-ed320d724149_0745b0ed-c135-4c60-aa49-01d5cefa6085_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0378324c-4b3d-4417-bb66-ed320d724149_0745b0ed-c135-4c60-aa49-01d5cefa6085_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QOXPq11BvK26KyiSOdIMxwJeXKbSMA_sIO267pHoI1SA.jpg"/>
+    </item>
     <item>
       <title>Har vi for mange kommuner?</title>
       <description><![CDATA[Regjeringen vil hjelpe kommuner som slår seg sammen, og de som blir størst får mest.
@@ -285,15 +294,6 @@ Politiet mistenker at kriminelle nettverk har fått tilgang til både sårbare b
       <itunes:duration>15:06</itunes:duration>
       <pubDate>Fri, 04 Sep 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/eGm7KIwxoxd1lKbb-eAsBAwbI2lS4lW4Ol9ZIj0kVrVA.jpg"/>
-    </item>
-    <item>
-      <title>Politisk sørgepause</title>
-      <description><![CDATA[Sørgereglar set grenser for politikken. Sp vil mjuke opp. Oslo MDG vil lukke kveldens nominasjonsmøte.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/ae9840c3-19e4-48ad-9840-c319e4b8adca_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ae9840c3-19e4-48ad-9840-c319e4b8adca_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:01</itunes:duration>
-      <pubDate>Thu, 03 Sep 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kM0OX72SFrYs0o1UeVclww5kGTtDYNMlu_7klIB--z8Q.jpg"/>
     </item>
   </channel>
 </rss>
