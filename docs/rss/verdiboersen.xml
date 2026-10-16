@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 11 Oct 2026 05:53:00 +0000</lastBuildDate>
-    <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:32:51 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Elon Musk endrer verden</title>
+      <description><![CDATA[Hva er Musk et symbol på?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/8b001b39-ad1f-48b5-8887-960d335eab3e_d1d9fa20-d0f2-4ecd-a37a-12ea372a6974_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8b001b39-ad1f-48b5-8887-960d335eab3e_d1d9fa20-d0f2-4ecd-a37a-12ea372a6974_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:55</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Eksistensen går forut for essensen</title>
       <description><![CDATA[Du må selv skape ditt liv]]></description>
@@ -273,15 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>56:27</itunes:duration>
       <pubDate>Fri, 15 May 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
-    </item>
-    <item>
-      <title>Dyrk din hage</title>
-      <description><![CDATA[Hva mente  Voltaire med "Dyrk din hage"?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/0352db34-87ab-4320-92db-3487abd320cb_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0352db34-87ab-4320-92db-3487abd320cb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:03</itunes:duration>
-      <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
   </channel>
 </rss>

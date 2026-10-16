@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:17:18 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:31:43 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Har maneter det gøy?</title>
+      <description><![CDATA[Skulle tro humor krever ryggrad.
+Går du omkring og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende eksperter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:30</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TNVVmByORxGCwOHVQ5rHQA_-IZWHCAUhF_Ewp0S743KQ.jpg"/>
+    </item>
     <item>
       <title>Du får bedre helse av å lese</title>
       <description><![CDATA[Forskere ser at hjernen fysisk styrkes. Dessuten, menneskeceller opereres inn i mus. Og KI har tråkket over en grense]]></description>
@@ -280,15 +290,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/o39sckMxwRPxNkGaac62TwibAZjwsERBMyMVF_iIWeaA.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan finner skreien veien?</title>
-      <description><![CDATA[Abels tårn er på turné  - denne gangen fra Norges gamle navle: Kabelvåg.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4ac3fcf0-60e0-4f30-83fc-f060e0cf305e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:25</itunes:duration>
-      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/brHXQJ1UULA6YA4YAbxlQw2WPpKxLcC0FoA7oMQXZfAw.jpg"/>
     </item>
   </channel>
 </rss>
