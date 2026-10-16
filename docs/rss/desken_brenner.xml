@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:14:29 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:14:30 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>En nærhandels død</title>
+      <description><![CDATA[En ny avtale helle diesel på bålet til Trump og Putin. Jorda roterer raskere. Nærbutikkene står i fare etter statsbudsjettforslaget. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/359a2f4b-cf14-4196-84cf-fca699347fe1_c50b8ba6-86ac-4708-a7b3-ec2197aa5e29_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/359a2f4b-cf14-4196-84cf-fca699347fe1_c50b8ba6-86ac-4708-a7b3-ec2197aa5e29_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:06</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Helt vanlig amerikansk college-kultur</title>
       <description><![CDATA[Cornell-saken ryster en hel verden. De finske parlamentsmedlemmene lurer på hvem som har bæsja i doen deres. Lokførerstreiken toger videre.]]></description>
@@ -76,8 +85,8 @@
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
     <item>
-      <title>Hjemmekontorets død</title>
-      <description><![CDATA[Hjemmekontorets tid er forbi. Netthets mot ungdomspolitiker eskalerer. Skrekkbilder på røykpakker er tilbake.]]></description>
+      <title>Hjemmekontor (2020–2026)</title>
+      <description><![CDATA[Hjemmekontoret er dødt. Netthets mot ungdomspolitiker eskalerer. Skrekkbilder på røykpakker er tilbake.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/658ecb87-7ba1-4794-8ecb-877ba1b7944e_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/658ecb87-7ba1-4794-8ecb-877ba1b7944e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:56</itunes:duration>
@@ -273,15 +282,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/83fed613-f30a-4c33-bed6-13f30a2c3348_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>40:48</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Et levende Mette-Mareritt</title>
-      <description><![CDATA[Vi har lest Epsteins e-poster, og det ser ikke bra ut :) Håkan (62) skulle trene på SATS, og det gikk ikke bra :(]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/64f60f93-2dd7-4dc1-b60f-932dd77dc1b1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/64f60f93-2dd7-4dc1-b60f-932dd77dc1b1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:50</itunes:duration>
-      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>

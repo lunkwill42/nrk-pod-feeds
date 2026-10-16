@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:41:46 +0000</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 05:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:15:09 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
     <item>
-      <title>Medisinerer vi vanlig følelser?</title>
+      <title>Linnéa leser: «Slutt å la alt gå innpå deg»</title>
+      <description><![CDATA[Funker selvhjelpsbøker? Linnéa drar oss gjennom «Slutt å la alt gå innpå deg» av Daniel Chidiac.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/036bff92-c38f-4848-abff-92c38f0848d4_700a2100-3b25-4132-a85e-363c5c8d52ab_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/036bff92-c38f-4848-abff-92c38f0848d4_700a2100-3b25-4132-a85e-363c5c8d52ab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:16</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EHd_j77WU-STdBipOc_pqgtGVWvFuPPzkCmKGT_2lGeg.jpg"/>
+    </item>
+    <item>
+      <title>Medisinerer vi vanlige følelser?</title>
       <description><![CDATA[Hjelper Paracet mot angst og uro? Og hvorfor øker bruken av legemidler blant unge? Lege Kari Løvendahl Mogstad svarer.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/83b5ad1f-62df-4346-b5ad-1f62df234689_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/83b5ad1f-62df-4346-b5ad-1f62df234689_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -274,15 +283,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <itunes:duration>34:04</itunes:duration>
       <pubDate>Wed, 18 Mar 2026 05:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Bonus: Hvordan skal vi snakke om ernæring?</title>
-      <description><![CDATA[«Ultraprosessert mat», «lavkarbo» og «fasting» er temaer veldig mange av podkastens lytterne ønsker at vi lager episoder om. Linnéa forklarer hvorfor det er vanskelig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/7e6f376d-d76d-42c6-af37-6dd76d92c6e4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>09:51</itunes:duration>
-      <pubDate>Wed, 18 Mar 2026 04:55:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
     </item>
   </channel>
 </rss>

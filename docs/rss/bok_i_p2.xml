@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:14:16 +0000</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:14:21 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Vetle Lid Larsen: – Vi er fortiden</title>
+      <description><![CDATA[Vetle Lid Larsen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:41</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oc-j01bax5flhpDElTFtnwuV0lY5Vvu9NrAksll68VeA.jpg"/>
+    </item>
     <item>
       <title>Line Baugstø: Demens og skilsmisse</title>
       <description><![CDATA[Hennes mann ble syk og døde. Midt i sorgen skrev Line Baugstø en underholdende roman om skilsmisse og demens.]]></description>
@@ -286,16 +295,6 @@ Boka «Svalene sover på månen» er nominert til Lytternes Romanpris 2025]]></d
       <itunes:duration>57:30</itunes:duration>
       <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/tIPAPEmkof7V39YvHjaetAV5DZF2w5clistqzVE_-67w.jpg"/>
-    </item>
-    <item>
-      <title>Dag Johan Haugerud: Sex eller trøst?</title>
-      <description><![CDATA[Forfatteren og filmskaperen Dag Johan Haugerud skriver om en homofil diakons tvil og vegring . 
-Romanen «Sjelesorg» er nominert til Lytternes Romanpris]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/bd8c1f45-3822-4ed2-8c1f-453822fed2c6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/bd8c1f45-3822-4ed2-8c1f-453822fed2c6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:31</itunes:duration>
-      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aeZWsFiJI1VoqprQVz-1dwqfpaWjIYCyP3sjkLwaYDDA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -760,7 +760,7 @@ const feeds = [
     "id": "kringkastingsorkestret_",
     "title": "De 30 siste fra Kringkastingsorkestret ",
     "season": "LATEST_SEASON",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "kroppen",
