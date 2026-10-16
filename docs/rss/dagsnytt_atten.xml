@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 15 Oct 2026 18:20:04 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:14:21 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Foxtrot-rettssaker</title>
+      <description><![CDATA[To unge nordmenn er henholdsvis dømt og tiltalt for drapsplanlegging, og kan ende med å bli straffet totalt ulikt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/119cf24f-497a-44a0-b3ab-08ffd53a9f3e_8375ad53-7de1-431f-8ee0-c7c86eda3f26_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/119cf24f-497a-44a0-b3ab-08ffd53a9f3e_8375ad53-7de1-431f-8ee0-c7c86eda3f26_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 16 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tF9fKZGZ28xh9aeyF4lthgvhqFAi_MXfku9qEL59bhnA.jpg"/>
+    </item>
     <item>
       <title>Ny rapport om oljefondets etikk</title>
       <description><![CDATA[Vil åpne for investeringer i selskaper som lager atomvåpen.]]></description>
@@ -274,15 +283,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>58:41</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZkngSOfo4rnlTt32Bl-4Lwzy8ykHFmwKkm0TzRpEoTaQ.jpg"/>
-    </item>
-    <item>
-      <title>Sikkerhet under kongens gravferd</title>
-      <description><![CDATA[Kong Haralds gravferd blir en av de største politioperasjonene i Norges historie. Politiet og PST har iverksatt mange sikkerhetstiltak.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/89386cae-adc7-444c-b86c-aeadc7644c71_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/89386cae-adc7-444c-b86c-aeadc7644c71_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Fri, 04 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-v30pgSC4U8FQtpXIQGMoQf-aIjbWqY2aREzuE0yf3yg.jpg"/>
     </item>
   </channel>
 </rss>
