@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:32:51 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:58:31 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title> Gjentar tysk historie seg?</title>
+      <description><![CDATA[AfD stormer fram. Nå trekkes paralleller til Weimar og 1932]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/79f02b65-e67f-4cbf-aea3-1d33a6eb8e2d_0b7b1662-1c1c-4ff5-95ca-01bad3e6e78c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/79f02b65-e67f-4cbf-aea3-1d33a6eb8e2d_0b7b1662-1c1c-4ff5-95ca-01bad3e6e78c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:00</itunes:duration>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Elon Musk endrer verden</title>
       <description><![CDATA[Hva er Musk et symbol på?]]></description>
@@ -273,15 +282,6 @@ Om 7 imperier som har formet verden.]]></description>
       <itunes:duration>56:11</itunes:duration>
       <pubDate>Thu, 21 May 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lZFO16IwAY4lGD_9yc3tJQzBk7Npwoyp438fIyFUP45A.jpg"/>
-    </item>
-    <item>
-      <title>Den gode (3:3)</title>
-      <description><![CDATA[Framtida er lys med superlykke, superintelligens og superlange liv!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/4e8a417d-820d-40ce-8a41-7d820d00cefe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/4e8a417d-820d-40ce-8a41-7d820d00cefe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:27</itunes:duration>
-      <pubDate>Fri, 15 May 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tEasKJP31tOywAM14xEQ8AxJOFtzVOWPDQTnLWHGVmVg.jpg"/>
     </item>
   </channel>
 </rss>
