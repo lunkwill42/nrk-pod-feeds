@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:28:24 +0000</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 15:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:30:24 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 13:30:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
     <item>
+      <title>Marstein</title>
+      <description><![CDATA[– Jeg har bedt til Gud i all hemmelighet, sier artisten, som er vokst opp med ateistiske foreldre]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/737c270e-9b60-46d7-af77-fae1fcd7ba7d_1703f194-d688-4899-a865-96c19d94fe17_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/737c270e-9b60-46d7-af77-fae1fcd7ba7d_1703f194-d688-4899-a865-96c19d94fe17_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 13:30:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/vR_MXeEPhPU-5QpEOukViQWCZEViRc7pc09ROOFj0RKw.jpg"/>
+    </item>
+    <item>
       <title>Snorre Klanderud</title>
-      <description><![CDATA[Vi satt i studio og drakk oss dritings sammen med kjendiser, forteller influenseren Snorrepus om tiden i podkasten "Kontoret", som han drev sammen med Oskar Westerlin.]]></description>
+      <description><![CDATA[– Vi satt i studio og drakk oss dritings sammen med kjendiser, forteller influenseren Snorrepus om tiden i podkasten "Kontoret", som han drev sammen med Oskar Westerlin.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/197fb3e5-3dce-47ab-b39a-2c3fa4f200e0_7f1ab391-9677-4263-837f-d794b7e6de60_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/197fb3e5-3dce-47ab-b39a-2c3fa4f200e0_7f1ab391-9677-4263-837f-d794b7e6de60_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:22</itunes:duration>
@@ -273,15 +282,6 @@
       <itunes:duration>56:56</itunes:duration>
       <pubDate>Wed, 17 Jun 2026 08:15:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/EVCdyW-ZDag_U7O9-mgTNAH1Sz976kXgEwAF8ZpwmZtQ.jpg"/>
-    </item>
-    <item>
-      <title>Anna Kirkengen</title>
-      <description><![CDATA[– Skammen var endeløs, forteller legen om oppveksten i Tyskland etter verdenskrig]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e0633070-4509-436e-a330-704509836e53_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e0633070-4509-436e-a330-704509836e53_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:04</itunes:duration>
-      <pubDate>Mon, 15 Jun 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LsYOjooFx0F1NbHClnmu_Ad1b76ewfv4j8KgwVZQZ4og.jpg"/>
     </item>
   </channel>
 </rss>
