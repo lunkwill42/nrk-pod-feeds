@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:14:21 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:23:49 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Opptøyer i Frankrike</title>
+      <description><![CDATA[Statsministeren har bedt flere kommuner om å innføre portforbud fra mandag kveld.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/748012c2-a01b-4882-9126-e4eb3df5a1a3_128ac313-a80f-4972-baaa-519b22914fc1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YoLhUbsCs45ez8kC4Dgh1gnYfGPfowOY0tgwiSAlkXDA.jpg"/>
+    </item>
     <item>
       <title>Foxtrot-rettssaker</title>
       <description><![CDATA[To unge nordmenn er henholdsvis dømt og tiltalt for drapsplanlegging, og kan ende med å bli straffet totalt ulikt.]]></description>
@@ -274,15 +283,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>58:47</itunes:duration>
       <pubDate>Tue, 08 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/bO9xjVjhQM-djcIrQ1BKFAk1siqfF_8-GyPmmpxQDIjg.jpg"/>
-    </item>
-    <item>
-      <title>AfD vant delstatsvalget i Sachsen-Anhalt</title>
-      <description><![CDATA[Ytre høyre-partiet fikk 43,8 prosent av stemmene i den tyske delstaten Sachsen-Anhalt. Nå vil EU granske delstatsvalget.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f395e663-e723-4047-95e6-63e723404738_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f395e663-e723-4047-95e6-63e723404738_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:41</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZkngSOfo4rnlTt32Bl-4Lwzy8ykHFmwKkm0TzRpEoTaQ.jpg"/>
     </item>
   </channel>
 </rss>
