@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:31:43 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:46:39 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Kjefter du på KI'en din?</title>
+      <description><![CDATA[Nå blir du utestengt hvis du er for slem. Dessuten, Jorda snurrer fortere. India har testet mobilforbud. Og verdens mest bråkete fugl er kåra]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:46</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Har maneter det gøy?</title>
       <description><![CDATA[Skulle tro humor krever ryggrad.
@@ -281,15 +290,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:35</itunes:duration>
       <pubDate>Fri, 10 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JHo-qc2_1GJzzjQTTmgqhAFuoZHLZ05csYLEoBxjpmAw.jpg"/>
-    </item>
-    <item>
-      <title>Suges man ut av et hull i romskipet?</title>
-      <description><![CDATA[... sånn som på film? Tårnet har kommet til Blåbyen Sortland, der alt mellom himmel og grav blir besvart av tre lokale eksperter! (+ en gravferdsagent)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/8aaae517-9d9a-4e32-aae5-179d9a3e3266_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8aaae517-9d9a-4e32-aae5-179d9a3e3266_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/o39sckMxwRPxNkGaac62TwibAZjwsERBMyMVF_iIWeaA.jpg"/>
     </item>
   </channel>
 </rss>

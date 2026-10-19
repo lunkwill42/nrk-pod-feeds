@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:17:25 +0000</lastBuildDate>
-    <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:46:48 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    <item>
+      <title>Kyss, klapp og klem</title>
+      <description><![CDATA[Erlend har kjøpt seg bil og Steinar har fått et syndrom. Og hva har podkast og porno til felles?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c62fbdbb-476f-4799-afbd-bb476f87997a_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/c62fbdbb-476f-4799-afbd-bb476f87997a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:17</itunes:duration>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
+    </item>
     <item>
       <title>Hele hjernen i Norge</title>
       <description><![CDATA[Hvor godt funker det å ha en taper som psykolog? Kan vi lære noe av KI-selskapenes dommedagsprofetier? Og Steinar har fått en «ick».]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/347b2391-a224-42fb-bb23-91a224b2fb82_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:24</itunes:duration>
       <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
-    </item>
-    <item>
-      <title>Bingo under bakken</title>
-      <description><![CDATA[Kan aliens spise oss med god samvittighet? Og tenketanken tar for seg en verden uten andre menn.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baade_erlend_og_steinar_/75e22874-1a55-4f48-a228-741a554f4823_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/75e22874-1a55-4f48-a228-741a554f4823_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:02:41</itunes:duration>
-      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA.jpg"/>
     </item>
   </channel>
