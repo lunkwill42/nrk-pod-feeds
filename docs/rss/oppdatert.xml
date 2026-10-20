@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:47:29 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:38:47 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Kampen om Førdefjorden: Derfor er det bråk igjen</title>
+      <description><![CDATA[En årelang konflikt har blusset opp på ny. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/3a0b187f-912b-49e1-9ea5-438aa66a2ee8_8746b196-207b-47d7-b35a-854b97001f0f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/3a0b187f-912b-49e1-9ea5-438aa66a2ee8_8746b196-207b-47d7-b35a-854b97001f0f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:56</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0GsiHhmEQQZ29m-8-SGP4gqEXnrpbAJjq74PYeTeBO3w.jpg"/>
+    </item>
     <item>
       <title>Eldrebølgen er her: Slik kan det bli i 2060</title>
       <description><![CDATA[I flere tiår har politikerne varslet om den kommende eldrebølgen. Nå er den her. Er vi forberedt?]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>16:22</itunes:duration>
       <pubDate>Thu, 10 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/DjMfxOYIDU_wN8Wh-el_tgkbp5p4dq8FIMK3qzXB0DwQ.jpg"/>
-    </item>
-    <item>
-      <title>Blått blod: Slik ble de Europas mektigste</title>
-      <description><![CDATA[Europas største kongeslekt samles nå i Norge. Hvem er de egentlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/17eab93b-f752-46f4-aab9-3bf75226f4de_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/17eab93b-f752-46f4-aab9-3bf75226f4de_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:56</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rnF_XXE4nVhcpOVWpwGl8AS9L0vbAsKAOD87JpsnIutg.jpg"/>
     </item>
   </channel>
 </rss>
