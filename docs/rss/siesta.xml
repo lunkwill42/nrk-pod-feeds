@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:30:45 +0000</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:35:42 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna hater motorsykler</title>
+      <description><![CDATA[Markus har en konspirasjon om en kjendis, Daniel har sett en mann med banan i plast og Anna er forbanna på motorsyklister.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/2008ae2e-2a54-4281-88ae-2e2a54a281f9_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/2008ae2e-2a54-4281-88ae-2e2a54a281f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:19</itunes:duration>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Anna kysser Daniels kjæreste</title>
       <description><![CDATA[Det blir ubehagelig når Daniel skal sitte i en cuckingstol, Finn Glede konfronterer Karsten Blomvik og ukas dumfette skal kåres.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/2c2e2006-2c58-4641-ae20-062c5876414f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:03</itunes:duration>
       <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Dr. Bergland kommer innom</title>
-      <description><![CDATA[Daniel skal få tips fra Dr. Bergland i ubehag, Mikke mus ringer oss og Anna klikker. Alt er som det pleier!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/020faa9f-4c81-4988-8faa-9f4c81498854_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/020faa9f-4c81-4988-8faa-9f4c81498854_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:07</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
