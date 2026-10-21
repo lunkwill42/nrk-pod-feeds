@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:35:11 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:51:16 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 13:45:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Lukkede samfunn med sterke ledere</title>
+      <description><![CDATA[TV-serie om livet på en gård i Bærum har skapt oppmerksomhet. Hva trekker folk mot til lukkede miljøer med en sterk leder?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/444e2253-99e6-4ce9-8f04-11dedc409149_2bd80fc6-1b6b-4e9f-bb49-273b5e8fd85b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/444e2253-99e6-4ce9-8f04-11dedc409149_2bd80fc6-1b6b-4e9f-bb49-273b5e8fd85b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:09</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 13:45:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Bsd3bvr5OgIIxy5nb08t2Q_GP0-nhbBTyo7ge1sR1YUg.jpg"/>
+    </item>
     <item>
       <title>Regissørar trua etter "NAZA"</title>
       <description><![CDATA[Dokumentarfilm vekkjer sinne i Israel, og regissørane tør ikkje reise heim igjen. Kva fortel dei sterke reaksjonane eigentleg?]]></description>
@@ -274,15 +284,6 @@
       <itunes:duration>53:19</itunes:duration>
       <pubDate>Mon, 31 Aug 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/buXWqUIC9kbo8lOMwealgg093hDoI_OWmL1nvnAwELKA.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: Carney slår tilbake</title>
-      <description><![CDATA[Har den kanadiske statsministeren Mark Carney no bana veg for ein ny måte å handtere Donald Trump på?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/96e6b870-d7b7-4ecc-a6b8-70d7b78ecc29_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/96e6b870-d7b7-4ecc-a6b8-70d7b78ecc29_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:12</itunes:duration>
-      <pubDate>Thu, 27 Aug 2026 13:23:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZwWsI-rEElq2HDXSH46qLwzI4Z4glXG3NydD25F-ulzw.jpg"/>
     </item>
   </channel>
 </rss>

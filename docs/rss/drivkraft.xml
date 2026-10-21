@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:35:03 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 13:50:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:51:08 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Mia Habib</title>
+      <description><![CDATA[– At familien min er fra Israel er noe jeg sjelden sier, forteller den jødiske danseren.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0q3UvyMkBontjbntla9NagKymPNr5kcfH6E1WUaGB2hw.jpg"/>
+    </item>
     <item>
       <title>Dag-Inge Ulstein</title>
       <description><![CDATA[Partilederen begynte å tvile på Gud da familien ble rammet av alvorlig sykdom,  og oppsøkte Snåsamannen.]]></description>
@@ -273,15 +282,6 @@
       <itunes:duration>57:17</itunes:duration>
       <pubDate>Thu, 18 Jun 2026 12:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Al1v0fsmPBhCUyl8m4ms3Qx38LPxjW3EcY2mUNAnXGrQ.jpg"/>
-    </item>
-    <item>
-      <title>Lasse Kristoffersen</title>
-      <description><![CDATA[– Frykten kommer til å henge i lenge, sier shippingtoppen om situasjonen i Hormusz-stredet]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/fac731b1-70f4-447a-8731-b170f4147a37_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/fac731b1-70f4-447a-8731-b170f4147a37_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:59</itunes:duration>
-      <pubDate>Wed, 17 Jun 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/rkKQ7OeiGO2yH5kZ6VrCDA-cQz7kUTvLe0sBK9Pq8_Fg.jpg"/>
     </item>
   </channel>
 </rss>
