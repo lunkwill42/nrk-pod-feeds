@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:38:41 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:43:12 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     <item>
-      <title>Å våkne fra narkose</title>
+      <title>Profetens fall </title>
+      <description><![CDATA[Hvem skal tro på at Jesus er Jesus, når han en dag kommer tilbake? Tara har hatt en barndom med både fluesopp og boller fra container. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/23521a4f-976d-4570-9ee4-f425823bf22b_e14e7826-a590-42e4-8300-6879aad3538d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/23521a4f-976d-4570-9ee4-f425823bf22b_e14e7826-a590-42e4-8300-6879aad3538d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:15</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
+    <item>
+      <title>- Venstresiden dreper humoren!</title>
       <description><![CDATA[Kan Tara være noens nærmeste pårørende? Ødelegger venstresida dagens humor? Vi hjelper noen morrapulere i trassrådet,]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/01dd8506-41fa-4f23-ae65-e353633c7e07_bb1356ff-42ea-4c98-81da-3bc7d84c30a4_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/01dd8506-41fa-4f23-ae65-e353633c7e07_bb1356ff-42ea-4c98-81da-3bc7d84c30a4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -272,15 +281,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/872a72e3-a1df-4d21-aa72-e3a1dfbd218d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>36:14</itunes:duration>
       <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Fra journalist til influencer</title>
-      <description><![CDATA[Sønnen til Tara bæsjer på gulvet og vi elsker bidè! Vil journalister egentlig bare bli influencere? Episoden er spilt inn onsdag denne uken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/17f6ec6f-60d2-480f-b6ec-6f60d2480f50_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/17f6ec6f-60d2-480f-b6ec-6f60d2480f50_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:16</itunes:duration>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

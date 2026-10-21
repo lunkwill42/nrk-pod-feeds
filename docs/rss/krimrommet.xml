@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:14:53 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:42:55 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 06:40:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Tenåring dømt: Skulle drepe på bestilling</title>
+      <description><![CDATA[19-åringen fra Stavanger ble fjernstyrt av Foxtrot. Nå risikerer han å sitte 20 år i britisk fengsel. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/a10328e3-0fae-4216-abec-833aa661281a_f85364ec-1b2c-4b3a-8aa7-c3efcd627a6d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/a10328e3-0fae-4216-abec-833aa661281a_f85364ec-1b2c-4b3a-8aa7-c3efcd627a6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:15</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 06:40:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/5SAiBevJw_8dG3AUTI5CfQx0itjJcO63wySFkmJpqwsw.jpg"/>
+    </item>
     <item>
       <title>Kvinnen som ikke vil dø</title>
       <description><![CDATA[Christa Gail Pike blir dømt til døden, og føres inn i et henrettelseskammer. Men så går noe galt.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>25:30</itunes:duration>
       <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WceISvijLwdAAc2e7Ibq4QWDtr16tQhKnqbpp-qLchBw.jpg"/>
-    </item>
-    <item>
-      <title>Bensindrapet i Porsgrunn</title>
-      <description><![CDATA[Kjetil Mathisen heller bensin over kjæresten sin og tenner på. Noen måneder senere dør kompisen hans. Hva skjedde egentlig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/f98f8a8d-5045-45db-8f8a-8d504565db88_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f98f8a8d-5045-45db-8f8a-8d504565db88_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:40</itunes:duration>
-      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZpCqrB6hTATxyrybWOjF0wmEvnIy5M-Npe74zZFSdQyQ.jpg"/>
     </item>
   </channel>
 </rss>
