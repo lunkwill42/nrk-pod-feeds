@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:29:21 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:41:09 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Russland vil gjenoppta forhandlinger</title>
+      <description><![CDATA[Russland ønsker å starte forhandlinger med USA og Ukraina i november. Samtalene kan finne sted i Abu Dhabi i De forente arabiske emirater,.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/d8b8f04e-0019-4961-b613-a7fa619054f3_86bf047e-e125-4588-90e7-4d9d5eb7d9d1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d8b8f04e-0019-4961-b613-a7fa619054f3_86bf047e-e125-4588-90e7-4d9d5eb7d9d1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:51</itunes:duration>
+      <pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/c35YXeTYNskvayHhDvSe7wo4RYbFrb_z5EJ0dgR2FQ_Q.jpg"/>
+    </item>
     <item>
       <title>Ukraina-samtaler i Norge</title>
       <description><![CDATA[Ukrainas president Volodymyr Zelenskyj og USAs spesialutsending Steve Witkoff møtes i regjeringens representasjonsbolig i Parkveien i Oslo, sammen med statsminister Jonas Gahr Støre (Ap) og Finlands president Alexander Stubb.]]></description>
@@ -274,15 +283,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Thu, 10 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/JklHD4rehdwlmznkIVGYNQiN5uUh9xiDYcL6YVXfR1Kw.jpg"/>
-    </item>
-    <item>
-      <title>Kong Haralds gravferd</title>
-      <description><![CDATA[I dag ble kong Harald bisatt i Oslo domkirke etter sørgeprosesjonen gjennom byen. Senere møtte kongefamilien folket fra Slottsbalkongen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w1bdcXUtIJ5WEJx7VNqTFgFzsD8YAPmE3NLLgPv8_gjg.jpg"/>
     </item>
   </channel>
 </rss>
