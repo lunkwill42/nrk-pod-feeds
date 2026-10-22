@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:41:09 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:34:11 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ungdomsprotester i Europa</title>
+      <description><![CDATA[I Serbia ventes store demonstrasjoner før søndagens parlamentsvalg. I Albania er de unge ansvarlige for voldsomme protester mot presidenten.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/90f57a6b-0f54-46ec-aafe-1df7a71abcc3_360212d8-5e22-4ccb-9a91-9074f25e39ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/90f57a6b-0f54-46ec-aafe-1df7a71abcc3_360212d8-5e22-4ccb-9a91-9074f25e39ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:00</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/3p903HkYV5kZr3koFErmxgF_OPYmq34mb5_h69JTvX9Q.jpg"/>
+    </item>
     <item>
       <title>Russland vil gjenoppta forhandlinger</title>
       <description><![CDATA[Russland ønsker å starte forhandlinger med USA og Ukraina i november. Samtalene kan finne sted i Abu Dhabi i De forente arabiske emirater,.]]></description>
@@ -274,15 +283,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pHxgOR-tNKQxeERnpiW5Hw8plzpWyq2rR4V02XD8p1mQ.jpg"/>
-    </item>
-    <item>
-      <title>Nedgangen i lesing og regning fortsetter</title>
-      <description><![CDATA[Én av tre norske 15-åringer kan ikke lese ordentlig.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 10 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JklHD4rehdwlmznkIVGYNQiN5uUh9xiDYcL6YVXfR1Kw.jpg"/>
     </item>
   </channel>
 </rss>
