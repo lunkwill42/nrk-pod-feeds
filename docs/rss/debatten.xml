@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:19:51 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 22:05:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:22:09 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 22:02:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Duell-spesial: Seks dueller</title>
+      <description><![CDATA[Monarkiets fremtid, innvandring og opptøyer i Frankrike. Det var to av de seks duellene i Debatten i kveld. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/8cb7f623-d8e5-4d07-90c9-d38d16564074_942a8567-b51e-4454-beae-b4b075b244a4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/8cb7f623-d8e5-4d07-90c9-d38d16564074_942a8567-b51e-4454-beae-b4b075b244a4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:13</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 22:02:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fc326gihxdKvUFN8iDyYdQoMZwbPdwatKrHJl0TudD6Q.jpg"/>
+    </item>
     <item>
       <title>Kan vi stole på USA?</title>
       <description><![CDATA[Og hva skjer videre i Ukraina/Russland-konflikten; er det første steget mot fred tatt?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/7f1943ba-5dff-46a8-9943-ba5dffc6a84e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:27</itunes:duration>
       <pubDate>Thu, 26 Mar 2026 22:40:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Kronprinsessen og mediene</title>
-      <description><![CDATA[Hvorfor jager pressen nye svar fra kronprinsesse Mette-Marit om kontakten med den den dømte overgripere Jeffrey Epstein?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/bf6b0b4e-c17c-4565-ab0b-4ec17cf56526_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/bf6b0b4e-c17c-4565-ab0b-4ec17cf56526_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:56</itunes:duration>
-      <pubDate>Tue, 24 Mar 2026 22:40:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>
