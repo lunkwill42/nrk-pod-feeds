@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:39:03 +0000</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:39:42 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Carina Dahl: Å forsikre seg</title>
+      <description><![CDATA[Carina Dahl fikk et ekstra stort behov for å forsikre seg om at hun hadde valgt riktig partner før hun gikk inn i et seriøst forhold.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5b27d938-251e-406c-9015-96bafa125e19_bdd10b5a-273c-4df8-b872-188f3970392d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5b27d938-251e-406c-9015-96bafa125e19_bdd10b5a-273c-4df8-b872-188f3970392d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:06</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qLAFCKtMKGL_nz9i1iw6RwnE0OMKi6H4XsH2Yg-rc5YA.jpg"/>
+    </item>
     <item>
       <title>Gard Øksendal: Jobbe med seg selv</title>
       <description><![CDATA[Gard Øksendal, «MankeGard», om angst, dårlig selvfølelse og veien til kjærligheten – og hvordan det å jobbe med seg selv kan endre alt.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>44:17</itunes:duration>
       <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
-    </item>
-    <item>
-      <title>Solveig Kloppen: Når barna flytter</title>
-      <description><![CDATA[Solveig Kloppen forteller om møtet med ektemannen, småbarnsfasen og hvordan det er når barna flytter ut.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/905df1dd-7fd7-421c-9df1-dd7fd7c21cb0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/905df1dd-7fd7-421c-9df1-dd7fd7c21cb0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:47</itunes:duration>
-      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/w47fAbwF7yiYpe1ImuH97wpqz7uWNfysFW-DP9L1aMNQ.jpg"/>
     </item>
   </channel>
 </rss>

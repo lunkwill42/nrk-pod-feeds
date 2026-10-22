@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:42:50 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:38:41 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Togansatte får kurs i selvforsvar</title>
+      <description><![CDATA[Og sprøytemidler i landbruket kobles til parkinson sykdom.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/51e7165d-dbfc-41e7-91fc-29bb14e72e53_322547be-4300-40fa-9bc5-0e5621055b1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/51e7165d-dbfc-41e7-91fc-29bb14e72e53_322547be-4300-40fa-9bc5-0e5621055b1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>05:51</itunes:duration>
+      <pubDate>Thu, 22 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/fTNt7ocngBM1Q-KA9Ni4KwTew7a4UALiu6dSM1li6ckg.jpg"/>
+    </item>
     <item>
       <title>Prosessen mot fred i Ukraina er «back on track»</title>
       <description><![CDATA[Og nå kan unge voksne måtte betale gebyr hos tannlegen.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>05:54</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xHDeLXa5E4IfkAsol_Sm6QGZcfUlqTU6Piv1ADFO8REA.jpg"/>
-    </item>
-    <item>
-      <title>Ny kamp om billigere bensin og diesel</title>
-      <description><![CDATA[Og i dag er det verdensdagen for selvmordsforebygging.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/6da79acd-9139-4c45-a79a-cd91395c45dc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6da79acd-9139-4c45-a79a-cd91395c45dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:17</itunes:duration>
-      <pubDate>Thu, 10 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/NNsKf5EUouVZKPcgt6XMtA5Y96oDc4TdIn5RO1RYynFA.jpg"/>
     </item>
   </channel>
 </rss>
