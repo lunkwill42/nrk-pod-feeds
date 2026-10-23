@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:50:38 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:30:01 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 10:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Jonas er nervøs før familietur</title>
+      <description><![CDATA[Olav Svarstad Haugland er supervikar! Jonas er bekymret for at han skal på familietur hvor alle er voksne. Hvordan sørge for at det ikke blir krangler?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/de71c0e9-6f3d-4811-b06e-0edc29f3a5ef_a4c55db8-d55e-4f67-909a-eaf4c47feffc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/de71c0e9-6f3d-4811-b06e-0edc29f3a5ef_a4c55db8-d55e-4f67-909a-eaf4c47feffc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:13</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lszShehf7xFnisj0ik8W0AWB2bdyf2-DaMKZgLZu_b1Q.jpg"/>
+    </item>
     <item>
       <title>Elsparkesykkel-lureri!</title>
       <description><![CDATA[Oliver Bergset er gjesteprogramleder i dag, han er med i Norges dummeste, og vi skal sjekke om han også er P3morgens dummeste. Han og Jonas føler seg også dumme på elsparkesykkel ]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>40:10</itunes:duration>
       <pubDate>Thu, 17 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QCWSg-ThjXEY8xuolJyh4Qxr1gz01dfixSZh_-Ux2Fxg.jpg"/>
-    </item>
-    <item>
-      <title>B-Mennesker: P3morgen cinematic univers blir utvidet</title>
-      <description><![CDATA[Prosjektleder Sofie Johansen har permiere i podkasten, vi snakker om grunnloven og andre mer interessante ting]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/714a9659-ca5e-463c-aefc-dd49311179c5_6e90b601-c7b9-4d66-8440-c77b6efef322_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/714a9659-ca5e-463c-aefc-dd49311179c5_6e90b601-c7b9-4d66-8440-c77b6efef322_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:33</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     </item>
   </channel>
 </rss>

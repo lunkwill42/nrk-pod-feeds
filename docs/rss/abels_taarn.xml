@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:42:32 +0000</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:29:35 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Hvor kjipe virus kan KI lage?</title>
+      <description><![CDATA[Ønsket om å ødelegge kan være et tegn på intelligens.
+Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Wx2syOvBm-49CjZs_yMQ_gaVids7u85Eu_3Gp1yAWbEg.jpg"/>
+    </item>
     <item>
       <title>Vasker du hjemmet ditt feil?</title>
       <description><![CDATA[Det lukter friskt men er egentlig helsefarlig. Dessuten, atomkjerneuret er snart her, og minilunger kan brukes i neste pandemi]]></description>
@@ -32,8 +42,8 @@
     </item>
     <item>
       <title>Har maneter det gøy?</title>
-      <description><![CDATA[Skulle tro humor krever ryggrad.
-Går du omkring og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende eksperter!]]></description>
+      <description><![CDATA[Mange mener humor krever ryggrad.
+Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:30</itunes:duration>
@@ -281,15 +291,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BF1Z2J-Qq_O53a5Kizhfuwa5_RG16exSgRidNIzrWhmA.jpg"/>
-    </item>
-    <item>
-      <title>Er det grenser for kunnskap?</title>
-      <description><![CDATA[Inga Strümke er på hjemmebane når hun er med i Abels tårn i Narvik, og svarer på om det finnes en grense for hva vi mennesker kan vite om universet og oss selv. Dessuten spør vi om alt romskrotet kan samle seg til en ny måne og om hvorfor vi enda ikke har fått roboter i hjemmet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9a1143ad-1ca5-4ecb-9143-ad1ca52ecb06_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:11:28</itunes:duration>
-      <pubDate>Fri, 17 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xNx5YuMwzUbBE4BTbHUd0QSpEvpxeHbgfCvIB-uS3ODw.jpg"/>
     </item>
   </channel>
 </rss>

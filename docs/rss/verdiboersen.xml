@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 18 Oct 2026 05:58:31 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:30:18 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 12:05:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Stadig mer vann og mat i boden</title>
+      <description><![CDATA[Hvorfor skal vi ha stadig mer vann og mat hjemme? Skjer det en ansvarsforskyvning fra stat til individ?
+Et bidrag til P2s beredskapsdag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c53d7c1e-8b1d-4772-803c-e71a5e50287a_32bb0599-7521-4304-b6a3-ded53a7ca203_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c53d7c1e-8b1d-4772-803c-e71a5e50287a_32bb0599-7521-4304-b6a3-ded53a7ca203_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:39</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 12:05:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title> Gjentar tysk historie seg?</title>
       <description><![CDATA[AfD stormer fram. Nå trekkes paralleller til Weimar og 1932]]></description>
@@ -272,16 +282,6 @@
       <itunes:duration>17:07</itunes:duration>
       <pubDate>Fri, 29 May 2026 12:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/i1WzEThKKSqlDfT3FvPShwiW6olPZfiv2rfwV9dtocIg.jpg"/>
-    </item>
-    <item>
-      <title>USA vakler- vår verden forsvinner</title>
-      <description><![CDATA[Imperier har alltid falt. Opplever vi nå det samme som romerne, mongolene og osmanerne?
-Om 7 imperier som har formet verden.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/94c7b3cb-6416-4dc2-87b3-cb64160dc2ef_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/94c7b3cb-6416-4dc2-87b3-cb64160dc2ef_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:11</itunes:duration>
-      <pubDate>Thu, 21 May 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lZFO16IwAY4lGD_9yc3tJQzBk7Npwoyp438fIyFUP45A.jpg"/>
     </item>
   </channel>
 </rss>
