@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:34:11 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:24:01 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 19:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Valgkamp i USA</title>
+      <description><![CDATA[- Den mest kyniske valgkampen noensinne, sier kommentator om det forestående mellomvalget i USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9459bd74-b8a7-4622-a6b8-5065ed1b1dd9_bf3a583c-fbd4-4b3f-b2b9-b2eff9ece729_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9459bd74-b8a7-4622-a6b8-5065ed1b1dd9_bf3a583c-fbd4-4b3f-b2b9-b2eff9ece729_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RlOZkbiM4gEFHJhUfMbYMw8PK3Lqj1Y2BxPI2gWitqLA.jpg"/>
+    </item>
     <item>
       <title>Ungdomsprotester i Europa</title>
       <description><![CDATA[I Serbia ventes store demonstrasjoner før søndagens parlamentsvalg. I Albania er de unge ansvarlige for voldsomme protester mot presidenten.]]></description>
@@ -274,15 +283,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Mon, 14 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/OGQbsw9jxLpwF1vE1SGLNwqBDmIeVcgCM8wVxNBFaEzg.jpg"/>
-    </item>
-    <item>
-      <title>Prinsesse Astrid er død</title>
-      <description><![CDATA[For to dager siden fulgte hun lillebror, kong Harald, til graven. Nå er prinsesse Astrid død, 94 år gammel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6ff1ec37-6a3b-49b7-b1ec-376a3b89b72b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6ff1ec37-6a3b-49b7-b1ec-376a3b89b72b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Fri, 11 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pHxgOR-tNKQxeERnpiW5Hw8plzpWyq2rR4V02XD8p1mQ.jpg"/>
     </item>
   </channel>
 </rss>
