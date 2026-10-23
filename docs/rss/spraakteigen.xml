@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:15:45 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:37:04 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NQ4-0nzQwU3eDOBQjkKs7AUjzL5cIoZddjdh9czabkeg.jpg"/>
+    <item>
+      <title>Samisk språkuke</title>
+      <description><![CDATA[Det er den årlige uka hvor det rettes fokus mot de ulike samiske språkene. Det gjør sjølsagt Språksnakk også. Lær mer om samisk!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/b96b3595-24c7-45ca-94cb-5285bca387dc_9cb72b41-d73d-4903-b7c2-a99e4beac512_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/b96b3595-24c7-45ca-94cb-5285bca387dc_9cb72b41-d73d-4903-b7c2-a99e4beac512_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q.jpg"/>
+    </item>
     <item>
       <title>Kakepynta rævgevir</title>
       <description><![CDATA[Vi gir tramp stamps et nytt navn, og slår fast uttalen av entrecôte. Vi sier forspise, forsove og forsnakke, men hva med forlove?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/0e11666e-eb52-406a-9166-6eeb52806a94_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Fortløpende ferdighet</title>
-      <description><![CDATA[Bjørnetjeneste betyr noe annet nå enn før. Åssen i skrift er mer lov enn mange tror, og sammensatte navn - hva er det med dem.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/97828579-8e62-4a97-8285-798e62da9785_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/97828579-8e62-4a97-8285-798e62da9785_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:31</itunes:duration>
-      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:39:07 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:36:36 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Høytiden for MeToo </title>
+      <description><![CDATA[Tara har møtt en trollmann på trikken. Vi nærmer oss sesongen MeeToo, må vi bytta navn på «julebord?» Anders har store nyheter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/020eba38-fce2-49d9-bd4c-e1b82cb8ef9d_090bd479-812a-4955-ba17-124cb99ba7b9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/020eba38-fce2-49d9-bd4c-e1b82cb8ef9d_090bd479-812a-4955-ba17-124cb99ba7b9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>30:08</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Familiehat i arv</title>
       <description><![CDATA[Hvorfor går familiekonflikter i arv? Hvor syk må en hund være for å bli avlivet? Og vi har fått utegående reportere!]]></description>
@@ -272,15 +281,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/d01caba0-63cc-43de-9cab-a063cc83de7d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:17</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Wrestling i hjemmet</title>
-      <description><![CDATA[Abu har vært på wrestling og interessen smitter over. GTA 6 er rett rundt hjørnet, det lukter virtuell knulling.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/cafe2b90-6d64-4be9-be2b-906d649be931_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/cafe2b90-6d64-4be9-be2b-906d649be931_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:26</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

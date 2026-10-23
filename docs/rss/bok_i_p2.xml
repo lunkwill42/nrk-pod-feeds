@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:14:21 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:35:53 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
     <item>
-      <title>Vetle Lid Larsen: – Vi er fortiden</title>
-      <description><![CDATA[Vetle Lid Larsen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.]]></description>
+      <title>Maria Navarro Skaranger- Emily gjør så godt hun kan</title>
+      <description><![CDATA[Maria Navarro Skaranger om ubrukelige og fjerne fedre, usikre alenemødre og hvorfor hun nå ser seg ferdig med karakterene i "Jeg kommer hjem"]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6_60fdf1ea-b606-429f-ab4f-a4ac365f7408_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6_60fdf1ea-b606-429f-ab4f-a4ac365f7408_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:06</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/k5MuJ7Zik1UOSTyrwgLuFwIK4NsaRIc2WdCA9XJ4YTtA.jpg"/>
+    </item>
+    <item>
+      <title>Vetle Lid Larssen: – Vi er fortiden</title>
+      <description><![CDATA[Vetle Lid Larssen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>54:41</itunes:duration>
@@ -285,16 +294,6 @@ Romanen «Om tingenes natur» er nominert til Lytternes romanpris 2025.]]></desc
       <itunes:duration>57:32</itunes:duration>
       <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZU-Efd_COW9liny6JXdFyQ6wwWXpuq5dgbYtbA5WAzlQ.jpg"/>
-    </item>
-    <item>
-      <title>Susanne Christensen: Maskespill og magi</title>
-      <description><![CDATA[En rasende mor og en datter på jakt etter nye felleskap blant trekkfugler og andre dyr.
-Boka «Svalene sover på månen» er nominert til Lytternes Romanpris 2025]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/ed36aeb2-223d-45ba-b6ae-b2223d75bada_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/ed36aeb2-223d-45ba-b6ae-b2223d75bada_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:30</itunes:duration>
-      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tIPAPEmkof7V39YvHjaetAV5DZF2w5clistqzVE_-67w.jpg"/>
     </item>
   </channel>
 </rss>

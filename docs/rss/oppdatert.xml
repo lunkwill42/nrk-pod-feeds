@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:39:17 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:36:45 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Valg i Israel: Generalen som kan velte Netanyahu</title>
+      <description><![CDATA[Han mistet sønnen i Gaza. Kan han endre Israel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e5ae4041-c50a-421a-8b42-df0f0bc2f1d6_95f82898-efdb-438e-9ebd-940732fa19fe_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e5ae4041-c50a-421a-8b42-df0f0bc2f1d6_95f82898-efdb-438e-9ebd-940732fa19fe_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:20</itunes:duration>
+      <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mLxs4NfkNnYgMoShR1y5NAT01AceFSrARMdpE8bd4y6g.jpg"/>
+    </item>
     <item>
       <title>Zelenskyj i skvis: Ofrar Trump Ukraina?</title>
       <description><![CDATA[Forholdet mellom Trump og Zelenskyj er på brestepunktet. No står Ukrainas framtid på spel.]]></description>
@@ -40,8 +49,8 @@
       <itunes:image href="https://gfx.nrk.no/0GsiHhmEQQZ29m-8-SGP4gqEXnrpbAJjq74PYeTeBO3w.jpg"/>
     </item>
     <item>
-      <title>Eldrebølgen er her: Slik kan det bli i 2060</title>
-      <description><![CDATA[I flere tiår har politikerne varslet om den kommende eldrebølgen. Nå er den her. Er vi forberedt?]]></description>
+      <title>En varslet krise: For sent å snu eldrebølgen?</title>
+      <description><![CDATA[Slik kan hverdagen bli for dagens unge i 2060. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/6a0610c6-0b71-45d2-9180-cacdfcde9810_4adfaf5d-2b8d-419e-b287-95c7a980fecf_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/6a0610c6-0b71-45d2-9180-cacdfcde9810_4adfaf5d-2b8d-419e-b287-95c7a980fecf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>16:09</itunes:duration>
@@ -103,7 +112,7 @@
       <itunes:image href="https://gfx.nrk.no/5eGx4H_d3dHbbFqTFkYF4whE0KLkXN5qwk3lCjPpy9pQ.jpg"/>
     </item>
     <item>
-      <title>Venter på dødsstraff: Er «Ørkenmorderen» uskyldig?</title>
+      <title>Dømt til døden: Er David egentlig uskyldig?</title>
       <description><![CDATA[Nå stormer det rundt den kontroversielle straffemetoden. En av dem som venter på å dø er David Wood.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/917baa75-9986-419b-bbaa-759986619b89_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/917baa75-9986-419b-bbaa-759986619b89_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -184,7 +193,7 @@
       <itunes:image href="https://gfx.nrk.no/XUHNjOuLqR6iaBfD2i-dUQ664eQ4-1cMvNhAJpfLzuGA.jpg"/>
     </item>
     <item>
-      <title>Kampen mot Fifa: Slik vil de felle Infantino</title>
+      <title>Maktkamp i fotballen: Derfor vil de felle Infantino</title>
       <description><![CDATA[Fotballens mektigste mann har skapt kaos. Nå prøver Uefa å finte ham ut.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/2a078a47-1283-470a-878a-471283770ab8_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/2a078a47-1283-470a-878a-471283770ab8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -238,7 +247,7 @@
       <itunes:image href="https://gfx.nrk.no/fZaRtiQar1vjnvrrMnLRiQSG40f3d6UdC45lgN44e12A.jpg"/>
     </item>
     <item>
-      <title>Naken i sportsreklame: Hån mot kvinner?</title>
+      <title>Sweeneys sportsreklame: Hån mot kvinner?</title>
       <description><![CDATA[Sydney Sweeney dukker opp uten klær i en reklamefilm. Nå ser flere rødt.
 
 Faksimile: Novig Sports]]></description>
@@ -249,7 +258,7 @@ Faksimile: Novig Sports]]></description>
       <itunes:image href="https://gfx.nrk.no/XLe03AAhaEzGFlFhkUq6sQeQUQyZsrGV1kn3Ny4-vnDA.jpg"/>
     </item>
     <item>
-      <title>Andøya-raketten: Norges vei til verdensrommet</title>
+      <title>Tyskeren bak norsk romfarts-suksess</title>
       <description><![CDATA[5. september 2026 ble det skrevet norsk romfartshistorie.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/d888d246-824d-4380-88d2-46824d738024_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/d888d246-824d-4380-88d2-46824d738024_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>15:52</itunes:duration>
       <pubDate>Tue, 15 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/j4RFzlO3jOal1rJ5osJa8wSUrDq1DJQC8Rr5kNMUooMA.jpg"/>
-    </item>
-    <item>
-      <title>Dette er «Tysklands farlegaste mann»</title>
-      <description><![CDATA[Partiet hans, AfD, er under overvaking mistenkt for høgreekstremisme. No kan dei for første gong få regjeringsmakt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/beed1a52-ff5c-4216-ad1a-52ff5c82165c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/beed1a52-ff5c-4216-ad1a-52ff5c82165c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:23</itunes:duration>
-      <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/89Bl2j4eOxEU4Q56yWRrHgC_70qniORR-glnZacnn9Ng.jpg"/>
     </item>
   </channel>
 </rss>
