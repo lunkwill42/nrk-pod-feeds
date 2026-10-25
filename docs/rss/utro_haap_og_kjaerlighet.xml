@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:39:42 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:51:21 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Panelet: Sugardaddy og dobbeltliv</title>
+      <description><![CDATA[Hvorfor er sladrekjerringer løsningen for å forhindre utroskap, og hvem bør tjene mest i et forhold? Panelet bryner seg på innsendte dilemmaer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/73530f6d-a4b5-40f8-b3a7-14b5509e921a_2ba3015e-22ea-4f3f-b3aa-bde95cfbfd29_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/73530f6d-a4b5-40f8-b3a7-14b5509e921a_2ba3015e-22ea-4f3f-b3aa-bde95cfbfd29_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:52</itunes:duration>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw.jpg"/>
+    </item>
     <item>
       <title>Carina Dahl: Å forsikre seg</title>
       <description><![CDATA[Carina Dahl fikk et ekstra stort behov for å forsikre seg om at hun hadde valgt riktig partner før hun gikk inn i et seriøst forhold.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>51:33</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jSenxbAA81QcdsIvv0hjZQc0RXJaqOfQIkC1YDBNVziQ.jpg"/>
-    </item>
-    <item>
-      <title>Panelet: Bitter kjerring og ny kjæreste?</title>
-      <description><![CDATA[Komiker Maria Stavang er gjest og deler fra singellivet. Kai Thomas forteller om mannlig besøk fra London; har han fått seg kjæreste?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c7b48c34-b0a8-4a56-b48c-34b0a8ea56a6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c7b48c34-b0a8-4a56-b48c-34b0a8ea56a6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:17</itunes:duration>
-      <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw.jpg"/>
     </item>
   </channel>
 </rss>
