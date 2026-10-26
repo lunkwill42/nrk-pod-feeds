@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:30:01 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 10:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:20:11 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Det store burgerdilemmaet</title>
+      <description><![CDATA[Milddelmådig vikar Markus Vangen er med! Arin er tilbake på ferie, og vi har stilt klokken i helgen. Vi får også besøk av Marstein! Klarer han å yappe over alt?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/949705d1-936f-4589-a32f-03a9e7df6d5f_09a07e8f-27ae-49de-aae0-79f7005258a8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/949705d1-936f-4589-a32f-03a9e7df6d5f_09a07e8f-27ae-49de-aae0-79f7005258a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:55</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/g4MXAwQGMVtnpZB7ISVtFQ4O4uFIjJ3k3bkMa4gxAH2g.jpg"/>
+    </item>
     <item>
       <title>Jonas er nervøs før familietur</title>
       <description><![CDATA[Olav Svarstad Haugland er supervikar! Jonas er bekymret for at han skal på familietur hvor alle er voksne. Hvordan sørge for at det ikke blir krangler?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:00</itunes:duration>
       <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
-    </item>
-    <item>
-      <title>Alexander Tetti origin story</title>
-      <description><![CDATA[Æ like itj pizza, men æ like spaghetti - ka hete æ da? Christian Mikkelsen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e049790c-75e4-418d-8696-feb78c08ba77_dedb66ce-a20a-43f5-a9bf-2923dbbe593c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e049790c-75e4-418d-8696-feb78c08ba77_dedb66ce-a20a-43f5-a9bf-2923dbbe593c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:10</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QCWSg-ThjXEY8xuolJyh4Qxr1gz01dfixSZh_-Ux2Fxg.jpg"/>
     </item>
   </channel>
 </rss>

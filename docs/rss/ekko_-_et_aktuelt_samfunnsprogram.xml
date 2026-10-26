@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:50:21 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Oct 2026 13:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:19:54 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>USA: – It's complicated </title>
+      <description><![CDATA[Tove Bjørgaas og Michelle Tisdel elskar USA, men kjenner på ei djup sorg over eit stadig meir splitta land. Korleis hamna vi her?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/55c071c2-b747-40f7-8b96-de36a6d86429_765289f8-74c4-4133-a6ff-d7a57ebfeb9c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/55c071c2-b747-40f7-8b96-de36a6d86429_765289f8-74c4-4133-a6ff-d7a57ebfeb9c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:59</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KqzmlAMMhZrsSqmu-tttngJlSm7IdOIVmXZ_V3noHCQA.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Ikke akkurat bestiser</title>
       <description><![CDATA[Den ene er oppgitt, den andre rasende. Og det er ikke konstruktivt for dialog mellom USA og Ukraina.]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>20:32</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 13:10:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0ep62exRU3UyhMFoplB2dAX3ONSnhjgPgdsJ18aUp8cA.jpg"/>
-    </item>
-    <item>
-      <title>Prins på flukt</title>
-      <description><![CDATA[Tre år gammel blir prins Harald hasteevakuert ut av landet. Hvis tyskerne hadde fått tak i ham, hadde Norge i dag vært annerledes.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6f633ffb-088c-4e36-a33f-fb088cce3672_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6f633ffb-088c-4e36-a33f-fb088cce3672_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>35:17</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7HT5qLRGmnKdbnlL5zS7mQMSsNWfL6KFg0Zjtxp2SdJQ.jpg"/>
     </item>
   </channel>
 </rss>
