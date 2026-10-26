@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:36:20 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:18:52 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>I dag begynner egenberedskapsuka</title>
+      <description><![CDATA[Og det har vært valg i både Brasil og Serbia]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/67acb6df-879c-42e9-b9d3-7c9eceffc311_772fd585-25b7-43a2-b492-642661893fdc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/67acb6df-879c-42e9-b9d3-7c9eceffc311_772fd585-25b7-43a2-b492-642661893fdc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:06</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hMtYey3b20ROBA0yrLq9qgWYCu2HMtAmreAxTPtO950g.jpg"/>
+    </item>
     <item>
       <title>Venter «krigstilstander» i Frankrike i helga</title>
       <description><![CDATA[Og husk: på søndag stiller vi klokka (godt med en time ekstra på øyet)]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>07:22</itunes:duration>
       <pubDate>Tue, 15 Sep 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_j85ViKWoh4pAlRsxJhN8grl4tJU8oLxdlljyY9T01Pg.jpg"/>
-    </item>
-    <item>
-      <title>Dødt løp i det svenske valget</title>
-      <description><![CDATA[Og Trump vil ikke roe ned KI-bruken i USA.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/807466eb-72f4-456c-b466-eb72f4956c32_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/807466eb-72f4-456c-b466-eb72f4956c32_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:49</itunes:duration>
-      <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/KUXZXIikRfpzyxrCggiV-QcY0JhVf1Rg9CGpHdEEH9-Q.jpg"/>
     </item>
   </channel>
 </rss>

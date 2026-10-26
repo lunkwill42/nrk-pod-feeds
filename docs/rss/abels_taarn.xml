@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:29:35 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:18:26 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Gen Z som gamle</title>
+      <description><![CDATA[Stor studie bekymrer forskere. Men transplanterte hjerter overrasker positivt. Og vi vet nå hvorfor små hunder lever så lenge
+ ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/346c8706-573c-4c3c-8c2f-f231cb6d69ef_b4677b60-bdc2-4c7a-a7d4-9999aacb0800_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/346c8706-573c-4c3c-8c2f-f231cb6d69ef_b4677b60-bdc2-4c7a-a7d4-9999aacb0800_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:36</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Hvor kjipe virus kan KI lage?</title>
       <description><![CDATA[Ønsket om å ødelegge kan være et tegn på intelligens.
@@ -282,15 +292,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:03</itunes:duration>
       <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg.jpg"/>
-    </item>
-    <item>
-      <title>Jubileum! - Det første panelet</title>
-      <description><![CDATA[Hvordan virker barberkrem? Med dette spørsmålet startet historien til Abels tårn for 15 år siden. Bli med på jubileumsfeiringa med en gjenforening av det aller første panelet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1714dacf-d103-4582-94da-cfd103558293_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 24 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BF1Z2J-Qq_O53a5Kizhfuwa5_RG16exSgRidNIzrWhmA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:30:18 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 12:05:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:19:21 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Lærdommer  fra 8. april 1940</title>
+      <description><![CDATA[8.april 1940 var en ganske vanlig dag i Norge. Hva kan vi lære av det?
+Et bidrag  til P2s beredskapsdag]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/14f4fab9-fdba-4bcf-aa0f-ed7a0415f97b_78466f20-1116-4f2a-b13e-95434845a952_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/14f4fab9-fdba-4bcf-aa0f-ed7a0415f97b_78466f20-1116-4f2a-b13e-95434845a952_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>09:03</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Stadig mer vann og mat i boden</title>
       <description><![CDATA[Hvorfor skal vi ha stadig mer vann og mat hjemme? Skjer det en ansvarsforskyvning fra stat til individ?
@@ -273,15 +283,6 @@ Et bidrag til P2s beredskapsdag.]]></description>
       <itunes:duration>36:22</itunes:duration>
       <pubDate>Sun, 31 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Tyskledet NATO?</title>
-      <description><![CDATA[Hvis USA forlater NATO, kan Tyskland blir det ledende NATO landet. Det er en vanskelig tanke for mange.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/091d9023-e763-4f2b-9d90-23e763df2baf_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/091d9023-e763-4f2b-9d90-23e763df2baf_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>17:07</itunes:duration>
-      <pubDate>Fri, 29 May 2026 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/i1WzEThKKSqlDfT3FvPShwiW6olPZfiv2rfwV9dtocIg.jpg"/>
     </item>
   </channel>
 </rss>

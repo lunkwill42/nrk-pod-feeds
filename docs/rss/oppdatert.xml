@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:36:45 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:19:05 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Trumps helse: Konspirasjonsteorier eller sannhet?</title>
+      <description><![CDATA[Ryktene florerer rundt presidentens helsesituasjon. Slik jakter amerikanere på svar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/392118f2-b612-49dd-b352-5655fb717c83_d43e9a74-3414-4823-b0ef-7c5f546e13dc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/392118f2-b612-49dd-b352-5655fb717c83_d43e9a74-3414-4823-b0ef-7c5f546e13dc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <pubDate>Mon, 26 Oct 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JBgOzzUfZHFS-2Pn8D2ASA6kn-FHO_GNuk2WU0qO5zzg.jpg"/>
+    </item>
     <item>
       <title>Valg i Israel: Generalen som kan velte Netanyahu</title>
       <description><![CDATA[Han mistet sønnen i Gaza. Kan han endre Israel?]]></description>
@@ -274,15 +283,6 @@ Faksimile: Novig Sports]]></description>
       <itunes:duration>20:56</itunes:duration>
       <pubDate>Wed, 16 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/_FUeVmzQPPOZAPYI5jOwXgBrfHZvmk55mreO1r7x9vYQ.jpg"/>
-    </item>
-    <item>
-      <title>I strupen på datasentre: Kan Erin stoppe dem?</title>
-      <description><![CDATA[Hun slo et av USAs mektigste energiselskaper. Nå har hun tatt på seg en ny kamp. Kan hun klare det igjen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b5bb419f-db57-4c9a-bb41-9fdb57cc9a67_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5bb419f-db57-4c9a-bb41-9fdb57cc9a67_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:52</itunes:duration>
-      <pubDate>Tue, 15 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/j4RFzlO3jOal1rJ5osJa8wSUrDq1DJQC8Rr5kNMUooMA.jpg"/>
     </item>
   </channel>
 </rss>
