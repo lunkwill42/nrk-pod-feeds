@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:20:29 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:16:55 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Vi blir hjemsøkt </title>
+      <description><![CDATA[Det kommer et spøkelse i studio, Anna er forbanna på influenser-mødre og hvorfor har ingen telefonsvarer lenger?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/ee709c06-9c23-428b-8a66-eb302eae596f_9a5aeaac-eedf-408f-b3d8-103b91680d6d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/ee709c06-9c23-428b-8a66-eb302eae596f_9a5aeaac-eedf-408f-b3d8-103b91680d6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:37</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Markus vokser rumpa</title>
       <description><![CDATA[Daniel har vært i Serbia, noen ble innelåst på butikken og det blir ubehagelig når Markus får rumpa voksa av profesjonelle. ]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/7304efb6-aafe-4499-84ef-b6aafed4997b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:09</itunes:duration>
       <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Lager kunst med egen fis</title>
-      <description><![CDATA[Vi får besøk av kunstner Saune And, hvem har den beste fotball-talen og vi smalltalker ting som ser godt ut, men smaker vondt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/93f6986b-7a4c-4aa9-b698-6b7a4caaa938_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/93f6986b-7a4c-4aa9-b698-6b7a4caaa938_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:15</itunes:duration>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

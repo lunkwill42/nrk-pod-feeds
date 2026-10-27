@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:20:19 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:16:44 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Diagnose-eksplosjon i norsk skole</title>
+      <description><![CDATA[Utgiftene til elever med store helseutfordringer er 30 ganger høyere nå enn de var i 2010. Har fellesskolen - ideen om at alle skal i samme klasserom - nådd smertegrensen? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/92b9c05f-da5a-4427-90d0-f28b10375e21_8050a1c7-e895-47dc-b307-738fbdc391bd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/92b9c05f-da5a-4427-90d0-f28b10375e21_8050a1c7-e895-47dc-b307-738fbdc391bd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tqM_xgPF8GrMiEaH4WN4iQZpX67bLEHNsMBvewMuGNNQ.jpg"/>
+    </item>
     <item>
       <title>Nok for sjukehusa?</title>
       <description><![CDATA[Sp vil ha betre sjukehusøkonomi og helsereform frå helseminister Vestre]]></description>
@@ -285,15 +294,6 @@ Hvordan skal Arbeiderpartiet beholde makten i Tromsø?]]></description>
       <itunes:duration>15:09</itunes:duration>
       <pubDate>Wed, 16 Sep 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-sucGdE7A12O11z3qhwrsAZGZ7lLy17amWSmTPWwI89g.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen varsler mer statlig styring av skolen</title>
-      <description><![CDATA[Vil ha samme lærebok til alle]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/249599a3-92ea-4696-9599-a392ea2696e8_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/249599a3-92ea-4696-9599-a392ea2696e8_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Tue, 15 Sep 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Q4vO3GfaSTvQsp0Ofy8FlwWNJWvWidau4-paSQ3MVFGA.jpg"/>
     </item>
   </channel>
 </rss>

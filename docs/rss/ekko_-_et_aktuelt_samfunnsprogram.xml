@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:19:54 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 13:30:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:16:16 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Tar KI jobben din?</title>
+      <description><![CDATA[KI endrer arbeidslivet, bør vi frykte for jobbene våre? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2ac8cd24-7005-4362-90af-c77e3bec8ba2_0812e8b3-18c9-4440-9179-0587dd6cda61_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2ac8cd24-7005-4362-90af-c77e3bec8ba2_0812e8b3-18c9-4440-9179-0587dd6cda61_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:17</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/hQzG93ZuYdGXZOQbroCa4QMUlW59d753IA19e7-XPQew.jpg"/>
+    </item>
     <item>
       <title>USA: – It's complicated </title>
       <description><![CDATA[Tove Bjørgaas og Michelle Tisdel elskar USA, men kjenner på ei djup sorg over eit stadig meir splitta land. Korleis hamna vi her?]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>26:18</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HQ8JhXQtxp5FxO1BZntvZgweN25qOqBqfL1VaiLVAqLg.jpg"/>
-    </item>
-    <item>
-      <title>Den nye trusselen i fjella</title>
-      <description><![CDATA[Katastrofa i Nepal rystar verda. Fjella blir meir ustabile overalt, men korleis kan vi ruste oss mot faren?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7c6cde6-f45a-4e92-86cd-e6f45a5e926b_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7c6cde6-f45a-4e92-86cd-e6f45a5e926b_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:32</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 13:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0ep62exRU3UyhMFoplB2dAX3ONSnhjgPgdsJ18aUp8cA.jpg"/>
     </item>
   </channel>
 </rss>

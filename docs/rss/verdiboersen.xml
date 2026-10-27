@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:19:21 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:17:10 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    <item>
+      <title>Stadig mer vann og mat i boden</title>
+      <description><![CDATA[Før skulle vi greie oss selv i 48 timer. Nå er det en uke. Skjer det en ansvarsforskyvning  fra stat til borger? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/cd2517ad-9d65-40eb-8a3d-c89005eac7ca_b28ee8a6-1ea1-4972-8625-92344ed99ab0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cd2517ad-9d65-40eb-8a3d-c89005eac7ca_b28ee8a6-1ea1-4972-8625-92344ed99ab0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:05</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+    </item>
     <item>
       <title>Lærdommer  fra 8. april 1940</title>
       <description><![CDATA[8.april 1940 var en ganske vanlig dag i Norge. Hva kan vi lære av det?
@@ -20,16 +29,6 @@ Et bidrag  til P2s beredskapsdag]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/14f4fab9-fdba-4bcf-aa0f-ed7a0415f97b_78466f20-1116-4f2a-b13e-95434845a952_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>09:03</itunes:duration>
       <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
-    </item>
-    <item>
-      <title>Stadig mer vann og mat i boden</title>
-      <description><![CDATA[Hvorfor skal vi ha stadig mer vann og mat hjemme? Skjer det en ansvarsforskyvning fra stat til individ?
-Et bidrag til P2s beredskapsdag.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verdiboersen/c53d7c1e-8b1d-4772-803c-e71a5e50287a_32bb0599-7521-4304-b6a3-ded53a7ca203_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/c53d7c1e-8b1d-4772-803c-e71a5e50287a_32bb0599-7521-4304-b6a3-ded53a7ca203_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:39</itunes:duration>
-      <pubDate>Fri, 23 Oct 2026 12:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
     </item>
     <item>
@@ -183,7 +182,7 @@ Et bidrag til P2s beredskapsdag.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/20c66788-bf63-442a-8667-88bf63342a14_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>25:13</itunes:duration>
       <pubDate>Fri, 26 Jun 2026 10:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/IQCSdVh2HOxA2KCZi7Rajg70LADvuIs4QhIO0NR-BMbg.jpg"/>
     </item>
     <item>
       <title>Minner 12:12</title>
@@ -264,7 +263,7 @@ Et bidrag til P2s beredskapsdag.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/66b16a82-8fa1-425a-b16a-828fa1825a36_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:13</itunes:duration>
       <pubDate>Fri, 19 Jun 2026 11:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/IQCSdVh2HOxA2KCZi7Rajg70LADvuIs4QhIO0NR-BMbg.jpg"/>
     </item>
     <item>
       <title>Trumps lojalitetstest</title>
@@ -273,7 +272,7 @@ Et bidrag til P2s beredskapsdag.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/verdiboersen/d2e49638-9b29-48a1-a496-389b2938a117_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>56:59</itunes:duration>
       <pubDate>Fri, 12 Jun 2026 10:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw.jpg"/>
+      <itunes:image href="https://gfx.nrk.no/IQCSdVh2HOxA2KCZi7Rajg70LADvuIs4QhIO0NR-BMbg.jpg"/>
     </item>
     <item>
       <title>Anvendt filosofi</title>

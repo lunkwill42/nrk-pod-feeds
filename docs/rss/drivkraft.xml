@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:19:47 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 14:20:00 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:16:08 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Øystein Olsen</title>
+      <description><![CDATA[Jeg synes det er for mye svartmaling og negative briller om økonomien, mener den tidligere sentralbanksjefen.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1c811928-7c48-407f-924c-6b4d2be4a6d6_6ef98d3e-4a60-40af-a920-c1ba432d6760_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1c811928-7c48-407f-924c-6b4d2be4a6d6_6ef98d3e-4a60-40af-a920-c1ba432d6760_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:10</itunes:duration>
+      <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bfVgVj3rOR6980RWX_qfKA6KrvDgzIg0D2jM-LMIZU5g.jpg"/>
+    </item>
     <item>
       <title>Eirik Bergesen</title>
       <description><![CDATA[– Det kommer til å bli en konstitusjonell krise i USA de neste to årene, mener TV2s USA-ekspert]]></description>
@@ -273,15 +283,6 @@
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Wed, 26 Aug 2026 12:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NaFpeZT9wSnzW-MEFsYG-gW9cmH1UThkysjIx9uP024Q.jpg"/>
-    </item>
-    <item>
-      <title>Tommy Olsen</title>
-      <description><![CDATA[Han har reddet båtflyktninger i Middelhavet i årevis. Nå er han etterlyst av greske myndigheter. Men frikjent i Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/683aad47-6100-49a5-baad-47610009a5d2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/683aad47-6100-49a5-baad-47610009a5d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:18</itunes:duration>
-      <pubDate>Tue, 25 Aug 2026 13:25:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kyV98-7fDQkCexZQdIBR5gsuCueh2a2xIEXPrmdwQcFg.jpg"/>
     </item>
   </channel>
 </rss>
