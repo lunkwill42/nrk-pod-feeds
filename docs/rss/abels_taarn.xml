@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:18:26 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:47:26 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Finnes egentlig tyngdekraften?</title>
+      <description><![CDATA[Forskere støtter heller Einsteins teori. Dessuten, leggen din reparerer hjernen. Og rar forskjell funnet mellom mennesker og aper
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f962e351-8e5b-41b5-8d4b-194e8807ce39_7e10f97e-ef06-43e2-849e-7e6aa257d8ca_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f962e351-8e5b-41b5-8d4b-194e8807ce39_7e10f97e-ef06-43e2-849e-7e6aa257d8ca_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:51</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Gen Z som gamle</title>
       <description><![CDATA[Stor studie bekymrer forskere. Men transplanterte hjerter overrasker positivt. Og vi vet nå hvorfor små hunder lever så lenge
@@ -283,15 +293,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>01:02:08</itunes:duration>
       <pubDate>Fri, 07 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3PbScFJ4NpbiwFkHeiOW9gebV1quX1EA7p8icuiP360A.jpg"/>
-    </item>
-    <item>
-      <title>Jubileum! - De unges panel</title>
-      <description><![CDATA[Tårnets 15-årsjubileum fortsetter med det aller ferskeste panelet. En radio-aktiv seanse der vi blant annet stiller det store spørsmålet: Vil KI noensinne kunne forstå kvinnen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/3ced9c23-71c7-4acd-ad9c-2371c7dacdce_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:03</itunes:duration>
-      <pubDate>Fri, 31 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HwNU6qu5GShR2LUwB75pfgiGq4Y8htsLPVC1zpTov4Eg.jpg"/>
     </item>
   </channel>
 </rss>

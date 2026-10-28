@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:20:43 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:47:51 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA.jpg"/>
     <item>
-      <title>Paraply - med Sigrun Loe Sparbo</title>
+      <title>Allehelgensdag - Ola Bremnes</title>
+      <description><![CDATA[Jeg vil minnes mange døde på allehelgensdag, men mest av alt vil jeg tenne et lys for livet, forteller Ola Bremnes]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/69c9bd8c-a2ff-409b-9a4c-06d01d066f72_dc57cfd9-28b9-4af7-b16c-961fd98db1a6_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/69c9bd8c-a2ff-409b-9a4c-06d01d066f72_dc57cfd9-28b9-4af7-b16c-961fd98db1a6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:43</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Kv-IQXhH9yhLGWkwFe8DtQahtEaWOlUdS7bZKP-WDEhA.jpg"/>
+    </item>
+    <item>
+      <title>Paraply - med Sigrun Loe Sparboe</title>
       <description><![CDATA[Det er med folk som med paraplyer, mener Sigrun Loe Sparboe. Det er fort gjort å glemme av dem.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/1737fb13-ab45-4dea-a65a-c8527c0e5938_08ea40fa-8787-40dd-a736-02a8217e32b6_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1737fb13-ab45-4dea-a65a-c8527c0e5938_08ea40fa-8787-40dd-a736-02a8217e32b6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -272,15 +281,6 @@
       <itunes:duration>03:07</itunes:duration>
       <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA.jpg"/>
-    </item>
-    <item>
-      <title>Næringsliv - med Terje Torkildsen</title>
-      <description><![CDATA[Terje Torkildsen har lenge undret seg over at vi ofte bruker fine, myke ord på ganske kalde, harde ting.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kveldstanker/16ed3878-905b-402c-ad38-78905bc02cde_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/16ed3878-905b-402c-ad38-78905bc02cde_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>03:16</itunes:duration>
-      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA.jpg"/>
     </item>
   </channel>
 </rss>
