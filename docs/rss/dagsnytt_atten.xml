@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:27:12 +0000</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:52:43 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Valget i Israel er ikke avklart</title>
+      <description><![CDATA[Statsminister Netanyahus politiske blokk har flest stemmer, men ikke flertall.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e9888b2d-db56-4033-b73e-d876be4eb8e1_4ec5646b-7b22-4121-906a-8c3d19c8ac02_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e9888b2d-db56-4033-b73e-d876be4eb8e1_4ec5646b-7b22-4121-906a-8c3d19c8ac02_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Wed, 28 Oct 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/X685sMS2dW0V4wtQXs3OdAl7sBCXYbWqveESVIUopoNg.jpg"/>
+    </item>
     <item>
       <title>Støre og Stubb har snakket med Putin</title>
       <description><![CDATA[Norges statsminister og Finlands president har i dag hatt en telefonsamtale med Putin om Ukraina-krigen. Danmarks statsminister Mette Frederiksen reagerer kraftig.]]></description>
@@ -273,15 +282,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>58:52</itunes:duration>
       <pubDate>Thu, 17 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/uRPEN8gelRoJpYlGMBhzWgiET4XCMBUw-BW-dFJbAIQA.jpg"/>
-    </item>
-    <item>
-      <title>Ønsker europeisk sikkerhetsråd</title>
-      <description><![CDATA[EU-kommisjonens leder vil ha tettere samarbeid med Canada, Ukraina, Storbritannia og Norge.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e3e9c38a-fcb2-487f-a9c3-8afcb2c87f84_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3e9c38a-fcb2-487f-a9c3-8afcb2c87f84_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/LzqQvOC82RLS6yXLJM1c3gh52C68Mbb1u0aOgKOIrq_A.jpg"/>
     </item>
   </channel>
 </rss>
