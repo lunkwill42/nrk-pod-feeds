@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 13:01:15 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:57:25 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 13:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
     <item>
-      <title>En forbannet optimist</title>
+      <title>Trumps USA: Obamas comeback</title>
+      <description><![CDATA[Obama mobiliserer veljarar før mellomvalet, men hjelp det? Og korleis vil eigentleg Trump og republikanarane takle eit tap?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/97bde2e6-2c38-4b90-8444-de4a6e54ea89_d4797c19-0847-4050-80c5-5cbda118aed7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/97bde2e6-2c38-4b90-8444-de4a6e54ea89_d4797c19-0847-4050-80c5-5cbda118aed7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:24</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 13:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PS6mMyNiv4-G1njqI9Fn5w_GRUVg_mR6smMd2wBLYrRA.jpg"/>
+    </item>
+    <item>
+      <title>En forbanna optimist</title>
       <description><![CDATA[Professor i sosiologi Gunnar Aakvaag advarer mot svartmaling og tap av fremtidstro. Er optimisme den beste beredskapen?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f9f8b1e6-ac37-4c91-9142-bc0283013db4_b90d25d2-3ef5-4f07-93ae-b47889fc5d30_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f9f8b1e6-ac37-4c91-9142-bc0283013db4_b90d25d2-3ef5-4f07-93ae-b47889fc5d30_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -275,15 +284,6 @@
       <itunes:duration>25:56</itunes:duration>
       <pubDate>Tue, 08 Sep 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/0MplT2SYRNdSyQvKMkciZQ7t9dNFF5f_J0X1Y9c7-C3Q.jpg"/>
-    </item>
-    <item>
-      <title>Sergej Lavrov - fra koseprat til krigsretorikk</title>
-      <description><![CDATA[En gang tuslet han rundt på Storskog og roste samarbeidet med Norge. Nå kaller han Norge en risiko mot Russland.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0962f6d-2ee3-4c22-962f-6d2ee30c2244_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0962f6d-2ee3-4c22-962f-6d2ee30c2244_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:19</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Mfge3gqnQvmCQzW-9o5XBwNtM8x0-jGrSwuLMfHE4Xgw.jpg"/>
     </item>
   </channel>
 </rss>

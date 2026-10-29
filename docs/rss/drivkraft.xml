@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 13:01:09 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 11:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:57:17 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Diaz</title>
+      <description><![CDATA[– jeg skulle aldri lage musikk igjen, sier rapperen som brått forsvant fra rampelyset.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/aa8be35f-c607-4d9e-b49f-4ba02e56f1e7_cf917ad8-47f7-4496-bc29-cd69be089d82_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/aa8be35f-c607-4d9e-b49f-4ba02e56f1e7_cf917ad8-47f7-4496-bc29-cd69be089d82_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/gZBGiJkrfVA1XeJhk0BbjweEFszJUjpDRlXC1kB7tFVg.jpg"/>
+    </item>
     <item>
       <title>Jon Reichelt </title>
       <description><![CDATA[Psykiateren fra Kompani Lauritzen er mest opptatt av vinen i beredskapslageret ]]></description>
@@ -274,15 +283,6 @@
       <itunes:duration>57:26</itunes:duration>
       <pubDate>Mon, 31 Aug 2026 14:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/06J2wPDIhNgZbFU0_oPSZgw_no5z8pgEBlJeUXhO_9LA.jpg"/>
-    </item>
-    <item>
-      <title>Claude Bonde</title>
-      <description><![CDATA[Fra kassa på Meny til big in Japan!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/a4222b37-58ae-4e46-a22b-3758ae1e46cd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/a4222b37-58ae-4e46-a22b-3758ae1e46cd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:01</itunes:duration>
-      <pubDate>Thu, 27 Aug 2026 12:15:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HoDsYkht1eeB38CDs4Hf7wPhF_T7Uch5fbApq_pNp88A.jpg"/>
     </item>
   </channel>
 </rss>
