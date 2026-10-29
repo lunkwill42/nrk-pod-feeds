@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:52:43 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:50:27 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Kritiserer barselomsorgen</title>
+      <description><![CDATA[Helsdirektoratet skal spørre alle kvinner i barsel om psykisk helse. Det får kritikk fra Barselopprøret.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/32af4f7c-3a99-4c1d-bf45-62500faab283_4975912a-e70b-4e15-89af-4d59c51ae05a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/32af4f7c-3a99-4c1d-bf45-62500faab283_4975912a-e70b-4e15-89af-4d59c51ae05a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Thu, 29 Oct 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/JiVOy81oFdtHkeQx-VG0dQ85Ch7HQVt9i9_ruUC6EdvQ.jpg"/>
+    </item>
     <item>
       <title>Valget i Israel er ikke avklart</title>
       <description><![CDATA[Statsminister Netanyahus politiske blokk har flest stemmer, men ikke flertall.]]></description>
@@ -273,15 +282,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>58:44</itunes:duration>
       <pubDate>Fri, 18 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2CF5Bs0QuZdn28MbtPfjjgtTYA7wd1zubkPoo91OAWjg.jpg"/>
-    </item>
-    <item>
-      <title>Vil gi ukrainere opphold</title>
-      <description><![CDATA[Regjeringen vil gi oppholdstillatelse til personer som oppholder seg i Norge nå, og tjener nok til å ta vare på seg selv og familien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6027739a-99c7-449d-a773-9a99c7549dc5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6027739a-99c7-449d-a773-9a99c7549dc5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:52</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/uRPEN8gelRoJpYlGMBhzWgiET4XCMBUw-BW-dFJbAIQA.jpg"/>
     </item>
   </channel>
 </rss>
