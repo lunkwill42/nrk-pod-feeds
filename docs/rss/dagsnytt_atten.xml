@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:50:27 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:50:17 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Sju personer fengslet for fiskerijuks</title>
+      <description><![CDATA[Økokrim mistenker storstilt fiskerikriminalitet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/04151bb9-99c9-440e-b65a-1b5cda968372_1c028bed-9985-4e26-bf06-0f83afc33e81_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/04151bb9-99c9-440e-b65a-1b5cda968372_1c028bed-9985-4e26-bf06-0f83afc33e81_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/-XWIxsDOiZyIPXkBFPt4xQLt_dfpVSt3tKZ6l3sK4lMQ.jpg"/>
+    </item>
     <item>
       <title>Kritiserer barselomsorgen</title>
       <description><![CDATA[Helsdirektoratet skal spørre alle kvinner i barsel om psykisk helse. Det får kritikk fra Barselopprøret.]]></description>
@@ -273,15 +282,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>58:41</itunes:duration>
       <pubDate>Mon, 21 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WlMS8f8GIxO9Eer4zENZZQ7-NsvDc-wRBFip0yEuO1mw.jpg"/>
-    </item>
-    <item>
-      <title>Togstreiken rammer Østlandet</title>
-      <description><![CDATA[Over hundre togavganger er innstilt etter at lokførerne gikk ut i streik fredag. Partene er uenige om lønn og arbeidstid.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2e69639e-24bf-45ef-a963-9e24bfc5ef45_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2e69639e-24bf-45ef-a963-9e24bfc5ef45_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:44</itunes:duration>
-      <pubDate>Fri, 18 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2CF5Bs0QuZdn28MbtPfjjgtTYA7wd1zubkPoo91OAWjg.jpg"/>
     </item>
   </channel>
 </rss>
