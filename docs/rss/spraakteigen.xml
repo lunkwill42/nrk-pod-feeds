@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:37:04 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:43:09 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/NQ4-0nzQwU3eDOBQjkKs7AUjzL5cIoZddjdh9czabkeg.jpg"/>
+    <item>
+      <title>Trøndersk vegetarpølse</title>
+      <description><![CDATA[Hva kan vi kalle hamburger og pølse? Sælein og irrimætere - det skal trøndres. Vår språksnakker avslører KI som dårlig på ordtak.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/17e78f7d-58b9-4ea6-a78f-7d58b97ea6e5_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/17e78f7d-58b9-4ea6-a78f-7d58b97ea6e5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:32</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q.jpg"/>
+    </item>
     <item>
       <title>Samisk språkuke</title>
       <description><![CDATA[Det er den årlige uka hvor det rettes fokus mot de ulike samiske språkene. Det gjør sjølsagt Språksnakk også. Lær mer om samisk!]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/spraakteigen/f696041a-5275-449d-9604-1a5275f49d00_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>55:06</itunes:duration>
       <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
-    </item>
-    <item>
-      <title>Skråsikre åttdaga</title>
-      <description><![CDATA[Hva betyr skrå i skråsikker? Ordet har en god forklaring! Åttdaga, et annet begrep om hva en uke er, og hva er hulter til bulter?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/spraakteigen/0e11666e-eb52-406a-9166-6eeb52806a94_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/0e11666e-eb52-406a-9166-6eeb52806a94_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:08</itunes:duration>
-      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg.jpg"/>
     </item>
   </channel>

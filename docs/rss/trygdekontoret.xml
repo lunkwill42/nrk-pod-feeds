@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:37:14 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:43:17 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Bråktober: Kulturkrigen</title>
+      <description><![CDATA[Er advarsler om jihadister, transpersoner og kommunister nok til å stoppe den demokratiske bølgen? Og når startet egentlig kulturkrigen i USA?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/d614f970-8ba9-41f7-baae-467c4cc966d1_42777a2b-356a-4351-9fd0-31a4862b62c3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/d614f970-8ba9-41f7-baae-467c4cc966d1_42777a2b-356a-4351-9fd0-31a4862b62c3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:05</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA.jpg"/>
+    </item>
     <item>
       <title>Bråktober: Milliardærenes mellomvalg</title>
       <description><![CDATA[Er det folkemakta eller pengemakta som avgjør årets mellomvalg? Thomas Seltzer og Hilde Restad om dyrtid, korrupsjon og vår tids røverbaroner.]]></description>
@@ -281,15 +290,6 @@ https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
       <itunes:duration>56:55</itunes:duration>
       <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/2PmB_mVuHE1pJ5LZbFJ7mQkfmLLcvhrH1kE8VZ_Xdx6g.jpg"/>
-    </item>
-    <item>
-      <title>Redningsmannen</title>
-      <description><![CDATA[Bjørn Carlsen har reddet liv fra helikopter i nesten 40 år.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c650faf8-347d-4ae7-90fa-f8347d2ae74f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:32</itunes:duration>
-      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fiCGuegxB7zTxelDgVMb1w6h80lAVzXhmBlWbJ7Omakw.jpg"/>
     </item>
   </channel>
 </rss>
