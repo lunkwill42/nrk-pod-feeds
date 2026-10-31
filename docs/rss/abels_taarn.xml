@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:49:22 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 22:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:01:28 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Ikke spis kompisen din!</title>
+      <description><![CDATA[Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA'et ditt er fullt av feil, og glasstriks er endelig avslørt]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:48</itunes:duration>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>Vampyrgrav funnet i Polen</title>
       <description><![CDATA[Død kvinne stoppes fra å gå igjen. Dessuten, liv under polarisen overrasker. Og har du egentlig kontroll på insulaen din?  ]]></description>
@@ -284,16 +293,6 @@ Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns komp
       <itunes:duration>27:55</itunes:duration>
       <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Antarktis i sentrum!</title>
-      <description><![CDATA[I dagens Tårn drar vi helt ned til Antarktis for å kjenne på klodens mest ekstreme livsbetingelser.
-Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/d296eb66-805e-44bb-96eb-66805e44bb6f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:33</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw.jpg"/>
     </item>
   </channel>
 </rss>
