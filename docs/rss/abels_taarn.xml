@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:58:24 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:49:22 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 22:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Vampyrgrav funnet i Polen</title>
+      <description><![CDATA[Død kvinne stoppes fra å gå igjen. Dessuten, liv under polarisen overrasker. Og har du egentlig kontroll på insulaen din?  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/09d157df-3c80-4d3f-b2a7-0dc450673338_b42e8854-3450-4ada-b782-88ccfe2f4197_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/09d157df-3c80-4d3f-b2a7-0dc450673338_b42e8854-3450-4ada-b782-88ccfe2f4197_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:27</itunes:duration>
+      <pubDate>Fri, 30 Oct 2026 22:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>Døden spesial</title>
       <description><![CDATA[Hva skjer egentlig når vi dør?
@@ -285,15 +294,6 @@ Lurer du på mange rare saker? Send inn dine spørsmål til Abels Tårns kompete
       <itunes:duration>57:33</itunes:duration>
       <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/kBK87E3DWNN2RBE_z8xigwCwOmXdaqURAyPQ6G2O0Rrw.jpg"/>
-    </item>
-    <item>
-      <title>Jubileum! - Filosofi vs KI vs BioTech</title>
-      <description><![CDATA[Bonusepisode! Hva er viktigst: Filosofi, kunstig intelligens eller bioteknologi?  Tiårets kamp utkjempa under Abels tårns 15-årsjubileum. Dessuten får du høydepunkter fra musikkeksperimentet: Hva skjer når en gitar senkes i flytende nitrogen og en metallvokalist growler med helium?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/c5c3e976-8c65-4426-83e9-768c65142664_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:49</itunes:duration>
-      <pubDate>Fri, 07 Aug 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/H-9sU5vpJTYPyxzm7S7caw2R9u1fMc_Wseyb_bcjN9_g.jpg"/>
     </item>
   </channel>
 </rss>
