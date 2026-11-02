@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:57:17 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:26:29 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 14:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Dora Thorhallsdottir</title>
+      <description><![CDATA[Jeg har kommet i FØKK-alderen, sier familieterapeuten og standupkomikeren]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/cca45704-be8a-4d68-92b2-550eb2127929_0456bcd4-98a6-4b33-b2eb-864d6a0e364a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cca45704-be8a-4d68-92b2-550eb2127929_0456bcd4-98a6-4b33-b2eb-864d6a0e364a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:18</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 14:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gets6Jpp4A5mpekBDBxKGgEv4OXeQwG4pIK31gGab8GA.jpg"/>
+    </item>
     <item>
       <title>Diaz</title>
       <description><![CDATA[– jeg skulle aldri lage musikk igjen, sier rapperen som brått forsvant fra rampelyset.]]></description>
@@ -274,15 +283,6 @@
       <itunes:duration>57:11</itunes:duration>
       <pubDate>Tue, 01 Sep 2026 13:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fkwnUUz75FjOgHkJZCHBBQv3N4Qlq6ZK5DhmbItxMCtg.jpg"/>
-    </item>
-    <item>
-      <title>Tonje Gilje</title>
-      <description><![CDATA[– Lykken er å game fra fredag til søndag. Å glemme  dusjing og spising, bare være helt nerd! sier  Flipp Klipp- profilen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/12584dcc-6666-46c9-984d-cc666606c972_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/12584dcc-6666-46c9-984d-cc666606c972_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:26</itunes:duration>
-      <pubDate>Mon, 31 Aug 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/06J2wPDIhNgZbFU0_oPSZgw_no5z8pgEBlJeUXhO_9LA.jpg"/>
     </item>
   </channel>
 </rss>

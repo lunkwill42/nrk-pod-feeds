@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:58:51 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:26:55 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Arin er på detox</title>
+      <description><![CDATA[Jonas er tilbake fra ferie! Vi får besøk av den ukjente Disney-stjernen Siri Nilsen, som har lånt stemmen sin til alt fra «High School Musical» til «Phineas og Ferb»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/e73923e0-a133-40bd-99a9-892cceb2c9c9_2f84d398-4e0a-47e1-951d-2e31035090f5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e73923e0-a133-40bd-99a9-892cceb2c9c9_2f84d398-4e0a-47e1-951d-2e31035090f5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:40</itunes:duration>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OZsy5LpiTTQHlU-YIZl9TQR6Q311B49lQ6xEXzVfFOlg.jpg"/>
+    </item>
     <item>
       <title>Vi må etablere noen halloweenregler</title>
       <description><![CDATA[Markus er redd for å dele bort drittgodteri til unger på halloween. Er det uhygienisk å gi bort smågodt? Vi må etablere noen kjøreregler, sammen med deg!]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>42:57</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/PBHy4gFIHcm6Ta9KgfP_2ArWhD198wCuWlT5cJekG75g.jpg"/>
-    </item>
-    <item>
-      <title>B-mennesker: Alt som er digg er dårlig for deg. </title>
-      <description><![CDATA[Arin og Henning skåler med maten og vi spår fremtidens historiebøker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/187eb3b4-e4a4-44fe-853d-099ba43140d1_566665f7-d128-402a-81a0-fbaabc9b6940_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/187eb3b4-e4a4-44fe-853d-099ba43140d1_566665f7-d128-402a-81a0-fbaabc9b6940_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>20:25</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew.jpg"/>
     </item>
   </channel>
 </rss>
