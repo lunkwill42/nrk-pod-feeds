@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:58:31 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:37:07 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    <item>
+      <title>Julefinger, keratinbehandling og stein i skoen</title>
+      <description><![CDATA[Det blir helt kalas i studio når gjengen leker «We listen and we don't judge».
+
+Send oss spørsmål i NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/022bf4e9-06ec-4f25-afdf-f55202cde65f_7817e06f-1204-4727-9222-b59a9cc6164a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/022bf4e9-06ec-4f25-afdf-f55202cde65f_7817e06f-1204-4727-9222-b59a9cc6164a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:02:41</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    </item>
     <item>
       <title>Utestenging, frieri og stein, saks, papir-VM</title>
       <description><![CDATA[Er det verdt det å ofre alt for «den populære gjengen»? Og har Sofie blitt fridd til?
@@ -325,17 +336,6 @@ Send oss spørsmål i appen NRK Radio!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/240847b6-8e11-4420-8847-b68e11d42002_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>58:46</itunes:duration>
       <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Utestenging, stygge bilder og støvler på stranda</title>
-      <description><![CDATA[Hva gjør man med en venninne som lager dårlig stemning og utestenger?
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/8068a3bf-d36b-4f0e-a8a3-bfd36b5f0e1e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/8068a3bf-d36b-4f0e-a8a3-bfd36b5f0e1e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:27</itunes:duration>
-      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

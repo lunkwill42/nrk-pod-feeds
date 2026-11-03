@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 18:26:55 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:38:10 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Annika Momrak har møtt en fremmedkriger</title>
+      <description><![CDATA[Hva er egentlig et mellomvalg? Og har Arin klart å skrolle mindre på mobilen? Hva skal til for å reise til Ukraina og kjempe for den ukrainske hæren? Alt dette og mer får du svaret på denne tirsdagen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/913b3f65-b47d-47be-ade3-3f9a5aa0287f_2fcbfe23-2284-4c1b-b6bc-3649e4b14fb1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/913b3f65-b47d-47be-ade3-3f9a5aa0287f_2fcbfe23-2284-4c1b-b6bc-3649e4b14fb1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:12</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/KJYaiW85gyhoQzt-00RgBgzgbUlfInT7Y1QMFXMEY5Cw.jpg"/>
+    </item>
     <item>
       <title>Arin er på detox</title>
       <description><![CDATA[Jonas er tilbake fra ferie! Vi får besøk av den ukjente Disney-stjernen Siri Nilsen, som har lånt stemmen sin til alt fra «High School Musical» til «Phineas og Ferb»]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>20:31</itunes:duration>
       <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
-    </item>
-    <item>
-      <title>Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»</title>
-      <description><![CDATA[Stig Brenner har så mye selvtillit på egen humor at han tryglet Mads Hansen om å få være med på «Ikke lov å le på hytta». I dag kommer han til oss for å forklare historien bak den fantastiske Martin Schanche-parodien.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7d81cdce-33ae-4b73-b702-d0106883270f_8a23b0cf-c1f9-4841-a53e-dbe57c886b04_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7d81cdce-33ae-4b73-b702-d0106883270f_8a23b0cf-c1f9-4841-a53e-dbe57c886b04_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:57</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PBHy4gFIHcm6Ta9KgfP_2ArWhD198wCuWlT5cJekG75g.jpg"/>
     </item>
   </channel>
 </rss>

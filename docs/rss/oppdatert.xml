@@ -8,13 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:43:35 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:38:03 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
     <item>
-      <title>MAGAs far: Oppskriften som endret USA</title>
-      <description><![CDATA[Lenge før Trump fantes en mann med samme visjon. Hvem står egentlig bak MAGA-bevegelsen som endret USA?]]></description>
+      <title>Resident Evil: Slik ble Hollywood hekta på spill</title>
+      <description><![CDATA[Filmer basert på dataspill ble lenge ansett som søppel: Hvem er mannen bak historiens mest kritikerroste gamingfilm? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/ba00618d-4014-4aa0-b095-02f8a5b51bd0_793d3e7c-914d-4679-858d-9ae8420546c8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ba00618d-4014-4aa0-b095-02f8a5b51bd0_793d3e7c-914d-4679-858d-9ae8420546c8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:57</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eK-HNl359cZCwXUHqIVzRQqpP4W1vLQEcso_5Q39FwAg.jpg"/>
+    </item>
+    <item>
+      <title>Magas far: Oppskriften som endret USA</title>
+      <description><![CDATA[Lenge før Trump fantes en mann med samme visjon. Hvem står egentlig bak Maga-bevegelsen som endret USA?]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b5a54a22-ef2a-4739-a34d-900ca0257287_cbc010ec-390f-4798-b4db-36c8c818dcac_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5a54a22-ef2a-4739-a34d-900ca0257287_cbc010ec-390f-4798-b4db-36c8c818dcac_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>22:17</itunes:duration>
@@ -272,15 +281,6 @@
       <itunes:duration>12:04</itunes:duration>
       <pubDate>Fri, 25 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/CYu78fAS7e7njMPKJGL_yQywakABAA7LBL94YNg3tZbg.jpg"/>
-    </item>
-    <item>
-      <title>Pavens oppgjør: Slik vil han redde kirkens rykte</title>
-      <description><![CDATA[Robert Prevost ble pave i 2025. Nå tar pave Leo XIV et oppgjør med kirkens mørke fortid.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:39</itunes:duration>
-      <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/alFEP2hwF__eT_2fB3KNiwOiMLT1tiQH48CtLzDeK_gQ.jpg"/>
     </item>
   </channel>
 </rss>

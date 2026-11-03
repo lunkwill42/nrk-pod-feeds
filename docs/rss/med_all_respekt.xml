@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:42:46 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:37:55 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>– Jeg tror jeg vil i fengsel</title>
+      <description><![CDATA[Tara har funnet ut at et liv bak murene kanskje ikke er så dumt. Og hvordan håndterer man med gjester som ødelegger eiendelene dine?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/bbec53d0-aad0-445c-ab8c-2a1deccc76f8_600bd199-a51e-4b8d-a19f-9c1bcb078dbc_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/bbec53d0-aad0-445c-ab8c-2a1deccc76f8_600bd199-a51e-4b8d-a19f-9c1bcb078dbc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:16</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Debatten: Skaper jo fremmedfrykt!</title>
       <description><![CDATA[Debatten om innvandring er blitt et realityshow, der man aldri snakker om løsninger. Og hvorfor er det stuerent å kritisere muslimer, men «fy fy» å kritisere andre grupper?]]></description>
@@ -272,15 +281,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/5be4f69e-e995-4cf8-a4f6-9ee995ccf8d1_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>28:39</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Nye måter å jukse på</title>
-      <description><![CDATA[Tiden forandrer seg og verden blir digitalisert, vi savner den gode gamle meldingsboka fra barneskolen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/21ca64c6-b97b-40fe-8a64-c6b97b40feef_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/21ca64c6-b97b-40fe-8a64-c6b97b40feef_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:51</itunes:duration>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>
