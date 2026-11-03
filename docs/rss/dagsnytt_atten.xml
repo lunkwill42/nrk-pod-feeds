@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Nov 2026 01:36:39 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:26:44 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Valgdag i USA</title>
+      <description><![CDATA[Hvordan blir Donald Trumps to siste år som president? Amerikanerne skal velge alle de 432 representantene til Representantenes hus og 35 senatorer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/dd79de6d-33a3-40b4-a55c-dd5f13f2cd47_3f9a2f77-dbd7-46d5-88c4-6b6cc4384700_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dd79de6d-33a3-40b4-a55c-dd5f13f2cd47_3f9a2f77-dbd7-46d5-88c4-6b6cc4384700_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:02</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bjW6kdW7idjsGb1ZQlrWdw4-M9pCLIV9WPLtnnvpb2OA.jpg"/>
+    </item>
     <item>
       <title>Færre helseforetak og større kommuner</title>
       <description><![CDATA[Små kommuner må bli større, foreslår Helsereformuvalget i dag.]]></description>
@@ -273,15 +282,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:04</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/porfS361_Y69So1RKVigRgOonUTqoewRXQKmFqupqEGg.jpg"/>
-    </item>
-    <item>
-      <title>Ny skoleplan fra regjeringen</title>
-      <description><![CDATA[Frp reagerer på regjeringens forslag om å fjerne dagens fag for 1. og 2. klassinger til fordel for mer lek og fysisk aktivitet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/9b1013e2-a6ea-42e3-9013-e2a6ea32e389_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9b1013e2-a6ea-42e3-9013-e2a6ea32e389_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:51</itunes:duration>
-      <pubDate>Tue, 22 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/z07qqhK1SBiO_Ng7C2D8qwG2KvuipADjCyGiDxH9TpmA.jpg"/>
     </item>
   </channel>
 </rss>

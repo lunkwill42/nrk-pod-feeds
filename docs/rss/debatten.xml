@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:50:35 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 22:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:26:53 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 22:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Vil Maga fortsette uten Trump?</title>
+      <description><![CDATA[Hva er Maga-bevegelsen anno 2026 og vil den eksistere den dagen Trump ikke lenger er president?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/9d35d0b5-fb7d-49d8-a1c5-daf58c7f2f9a_d4ff51a4-7d16-49e5-8e90-dc9c8cec46f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/9d35d0b5-fb7d-49d8-a1c5-daf58c7f2f9a_d4ff51a4-7d16-49e5-8e90-dc9c8cec46f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:37</itunes:duration>
+      <pubDate>Tue, 03 Nov 2026 22:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/saKKmOkFR-0_Rt2fA_ePWgDnm9WbigYrrXe7YIdRJ0RQ.jpg"/>
+    </item>
     <item>
       <title>Holder vi på å miste kontrollen over kraften vår - igjen?</title>
       <description><![CDATA[NVE advarer om fremtiden, og er datasentre for kraftkrevende for Norge?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/ad77fbef-6d67-4a9a-b7fb-ef6d67ba9a27_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>42:00</itunes:duration>
       <pubDate>Wed, 15 Apr 2026 09:36:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Vil kjøre på med kjernekraftverk</title>
-      <description><![CDATA[Kommunene vil komme raskt i gang med kjernekraft selv om Kjernekraftutvalget fraråder.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/0adaf242-3464-40b5-9af2-42346440b54e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/0adaf242-3464-40b5-9af2-42346440b54e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:47</itunes:duration>
-      <pubDate>Thu, 09 Apr 2026 22:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>
