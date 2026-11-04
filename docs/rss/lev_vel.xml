@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:43:24 +0000</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:30:53 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>Fertilitet: Når er det for sent? </title>
+      <description><![CDATA[Alt du trenger å vite om fertilitet med overlege på St. Olavs, Eline Bragedatter Seljeflot.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/d708ffeb-6f40-41b4-b68f-12c05a402d30_d1539fa9-1794-4181-ba9d-a621377a76f0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/d708ffeb-6f40-41b4-b68f-12c05a402d30_d1539fa9-1794-4181-ba9d-a621377a76f0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>47:14</itunes:duration>
+      <pubDate>Wed, 04 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
     <item>
       <title>Verity: Er filmen bedre enn boka?</title>
       <description><![CDATA[Linnéa, Ingrid og Adelina har sett «Verity» på kino, og meningene er mildt sagt ganske delt! ]]></description>
@@ -274,15 +283,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/a11c92d5-9d21-452c-9c92-d59d21552cfe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:54</itunes:duration>
       <pubDate>Wed, 22 Apr 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Ernæring: Karbohydrater (2:3)</title>
-      <description><![CDATA[Hvorfor har vi blitt så redde for karbohydrater? Klinisk ernæringsfysiolog Jacob Juel Christiensen gir oss svar i en tredelt serie om næringsstoffenes hovedgrupper.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/8d54ae28-4e27-44d2-94ae-284e2704d2d9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8d54ae28-4e27-44d2-94ae-284e2704d2d9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:55</itunes:duration>
-      <pubDate>Wed, 15 Apr 2026 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
