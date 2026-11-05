@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:28:25 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Nov 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:46:56 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Presidentens skjebne</title>
+      <description><![CDATA[Presidenten overrasker med å innrømme nederlag og gratulere demokratene. Er det en ny Trump vi ser konturene av?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/61136d48-7562-451e-b935-8890a8eb1950_a6e91e30-b5ef-4572-99b0-81e64e77638f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/61136d48-7562-451e-b935-8890a8eb1950_a6e91e30-b5ef-4572-99b0-81e64e77638f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:59</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z0UrAPJIhOTgsOfzFe8xTQSGv4DphbMYRgW0CiKHTEmg.jpg"/>
+    </item>
     <item>
       <title>Når folket reiser seg for demokratiet</title>
       <description><![CDATA[MAGA tapte så det sang i mellomvalget og de er ikke alene. Ytre høyre møter stadig mer motstand. I Ungarn, Serbia og Brasil har stemt ut de autoritære lederne.  Kan dette bety at den langvarige antidemokratiske bølgen er over - eller er det som skjer nå bare et forbigående blaff?]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>24:34</itunes:duration>
       <pubDate>Wed, 16 Sep 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/E8y-gKupHNSfSnyvkeZpSQd_F1NxmkNvIdMUVzIudCNA.jpg"/>
-    </item>
-    <item>
-      <title>Spør Ekko om Pisa-krisa</title>
-      <description><![CDATA[Norske elever blir bare dårligere og dårligere i lesing, regning og naturfag. Hvorfor skjer det og hva kan vi gjøre for å endre utviklingen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3a675366-2e7a-429f-a753-662e7a829f0f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3a675366-2e7a-429f-a753-662e7a829f0f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:06</itunes:duration>
-      <pubDate>Tue, 15 Sep 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ouZGZGHfxUpnupDgvAsKkgxoL_YUrf1mpb11ejVy9qDQ.jpg"/>
     </item>
   </channel>
 </rss>

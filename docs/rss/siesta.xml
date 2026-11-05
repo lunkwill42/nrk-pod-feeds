@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:29:06 +0000</lastBuildDate>
-    <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:47:21 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Hvem er best i å snakke simsk</title>
+      <description><![CDATA[Hvem er best til å snakke simsk, Kristiansund mangler julelys og hvem tømmer oppvaskmaskin-filteret? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3be737cf-ee8a-4a20-b876-6c5c93201cd5_d479146a-c23c-4a6f-b414-c4d02f62b6f3_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3be737cf-ee8a-4a20-b876-6c5c93201cd5_d479146a-c23c-4a6f-b414-c4d02f62b6f3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:20</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Finn Glede debriefer valget</title>
       <description><![CDATA[Daniel har sølt brus på Markus, Anna marinerer fingeren i noe hjemmelaget og Finn Glede har tanker om nattens valg. ]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>47:43</itunes:duration>
       <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna intervjuer Tara Lina</title>
-      <description><![CDATA[Selveste Tara Lina Shahin er hemmelig gjest, vi avslører ny pub i jakten etter Norges beste og det blir dyrelyd-spesial i Quizvang]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/d4855bc3-eb40-4b58-855b-c3eb406b585d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/d4855bc3-eb40-4b58-855b-c3eb406b585d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>51:46</itunes:duration>
-      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8aPp9PI_jMPq--Dq6V9CjgQPYYDteP9p-mNNc5I9h2rw.jpg"/>
     </item>
   </channel>
 </rss>

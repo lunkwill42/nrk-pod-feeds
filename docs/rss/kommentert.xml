@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:52:51 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 17:16:00 +0100</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:47:06 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 17:23:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>JD Vance med Trump-oppgjør: Hvem får skylda?</title>
+      <description><![CDATA[Visepresident JD Vance distanserer seg nå fra Donald Trump. Kampen om presidentvalget 2028 er i full sving. Blir det borgerkrig i partiet?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/133f1192-5610-4217-b0bd-59752ad8ae22_fd835940-8032-46bf-b976-2f0bb4d09cc2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/133f1192-5610-4217-b0bd-59752ad8ae22_fd835940-8032-46bf-b976-2f0bb4d09cc2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:16</itunes:duration>
+      <pubDate>Thu, 05 Nov 2026 17:23:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NOJ0RJG0_6cnIE0eeTOiYAxAcxJ7hUSzEJbYxdoFZvWA.jpg"/>
+    </item>
     <item>
       <title>Donald Trump: Korrupt pengemaskin eller president?</title>
       <description><![CDATA[Donald Trump har tjent milliarder på krypto samtidig som han har vært president. Han mottar dyre gaver, det finnes en egen benådningsindustri og familien hans har tjent seg søkkrike. 
@@ -303,16 +312,6 @@ Og så lurer vi: Hvor er Ine Eriksen Søreide?]]></description>
       <itunes:duration>31:22</itunes:duration>
       <pubDate>Thu, 21 May 2026 15:27:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9J2NlvqTZQVsGFDyzSmcRgR_Fw9gXTgsfjIWuOGuVylg.jpg"/>
-    </item>
-    <item>
-      <title>Ukraina med massivt angrep: Kan de snu krigen?</title>
-      <description><![CDATA[Ukraina angriper Russland og hovedstaden Moskva hardere og hardere. Hvordan er situasjonen i krigen nå?
-Og politiske slagord: Funker de? Bryr folk seg om det? Nå vil SV ha et nytt et og ber om hjelp.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/86612dbd-b0b3-4469-a12d-bdb0b33469e9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/86612dbd-b0b3-4469-a12d-bdb0b33469e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>34:03</itunes:duration>
-      <pubDate>Tue, 19 May 2026 17:24:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/DGAPujoZIGLtQSw9NcN29wjYWiX2zu_3aK3qrThVaPOA.jpg"/>
     </item>
   </channel>
 </rss>
