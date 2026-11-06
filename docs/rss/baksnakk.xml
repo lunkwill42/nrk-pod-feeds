@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:37:07 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:57:29 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    <item>
+      <title>Boktober, eksen har fått dame og julepynt</title>
+      <description><![CDATA[Baksnakk sin boktober er ferdig og trioen har mye å melde om boka. 
+
+Send oss spørsmål i NRK Radio]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/85bc43db-bf52-417f-a175-a69f19e68ff0_1c93e0c4-abe8-4f28-ade9-838269d56ada_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/85bc43db-bf52-417f-a175-a69f19e68ff0_1c93e0c4-abe8-4f28-ade9-838269d56ada_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:09</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    </item>
     <item>
       <title>Julefinger, keratinbehandling og stein i skoen</title>
       <description><![CDATA[Det blir helt kalas i studio når gjengen leker «We listen and we don't judge».
@@ -327,15 +338,6 @@ Send oss spørsmål i appen NRK Radio!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/e16e7e81-57c8-46fd-ae7e-8157c826fd8a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:08</itunes:duration>
       <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Bæsj i pissoaret, sugemerke og en elendig date</title>
-      <description><![CDATA[Milie har fått svar fra utestedet der hun bæsjet i pissoaret ...]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/240847b6-8e11-4420-8847-b68e11d42002_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/240847b6-8e11-4420-8847-b68e11d42002_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:46</itunes:duration>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

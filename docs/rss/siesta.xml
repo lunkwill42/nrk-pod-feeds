@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:47:21 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:58:05 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna intervjuer Ole Soo </title>
+      <description><![CDATA[Det blir en ny runde av halloquizvang, hva betyr egentlig piloereksjon og hvordan blir Annas intervju av Ole Soo?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8b318a64-4dc0-4b38-8876-eef9830500a1_937c969f-5ff4-4ed6-b532-4d8d8003db66_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8b318a64-4dc0-4b38-8876-eef9830500a1_937c969f-5ff4-4ed6-b532-4d8d8003db66_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:54</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/kIykTWcaj4vZcDNxtcVs7gM-r8-MREwNNbreOq9pxZYQ.jpg"/>
+    </item>
     <item>
       <title>Hvem er best i å snakke simsk</title>
       <description><![CDATA[Hvem er best til å snakke simsk, Kristiansund mangler julelys og hvem tømmer oppvaskmaskin-filteret? ]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/63bd764e-c519-4d2c-bd76-4ec519dd2cdc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>45:14</itunes:duration>
       <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel har blitt overvåka</title>
-      <description><![CDATA[Anna har tatt opp lyd av Daniel i skjul, Rafael Eriksen lærer bort radiomagi og hva er det motsatte av en sugekopp?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/03db79c9-fe6a-48e8-9b79-c9fe6a58e819_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/03db79c9-fe6a-48e8-9b79-c9fe6a58e819_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:43</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
