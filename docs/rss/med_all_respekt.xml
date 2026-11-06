@@ -8,10 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:01:04 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:57:41 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>Vi trenger ikke å slåss!</title>
+      <description><![CDATA[Når en prest banker opp en innbruddstyv og roper «vi trenger ikke å slåss!», må gjengen bare innrømme det: Dette er innafor.
+Abu forklarer også hvorfor du bør ha sykkellås på tøflene i moskeen. 
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/aa9b7384-3960-4903-83b4-aefe0a6473b8_436ace81-a5b2-4d1a-a5ee-e65c901366bb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/aa9b7384-3960-4903-83b4-aefe0a6473b8_436ace81-a5b2-4d1a-a5ee-e65c901366bb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:09</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>Don´t fuck with cats</title>
       <description><![CDATA[Abu er den største taperen av alle. Det er en seriemorder blant oss. Og hvorfor er Leo Ajkic Norges beste journalist?]]></description>
@@ -272,15 +284,6 @@
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/43e2451f-9528-4815-a245-1f9528f81518_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>33:46</itunes:duration>
       <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Brownface og porno-hotell</title>
-      <description><![CDATA[Hvordan så forfedrene våre ut? Folk driter på seg i idrett og Galvan har nok en business idé til et porno-hotell. Levende kaos!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/82642be1-d231-49c5-a42b-e1d23159c556_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/82642be1-d231-49c5-a42b-e1d23159c556_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:04</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>

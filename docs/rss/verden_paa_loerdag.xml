@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:43:25 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:58:15 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag.jpg"/>
+    <item>
+      <title>USA: En seier for demokratiet</title>
+      <description><![CDATA[Slutten på Trump-æraen. En seier for kjærligheten. Det mangler ikke på store ord etter at Demokratene vant mellomvalget.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/7ecfe003-962c-4ad6-b3a4-15df3009a457_825e9304-8be7-4d39-895f-426f7cf05a13_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/7ecfe003-962c-4ad6-b3a4-15df3009a457_825e9304-8be7-4d39-895f-426f7cf05a13_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:25</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/i-R7JdZDei43pSxuGJtecwNiTnyuocELabzCXHRUgnQg.jpg"/>
+    </item>
     <item>
       <title>USA: Her avgjøres mellomvalget</title>
       <description><![CDATA[Hva skal vi følge med på natt til 4. november? Demokratene må vinne fire seter fra Donald Trump og republikanerne.]]></description>
@@ -280,15 +289,6 @@ NRKs reporter måtte opptre som turist for å se Hormuz-blokaden med egne øyne.
       <itunes:duration>15:42</itunes:duration>
       <pubDate>Fri, 17 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-YlPxdF34cs5gIb2GlklCw8pIeo175QLF0iMMCf9fifQ.jpg"/>
-    </item>
-    <item>
-      <title>Har det rabla for Trump?</title>
-      <description><![CDATA[Trusselen om å utslette en hel sivilisasjon sjokkerte verden. Hva sier psykiatrien om president Donald Trumps mentale helse?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/verden_paa_loerdag/5e4c9732-47b4-4048-8c97-3247b4d048ee_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/5e4c9732-47b4-4048-8c97-3247b4d048ee_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>16:12</itunes:duration>
-      <pubDate>Tue, 14 Apr 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/CJLQgwj0_JXjiIaJZ3838QnjkQGRlHvgh18S82Ifv_Xg.jpg"/>
     </item>
   </channel>
 </rss>

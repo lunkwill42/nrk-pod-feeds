@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:43:17 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:58:08 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Bråktober: MAGA-plask</title>
+      <description><![CDATA[Har vi sett starten på slutten for MAGA?  Og hva skal demokratene egentlig gjøre med makta de nå har fått? Vi oppsummerer det historiske mellomvalget!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/78f0c729-9792-460a-a605-fef90edfc86b_19d55e73-ea14-41b1-87e3-80b34fa343a5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/78f0c729-9792-460a-a605-fef90edfc86b_19d55e73-ea14-41b1-87e3-80b34fa343a5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:29</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA.jpg"/>
+    </item>
     <item>
       <title>Bråktober: Kulturkrigen</title>
       <description><![CDATA[Er advarsler om jihadister, transpersoner og kommunister nok til å stoppe den demokratiske bølgen? Og når startet egentlig kulturkrigen i USA?]]></description>
@@ -281,15 +290,6 @@ https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
       <itunes:duration>57:36</itunes:duration>
       <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
-    </item>
-    <item>
-      <title>Fødsel</title>
-      <description><![CDATA[Cathrine Frost har laget humorforestilling av sin egen dramatiske historie om å bli mor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/c1b6965c-c29d-4f41-b696-5cc29d8f41f3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/c1b6965c-c29d-4f41-b696-5cc29d8f41f3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:55</itunes:duration>
-      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2PmB_mVuHE1pJ5LZbFJ7mQkfmLLcvhrH1kE8VZ_Xdx6g.jpg"/>
     </item>
   </channel>
 </rss>

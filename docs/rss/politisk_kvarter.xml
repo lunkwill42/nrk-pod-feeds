@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:01:31 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:57:53 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Simen Velle hevder demonstrasjoner ikke har noen politisk effekt</title>
+      <description><![CDATA[Simen Velle mener demonstrasjoner bare er tull og en billig snarvei til politisk påvirkning.
+- En fornærmelse mot demokratiet, hevder MDGs Frøya Skjold Sjursæter.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/484f5113-1275-4e25-830a-df20f1acc5b3_84a51ff6-8b10-4541-8189-1f2b73193e7d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/484f5113-1275-4e25-830a-df20f1acc5b3_84a51ff6-8b10-4541-8189-1f2b73193e7d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>14:49</itunes:duration>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/0Dn8B2-GFY3OsuLdlubXbw1avhDzgDTIo63Vg3goY-ww.jpg"/>
+    </item>
     <item>
       <title>Mer i lomma til folk flest</title>
       <description><![CDATA[Rødt krever billigere mat, diesel og tannhelse.  
@@ -285,15 +295,6 @@ Det er en veldig dårlig ide, sier økonomiprofessor.]]></description>
       <itunes:duration>15:02</itunes:duration>
       <pubDate>Mon, 28 Sep 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/23atiFoNbtYVMI0XaboARwONCapvOPQ8tuMK62tR8IHA.jpg"/>
-    </item>
-    <item>
-      <title>Hvordan står det til med drivstoff-opprøret i Høyre? </title>
-      <description><![CDATA[Opprøret i Høyre lever videre. Men har de begynt å gå mot hverandre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/651212b3-c84c-4d5b-aa35-6ecf120e1ff0_57414fc3-9111-4a8c-8839-11f683d12dab_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/651212b3-c84c-4d5b-aa35-6ecf120e1ff0_57414fc3-9111-4a8c-8839-11f683d12dab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:07</itunes:duration>
-      <pubDate>Fri, 25 Sep 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_tvVSvFSg2S-ftzfh1_mcAmV9mPa5zft9hDnQDZRF-Yg.jpg"/>
     </item>
   </channel>
 </rss>
