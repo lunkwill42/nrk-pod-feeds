@@ -8,12 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:33:29 +0000</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 06:02:00 +0200</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:51:17 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
     <item>
-      <title>Macías(3:3)</title>
+      <title>Tyrann - viktig beskjed!</title>
+      <description><![CDATA[OBS! Fra og med 14. november publiserer vi våre Tyrann-episoder ukentlig. Første fæle fyr ut er Belgias brutale kong Leopold II.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/9a4e46f5-d77b-4ea1-9806-881ee49e749c_417c5d24-a630-4bb7-b07d-051607ebfd20_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/9a4e46f5-d77b-4ea1-9806-881ee49e749c_417c5d24-a630-4bb7-b07d-051607ebfd20_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:39</itunes:duration>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    </item>
+    <item>
+      <title>Macías (3:3)</title>
       <description><![CDATA[Macías hører stemmer, men får ikke hjelp, så da må skrekkregimet hans bare fortsette. Helt til han starter å true sin egen familie.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/213f97a2-1b09-49f3-bf97-a21b0969f3f9_1_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/213f97a2-1b09-49f3-bf97-a21b0969f3f9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
@@ -321,15 +330,6 @@ The Golden Man - Paul Theroux (The New Yorker)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/8946ee28-0799-4d9f-86ee-2807998d9fdf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>30:48</itunes:duration>
       <pubDate>Sat, 07 Mar 2026 06:02:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg"/>
-    </item>
-    <item>
-      <title>Ceaușescu (2:6)</title>
-      <description><![CDATA[I fengsel blir Ceaușescu kjent med partitoppene. Tenner han sigarettene og pusser skoene deres, kan de kanskje gi ham noe tilbake?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/7f7b10af-8fb1-407f-bb10-af8fb1207fdf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/7f7b10af-8fb1-407f-bb10-af8fb1207fdf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:27</itunes:duration>
-      <pubDate>Sat, 07 Mar 2026 06:01:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg"/>
     </item>
   </channel>
