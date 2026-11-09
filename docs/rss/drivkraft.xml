@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:46:49 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 12:05:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:51:49 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 14:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Knut Høibraaten</title>
+      <description><![CDATA[
+_ Bergenspatrioten jukset seg til fotballagent lisens.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/e429b9aa-a1c6-43f5-a0f6-079037b0a713_ecb9c2ba-fe17-4542-80ac-45a05343a9f2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e429b9aa-a1c6-43f5-a0f6-079037b0a713_ecb9c2ba-fe17-4542-80ac-45a05343a9f2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 14:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/lIvh7O1dXCbNiSScplh3Ig0KUgi17wWyQl9k4lNugVvg.jpg"/>
+    </item>
     <item>
       <title>Birgitte Lange</title>
       <description><![CDATA[– Hvor mye kjærlighet kunne jeg finne hos fremmede, undret forfatteren og satte seg ned på en benk for å prate med tilfeldig forbipasserende.]]></description>
@@ -274,15 +285,6 @@
       <itunes:duration>57:02</itunes:duration>
       <pubDate>Thu, 10 Sep 2026 13:05:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Wq9kU3JoL1GFtoWHIWw3bg8_EeYTR-njo46m_SAuW5bg.jpg"/>
-    </item>
-    <item>
-      <title>Torgrim Eggen</title>
-      <description><![CDATA[– Jeg visste det lå noe i familiehistorien som var litt ekkelt, sier forfatteren av boken Blodet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:21</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 12:37:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/JCzZ5laVdpJ-vL31NGfdXgRUY-oZUCofzXwNMrLVes6A.jpg"/>
     </item>
   </channel>
 </rss>

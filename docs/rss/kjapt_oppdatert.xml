@@ -8,13 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:57:34 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:52:15 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
     <item>
+      <title>Hedda og Solveig ble skutt mot under masseskyting i Krakow </title>
+      <description><![CDATA[Og i dag starter FNs klimatoppmøte.
+
+//
+Oppdatert 09.11.2026 07:25 med nyheten om at gjerningspersonen bak masseskytingen i Polen er død.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/e43d7ebd-9f9e-4996-8d3f-4c6836758f56_4175135e-7c9b-4c00-8398-ed9613546a1d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e43d7ebd-9f9e-4996-8d3f-4c6836758f56_4175135e-7c9b-4c00-8398-ed9613546a1d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>07:00</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAEE10J_eCWPoO0CgArFVg9f9aTtV7RPySetQJ5P-dSQ.jpg"/>
+    </item>
+    <item>
       <title>Snart kan det bli 16-årsgrense for elsparkesykkel</title>
-      <description><![CDATA[Og en populær TV-serie er kansellert etter ti sesonger. ]]></description>
+      <description><![CDATA[Og en populær TV-serie er kansellert etter ti sesonger. 
+
+//
+Oppdatert 06.11.2026 10.45 med at det var TV 2 som sendte «Married at first sight Australia», ikke TV Norge.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/63e52212-f458-4310-8550-2e9a43a02282_ac577f0b-5dc2-4aed-9861-ced41243e0da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>06:06</itunes:duration>
@@ -272,15 +287,6 @@
       <itunes:duration>05:38</itunes:duration>
       <pubDate>Tue, 29 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-A47mKw59NPmyeBMub6bvgRfpetqPAHDQzFnSI13mUqQ.jpg"/>
-    </item>
-    <item>
-      <title>Keepertabbe kostet Norge dyrt</title>
-      <description><![CDATA[Og togstreiken fortsetter med full styrke mandag morgen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b8ec5850-d403-49f3-ac58-50d403a9f3bd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b8ec5850-d403-49f3-ac58-50d403a9f3bd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:59</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/1sePAtvZ2NuFSCRrdvlunghX3U-nB3X3v8LIOR82gluw.jpg"/>
     </item>
   </channel>
 </rss>

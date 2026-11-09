@@ -8,14 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:57:53 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:52:55 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
     <item>
+      <title>Et karakterdrap fra Erna Solberg?</title>
+      <description><![CDATA[Sylvi Listhaug får passet påskrevet i Erna Solbergs nye bok. Hvordan skal det gå med den borgerlige samlingen Solberg alltid har ønsket seg?  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/80644503-1975-4749-9f9d-7b99e8fcb77d_c08c0180-c1f6-47d6-90bc-16cf093445c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/80644503-1975-4749-9f9d-7b99e8fcb77d_c08c0180-c1f6-47d6-90bc-16cf093445c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:11</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/41AntrtpwnaTGYlwj0p-9A2Wg28W_3XZPaB-eXn3mG8g.jpg"/>
+    </item>
+    <item>
       <title>Simen Velle hevder demonstrasjoner ikke har noen politisk effekt</title>
-      <description><![CDATA[Simen Velle mener demonstrasjoner bare er tull og en billig snarvei til politisk påvirkning.
-- En fornærmelse mot demokratiet, hevder MDGs Frøya Skjold Sjursæter.]]></description>
+      <description><![CDATA[Simen Velle sa i podkasten Vass & Knepp Show at demonstrasjoner bare er tull og en billig snarvei til politisk påvirkning.
+– En fornærmelse mot demokratiet, hevder MDGs Frøya Skjold Sjursæter.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/484f5113-1275-4e25-830a-df20f1acc5b3_84a51ff6-8b10-4541-8189-1f2b73193e7d_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/484f5113-1275-4e25-830a-df20f1acc5b3_84a51ff6-8b10-4541-8189-1f2b73193e7d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>14:49</itunes:duration>
@@ -286,15 +295,6 @@ Det er en veldig dårlig ide, sier økonomiprofessor.]]></description>
       <itunes:duration>15:05</itunes:duration>
       <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/crvSbnn7nVy76oviGpjP4Ah6OFIIRGclFgdS7N64Xd-w.jpg"/>
-    </item>
-    <item>
-      <title>Bryllupsbonus fra KrFU</title>
-      <description><![CDATA[KrFU vil gi 50 000 kroner i bonus til dem som gifter seg tidlig. Maga på norsk, mener Grønn ungdom. Og - i Sverige vil Vänsterpartiet i regjering - tross alle skandalene. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/da6555d2-27fd-4be3-b2cf-d68c0366afd9_b397149f-00b2-460c-9157-f1ca0eb302cf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/da6555d2-27fd-4be3-b2cf-d68c0366afd9_b397149f-00b2-460c-9157-f1ca0eb302cf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:02</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/23atiFoNbtYVMI0XaboARwONCapvOPQ8tuMK62tR8IHA.jpg"/>
     </item>
   </channel>
 </rss>

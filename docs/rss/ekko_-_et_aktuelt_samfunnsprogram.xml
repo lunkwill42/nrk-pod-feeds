@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:46:56 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 13:30:00 +0100</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:51:56 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Verden er bedre enn du tror</title>
+      <description><![CDATA[Vi lever lenger, færre barn dør og antallet som lever i ekstrem fattigdom synker kraftig, Likevel ser mange av oss mørkt på framtiden. Hvorfor er det så stor avstand  mellom hvordan verden utvikler seg og hvordan vi oppfatter den? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/402df868-e04c-4954-a14e-dba782eb5252_36a0288b-fe56-4244-ae6f-57e95a0f3be4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/402df868-e04c-4954-a14e-dba782eb5252_36a0288b-fe56-4244-ae6f-57e95a0f3be4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:52</itunes:duration>
+      <pubDate>Mon, 09 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VKi6bEFExweD2HD6iIU-JQUhfb5Uv3DBqXSyTJ_3to3g.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Presidentens skjebne</title>
       <description><![CDATA[Presidenten overrasker med å innrømme nederlag og gratulere demokratene. Er det en ny Trump vi ser konturene av?]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>54:33</itunes:duration>
       <pubDate>Thu, 17 Sep 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/N1NaOicRHZCmFl7jX-a7XwIJn_he1vejMZYSY5U5jWNg.jpg"/>
-    </item>
-    <item>
-      <title>Solarpunk - en bærekraftig drøm</title>
-      <description><![CDATA[Mørke nyheter slukker optimismen. Kan grønn sci-fi gi oss troen på framtida igjen?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/28c304fe-a899-431e-8304-fea899b31e46_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/28c304fe-a899-431e-8304-fea899b31e46_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:34</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 13:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/E8y-gKupHNSfSnyvkeZpSQd_F1NxmkNvIdMUVzIudCNA.jpg"/>
     </item>
   </channel>
 </rss>
