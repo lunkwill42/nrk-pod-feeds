@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:51:56 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:53:48 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 13:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Franske tilstandar i Noreg?</title>
+      <description><![CDATA[Politiet i Frankrike slår hardt ned på unge demonstrantar. Kan norsk politi reagerer like valdeleg? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7d71da4b-2863-4635-a0e5-d5aaf96ac7c9_8e62ca00-3673-4f9b-a9b0-a14fef91aa2f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7d71da4b-2863-4635-a0e5-d5aaf96ac7c9_8e62ca00-3673-4f9b-a9b0-a14fef91aa2f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:16</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 13:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DKA6imotGFqAN7VIXPG98w_qV3ARCfWe7xwVODbg-otw.jpg"/>
+    </item>
     <item>
       <title>Verden er bedre enn du tror</title>
       <description><![CDATA[Vi lever lenger, færre barn dør og antallet som lever i ekstrem fattigdom synker kraftig, Likevel ser mange av oss mørkt på framtiden. Hvorfor er det så stor avstand  mellom hvordan verden utvikler seg og hvordan vi oppfatter den? ]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>31:34</itunes:duration>
       <pubDate>Mon, 21 Sep 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Ciea13Flluy5kTFZ2jMGCQZw4fV8_2Ss4cfr1L1Hfa-w.jpg"/>
-    </item>
-    <item>
-      <title>Trumps USA: Mykje motstand</title>
-      <description><![CDATA[Det går trått for Trump når den handplukka mannen hans trassar han, og to sterke demokratar truer republikanarane.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/01d82fa4-8e37-4d24-982f-a48e378d241f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/01d82fa4-8e37-4d24-982f-a48e378d241f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>54:33</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/N1NaOicRHZCmFl7jX-a7XwIJn_he1vejMZYSY5U5jWNg.jpg"/>
     </item>
   </channel>
 </rss>

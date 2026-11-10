@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:53:05 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:54:32 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Kald middag er ekkelt </title>
+      <description><![CDATA[Markus spiser tydeligvis kald lasagne, Anna holder to taler i dag og sammen diskuterer vi sjokoladepudding. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/fdd23a66-c5f4-492a-bc29-634e9b4bc523_95f82448-34c8-4302-aece-6ff12c161183_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/fdd23a66-c5f4-492a-bc29-634e9b4bc523_95f82448-34c8-4302-aece-6ff12c161183_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:06</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Kva er det motsette av nynorsk?</title>
       <description><![CDATA[Sofie Johansen er vikar for Daniel,  Markus spiser noe han hater og vi diskuterer nynorsk. ]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/6e4d4359-1f3d-478b-8d43-591f3d778b18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>43:45</itunes:duration>
       <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Er humor fra 40-tallet gøy?</title>
-      <description><![CDATA[Markus har med seg humor klassiker fra 1941, Daniel marinerer fingeren sin i noe og er rista brød smæsj eller bæsj?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/6edc1544-19f5-4fba-9c15-4419f57fbaff_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/6edc1544-19f5-4fba-9c15-4419f57fbaff_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:27</itunes:duration>
-      <pubDate>Wed, 30 Sep 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

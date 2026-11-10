@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:47:06 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 17:23:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:53:59 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 16:54:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Sex, spioner og Nvidia: Jensen Huang-skandalen</title>
+      <description><![CDATA[Jensen Huang, den kanskje viktigste enkeltpersonen i KI-kappløpet akkurat nå, har innrømmet utroskap med en kinesisk kvinne som påstås å være spion. Har kineserne henta ut hemmeligheter fra et av verdens største selskap? Og er alt lov i KI-kappløpet mellom USA og Kina?
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/61711414-7f52-43be-bea7-db56095099b4_31849e77-ee38-4dde-91cb-aeb5d37fe714_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/61711414-7f52-43be-bea7-db56095099b4_31849e77-ee38-4dde-91cb-aeb5d37fe714_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>22:16</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 16:54:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AoiIXbDHG1eNVXP7KZFKCAS28EULsD9hr72YimNSDrFw.jpg"/>
+    </item>
     <item>
       <title>JD Vance med Trump-oppgjør: Hvem får skylda?</title>
       <description><![CDATA[Visepresident JD Vance distanserer seg nå fra Donald Trump. Kampen om presidentvalget 2028 er i full sving. Blir det borgerkrig i partiet?]]></description>
@@ -302,16 +312,6 @@ Og sier unge politikere drøye ting med vilje kun for å komme på TV?]]></descr
       <itunes:duration>30:17</itunes:duration>
       <pubDate>Thu, 28 May 2026 14:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/8DToICzjZFkzvXQ2rn6qLwEbeIWAByJrWj3FtXGIoXXQ.jpg"/>
-    </item>
-    <item>
-      <title>Trumps Nato-tvil: Hvem skal forsvare Norge ved krig?</title>
-      <description><![CDATA[USA trekker tilbake soldater fra Europa og Donald Trump sår tvil om Natos verdi. Hvem skal forsvare Norge ved krig? 
-Og så lurer vi: Hvor er Ine Eriksen Søreide?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/623852e8-ee02-4eb1-b852-e8ee024eb1dd_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/623852e8-ee02-4eb1-b852-e8ee024eb1dd_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:22</itunes:duration>
-      <pubDate>Thu, 21 May 2026 15:27:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9J2NlvqTZQVsGFDyzSmcRgR_Fw9gXTgsfjIWuOGuVylg.jpg"/>
     </item>
   </channel>
 </rss>
