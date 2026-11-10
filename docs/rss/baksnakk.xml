@@ -8,10 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:57:29 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:55:51 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    <item>
+      <title>Stalking, innestemme og mensen i svømmehallen</title>
+      <description><![CDATA[Historiene kommer på løpende bånd når Milie og Sofie leker «Who’s Most Likely To».
+
+Send oss spørsmål i NRK Radio :)
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/5c04799f-bdfe-48d7-9dd0-a42101836b9d_64b48eb0-3ebf-4dd3-b347-142e09a63c15_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/5c04799f-bdfe-48d7-9dd0-a42101836b9d_64b48eb0-3ebf-4dd3-b347-142e09a63c15_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>51:02</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    </item>
     <item>
       <title>Boktober, eksen har fått dame og julepynt</title>
       <description><![CDATA[Baksnakk sin boktober er ferdig og trioen har mye å melde om boka. 
@@ -327,17 +339,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/f07f8d52-ce83-4f2b-bf8d-52ce83df2bb1_3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>52:08</itunes:duration>
       <pubDate>Fri, 31 Jul 2026 12:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
-    </item>
-    <item>
-      <title>Kjønnslepper, miste jomfrudommen og VAR</title>
-      <description><![CDATA[Milie klarer ikke å si ordet «pung» og har derfor funnet på et helt nytt ord.
-
-Send oss spørsmål i appen NRK Radio!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/e16e7e81-57c8-46fd-ae7e-8157c826fd8a_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e16e7e81-57c8-46fd-ae7e-8157c826fd8a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:08</itunes:duration>
-      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fv1a-ID1hTmIL8Y-sQlLRQ4A1p8HS9cq65FqHTlKuD0w.jpg"/>
     </item>
   </channel>

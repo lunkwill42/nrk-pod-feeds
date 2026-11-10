@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:52:15 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:56:25 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Rødt sier nei til «Sexy sosialister»</title>
+      <description><![CDATA[Og Donald Trump sier FBI skal etterforske Nvidia-sjef Jensen Huang.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/bb6d720a-bf9d-4872-a4f1-42057c634455_3070c401-052c-4239-96b2-a5778506ad13_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/bb6d720a-bf9d-4872-a4f1-42057c634455_3070c401-052c-4239-96b2-a5778506ad13_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:49</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/u7FNLHoTBZyKjPPtl5PCRAju2d-lo_XcqArg1-JAHihQ.jpg"/>
+    </item>
     <item>
       <title>Hedda og Solveig ble skutt mot under masseskyting i Krakow </title>
       <description><![CDATA[Og i dag starter FNs klimatoppmøte.
@@ -278,15 +287,6 @@ Oppdatert 06.11.2026 10.45 med at det var TV 2 som sendte «Married at first sig
       <itunes:duration>06:02</itunes:duration>
       <pubDate>Wed, 30 Sep 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Uf0klLWc43nszDlKj7z68Qsk8dl0H99B7M7bwjb7WNoQ.jpg"/>
-    </item>
-    <item>
-      <title>Flere som har overlevd barnekreft sliter psykisk</title>
-      <description><![CDATA[Og regjeringen vil bruke mer penger på integrering.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/ad4543a3-837a-4c19-8543-a3837adc1940_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/ad4543a3-837a-4c19-8543-a3837adc1940_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>05:38</itunes:duration>
-      <pubDate>Tue, 29 Sep 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-A47mKw59NPmyeBMub6bvgRfpetqPAHDQzFnSI13mUqQ.jpg"/>
     </item>
   </channel>
 </rss>

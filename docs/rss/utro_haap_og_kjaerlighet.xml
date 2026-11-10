@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:25:55 +0000</lastBuildDate>
-    <pubDate>Sun, 08 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:57:30 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Ragnhild Margrethe: Å kjempe for kjærligheten</title>
+      <description><![CDATA[Da hun møtte ektemannen, var timingen perfekt for henne, men helt feil for ham. Det tok flere år før de var på samme bølgelengde.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/e59d52b1-2444-49a1-92d9-fa8d150a91ad_a8ab7e6d-8a5b-412f-aeac-0c867a42645f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/e59d52b1-2444-49a1-92d9-fa8d150a91ad_a8ab7e6d-8a5b-412f-aeac-0c867a42645f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:05</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/YxO0iCgYNvpEUZPqo7jj-gGQ5pNmwmkAkqqYbfUbsAUw.jpg"/>
+    </item>
     <item>
       <title>Panelet: Herpes og 40-årsdag</title>
       <description><![CDATA[Bursdag i Panelet! De feirer med å diskutere: Bør man egentlig lage julekalender til kjæresten, og må man si ifra at man har herpes?]]></description>
@@ -273,15 +282,6 @@
       <itunes:duration>49:51</itunes:duration>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/k1PWC9gezGO9MhGKSUZctQLDgjttAN0QEjQyLE7HkFDg.jpg"/>
-    </item>
-    <item>
-      <title>Siri Kristiansen: Sammen for bestandig</title>
-      <description><![CDATA[Siri Kristiansen forteller om oppvekst, kjærlighetslivet og hvorfor det tok åtte år fra første møtet til den første daten med ektemannen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/21162724-4f03-4899-9627-244f030899da_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/21162724-4f03-4899-9627-244f030899da_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>40:35</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZOFC-nnUKDrxfQKHzioKYgRPd9bALZs8SA1HotmGmJ5w.jpg"/>
     </item>
   </channel>
 </rss>

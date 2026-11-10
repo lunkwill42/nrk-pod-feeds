@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:52:55 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:57:17 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Vil Putin ha fred?</title>
+      <description><![CDATA[I dag er det fredsforhandlinger i Abu Dhabi.
+Og hvor mye bør Norge gi til Ukraina?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/2c5883a1-cfb2-4ec5-9fff-c1299bf0bdbb_d7e35c9c-20d8-4c83-ba8a-cec7261176e8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2c5883a1-cfb2-4ec5-9fff-c1299bf0bdbb_d7e35c9c-20d8-4c83-ba8a-cec7261176e8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/bfwMjuzVwx1z5ap-fUJdxgTyXd5zdk4D0BEuNrFvOTpg.jpg"/>
+    </item>
     <item>
       <title>Et karakterdrap fra Erna Solberg?</title>
       <description><![CDATA[Sylvi Listhaug får passet påskrevet i Erna Solbergs nye bok. Hvordan skal det gå med den borgerlige samlingen Solberg alltid har ønsket seg?  ]]></description>
@@ -285,16 +295,6 @@ Var det ikke så farlig med høringen likevel?]]></description>
       <itunes:duration>15:07</itunes:duration>
       <pubDate>Wed, 30 Sep 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/NhyzkDn-QKSqe9AnW9kZmQGPrgvvNde-_XqR9BD3UXyw.jpg"/>
-    </item>
-    <item>
-      <title>Norsk drivstoff</title>
-      <description><![CDATA[Senterpartiet mener Norge må lage mer drivstoff selv, og vil bygge raffineri i Nord-Norge.
-Det er en veldig dårlig ide, sier økonomiprofessor.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4641ed1e-44ea-4a7b-a510-8ef1dc0f166f_8f69ffe0-a125-41c8-8660-ceb1526cffad_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4641ed1e-44ea-4a7b-a510-8ef1dc0f166f_8f69ffe0-a125-41c8-8660-ceb1526cffad_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:05</itunes:duration>
-      <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/crvSbnn7nVy76oviGpjP4Ah6OFIIRGclFgdS7N64Xd-w.jpg"/>
     </item>
   </channel>
 </rss>

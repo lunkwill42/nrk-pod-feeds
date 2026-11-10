@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:50:30 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 19:11:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:56:42 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 10:10:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg.jpg"/>
+    <item>
+      <title>Den sanne jul</title>
+      <description><![CDATA[Sondre Lerche og Kork]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/2dc1fb39-8d54-463d-962b-af6a0b12581f_5aff6f36-8d11-40c6-8da6-19a12ffd9a07_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2dc1fb39-8d54-463d-962b-af6a0b12581f_5aff6f36-8d11-40c6-8da6-19a12ffd9a07_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>03:34</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 10:10:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA.jpg"/>
+    </item>
     <item>
       <title>Little Church</title>
       <description><![CDATA[Med Kork, Miho Hazama (dir.), NIls Petter Molvær, Eivind Lønning, Kristina Fransson, Anja Lauvdal, Ellen Andrea Wang, Veslemøy Narvesen.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/bc5f53ab-7e98-4172-9f53-ab7e98e172d2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:02</itunes:duration>
       <pubDate>Tue, 01 Sep 2026 14:22:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mMYtcGFx64SG5pkE5JgpOgM9AXp2o2jhLxACben11-Sw.jpg"/>
-    </item>
-    <item>
-      <title>Adagio espressivo fra Symfoni nr. 2</title>
-      <description><![CDATA[Robert Schumann]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kringkastingsorkestret_/21239bc8-a8ca-4938-a39b-c8a8ca793839_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/21239bc8-a8ca-4938-a39b-c8a8ca793839_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>11:32</itunes:duration>
-      <pubDate>Tue, 01 Sep 2026 14:21:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/mMYtcGFx64SG5pkE5JgpOgM9AXp2o2jhLxACben11-Sw.jpg"/>
     </item>
   </channel>
