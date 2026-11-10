@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:51:39 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:26:27 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Fredsforhandlinger i Abu Dhabi</title>
+      <description><![CDATA[I dag startet de to dager lange forhandlingene mellom Ukraina og Russland, med USA som mekler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/41ce8c56-dc00-4caa-8df4-0e4f75d0cd30_5ab4a4f9-62f0-4521-9e0e-5d2b4ba3a533_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/41ce8c56-dc00-4caa-8df4-0e4f75d0cd30_5ab4a4f9-62f0-4521-9e0e-5d2b4ba3a533_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:53</itunes:duration>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9AmYzua4VCZCWBJ9vWz-BQwTDG-7VxsnhWzVwRq3RKGQ.jpg"/>
+    </item>
     <item>
       <title>Stanser ny kraft til datasentre</title>
       <description><![CDATA[Statnett stanser tildelingen av ny kraft til datasentre midlertidig. Regjeringen varsler samtidig egen konsesjonsordning.]]></description>
@@ -273,15 +282,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Wed, 30 Sep 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/l8DdOtO_dpO_SIKAUgh03gSfvORK_0lYjTQjQ2l1lXUw.jpg"/>
-    </item>
-    <item>
-      <title>Toppduell om personlig økonomi</title>
-      <description><![CDATA[Har folk fått dårligere råd eller bare føles det sånn?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/5d0286d7-9d12-4fce-9205-daa5b5f4e4c2_1913fee3-4cb0-4167-a25f-7558494fb4fc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/5d0286d7-9d12-4fce-9205-daa5b5f4e4c2_1913fee3-4cb0-4167-a25f-7558494fb4fc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:05</itunes:duration>
-      <pubDate>Tue, 29 Sep 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oJ3ilbbtKG5Lqrd8neal9wnoBOn_32Nattp1bACCMRvQ.jpg"/>
     </item>
   </channel>
 </rss>
