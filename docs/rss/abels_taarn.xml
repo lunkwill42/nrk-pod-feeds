@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:51:07 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:30:55 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Kjipt med jetlag?</title>
+      <description><![CDATA[Da vet du hvordan trekkfuglene har det. Dessuten, Edderkopper har rem-søvn, og noe rart skjer med transplanterte eggstokker
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fd39fb7f-aa41-47d8-9df6-22f178e840ad_dc80720b-d874-4f52-8892-bb029d505152_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:07</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
+    </item>
     <item>
       <title>Demokrati er en umulighet</title>
       <description><![CDATA[Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
@@ -284,16 +294,6 @@ Lurer du på ting? Spør Abels Tårn!]]></description>
       <itunes:duration>30:27</itunes:duration>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Hvor livsfarlige er trær?</title>
-      <description><![CDATA[Vi kan alle bli parkert i parken.
-Stusser du på sære, rare saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a6fe1ebb-992d-427b-be1e-bb992d727bda_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:53</itunes:duration>
-      <pubDate>Fri, 21 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ZzHKJJIVl_zktbAVjTzP6gfNas8Y66G4sArRfx264Log.jpg"/>
     </item>
   </channel>
 </rss>
