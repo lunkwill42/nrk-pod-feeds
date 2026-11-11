@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 31 Oct 2026 07:01:43 +0000</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 06:05:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:18:02 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
+    <item>
+      <title>KOMMER 12. november: To sagnomsuste kirkeklokker og en prestedatter!</title>
+      <description><![CDATA[Bli med inn i Lars Myttings storslåtte romanunivers i «Søsterklokkene» sammen med Anne Lindmo og Leseklubben - og hør lydboka!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:12</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eC9_fVbLBavayIx8PRgNTgUxe8GnGW88SvlpmLnsy55w.jpg"/>
+    </item>
     <item>
       <title>—Jeg tok en Darth Vader (5:5)</title>
       <description><![CDATA[Oskar mener at Fluenes herre er alt for pessimistisk. Støre drar linjer til Ukraina. Alle tror på kjærlighetens kraft. Boktober er ferdig, hva nå? Lydboka er dessverre ikke tilgjengelig lenger.]]></description>
@@ -242,49 +251,69 @@
       <itunes:image href="https://gfx.nrk.no/C7ijbqqn6bplxBv7PWZRvAYkCLoE6N3Bw_zJP9anHu7w.jpg"/>
     </item>
     <item>
-      <title>Fluenes herre kap. 11-12 (6:6)</title>
-      <description><![CDATA[Ikke glem siste episoden av Leseklubben med Oskar Westerlin som slippes 31. oktober, hvor de diskuterer hele boka. Utålmodig? Gå inn på  nrk.no/boktober for å si din mening. Lydboka er lest av Axel Aubert og tilgjengelig i oktober. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/121f34b2-71b9-45ad-9f34-b271b905ad0c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/121f34b2-71b9-45ad-9f34-b271b905ad0c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12:58</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 09:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
+      <title>–En livsendrende opplevelse (5:5)</title>
+      <description><![CDATA[Dommens dag! Einar har gjennomgått en stor prosess. Siste setning, tusen tolkninger og Kristoffer bedømmer boken på kafkaesk vis.
+
+Lese-/lytteoppskrift: 
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben 
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben 
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben 
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:22</itunes:duration>
+      <pubDate>Sun, 27 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
     </item>
     <item>
-      <title>Fluenes herre kap. 9-10 (5:6)</title>
-      <description><![CDATA[Diskuter boka med Oskar Westerlin og resten av Norge på nrk.no/boktober. Lydboka er lest av Axel Aubert og er tilgjengelig i oktober. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/70452d1e-8a2d-47cd-852d-1e8a2d27cd02_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/70452d1e-8a2d-47cd-852d-1e8a2d27cd02_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>48:33</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 09:04:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
+      <title>– Nå er det dårlig luft, ass (4:5)</title>
+      <description><![CDATA[Einar er sliten og kjenner Josef Ks fortvilelse på kroppen. Advokat Brynjar Meling om uvisshet, håp og Guantanamo.
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/010ad4d3-fc52-41cb-b4d2-1bad887724cf_edf0602f-7eb2-4ffc-8c18-181179432140_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/010ad4d3-fc52-41cb-b4d2-1bad887724cf_edf0602f-7eb2-4ffc-8c18-181179432140_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:48</itunes:duration>
+      <pubDate>Wed, 23 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
     </item>
     <item>
-      <title>Fluenes herre kap. 7-8 (4:6)</title>
-      <description><![CDATA[Før du begynner på kapittel 7-8 kan du høre Leseklubbens halvveisepisode med Oskar Westerlin som publiseres 15. oktober. Lydboka er lest av Axel Aubert og tilgjengelig i oktober. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/379f78e5-fc32-43b2-9f78-e5fc32b3b2d6_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/379f78e5-fc32-43b2-9f78-e5fc32b3b2d6_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12:25</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 09:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
+      <title>– Jeg kan ikke gi opp! (3:5)</title>
+      <description><![CDATA[Forhørsdommer Christine og mestermennene Einar og Kristoffer ler fortsatt godt, men er dette en bok man liker best ETTER å ha lest? 
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/30c5e4bd-3eda-4584-85e4-bd3eda558436_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/30c5e4bd-3eda-4584-85e4-bd3eda558436_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:32</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
     </item>
     <item>
-      <title>Fluenes herre kap. 5-6 (3:6)</title>
-      <description><![CDATA[Diskuter boka med Oskar Westerlin og resten av Norge på nrk.no/boktober. Lydboka er lest av Axel Aubert og er tilgjengelig i oktober.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/d5300c2f-9091-4971-b00c-2f909129713d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/d5300c2f-9091-4971-b00c-2f909129713d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:15</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 09:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
-    </item>
-    <item>
-      <title>Fluenes herre kap. 3-4 (2:6)</title>
-      <description><![CDATA[Diskuter boka med Oskar Westerlin og resten av Norge på nrk.no/boktober. Lydboka er lest av Axel Aubert og er tilgjengelig i oktober.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/f7f5137a-b93a-48da-b513-7ab93a98daaa_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/f7f5137a-b93a-48da-b513-7ab93a98daaa_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:52</itunes:duration>
-      <pubDate>Mon, 28 Sep 2026 09:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/mPanwYEbF40h-O5p8JwR_wXyphFOppl14dbgUuMJrMNA.jpg"/>
+      <title>– Skikkelig morsomt! (2:5)</title>
+      <description><![CDATA[Komikk fra første side, en irriterende hovedkarakter og kyssing på strupehodet. Einar liker prosessen med å lese «Prosessen».
+
+Lese-/lytteoppskrift:
+Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
+Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
+Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
+Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
+Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8455044d-e819-4c87-9504-4de8193c87e0_1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8455044d-e819-4c87-9504-4de8193c87e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:21</itunes:duration>
+      <pubDate>Wed, 09 Sep 2026 06:01:00 +0200</pubDate>
+      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
     </item>
   </channel>
 </rss>

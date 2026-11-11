@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:54:22 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:18:13 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Vi konfronterer Flytoget</title>
+      <description><![CDATA[Gamle CD-er og spill kan være verdt en formue! Er du egentlig klar over hva du har liggende hjemme? Vi sjekker ut dine gamle skatter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/66adff93-f7a5-457a-898b-1df465fc996f_2af0287e-cd09-461a-bb36-dea4fcd5154b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/66adff93-f7a5-457a-898b-1df465fc996f_2af0287e-cd09-461a-bb36-dea4fcd5154b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:53</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rDAQRnHgbhyQSKZ6yOBv7g1MerUgjYU3unKi5vsRLvrw.jpg"/>
+    </item>
     <item>
       <title>Det er kjempelett å hacke en fryser!</title>
       <description><![CDATA[Frysere i dagligvarebutikker i Norge har blitt hacket, og maten inni blir ødelagt. Hvor lett er det å hacke en fryser? Og hvor mye av det vi har i hjemmet er utsatt for angrep? Vi spør en dataekspert!]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>44:02</itunes:duration>
       <pubDate>Thu, 01 Oct 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xpuemwzkapBuV_AkNFtuigN2PjZuX1C6gyT5EfjP5Nsg.jpg"/>
-    </item>
-    <item>
-      <title>Når blir en quiz en quiz</title>
-      <description><![CDATA[I følge TikTok tar gen-z med seg iskaffe på jobbintervju og det kan koste dem jobben. Jonas har med en quiz som bare har ett spørsmål, og vi lurer på om det er nok spørsmål til å kalles en quiz]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/f88ca78c-0c24-4e24-8836-2471564e02d8_9b891119-37b2-442b-bd43-a86908078ce7_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f88ca78c-0c24-4e24-8836-2471564e02d8_9b891119-37b2-442b-bd43-a86908078ce7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:27</itunes:duration>
-      <pubDate>Tue, 29 Sep 2026 09:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-Kwcw3xPPKnTOv9zL3a_iw0AmQ-iO70Oymu8GlqKsybw.jpg"/>
     </item>
   </channel>
 </rss>

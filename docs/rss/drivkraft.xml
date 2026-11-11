@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:51:49 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 14:30:00 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:17:39 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 13:45:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Izabella Dantas Løvstad</title>
+      <description><![CDATA[Influenseren vokste opp med deprimert mor og far i fengsel  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/05b11937-ccfa-4baf-be57-496077cd4735_cd792e88-6b44-4e1b-8536-d6d0d02a8f4e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/05b11937-ccfa-4baf-be57-496077cd4735_cd792e88-6b44-4e1b-8536-d6d0d02a8f4e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:57</itunes:duration>
+      <pubDate>Wed, 11 Nov 2026 13:45:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K41gH8OUl7qMieqiqdFtJQEDTZfMxkZi97iK-ik6irqQ.jpg"/>
+    </item>
     <item>
       <title>Knut Høibraaten</title>
       <description><![CDATA[
@@ -276,15 +285,6 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
       <itunes:duration>57:08</itunes:duration>
       <pubDate>Mon, 14 Sep 2026 14:27:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/xfsHl_6Fu6WYCuAQpQbr9gQcRCWjU1ljulvfoFlrvNFg.jpg"/>
-    </item>
-    <item>
-      <title>Frida Marie Grande</title>
-      <description><![CDATA[– Jeg har to forskjellige personligheter, forteller den prisvinnende influenseren med PMDD.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/21411747-9071-4411-8117-479071841116_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/21411747-9071-4411-8117-479071841116_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Thu, 10 Sep 2026 13:05:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Wq9kU3JoL1GFtoWHIWw3bg8_EeYTR-njo46m_SAuW5bg.jpg"/>
     </item>
   </channel>
 </rss>
