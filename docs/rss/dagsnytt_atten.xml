@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 22:43:14 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:51:22 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>PST: Sabotasjetrusselen i Norge er skjerpet</title>
+      <description><![CDATA[PST mener det er god grunn til å vente at russisk etterretning vil gjennomføre sabotasje i Norge i løpet av det neste året.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/f28f740b-12e6-42f1-84c8-bcb780f56873_7bd28168-e5d7-4d39-919c-0b87707c797e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/f28f740b-12e6-42f1-84c8-bcb780f56873_7bd28168-e5d7-4d39-919c-0b87707c797e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:58</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/eHDywmUzepIRmXGk3jkiEwgQVKHaIoUrf0xeqRg1dt8Q.jpg"/>
+    </item>
     <item>
       <title>Fredsforhandlinger i Abu Dhabi</title>
       <description><![CDATA[USA vil ha europeerne ved forhandlingsbordet i Ukraina-forhandlingene.]]></description>
@@ -273,15 +282,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Fri, 02 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Okj8iFf2GgLg17Nyu63rPwWdPleB4ljN2mRtyQkoXs-w.jpg"/>
-    </item>
-    <item>
-      <title>Siste dag med Epstein-høring i Stortinget</title>
-      <description><![CDATA[ Hva fikk vi egentlig ut av de ni tidligere og to nåværende ministrene sine forklaringer?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/649c22d9-e6d4-46cd-8ca1-25dbd707bb52_c0c90972-d6c2-4e73-98ed-874c4e208127_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/649c22d9-e6d4-46cd-8ca1-25dbd707bb52_c0c90972-d6c2-4e73-98ed-874c4e208127_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Thu, 01 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/g-54ix3foFvpamyy7R4zXwldMYrFW5Fw_tNZnpWF5MYA.jpg"/>
     </item>
   </channel>
 </rss>

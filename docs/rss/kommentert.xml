@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:53:59 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 16:54:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:51:34 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 16:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Droner, trusler og fryserhacking: Europa under angrep</title>
+      <description><![CDATA[Denne høsten har Europa opplevd flere store hackerangrep. Mange hundre frysere og kjøleskap har blitt angrepet i ulike land, deler av Europas flytrafikk har blitt lammet på grunn av bombetrusler og her i Norge blir vi også rammet av disse angrepene. 
+
+Hvem står bak? Og hvorfor gjør de det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/6b0c87ea-d07b-4c55-8e2f-5ec8a84b84d9_b35559c4-332e-461f-8475-606d71faa7a8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6b0c87ea-d07b-4c55-8e2f-5ec8a84b84d9_b35559c4-332e-461f-8475-606d71faa7a8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>23:52</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TGejpF-PUW62yPVAHv1llwZBBIA0OLYJGP_LmWwP_RPg.jpg"/>
+    </item>
     <item>
       <title>Sex, spioner og Nvidia: Jensen Huang-skandalen</title>
       <description><![CDATA[Jensen Huang, den kanskje viktigste enkeltpersonen i KI-kappløpet akkurat nå, har innrømmet utroskap med en kinesisk kvinne som påstås å være spion. Har kineserne henta ut hemmeligheter fra et av verdens største selskap? Og er alt lov i KI-kappløpet mellom USA og Kina?
@@ -301,17 +312,6 @@ Og Cecilie slutter. Vi tar et siste farvel.]]></description>
       <itunes:duration>22:48</itunes:duration>
       <pubDate>Tue, 02 Jun 2026 14:43:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/r1FA4H0NFssEtMc2_HzwdAcsK_y7tXNhyW9-Quj2JuZQ.jpg"/>
-    </item>
-    <item>
-      <title>Russ banket opp: Voldsvideo provoserer</title>
-      <description><![CDATA[Hva er mest provoserende? Minoritetsungdom som banker opp en russ på 17. mai, eller en Frp-topp som deler et usladdet bilde av gjerningspersonene?
-
-Og sier unge politikere drøye ting med vilje kun for å komme på TV?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/3e9066e2-02e7-4045-9066-e202e7b0454f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/3e9066e2-02e7-4045-9066-e202e7b0454f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:17</itunes:duration>
-      <pubDate>Thu, 28 May 2026 14:50:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/8DToICzjZFkzvXQ2rn6qLwEbeIWAByJrWj3FtXGIoXXQ.jpg"/>
     </item>
   </channel>
 </rss>

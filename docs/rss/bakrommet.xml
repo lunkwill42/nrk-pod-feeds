@@ -8,14 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:17:27 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 15:26:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:51:14 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 16:33:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     <item>
+      <title>Kritiske til avlyst trening. Visste at snøen kom!</title>
+      <description><![CDATA[Snøværet i Oslo stanset landslagstrening og Kristoffer mener å vite hva laget mot Wales blir.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/f8fc0b7b-c057-4511-9daf-1f60240c0337_c54d5b2d-f0fe-4b5d-93bd-4eecb18eac22_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/f8fc0b7b-c057-4511-9daf-1f60240c0337_c54d5b2d-f0fe-4b5d-93bd-4eecb18eac22_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:08</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 16:33:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
+    <item>
       <title>Ståles angrep og Heggem om nedturen</title>
       <description><![CDATA[En gira landslagssjef "angrep" oss, Heggem snakker om sin håpløse situasjon og bør Ryerson går til en ny storklubb?
-I dag også med Mangus Wolff Eikrem, også kalt kirurgen.]]></description>
+I dag også med Magnus Wolff Eikrem, også kalt kirurgen.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/89665b46-56ae-4144-a3d1-37bbab51f4ab_5dfd5107-32a4-4b14-9af0-23bb914ce955_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/89665b46-56ae-4144-a3d1-37bbab51f4ab_5dfd5107-32a4-4b14-9af0-23bb914ce955_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:57</itunes:duration>
@@ -275,15 +284,6 @@ Kampene mot Danmark og Portugal nærmer seg.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/63af00a5-cb84-45cb-af00-a5cb84d5cb18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>23:13</itunes:duration>
       <pubDate>Thu, 16 Jul 2026 03:48:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Haaland-oppklaring og spansk maktdemonstrasjon</title>
-      <description><![CDATA[Formildende at Haaland skulle på moteshow? Detaljer rundt pauseshowet får Kristoffer til å hisse seg opp, og nye regler diskuteres]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/c2e4d048-35f1-47e9-a4d0-4835f167e96d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/c2e4d048-35f1-47e9-a4d0-4835f167e96d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:16</itunes:duration>
-      <pubDate>Wed, 15 Jul 2026 05:23:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
