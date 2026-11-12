@@ -8,17 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:18:02 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:47:52 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 06:04:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg.jpg"/>
     <item>
-      <title>KOMMER 12. november: To sagnomsuste kirkeklokker og en prestedatter!</title>
-      <description><![CDATA[Bli med inn i Lars Myttings storslåtte romanunivers i «Søsterklokkene» sammen med Anne Lindmo og Leseklubben - og hør lydboka!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/6a1409b0-b088-4acf-9b90-d6992eef1e17_54e77c53-e0be-4555-8f41-593a92a79c74_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:12</itunes:duration>
-      <pubDate>Wed, 11 Nov 2026 15:30:00 +0100</pubDate>
+      <title>Søsterklokkene: En gissen båt på stritt hav (4/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/77bf29d7-5284-4c3b-87d8-386471deb793_58ed25bd-f19a-4693-a552-eb0227fa44d9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/77bf29d7-5284-4c3b-87d8-386471deb793_58ed25bd-f19a-4693-a552-eb0227fa44d9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:27</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:04:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Sølvklangen (3/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/b79ee7f6-6324-4b55-9abd-9f17b96b492c_d4827b06-0bda-4dca-a821-ffdaef8d9f6d_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/b79ee7f6-6324-4b55-9abd-9f17b96b492c_d4827b06-0bda-4dca-a821-ffdaef8d9f6d_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:06</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:03:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Stavkirken (2/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/62b0cd01-a526-483e-8b30-a6bc689d5aea_2d476ab6-fef3-400e-ae9a-c261fc49efdb_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/62b0cd01-a526-483e-8b30-a6bc689d5aea_2d476ab6-fef3-400e-ae9a-c261fc49efdb_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:01</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:02:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>Søsterklokkene: Jentene som delte hud (1/63)</title>
+      <description><![CDATA[Lydboka er lest av Lars Mytting. Når du har hørt kapittel 1-4 kan du høre Leseklubben episode 2.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/37cbb8a6-aa9e-466b-8517-9bdf406de08f_7ff62d1c-c8b8-4a82-8a79-0d8ff949bb4f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/37cbb8a6-aa9e-466b-8517-9bdf406de08f_7ff62d1c-c8b8-4a82-8a79-0d8ff949bb4f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>10:39</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/PM4rrgZKVGlcYuIUY8k1XwhekkscGuzVFFzmD3AUu_EA.jpg"/>
+    </item>
+    <item>
+      <title>–  Vi har en pakt! (1:6) </title>
+      <description><![CDATA[Anne er skeptisk til bestselgere og livredd for «mansplaining» – men nå skal hun i leseterapi! Vil «Søsterklokkene» innfri?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/3007ee01-dda0-4d86-bd5e-341520b75389_e8eb53b2-bc8f-4b69-8fe9-be600f1432d0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/leseklubben/3007ee01-dda0-4d86-bd5e-341520b75389_e8eb53b2-bc8f-4b69-8fe9-be600f1432d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>38:28</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/eC9_fVbLBavayIx8PRgNTgUxe8GnGW88SvlpmLnsy55w.jpg"/>
     </item>
     <item>
@@ -249,71 +287,6 @@
       <itunes:duration>21:15</itunes:duration>
       <pubDate>Thu, 01 Oct 2026 06:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/C7ijbqqn6bplxBv7PWZRvAYkCLoE6N3Bw_zJP9anHu7w.jpg"/>
-    </item>
-    <item>
-      <title>–En livsendrende opplevelse (5:5)</title>
-      <description><![CDATA[Dommens dag! Einar har gjennomgått en stor prosess. Siste setning, tusen tolkninger og Kristoffer bedømmer boken på kafkaesk vis.
-
-Lese-/lytteoppskrift: 
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først). 
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben 
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben 
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben 
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben
-]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/a7df4f85-13d9-490d-ab5c-0d98fc4334d1_22edcebc-ee0a-4f3b-9ede-dde388e726ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>53:22</itunes:duration>
-      <pubDate>Sun, 27 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
-    </item>
-    <item>
-      <title>– Nå er det dårlig luft, ass (4:5)</title>
-      <description><![CDATA[Einar er sliten og kjenner Josef Ks fortvilelse på kroppen. Advokat Brynjar Meling om uvisshet, håp og Guantanamo.
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/010ad4d3-fc52-41cb-b4d2-1bad887724cf_edf0602f-7eb2-4ffc-8c18-181179432140_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/010ad4d3-fc52-41cb-b4d2-1bad887724cf_edf0602f-7eb2-4ffc-8c18-181179432140_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:48</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
-    </item>
-    <item>
-      <title>– Jeg kan ikke gi opp! (3:5)</title>
-      <description><![CDATA[Forhørsdommer Christine og mestermennene Einar og Kristoffer ler fortsatt godt, men er dette en bok man liker best ETTER å ha lest? 
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/30c5e4bd-3eda-4584-85e4-bd3eda558436_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/30c5e4bd-3eda-4584-85e4-bd3eda558436_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:32</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
-    </item>
-    <item>
-      <title>– Skikkelig morsomt! (2:5)</title>
-      <description><![CDATA[Komikk fra første side, en irriterende hovedkarakter og kyssing på strupehodet. Einar liker prosessen med å lese «Prosessen».
-
-Lese-/lytteoppskrift:
-Hør først episode 1 av Leseklubben (trenger ikke å lese noe først).
-Les/hør kapittel 1-2 → hør episode 2 av Leseklubben
-Les/hør kapittel 3-5→ hør episode 3 av Leseklubben
-Les/hør kapittel 6-8 → hør episode 4 av Leseklubben
-Les/hør kapittel 9-10 → hør episode 5 av Leseklubben]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/leseklubben/8455044d-e819-4c87-9504-4de8193c87e0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/leseklubben/8455044d-e819-4c87-9504-4de8193c87e0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:21</itunes:duration>
-      <pubDate>Wed, 09 Sep 2026 06:01:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9-k-T9FKaiEWz2GzPYXXqg8hH9nrUn-Kc2apvujSvPPw.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:57:30 +0000</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:48:53 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Vendela Kirsebom: Uventet kjærlighet</title>
+      <description><![CDATA[Hun hadde funnet roen alene og lagt kjærligheten på hylla. Så møtte hun Petter Pilgaard. Var aldersforskjellen en hindring for å satse?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/58f88e42-56ca-43f4-a8dc-94da332296d8_0f54072f-64a9-4df3-927b-fce04b711811_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/58f88e42-56ca-43f4-a8dc-94da332296d8_0f54072f-64a9-4df3-927b-fce04b711811_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:13</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_IzaBAH-BmauQ4RWQxVu4A2AokVFfzJtR4xorFQvy-Yg.jpg"/>
+    </item>
     <item>
       <title>Ragnhild Margrethe: Å kjempe for kjærligheten</title>
       <description><![CDATA[Da hun møtte ektemannen, var timingen perfekt for henne, men helt feil for ham. Det tok flere år før de var på samme bølgelengde.]]></description>
@@ -273,15 +282,6 @@
       <itunes:duration>43:33</itunes:duration>
       <pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw.jpg"/>
-    </item>
-    <item>
-      <title>Morten Skau: Sex og selvtillit</title>
-      <description><![CDATA[Morten «Rulle» Skau forteller om tiden etter lammelsen, om selvtillit, seksualitet og kjærlighetsrelasjoner.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1c342ed9-b25b-4c82-b42e-d9b25b9c82da_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1c342ed9-b25b-4c82-b42e-d9b25b9c82da_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:51</itunes:duration>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/k1PWC9gezGO9MhGKSUZctQLDgjttAN0QEjQyLE7HkFDg.jpg"/>
     </item>
   </channel>
 </rss>

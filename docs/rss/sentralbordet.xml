@@ -1,17 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>De 13 siste fra Sentralbordet på NRK</title>
+    <title>De 14 siste fra Sentralbordet på NRK</title>
     <link>https://lunkwill42.github.io/nrk-pod-feeds</link>
-    <description>Uoffisiell feed med de siste 13 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
+    <description>Uoffisiell feed med de siste 14 episodene fra podkasten Sentralbordet på NRK. Opphavsrett på innhold eies av NRK og ev. andre rettighetshavere. Se https://radio.nrk.no/podkast/sentralbordet for mer informasjon.</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:01:35 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:48:41 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    <item>
+      <title>Lives musikaldebut</title>
+      <description><![CDATA[Gud er bekymret for sikkerheten til Holy Riders, Pippi lurer på om hun har ADHD, en mystisk kjendis får en telefon fra PST, og det er Lives tur til å improvisere fram en helt unik musikal.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sentralbordet/d8237534-fd2e-412f-97bb-76b970532e85_6f39be6a-ccb6-4cd7-aa21-4cae927123ef_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/d8237534-fd2e-412f-97bb-76b970532e85_6f39be6a-ccb6-4cd7-aa21-4cae927123ef_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:45</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA.jpg"/>
+    </item>
     <item>
       <title>– Hører du gekkoen?</title>
       <description><![CDATA[Vegard må bestille kinobilletter på tyrkisk, Oddvar (76) søker jobb som crossfit-instruktør, og en dyrehage ringer en dyrlege. Blant annet.]]></description>

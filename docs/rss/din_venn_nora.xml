@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:00:36 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:47:17 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    <item>
+      <title>En ny Mariah Carey er født</title>
+      <description><![CDATA[Jeg har oppdaget et nytt talent, mistet lukta som gjør meg til meg, og pakket kofferten for en romantisk tur til Afrika.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/5cf19b05-6c3c-488f-a1b4-dceb2355abea_c34b2ffe-902d-47b5-8462-3e69b849f927_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/5cf19b05-6c3c-488f-a1b4-dceb2355abea_c34b2ffe-902d-47b5-8462-3e69b849f927_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>31:38</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
+    </item>
     <item>
       <title>Rock din lettkledde kropp</title>
       <description><![CDATA[Baksnakking som gikk til helvete, en standup kveld for BARN og en oppfordring til å gå med akkurat det du vil<3]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/a10112b3-7d7e-4ee6-8112-b37d7eeee6fb_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>27:35</itunes:duration>
       <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
-    </item>
-    <item>
-      <title>Et nakenbilde på avveie</title>
-      <description><![CDATA[En katastrofe på rød løper, en bildeseanse som aldri lar seg slette og en fortelling så sinnssyk at du bare må dele den videre.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/din_venn_nora/65994de8-d50c-4394-994d-e8d50c039448_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/65994de8-d50c-4394-994d-e8d50c039448_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:47</itunes:duration>
-      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg.jpg"/>
     </item>
   </channel>

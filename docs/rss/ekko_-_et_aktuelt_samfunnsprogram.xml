@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:17:47 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 13:15:00 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:47:33 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Vil ikke snakke miljø</title>
+      <description><![CDATA[Nå samles alle ledende land i verden til miljøtoppmøte. Men USA synes klimamøtene er noe stort tøv, og kommer ikke.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b0b66c77-a242-4f00-9f93-140192a32b76_c8c7a1ff-7710-47e4-857a-1252ec71ee31_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b0b66c77-a242-4f00-9f93-140192a32b76_c8c7a1ff-7710-47e4-857a-1252ec71ee31_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>54:16</itunes:duration>
+      <pubDate>Thu, 12 Nov 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qsBOMB4Hu_xmnwjeLWYC1gQWRJRkOI_3lBDZ5mTcyniQ.jpg"/>
+    </item>
     <item>
       <title>Når spøk blir alvor</title>
       <description><![CDATA[Dansk TV2 måtte trekke realityserien Alle elsker Rasmus. Hvor går grensen når man lurer folk for humorens skyld?]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>21:56</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Xtz7ZucpYY7PaBuWXguSfA2SD7hdLWERoPNcTkqr3TWw.jpg"/>
-    </item>
-    <item>
-      <title>Nettsekta "The Com"</title>
-      <description><![CDATA[Norske barn vert lokka inn i nettverk, der vald for valden si skuld er poenget. Kva gjer vi når radikaliseringa snik seg inn på barnerommet?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/29372b59-9530-46be-b72b-59953016be0d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/29372b59-9530-46be-b72b-59953016be0d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>33:56</itunes:duration>
-      <pubDate>Tue, 22 Sep 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/juOKfbS520w7qbjQ7IUnWQpJ5jm-R1vSEmxVtLO82tcw.jpg"/>
     </item>
   </channel>
 </rss>
