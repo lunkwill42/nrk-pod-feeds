@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:51:17 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:47:50 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 12:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Leopold II</title>
+      <description><![CDATA[Kong Leopold II drømmer om å gjøre Belgia stort og mektig - og seg selv søkkrik. Ambisjonene skal koste millioner av menneskeliv.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/c78b3a27-a92b-402c-aee9-7cf7775b094a_de0bb06b-1047-454c-acab-7a3d94c3014e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:36</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 12:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
+    </item>
     <item>
       <title>Tyrann - viktig beskjed!</title>
       <description><![CDATA[OBS! Fra og med 14. november publiserer vi våre Tyrann-episoder ukentlig. Første fæle fyr ut er Belgias brutale kong Leopold II.]]></description>
@@ -321,15 +330,6 @@ The Golden Man - Paul Theroux (The New Yorker)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/359733aa-c2e5-4442-9733-aac2e5144225_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:03</itunes:duration>
       <pubDate>Sat, 07 Mar 2026 06:03:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg"/>
-    </item>
-    <item>
-      <title>Ceaușescu (3:6)</title>
-      <description><![CDATA[Ut av det blå blir Ceaușescu Romanias nye leder. Han slipper gjerne litt frisk luft inn i landet, om han selv kan bli mer populær.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/8946ee28-0799-4d9f-86ee-2807998d9fdf_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/8946ee28-0799-4d9f-86ee-2807998d9fdf_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:48</itunes:duration>
-      <pubDate>Sat, 07 Mar 2026 06:02:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg"/>
     </item>
   </channel>

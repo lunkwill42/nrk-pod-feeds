@@ -8,10 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:30:55 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:47:04 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 06:01:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>KI-spørretime 2:2 - Dommedag</title>
+      <description><![CDATA[Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:27</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:01:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ss-3OrQElyfFRJ5HZCCPEQNaX4mhJ9qt47rwNCUwycDg.jpg"/>
+    </item>
+    <item>
+      <title>KI-spørretime 1:2 - Skapelsen</title>
+      <description><![CDATA[Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/22e3d97f-1486-4fb1-b399-b5fefad1a571_72805d47-725b-4e0b-afcb-80dbeac5fe78_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/22e3d97f-1486-4fb1-b399-b5fefad1a571_72805d47-725b-4e0b-afcb-80dbeac5fe78_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:20</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/AtHLis9dbE8oXykpzf9drAH71d9MRcXFxVQ0r601YIAA.jpg"/>
+    </item>
     <item>
       <title>Kjipt med jetlag?</title>
       <description><![CDATA[Da vet du hvordan trekkfuglene har det. Dessuten, Edderkopper har rem-søvn, og noe rart skjer med transplanterte eggstokker
@@ -23,7 +41,7 @@
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
     <item>
-      <title>Demokrati er en umulighet</title>
+      <title>Demokrati er umulig</title>
       <description><![CDATA[Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs "Stjernenatt"
 ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3</guid>
@@ -276,24 +294,6 @@ Lurer du på ting? Spør Abels Tårn!]]></description>
       <itunes:duration>28:45</itunes:duration>
       <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Vinduet ditt gjør deg syk</title>
-      <description><![CDATA[Det påstår i hvert fall noen forskere. Dessuten, biobatterier erstatter kjernekraftverk og HIV kan bli fullstendig utrydda]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/28ad645a-dd3d-4293-ad64-5add3d7293fe_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:24</itunes:duration>
-      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
-    </item>
-    <item>
-      <title>Du kan faktisk bli allergisk mot kjøtt</title>
-      <description><![CDATA[Bra for miljøet kanskje, men ikke for deg. Dessuten, et enorm sort hull er oppdaget, og Starlink-satellitter gjør ufrivillig ekstra nytte for seg]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/7b145473-e5e4-48b9-9454-73e5e4f8b94c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>30:27</itunes:duration>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>
