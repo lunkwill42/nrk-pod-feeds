@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:57:25 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:35:59 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Livin’ La Nvidia Loca</title>
+      <description><![CDATA[En amerikansk toppsjef har vært utro med en kinesisk spion. En sexy kalender skaper bråk. Pornofortiden til en kommunedirektør innhenter ham.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/f3951ee1-e4c0-4685-a905-49e8d48f5179_79762f23-e406-47c5-8931-6b3f99475cda_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/f3951ee1-e4c0-4685-a905-49e8d48f5179_79762f23-e406-47c5-8931-6b3f99475cda_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:25</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Ingen elsker Rasmus</title>
       <description><![CDATA[En dansk komiker har blitt lurt. Et amerikansk mellomvalg har blitt gjennomført. En nordmann har vunnet VM i jeans.]]></description>
@@ -274,15 +283,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <itunes:duration>36:54</itunes:duration>
       <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>En morsom episode om noe kjipt (Iran)</title>
-      <description><![CDATA[Tara er tilbake. Det er krig i midtøsten. En uksyldig mann er siktet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/d442d297-8e0b-4751-82d2-978e0be75153_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/d442d297-8e0b-4751-82d2-978e0be75153_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>39:58</itunes:duration>
-      <pubDate>Fri, 06 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/R72Jp7kVeK8S38iU-RQkbAEFSgDhBTRylCCDhDge8UGg.jpg"/>
     </item>
   </channel>
 </rss>

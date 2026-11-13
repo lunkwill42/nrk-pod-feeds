@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:57:18 +0000</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:35:51 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Erlend O.Nødtvedt-Denne historien om Bergen måtte fortelles</title>
+      <description><![CDATA[Erlend O. Nødtvedt skriver i romanen Borgen om et Bergen i kaos på randen av en revolusjon. Menneskene er preget av fattigdom og desperasjon, men også av kampvilje og kløkt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/0917768b-2782-4d78-8a30-8eb7d24db916_6d3d4c8b-ccd3-4bdd-b84a-1854053aea67_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/0917768b-2782-4d78-8a30-8eb7d24db916_6d3d4c8b-ccd3-4bdd-b84a-1854053aea67_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:59</itunes:duration>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/rEVQ-rKFf7IJt20frzS-OQDL4fzU_GoE94M810EbjHgg.jpg"/>
+    </item>
     <item>
       <title>Herbjørg Wassmo- Det handler først og fremst om overlevelse..</title>
       <description><![CDATA[Herbjørg Wassmo markerer 50 år som forfatter med romanen "Besettelse" Den handler om begjær, kjærlighet og sorg, men kanskje først og fremst om å overleve.]]></description>
@@ -283,15 +292,6 @@ Nyeste bok: «Tørkesommer»]]></description>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 02 Mar 2026 06:05:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/MpJNM_HCOBgNiYtflMOr0A1_lCTKqicTCUBn3f1FrM_g.jpg"/>
-    </item>
-    <item>
-      <title>Bli kjent med juryen</title>
-      <description><![CDATA[Hans Olav Brenner møter årets jury. Hva er en god roman for dem?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/d5f48f3a-2154-489e-b48f-3a2154989e6e_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/d5f48f3a-2154-489e-b48f-3a2154989e6e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>56:44</itunes:duration>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/nHsVoIP5SzbIhkabXX0fGwbdbkIV_JEaQ_TYq3g9KgZA.jpg"/>
     </item>
   </channel>
 </rss>
