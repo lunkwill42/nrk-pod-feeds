@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 22:43:31 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 17:02:00 +0100</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:12:01 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Ingrid Gjessing Linhave / Tete Lidbom / Hilde Skaar</title>
+      <description><![CDATA[TILBAKEMELDING: Tanker om vennegjengen fra Molly! / PROBLEMER: Han er MIN! Nei, MIN! / Kan dere hjelpe meg å knekke en julenøtt / Kan dere lære meg å krangle? / Vil ikke virke som desperat eiendomsmegler / Bursdag på samme dag som kjæresten / Bør jeg sladre om en utro kollega på julebord? / You get a car, and you get a car, and you get a car  / Bryllupet vårt invaderes av USA!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/dc14ad4b-fa7e-4d32-871f-4657b87922e4_a548ccff-1fe1-4af5-8ad0-30786682e12b_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/dc14ad4b-fa7e-4d32-871f-4657b87922e4_a548ccff-1fe1-4af5-8ad0-30786682e12b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:18:45</itunes:duration>
+      <pubDate>Sat, 14 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/LPbHj6Y_qn82EXTBiScgbQVwEzKo1LviUjH3QFxifB7Q.jpg"/>
+    </item>
     <item>
       <title>Julekalendertilbudet vårt + halvbrornytt</title>
       <description><![CDATA[Info om hvor du kan laste ned Juliekalenderen til LR (p3.no) og har Nils møtt halvbroren sin?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/aa36838a-3925-4c01-b683-8a39256c010c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:30:48</itunes:duration>
       <pubDate>Sat, 01 Aug 2026 09:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
-    </item>
-    <item>
-      <title>Høydepunkter fra 2025 - nr. 10</title>
-      <description><![CDATA[Rådgivere er: Snorre Monsson / Martin Lepperød / Solveig Kloppen / Mia Hundvin / Abu Hussain / Linnéa Myhre / Anne Lindmo / Espen Abrahamsen / Adelina Ibishi]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/f1180fb4-5f87-4b9e-980f-b45f87eb9e14_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/f1180fb4-5f87-4b9e-980f-b45f87eb9e14_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:49:19</itunes:duration>
-      <pubDate>Sat, 25 Jul 2026 09:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
     </item>
   </channel>
