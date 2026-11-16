@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:47:33 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 13:30:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:10:29 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Gløym dommedag og klimaskam</title>
+      <description><![CDATA[Klimatoppmøtet COP31 nærmar seg slutten, og dette meiner ekspertane må til for at vi endre vanane våre og godta klimatiltak.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e77cb389-800f-4758-89dc-a7b78c639b7e_ef700a4c-2c04-4f22-bf8b-9911c540e656_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e77cb389-800f-4758-89dc-a7b78c639b7e_ef700a4c-2c04-4f22-bf8b-9911c540e656_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:32</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/4WJtgUV9FzAVRnInmrihpAFoX94FtOJVNyDPy8FvclYA.jpg"/>
+    </item>
     <item>
       <title>Trumps USA: Vil ikke snakke miljø</title>
       <description><![CDATA[Nå samles alle ledende land i verden til miljøtoppmøte. Men USA synes klimamøtene er noe stort tøv, og kommer ikke.]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>57:01</itunes:duration>
       <pubDate>Thu, 24 Sep 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/AeIFRhGB41ao_bE4_UQDMQHT48XaKR5hVd2dJUR7EgdA.jpg"/>
-    </item>
-    <item>
-      <title>Bedre kjøpekraft - for hvem?</title>
-      <description><![CDATA[De økonomiske forskjellene øker. Vi forklarer hvorfor kjøpekrafta er et måleverktøy for økonomien vår.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5434f486-a324-4ab1-b4f4-86a324eab1be_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5434f486-a324-4ab1-b4f4-86a324eab1be_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:56</itunes:duration>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Xtz7ZucpYY7PaBuWXguSfA2SD7hdLWERoPNcTkqr3TWw.jpg"/>
     </item>
   </channel>
 </rss>

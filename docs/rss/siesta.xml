@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:47:42 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:10:52 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Daniel kjører bil i Oslo sentrum</title>
+      <description><![CDATA[Markus har bestilt mat i sentrum som Daniel må kjøre og hente, ukas dumfette kåres og hva er det motsatte av ostehøvel?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/0c2048bd-838f-4385-8c28-1e54c00ba430_9bbe9f59-b236-475e-b0fb-c8670f8c4a65_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/0c2048bd-838f-4385-8c28-1e54c00ba430_9bbe9f59-b236-475e-b0fb-c8670f8c4a65_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>49:31</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Daniel intervjuer Alex Rosén</title>
       <description><![CDATA[Vi kårer Norges beste pub, det er fredag den trettende i Quizvang og Daniel intervjuer Alex Rosén.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/7b85c9af-4d80-4ab4-85c9-af4d800ab41a_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:59</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel legger Anna i bakken</title>
-      <description><![CDATA[Ørjan Borre holder halloween-quiz for oss, tampongene har bytta farge og Anna utfordrer Daniel til å legge henne i bakken.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/dd09a734-1c6c-49dc-89a7-341c6cb9dcf0_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/dd09a734-1c6c-49dc-89a7-341c6cb9dcf0_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>45:39</itunes:duration>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

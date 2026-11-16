@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:47:26 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 13:10:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:10:20 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 13:25:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Are Sende Osen</title>
+      <description><![CDATA[– Vi har vært grinete i generasjoner,  sier radioprofilen om familien sin.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1de89088-7e7b-4769-bac9-c17082c6b468_4a625f28-c89e-4761-b7c0-bdf7bdb8a96e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1de89088-7e7b-4769-bac9-c17082c6b468_4a625f28-c89e-4761-b7c0-bdf7bdb8a96e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:14</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 13:25:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8VPPVB381KHIwxTSdng39wMs-dqnq1WE6UYuvDUfSpNw.jpg"/>
+    </item>
     <item>
       <title>Itonje Søimer Guttormsen</title>
       <description><![CDATA[Filmskaperen var i en gangsterkultur på ungdomsskolen, og så balla det på seg.]]></description>
@@ -276,15 +285,6 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
       <itunes:duration>57:16</itunes:duration>
       <pubDate>Wed, 16 Sep 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/OyQ-09PAtvQk_ZQTc6h0_wvsFMfTKw6juRIx5aJPBBzQ.jpg"/>
-    </item>
-    <item>
-      <title>Ida Fladen</title>
-      <description><![CDATA[– Jeg blir spurt fire ganger daglig om jeg har kjæreste, forteller programskaperen bak "Ida med hjertet i hånden"]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1a1ad527-cb7f-48e2-8832-6ce79e0feee3_b32509e5-10a1-42d5-9afe-9307970e09c6_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1a1ad527-cb7f-48e2-8832-6ce79e0feee3_b32509e5-10a1-42d5-9afe-9307970e09c6_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:15</itunes:duration>
-      <pubDate>Tue, 15 Sep 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/gWSKEMnEyv_TIpHmh07VDAHNb7kKlzG4_SAxUqX-8JHQ.jpg"/>
     </item>
   </channel>
 </rss>

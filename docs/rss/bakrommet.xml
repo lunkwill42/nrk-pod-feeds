@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:43:28 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 00:23:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:09:58 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 22:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    <item>
+      <title>Kampen om Skandinavia: Slik slår vi danskene</title>
+      <description><![CDATA[Det norske landslaget har vært konger av Skandinavia i år. Men danskene har ny selvtillit etter å ha knust Portugal på bortebane.
+Hvordan skal vi vinne over danskene igjen, og var alt snakket om Haalands manglende motivasjon en storm i et vannglass?
+ Vi forbereder oss på "Slaget i Parken". Dette blir utrolig gøy!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/ee370068-0ce1-4ba6-b90a-e487fc59a562_d80c2c43-925d-4dc7-bd94-d25bdb3c6b8e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ee370068-0ce1-4ba6-b90a-e487fc59a562_d80c2c43-925d-4dc7-bd94-d25bdb3c6b8e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:23</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 22:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
+    </item>
     <item>
       <title>Wales-sjefen hyller Nusa: – Verdensklasse!</title>
       <description><![CDATA[Det satt langt inne, men Norge sikret seg den viktige tredjeplassen i gruppa, og veien mot EM i 2028 blir mye lettere. Wales-sjefen mener Nusa er blant verdens beste vinger.  Haaland snakket endelig om Manchester City-dommen, men sliter med motivasjonen mot Danmark på tirsdag. ]]></description>
@@ -275,15 +286,6 @@ Kampene mot Danmark og Portugal nærmer seg.]]></description>
       <enclosure url="https://podkast.nrk.no/fil/bakrommet/715e630b-0945-4ba0-9e63-0b09453ba02e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>29:11</itunes:duration>
       <pubDate>Sun, 19 Jul 2026 03:03:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
-    </item>
-    <item>
-      <title>Sleivspark eller VMs vakreste?</title>
-      <description><![CDATA[Schjelderups scoring er nominert til pris, men var det et sleivspark? Og ekspertene fortsetter diskusjonen om bronsemotivasjon.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bakrommet/53fb0ef7-0e20-481e-bb0e-f70e20a81e21_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bakrommet/53fb0ef7-0e20-481e-bb0e-f70e20a81e21_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>32:43</itunes:duration>
-      <pubDate>Sat, 18 Jul 2026 00:01:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A.jpg"/>
     </item>
   </channel>
