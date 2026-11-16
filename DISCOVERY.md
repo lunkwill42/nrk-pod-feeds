@@ -1,4 +1,6 @@
 # Podcast Discovery Changelog  
+### 2026-11-16  
+- Podcast 'Seriesnakk' is considered obsolete and will be ignored in the future (`seriesnakk`)  
 ### 2026-11-05  
 - Updated podcast 'Kompass' (`kompass`)  
 ### 2026-11-02  
