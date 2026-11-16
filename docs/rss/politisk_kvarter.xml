@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:36:49 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:30:44 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Protest mot post-kutt</title>
+      <description><![CDATA[LO går ut i politisk streik mot Ap-regjeringa på grunn av kutt i posten. Hjelper det?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/541804a1-0a24-48d5-8d18-f3092fa42a4f_8d34c981-711a-45da-b20d-680adb42d249_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/541804a1-0a24-48d5-8d18-f3092fa42a4f_8d34c981-711a-45da-b20d-680adb42d249_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:12</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/l-KN2guI44fz33Ih6GL7vwwBMIt84DJwiaMvc9WTrezQ.jpg"/>
+    </item>
     <item>
       <title>Høgre på skattejakt</title>
       <description><![CDATA[Gir det fleire veljarar å lokke med meir i skattelette?]]></description>
@@ -286,15 +295,6 @@ Det mangler over fire milliarder kroner i statsbudsjettet for å nå 1%.]]></des
       <itunes:duration>15:11</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lxI9mfpbk6mnZIMt114BlQriwawby1_o1_sz5tuD4caA.jpg"/>
-    </item>
-    <item>
-      <title>Ein billig plass å bu</title>
-      <description><![CDATA[Korleis kan vi få bygd fleire billige bustader for unge vaksne?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/bfb84249-a4c8-40d6-b4a3-0425e131977d_852d1cb7-9696-406b-a95b-f45ab717f3da_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/bfb84249-a4c8-40d6-b4a3-0425e131977d_852d1cb7-9696-406b-a95b-f45ab717f3da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:54</itunes:duration>
-      <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/kvIJnEHCMjcpdq2pS68JDgUpLhUUDJ-E1qNHT0xNiCng.jpg"/>
     </item>
   </channel>
 </rss>

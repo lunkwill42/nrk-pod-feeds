@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:47:34 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:30:35 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Odd-Magnus typecastet som nazi</title>
+      <description><![CDATA[Er det et kompliment å blir castet til å spille nazi? Det må vi spørre Odd-Magnus Williamson om, som kommer for å snakke om den nye serien «Vikinger vs. nazister»]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/3cfd9a8f-38d9-4791-b6b0-8a19b87b1184_d0954dd1-12b6-4c49-adb1-150aa3cbcc44_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3cfd9a8f-38d9-4791-b6b0-8a19b87b1184_d0954dd1-12b6-4c49-adb1-150aa3cbcc44_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:52</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/FWLB7eNy6643aZyICMhILAji69Q4HDzI5ki_ups1O7UA.jpg"/>
+    </item>
     <item>
       <title>Aftur Nerdrum har flyttet til storbyen</title>
       <description><![CDATA[Husker du Aftur fra «Familien Nerdrum»? Hun har flyttet til Oslo, men har hun blitt ordentlig storbyjente? Det må vi grave mer i når hun kommer på besøk.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>44:10</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WzTiMuVWSI72iFc6MmgRWgWPz_YAzYBNxQTlG8gw6b2w.jpg"/>
-    </item>
-    <item>
-      <title>Bli hos meg-Dina konfronterer Jonas!</title>
-      <description><![CDATA[Jonas har spredd falske rykter om artisten bak låta "Bli hos meg". Dina kommer på besøk til oss for å få ryddet opp i dette og motbevise ryktene. I tillegg diskuterer vi hvor terskelen for å ta smertestillende går. Er du en av de som tar en paracet om du føler deg litt pjusk, eller må du være døden nær før du rører smertestillende?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/679b0213-29f2-4985-bc07-37046da823ec_d96a4ff7-68c3-4cf0-8d61-de0e4fd9e7d8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/679b0213-29f2-4985-bc07-37046da823ec_d96a4ff7-68c3-4cf0-8d61-de0e4fd9e7d8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:00</itunes:duration>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4jCbxQuaSz8rut0097mLUQH36G1Udil6yrZ_HNHkLURQ.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:47:04 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 06:01:00 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:29:37 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Slik nailer du smalltalk</title>
+      <description><![CDATA[Forskere fant trikset. Dessuten, flaks løste kjemigåte. Og periodisk faste hjelper Huntington-pasienter]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/6aa63b4c-36bf-476b-846c-e30f6b172e90_ccc817dd-2101-4e6c-9c2c-3e5cce3cf1ef_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/6aa63b4c-36bf-476b-846c-e30f6b172e90_ccc817dd-2101-4e6c-9c2c-3e5cce3cf1ef_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>29:51</itunes:duration>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
+    </item>
     <item>
       <title>KI-spørretime 2:2 - Dommedag</title>
       <description><![CDATA[Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.]]></description>
@@ -285,15 +294,6 @@ Lurer du på ting? Spør Abels Tårn!]]></description>
       <itunes:duration>01:05:09</itunes:duration>
       <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw.jpg"/>
-    </item>
-    <item>
-      <title>En mobil som reparerer seg selv</title>
-      <description><![CDATA[Er det NASA drømmer om. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:45</itunes:duration>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
     </item>
   </channel>
 </rss>
