@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sun, 15 Nov 2026 11:00:50 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:31:23 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg.jpg"/>
+    <item>
+      <title>Nils-Ingar Aadne: Kjærlighet etter sorg</title>
+      <description><![CDATA[Etter å ha mistet sin samboer i 2018 tok det tid før han følte seg klar for å date igjen. Nå har han funnet kjærligheten på nytt.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1ebf1be5-38b1-4834-bcd0-cf53da133e2d_567071ca-5b9f-4598-a085-67f32aa46fa1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1ebf1be5-38b1-4834-bcd0-cf53da133e2d_567071ca-5b9f-4598-a085-67f32aa46fa1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>40:26</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/QQnx_47V3iOZi1kTahWM5gBsbqjzPV7LGa_MnWgQzwfA.jpg"/>
+    </item>
     <item>
       <title>Panelet: "Dickmatized" og aldersforskjell </title>
       <description><![CDATA[Er det greit at partneren betaler for OnlyFans, og hva gjør man når man er lei av å snakke om venninnens kjærlighetssorg?]]></description>
@@ -273,15 +282,6 @@
       <itunes:duration>40:02</itunes:duration>
       <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QsuwL7l5nlNjCdKXsSr6EQYZOFLuUhMWBoo4Taqiuqxw.jpg"/>
-    </item>
-    <item>
-      <title>Ingar Helge Gimle: 60+ og Tinder</title>
-      <description><![CDATA[Skuespiller Ingar Helge Gimle om dating i voksen alder og om å finne kjærligheten igjen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5124454d-2bd5-494b-a445-4d2bd5194b94_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5124454d-2bd5-494b-a445-4d2bd5194b94_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:32</itunes:duration>
-      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HP2Zlqx8NeDNZFrqi6CqQwnxkwGc2WLvfk6Lw4neOV1w.jpg"/>
     </item>
   </channel>
 </rss>

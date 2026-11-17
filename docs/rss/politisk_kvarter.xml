@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:30:44 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:31:04 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Nato-medlemskap til Ukraina?</title>
+      <description><![CDATA[USA skal ha luftet NATO-medlemskap til Ukraina i bytte mot Donbas. Hvor realistisk er en slik fredsavtale? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/4d644485-5ee3-4bb7-af3c-6cc32964e303_0b387ef8-cb43-429d-b273-c9257ee26821_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4d644485-5ee3-4bb7-af3c-6cc32964e303_0b387ef8-cb43-429d-b273-c9257ee26821_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/srxE3P5P0eitebl3WEz0OA4-KORebbfEB4uKqnQ4uMow.jpg"/>
+    </item>
     <item>
       <title>Protest mot post-kutt</title>
       <description><![CDATA[LO går ut i politisk streik mot Ap-regjeringa på grunn av kutt i posten. Hjelper det?]]></description>
@@ -286,15 +295,6 @@ Det mangler over fire milliarder kroner i statsbudsjettet for å nå 1%.]]></des
       <itunes:duration>15:05</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qREGc34mtJkLdcTLOSAH_gxpBB0Vb-O65HVAwhkWBxFg.jpg"/>
-    </item>
-    <item>
-      <title>Fakta og følelser i økonomien </title>
-      <description><![CDATA[Tar økonomene feil når de sier folk flest har fått mer å rutte med? Rødt-lederen tror mer på folk som sier de har fått trangere økonomi. Hun velger føleri framfor fakta, advarer MDG. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/1e7a8875-8697-4ba6-9609-265794dc96c3_c2cf0e66-daa6-47f1-926b-e65ebebf17da_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1e7a8875-8697-4ba6-9609-265794dc96c3_c2cf0e66-daa6-47f1-926b-e65ebebf17da_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:11</itunes:duration>
-      <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lxI9mfpbk6mnZIMt114BlQriwawby1_o1_sz5tuD4caA.jpg"/>
     </item>
   </channel>
 </rss>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:10:20 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 13:25:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:29:57 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 13:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Julie Brodtkorb</title>
+      <description><![CDATA[–Jeg trodde det var min feil at han slo, sier eks-politikeren, som fikk opp vonde minner i Kompani Lauritzen]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1f9b40ad-2801-4934-aa08-1297a57d945f_1e707882-cdeb-47b7-afa4-42209d5df824_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1f9b40ad-2801-4934-aa08-1297a57d945f_1e707882-cdeb-47b7-afa4-42209d5df824_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:06</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 13:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/VHMhBv-eyJaS3X65DJ9raAFY6gFbcfWrZA_T6ZRC_2fQ.jpg"/>
+    </item>
     <item>
       <title>Are Sende Osen</title>
       <description><![CDATA[– Vi har vært grinete i generasjoner,  sier radioprofilen om familien sin.]]></description>
@@ -276,15 +285,6 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
       <itunes:duration>57:24</itunes:duration>
       <pubDate>Thu, 17 Sep 2026 14:02:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/P6gMdkr7zRVZi8UylWVPJgOLQQGLcxza4uHR_7Jta_9Q.jpg"/>
-    </item>
-    <item>
-      <title>Mah-Rukh Ali</title>
-      <description><![CDATA[– Iran er et misforstått land, sier journalisten som  har skrevet bok om landet]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/66b439d1-10f0-4f81-b06e-6eaea848f2b1_ff64fb57-958b-47ab-bcc9-029d1cdccdd3_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/66b439d1-10f0-4f81-b06e-6eaea848f2b1_ff64fb57-958b-47ab-bcc9-029d1cdccdd3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:16</itunes:duration>
-      <pubDate>Wed, 16 Sep 2026 14:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OyQ-09PAtvQk_ZQTc6h0_wvsFMfTKw6juRIx5aJPBBzQ.jpg"/>
     </item>
   </channel>
 </rss>
