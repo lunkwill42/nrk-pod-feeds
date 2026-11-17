@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 12 Nov 2026 20:51:34 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 16:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:55:53 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 17:55:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Sylvi Listhaug: Fra lik og del til statsminister?</title>
+      <description><![CDATA[Frp har i lang tid vært landets største parti på målinger. Kvinnen bak det hele? Sylvi Listhaug. 
+Hva slags parti har Frp blitt med Listhaug som leder? Og kan hun bli statsminister?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/12065254-0883-494c-9900-486767ebad56_31ac3a5d-9c69-4759-a8ff-ada2c84871e7_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/12065254-0883-494c-9900-486767ebad56_31ac3a5d-9c69-4759-a8ff-ada2c84871e7_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:21</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 17:55:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/nOwy3-Q2kWgNg8mbvG-qrgBEbXN_dcMzKrBw0R7mc0cQ.jpg"/>
+    </item>
     <item>
       <title>Droner, trusler og fryserhacking: Europa under angrep</title>
       <description><![CDATA[Denne høsten har Europa opplevd flere store hackerangrep. Mange hundre frysere og kjøleskap har blitt angrepet i ulike land, deler av Europas flytrafikk har blitt lammet på grunn av bombetrusler og her i Norge blir vi også rammet av disse angrepene. 
@@ -303,15 +313,6 @@ Og Cecilie slutter. Vi tar et siste farvel.]]></description>
       <itunes:duration>21:52</itunes:duration>
       <pubDate>Thu, 04 Jun 2026 14:16:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Md_5G231kar6fcBInXongQEyk2Im62Kj1tM_19NzD0hg.jpg"/>
-    </item>
-    <item>
-      <title>Trump i vill telefonkrangel med Netanyahu</title>
-      <description><![CDATA[Donald Trump vil ha en slutt på Iran-krigen, men Israels krig mot Libanon står i veien. «Du er faen meg gal», skal Trump ha sagt til Natanyahu på telefon. Rakner forholdet nå?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d2657cc2-7fa2-42fc-a57c-c27fa252fc34_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/d2657cc2-7fa2-42fc-a57c-c27fa252fc34_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>22:48</itunes:duration>
-      <pubDate>Tue, 02 Jun 2026 14:43:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/r1FA4H0NFssEtMc2_HzwdAcsK_y7tXNhyW9-Quj2JuZQ.jpg"/>
     </item>
   </channel>
 </rss>

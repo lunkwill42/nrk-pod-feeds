@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:10:10 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:55:24 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Ny meningsmåling</title>
+      <description><![CDATA[Et parti med sin beste måling noen gang, et annet med sin dårligste siden 2009.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/1aa274b6-424c-4592-a443-b00bb4d59271_12b70aec-f783-4427-9c5b-42887573c435_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/1aa274b6-424c-4592-a443-b00bb4d59271_12b70aec-f783-4427-9c5b-42887573c435_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aE8uyHvYhWc3WBQRQU3I9Qe9ZfJYlm2T7jLWlK471w6g.jpg"/>
+    </item>
     <item>
       <title>Advarer mot atomulykke</title>
       <description><![CDATA[Russlands krigføring i Ukraina øker risikoen for en alvorlig atomulykke, advarer en rekke land.]]></description>
@@ -273,15 +282,6 @@ Bane Nor varsler full togstans i hele landet.]]></description>
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/TE9kIteU-esynB4umOxmIwjwaJQCIPZ-eWmg4W9DsiRA.jpg"/>
-    </item>
-    <item>
-      <title>Regjeringen vil gjøre Norgespris dyrere</title>
-      <description><![CDATA[Økning på 12,5%, fire ganger så mye som prisstigningen ellers.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/8f4c8269-8218-433f-8e9a-caea805cb12c_6785efa0-370f-4581-a7c3-044f2d0b34a4_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8f4c8269-8218-433f-8e9a-caea805cb12c_6785efa0-370f-4581-a7c3-044f2d0b34a4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:03</itunes:duration>
-      <pubDate>Tue, 06 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/OGOnMjowJw5mygUKp_SJTQNIgPkPLGLiMf7zaHE6YnSw.jpg"/>
     </item>
   </channel>
 </rss>
