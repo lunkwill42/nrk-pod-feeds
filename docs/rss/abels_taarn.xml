@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:29:37 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:05:05 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Vil du til månen?</title>
+      <description><![CDATA[Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:10</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
+    </item>
     <item>
       <title>Slik nailer du smalltalk</title>
       <description><![CDATA[Forskere fant trikset. Dessuten, flaks løste kjemigåte. Og periodisk faste hjelper Huntington-pasienter]]></description>
@@ -284,16 +294,6 @@ Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!]]></descrip
       <itunes:duration>28:06</itunes:duration>
       <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
-    </item>
-    <item>
-      <title>Østers i fjorden - yea or nay?</title>
-      <description><![CDATA[Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.
-Lurer du på ting? Spør Abels Tårn!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:05:09</itunes:duration>
-      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw.jpg"/>
     </item>
   </channel>
 </rss>

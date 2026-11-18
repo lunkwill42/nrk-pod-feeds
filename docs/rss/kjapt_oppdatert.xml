@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:30:22 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 06:04:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:05:24 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>Fra og med i dag jobber kvinner «gratis»</title>
+      <description><![CDATA[Og det norske herrelandslaget er blant de beste i Europa]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/6e9137c4-641d-43ae-bf65-e1f1b04b6194_a4aacd1f-dc10-4a6f-9a65-bcd0018b4af9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6e9137c4-641d-43ae-bf65-e1f1b04b6194_a4aacd1f-dc10-4a6f-9a65-bcd0018b4af9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:27</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/TGR376vB12AC-q_D1b3pIw4AQyx1qzUE22KxNWBuiELA.jpg"/>
+    </item>
     <item>
       <title>Får Nvidia-sjefen jobben tilbake?</title>
       <description><![CDATA[Og derfor er PS5 så dyrt nå.]]></description>
@@ -281,15 +290,6 @@ Oppdatert 06.11.2026 10.45 med at det var TV 2 som sendte «Married at first sig
       <itunes:duration>07:02</itunes:duration>
       <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YKuDkuaQmtGSsKGbfYmNEwB-DBQfMdCEM4Y5r54iDg2Q.jpg"/>
-    </item>
-    <item>
-      <title>Tre år siden krigen mellom Israel og Hamas ble utløst</title>
-      <description><![CDATA[Og i dag legger regjeringen frem statsbudsjettet for neste år.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/914eae37-4504-4c4d-8eae-374504ac4d2d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/914eae37-4504-4c4d-8eae-374504ac4d2d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>06:24</itunes:duration>
-      <pubDate>Wed, 07 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jH-JXuDxh_Zs_VlWbpf_Wwru6K3EApT2PQimm_z0_92g.jpg"/>
     </item>
   </channel>
 </rss>

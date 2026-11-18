@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:31:45 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:06:12 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    <item>
+      <title>Haaland vil ha ribbe. Nå! </title>
+      <description><![CDATA[Alle tester urinen sin i studio, akkurat som landslaget. Og vi hører en svært utålmodig Erling Braut Haaland som bare vil rekke bussen til juleribba.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/bba05cf7-6052-4c0b-b76c-c5b9b4883e31_0bd4fd0e-d03f-4c6f-b006-bf2327b23729_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/bba05cf7-6052-4c0b-b76c-c5b9b4883e31_0bd4fd0e-d03f-4c6f-b006-bf2327b23729_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:37</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
+    </item>
     <item>
       <title>Tribunequiz: Hvem har falt i hullet?</title>
       <description><![CDATA[En kjendis har falt ned i hullet på tribunen. Hvem kan det være? Mia har laget nytt gameshow etter tribunekollapsen i Tromsø.]]></description>
@@ -293,15 +302,6 @@ Sportsdesken brenner sjekker også Magnus Carlsen iPad-skam og Premier Leagues s
       <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/570ca030-b854-4e71-8ca0-30b8545e7188_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:21</itunes:duration>
       <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
-    </item>
-    <item>
-      <title>Fotballpøbler stjal pappas hellige laken</title>
-      <description><![CDATA[Blir kodeks brutt når voksne menn stjeler hverandres malesaker? Eller når en gjeng voksne menn kaller seg Lounge Boyz med Z?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/sportsdesken_brenner/055c7827-759f-4c81-9c78-27759f8c816c_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/055c7827-759f-4c81-9c78-27759f8c816c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>37:05</itunes:duration>
-      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw.jpg"/>
     </item>
   </channel>

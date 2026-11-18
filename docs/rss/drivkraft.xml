@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:29:57 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 13:35:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:05:13 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Pedro Carmona-Alvarez</title>
+      <description><![CDATA[– Jeg er alltid i beredskapsmodus, sier forfatteren som flyktet fra Chile i 1982.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/bd4bc621-996c-4a2c-940e-6243c1f16e4b_257045c4-73a0-471c-95b9-e3ecec46f3d4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/bd4bc621-996c-4a2c-940e-6243c1f16e4b_257045c4-73a0-471c-95b9-e3ecec46f3d4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:19</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Mzr7tvVbX72kDZEvEhxM4gtoccfqDnFN0yuQDHvKL7tg.jpg"/>
+    </item>
     <item>
       <title>Julie Brodtkorb</title>
       <description><![CDATA[–Jeg trodde det var min feil at han slo, sier eks-politikeren, som fikk opp vonde minner i Kompani Lauritzen]]></description>
@@ -97,7 +106,7 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
     </item>
     <item>
       <title>Diaz</title>
-      <description><![CDATA[– jeg skulle aldri lage musikk igjen, sier rapperen som brått forsvant fra rampelyset.]]></description>
+      <description><![CDATA[– Jeg skulle aldri lage musikk igjen, sier rapperen som brått forsvant fra rampelyset.]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/aa8be35f-c607-4d9e-b49f-4ba02e56f1e7_cf917ad8-47f7-4496-bc29-cd69be089d82_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/aa8be35f-c607-4d9e-b49f-4ba02e56f1e7_cf917ad8-47f7-4496-bc29-cd69be089d82_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:13</itunes:duration>
@@ -134,7 +143,7 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
     </item>
     <item>
       <title>Janne Stigen Drangsholt</title>
-      <description><![CDATA[– Døden er en dårlig oppfinnelse, mener forfatteren, som også er litteraturprofessor ]]></description>
+      <description><![CDATA[– Døden er en dårlig oppfinnelse, mener forfatteren som også er litteraturprofessor. ]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/1371f54d-2558-4c53-ad0f-cf28dc4961ae_c9dd673b-aa00-4d48-9451-15ffdf06d83b_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/1371f54d-2558-4c53-ad0f-cf28dc4961ae_c9dd673b-aa00-4d48-9451-15ffdf06d83b_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:19</itunes:duration>
@@ -188,7 +197,7 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
     </item>
     <item>
       <title>Marie Blokhus </title>
-      <description><![CDATA[På bursdagen sin satt skuespilleren med en mimosa i hånden og ventet på 40-årskrisa]]></description>
+      <description><![CDATA[ På bursdagen sin satt skuespilleren med en mimosa i hånden og ventet på 40-årskrisa]]></description>
       <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/0610943b-1500-4c39-823c-f9fa5771c448_982c399e-319a-4342-b057-b20a16ae07e3_ID192MP3.mp3</guid>
       <enclosure url="https://podkast.nrk.no/fil/drivkraft/0610943b-1500-4c39-823c-f9fa5771c448_982c399e-319a-4342-b057-b20a16ae07e3_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>57:20</itunes:duration>
@@ -276,15 +285,6 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
       <itunes:duration>57:34</itunes:duration>
       <pubDate>Mon, 21 Sep 2026 13:55:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/W-TqgYz1XdQmjGoXhfAWQwEILJLrbl6NuiimLOOtNBnw.jpg"/>
-    </item>
-    <item>
-      <title>Carl I. Hagen</title>
-      <description><![CDATA[Få har irritert på seg så mange i norsk politikk som Carl I Hagen, som var mangeårig formann i FrP. Og nesten ingen har også blitt så beundret. Pensjonisten Hagen har overlevd tiår med politiske bikkjeslagsmål og framstår som et politisk dyr. Men hvem er egentlig mennesket, Carl Ivar Hagen? ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/8e44efd3-c47f-4dae-81a0-81bc1dbe1e02_f961fac5-0f9f-4f95-bb6b-0e7c0afbbfe8_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8e44efd3-c47f-4dae-81a0-81bc1dbe1e02_f961fac5-0f9f-4f95-bb6b-0e7c0afbbfe8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:24</itunes:duration>
-      <pubDate>Thu, 17 Sep 2026 14:02:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/P6gMdkr7zRVZi8UylWVPJgOLQQGLcxza4uHR_7Jta_9Q.jpg"/>
     </item>
   </channel>
 </rss>
