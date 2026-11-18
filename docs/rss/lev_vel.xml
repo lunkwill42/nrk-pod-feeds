@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:31:23 +0000</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 05:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:27:28 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>Hva gjør scrolling med barna?</title>
+      <description><![CDATA[Hvem har skylda for at barna har blitt «iPad-kids», og kan vi egentlig unngå det? Psykolog og psykoanalytiker Line-Marie Warholm svarer på alt vi lurer på.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/38e63373-67be-48b1-a117-51f5e35d1f1e_70f92745-ea3f-46a5-8f7f-ccf3f4207520_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/38e63373-67be-48b1-a117-51f5e35d1f1e_70f92745-ea3f-46a5-8f7f-ccf3f4207520_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:05</itunes:duration>
+      <pubDate>Wed, 18 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    </item>
     <item>
       <title>Hvordan være en god pårørende? (2:2)</title>
       <description><![CDATA[Sykepleier Celine Haaland-Johansen om hvordan det var da pappaen hennes fikk demens, og om hvordan man kan være en god pårørende. ]]></description>
@@ -275,15 +284,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <itunes:duration>17:01</itunes:duration>
       <pubDate>Fri, 01 May 2026 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/o_Mgx9e2XrfNuZs0h4sVKQID2Jbg2jM9j0OLXdU9qxTg.jpg"/>
-    </item>
-    <item>
-      <title>Derfor er du fortsatt singel</title>
-      <description><![CDATA[Hva er det vi sliter med i jakten på en kjæreste og hvilke feller er det vi stadig går i? Psykolog Marius Stavang gir oss svar.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/950c1165-79dc-43e3-8c11-6579dc53e37d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/950c1165-79dc-43e3-8c11-6579dc53e37d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>55:47</itunes:duration>
-      <pubDate>Wed, 29 Apr 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>
 </rss>
