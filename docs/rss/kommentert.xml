@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:55:53 +0000</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 17:55:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:11:05 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 16:20:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Trump, Putin og Xi: – Forstår Trump hva som skjer?</title>
+      <description><![CDATA[Donald Trump, Xi Jinping og Vladimir Putin møtes i Kina til sjeldent toppmøte. – Vi skaper historie, sier Donald Trump. 
+Men hva slags historie er det? Og skjønner egentlig Donald Trump hva han er med på?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/d0ffba06-e8f3-44a3-92c0-00415da3f2e2_cfffd998-4eef-4889-80ab-ded7906dc909_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d0ffba06-e8f3-44a3-92c0-00415da3f2e2_cfffd998-4eef-4889-80ab-ded7906dc909_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:27</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 16:20:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Xwa6mx7fZ4Fgc8-x58Q9yQJqAxp46CAHX177-4DwuCrA.jpg"/>
+    </item>
     <item>
       <title>Sylvi Listhaug: Fra lik og del til statsminister?</title>
       <description><![CDATA[Frp har i lang tid vært landets største parti på målinger. Kvinnen bak det hele? Sylvi Listhaug. 
@@ -302,17 +312,6 @@ Og hva sitter vi igjen med etter Marius Borg Høiby-dommen?]]></description>
       <itunes:duration>27:20</itunes:duration>
       <pubDate>Thu, 11 Jun 2026 15:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/-a3dSgh7zuogkk-U8LHbowoQsJ1iHOwwZ7U27OuSvkdA.jpg"/>
-    </item>
-    <item>
-      <title>Kongefamiliens vanskelige tid: – Svært alvorlig</title>
-      <description><![CDATA[Mette-Marits sykdom har blitt mye verre og familien samles på hjemme på Skaugum. Samtidig ventes det snart dom i rettssaken mot hennes sønn. Har kongefamilien vært i vanskeligere tider enn dette?
-
-Og Cecilie slutter. Vi tar et siste farvel.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b7f81f38-1fad-4eb0-b81f-381faddeb016_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/b7f81f38-1fad-4eb0-b81f-381faddeb016_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:52</itunes:duration>
-      <pubDate>Thu, 04 Jun 2026 14:16:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Md_5G231kar6fcBInXongQEyk2Im62Kj1tM_19NzD0hg.jpg"/>
     </item>
   </channel>
 </rss>
