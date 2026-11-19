@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:00:15 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 17:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:17:41 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Sexy kalender: Fra bildekk til politikk</title>
+      <description><![CDATA[«Sexy sosialister» har skapt debatt, men hvordan ble kalendere med lettkledde kvinner egentlig til?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/212f5023-14c2-4403-b8b8-e04c393cefd6_f402d896-774c-4ab5-adb1-a0359c728e94_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/212f5023-14c2-4403-b8b8-e04c393cefd6_f402d896-774c-4ab5-adb1-a0359c728e94_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:03</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WU3my7r8C8wMhCjS0kr3bQC8TY4JzQhBqjmJQ7MpIRtw.jpg"/>
+    </item>
     <item>
       <title>GTA: Dette er historien og kontroversene</title>
       <description><![CDATA[Bilran, sex, vold og drap: Hvordan ble GTA et så stort fenomen?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>14:58</itunes:duration>
       <pubDate>Wed, 14 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/2QudLOh_5lEISxVTXH11OQm1qh1bEJ2abanC7kccL4QQ.jpg"/>
-    </item>
-    <item>
-      <title>100 kokaindoser i kroppen: Hva skjedde med Amanda?</title>
-      <description><![CDATA[Trebarnsmoren ble funnet død under mistenkelige omstendigheter. Gjorde politiet nok?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/a2d331d4-416a-4465-9331-d4416ac4650f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a2d331d4-416a-4465-9331-d4416ac4650f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>19:08</itunes:duration>
-      <pubDate>Tue, 13 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YkHCI4TvLeCKRYOnwJFJHA_cRusr2kjkGetPOKfCbo5w.jpg"/>
     </item>
   </channel>
 </rss>

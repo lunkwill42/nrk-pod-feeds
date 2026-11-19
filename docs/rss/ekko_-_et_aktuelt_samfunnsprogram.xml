@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:18 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:17:08 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 13:30:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Mektige menn samla</title>
+      <description><![CDATA[Trump, Xi og Putin møttest i Kina, medan podkast-bros og Musk tek avstand frå Trump og Maga. Vi oppsummerer veka med Trumps USA.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/83516dc4-c80f-43e3-b266-f73014697583_c972175e-df09-4971-ac36-587dfc160002_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/83516dc4-c80f-43e3-b266-f73014697583_c972175e-df09-4971-ac36-587dfc160002_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:29</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NjqxY5seYxxsSg_posjVBQBwZ2O5vNxFTAx5ugNlsoiA.jpg"/>
+    </item>
     <item>
       <title>Spillenes konge 6.0</title>
       <description><![CDATA[Nye GTA 6 slippes denne uka, og kan bli årets største populærkulturelle begivenhet. Men det koster å være del av fellesskapet.]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>48:57</itunes:duration>
       <pubDate>Wed, 30 Sep 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/FgR-fkZS2zyj9xQtS-rdwgTnLt3g6H7OAiLcbXklFFgQ.jpg"/>
-    </item>
-    <item>
-      <title>Unge ryddar opp gamle synder</title>
-      <description><![CDATA[Kysten druknar i søppel. Reddar ryddedugnadane fjordane våre, eller er det berre ei dråpe i eit gigantisk hav av plast?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/18c11b12-d7b0-4941-811b-12d7b0b941dc_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/18c11b12-d7b0-4941-811b-12d7b0b941dc_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>21:07</itunes:duration>
-      <pubDate>Tue, 29 Sep 2026 12:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/sSz-vbFESlRgoiREcO8hDwM0ENYbPfLKBQ9Y_lnDfprg.jpg"/>
     </item>
   </channel>
 </rss>

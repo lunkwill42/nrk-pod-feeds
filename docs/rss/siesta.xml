@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:06:05 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:18:05 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Anna har en idé (not)</title>
+      <description><![CDATA[Vi får besøk av Norges beste lydeffekt-mann, Daniel har spilt GTA og Anna har en idé som egentlig ikke er en idé.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/94f83a58-b3e0-42e8-8d6c-857bbad44939_52492342-da3b-42fc-a850-2bd5e4d5be84_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/94f83a58-b3e0-42e8-8d6c-857bbad44939_52492342-da3b-42fc-a850-2bd5e4d5be84_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:44</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Jakten på julefingeren</title>
       <description><![CDATA[Endelig er Daniel tilbake med ny dokumentarserie, Markus har marinert fingern sin i noe vi skal gjette på og Anna skal finne Raylee.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/a3e04674-4d57-4c93-a046-744d57bc9375_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>49:57</itunes:duration>
       <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Markus intervjuer Espen Nakstad</title>
-      <description><![CDATA[Vi avslører ny pub i jakten etter Norges beste, Markus intervjuer Nakstad og hvem er best på imitasjon av hverandre?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3ccf1876-700f-418a-8f18-76700f918a1f_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/3ccf1876-700f-418a-8f18-76700f918a1f_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>50:42</itunes:duration>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

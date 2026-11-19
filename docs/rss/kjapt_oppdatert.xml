@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:24 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:17:16 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA.jpg"/>
+    <item>
+      <title>GTA VI hylles</title>
+      <description><![CDATA[Og i dag markeres mannsdagen
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/b4e6a33d-8005-40f8-8d9b-9327288f9790_6afcb1e1-cc5d-4cca-8e82-f7e4fd8bbcc5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b4e6a33d-8005-40f8-8d9b-9327288f9790_6afcb1e1-cc5d-4cca-8e82-f7e4fd8bbcc5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>06:57</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/8shgqh9nZiDH7Lb683HfnwBOCJMbIw2hQXjIeiLC6ehQ.jpg"/>
+    </item>
     <item>
       <title>Fra og med i dag jobber kvinner «gratis»</title>
       <description><![CDATA[Og det norske herrelandslaget er blant de beste i Europa]]></description>
@@ -281,15 +291,6 @@ Oppdatert 06.11.2026 10.45 med at det var TV 2 som sendte «Married at first sig
       <itunes:duration>07:14</itunes:duration>
       <pubDate>Fri, 09 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/drtb86LAMN1-MCsXE1lZHwxTny_FMz86_yBZEQmfTQYA.jpg"/>
-    </item>
-    <item>
-      <title>Vi oppsummerer statsbudsjettet</title>
-      <description><![CDATA[Og Donald Trump vil (igjen) ha Nobels fredspris.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kjapt_oppdatert/f531e072-4bbb-4d7f-b1e0-724bbbad7fb7_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f531e072-4bbb-4d7f-b1e0-724bbbad7fb7_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>07:02</itunes:duration>
-      <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YKuDkuaQmtGSsKGbfYmNEwB-DBQfMdCEM4Y5r54iDg2Q.jpg"/>
     </item>
   </channel>
 </rss>

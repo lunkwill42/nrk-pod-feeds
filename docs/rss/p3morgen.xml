@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:54 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:17:48 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Fød en baby, få GTA 6 gratis!</title>
+      <description><![CDATA[Gratulerer med GTA 6-dagen! Vi skal dele ut billetter til vår musikkfrokost 1. desember, og snakke med de som allerede har rukket å spille GTA 6. Lever det opp til forventningene?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/302493e8-c171-4033-99ce-9f5b5bf86ecc_54633946-4648-49cf-b4cc-97c6292be148_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/302493e8-c171-4033-99ce-9f5b5bf86ecc_54633946-4648-49cf-b4cc-97c6292be148_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:39</itunes:duration>
+      <pubDate>Thu, 19 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DGQ6qIsHCjqmWQ1CN8TC5QOfKFSrrL0Ii4AyIjFe4UTw.jpg"/>
+    </item>
     <item>
       <title>2013-spesial!</title>
       <description><![CDATA[Etter 13 års ventetid er GTA 6 endelig rett rundt hjørnet! Vi feirer ved å mimre tilbake til hvordan verden så ut i 2013! Det blir 2013-bangers og gjenhør med ikoniske øyeblikk! Do the harlem shake!]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>41:21</itunes:duration>
       <pubDate>Fri, 09 Oct 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YInZpRJ-gL8gNkQ33UcylAtkR0btNbGz8x6bm45tVgGA.jpg"/>
-    </item>
-    <item>
-      <title>Voksenkjeft fra stortingspresidenten </title>
-      <description><![CDATA[Er det lov å si 6-7 på Stortinget? Vi skal bryte regler sammen med stortingspresidenten. Henning oppsummerer hva du FAKTISK trenger å forstå fra statsbudsjettet.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/9925cd65-3821-497f-9399-4429a656fc02_a570178b-26d3-4cbf-9f1d-0c764b04a039_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9925cd65-3821-497f-9399-4429a656fc02_a570178b-26d3-4cbf-9f1d-0c764b04a039_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:06</itunes:duration>
-      <pubDate>Thu, 08 Oct 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_ylAUgcRKeiba828riPxjAhFVmaqVTeeD3cZDBVNYnhg.jpg"/>
     </item>
   </channel>
 </rss>
