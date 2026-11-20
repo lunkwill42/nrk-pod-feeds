@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:17:41 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:59:38 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Mannen «alle» burde hørt på: Nå spår han ny krise</title>
+      <description><![CDATA[Forrige gang fikk han rett i spådommene sine om finanskrise. Kan advarslene hans stemme igjen?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/e55d4702-3a68-44f6-92a7-e2a3db3d26d3_4df07196-dcf9-423b-8d4b-bd8933443985_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e55d4702-3a68-44f6-92a7-e2a3db3d26d3_4df07196-dcf9-423b-8d4b-bd8933443985_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:41</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Uz7n0TAFPA-TxQBtWlH27QCgl7CsHumwndObbSaRr2qg.jpg"/>
+    </item>
     <item>
       <title>Sexy kalender: Fra bildekk til politikk</title>
       <description><![CDATA[«Sexy sosialister» har skapt debatt, men hvordan ble kalendere med lettkledde kvinner egentlig til?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>14:45</itunes:duration>
       <pubDate>Thu, 15 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/G-9xpSUbAhcfIpfuRKldtAVSeHsC0aJ1V1cgzPJQPnww.jpg"/>
-    </item>
-    <item>
-      <title>Tidenes heftigste El Niño: Er verden klar?</title>
-      <description><![CDATA[Årets El Niño sammenliknes med Godzilla. Forskere spår at flere hundre tusen liv kan gå tapt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/f77253f0-583d-47c6-b253-f0583d27c69a_b1ef4a68-adb4-4b09-9068-8b7353e41260_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f77253f0-583d-47c6-b253-f0583d27c69a_b1ef4a68-adb4-4b09-9068-8b7353e41260_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:58</itunes:duration>
-      <pubDate>Wed, 14 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/2QudLOh_5lEISxVTXH11OQm1qh1bEJ2abanC7kccL4QQ.jpg"/>
     </item>
   </channel>
 </rss>

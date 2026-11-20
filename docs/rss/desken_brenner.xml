@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:35:59 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:59:04 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Urix x GTA</title>
+      <description><![CDATA[GTA VI er endelig ute – men ikke alle gleder seg på ungdommens vegne. Annika Momrak får kjeft for våpenbruk. VGS-elever får betalt for å ikke bryte loven.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/db5ccdae-a19c-4073-812c-1616118a6a04_9f6a5709-46e9-4f1d-9d5f-75205a1cfac5_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/db5ccdae-a19c-4073-812c-1616118a6a04_9f6a5709-46e9-4f1d-9d5f-75205a1cfac5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:36</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Livin’ La Nvidia Loca</title>
       <description><![CDATA[En amerikansk toppsjef har vært utro med en kinesisk spion. En sexy kalender skaper bråk. Pornofortiden til en kommunedirektør innhenter ham.]]></description>
@@ -273,15 +282,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/96f9ba49-462e-4c59-b9ba-49462e5c598e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>38:42</itunes:duration>
       <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Ayatolla-millionærer er ikke som andre millionærer</title>
-      <description><![CDATA[Noen håver inn på drapet på Irans leder. Kinesiske busser er for små. En gladsak om bruskorker.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/b99e9733-841f-4cb1-9e97-33841f2cb18f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/b99e9733-841f-4cb1-9e97-33841f2cb18f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>36:54</itunes:duration>
-      <pubDate>Fri, 13 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>

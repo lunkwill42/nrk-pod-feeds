@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:35:51 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:58:56 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Mona Høvring- Vanessa, den lille jenta som vakler, leter og tviler.</title>
+      <description><![CDATA[Forfatter og poet ,Mona Høvring, er en av våre mest lekne forfattere, og få klarer å få mer ut av alfabetet enn henne. 
+Men i bånn er det alltid et dypt alvor; og også i hennes nye roman "Som den hellige Teresa av Lisieux" er det den lille jenta som vakler, leter og tviler.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/39967220-8e1d-48a4-b28a-c0c058b82ee6_85a4bd6a-82ca-45fe-82bb-82b8b7d84df1_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/39967220-8e1d-48a4-b28a-c0c058b82ee6_85a4bd6a-82ca-45fe-82bb-82b8b7d84df1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:09</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/OM-HeItcwd8nHSQsPMKOpQjgpf26wL1KUfN5kzjfuaCA.jpg"/>
+    </item>
     <item>
       <title>Erlend O.Nødtvedt-Denne historien om Bergen måtte fortelles</title>
       <description><![CDATA[Erlend O. Nødtvedt skriver i romanen Borgen om et Bergen i kaos på randen av en revolusjon. Menneskene er preget av fattigdom og desperasjon, men også av kampvilje og kløkt.]]></description>
@@ -283,15 +293,6 @@ Nyeste bok: «Tørkesommer»]]></description>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 02 Mar 2026 06:10:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/xhblvK0hzOdV9ws14jIO5gwxQj6ig3FXgILZ4Y-zCW0A.jpg"/>
-    </item>
-    <item>
-      <title>Christensen mot Lindstrøm</title>
-      <description><![CDATA[Første duell: Brenner leder juryen gjennom en eksplosiv duell om isolasjon, vaskekluter og litterært jåleri.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/dd37e0ed-9c62-4423-b7e0-ed9c625423bc_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/dd37e0ed-9c62-4423-b7e0-ed9c625423bc_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Mon, 02 Mar 2026 06:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/MpJNM_HCOBgNiYtflMOr0A1_lCTKqicTCUBn3f1FrM_g.jpg"/>
     </item>
   </channel>
 </rss>

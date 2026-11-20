@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:17:48 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:59:45 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>P3morgen taxiservice</title>
+      <description><![CDATA[400 000 kollektivreisende står uten et alternativ når t-banen er stengt i hovedstaden. Vi tar saken, og har sendt Hedda ut i en bil for å plukke opp deg som trenger skyss! Send oss en melding om du trenger å bli plukket opp!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/af12f033-91f2-47bd-b805-34d51d97e130_8a06a76b-bff9-475e-8fc1-38f5f60fbc97_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/af12f033-91f2-47bd-b805-34d51d97e130_8a06a76b-bff9-475e-8fc1-38f5f60fbc97_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:03</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/GBIi36Iplk1Htq4TJlhZRAClX3UB7tCguETndL-JEf0A.jpg"/>
+    </item>
     <item>
       <title>Fød en baby, få GTA 6 gratis!</title>
       <description><![CDATA[Gratulerer med GTA 6-dagen! Vi skal dele ut billetter til vår musikkfrokost 1. desember, og snakke med de som allerede har rukket å spille GTA 6. Lever det opp til forventningene?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>43:39</itunes:duration>
       <pubDate>Mon, 12 Oct 2026 09:40:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
-    </item>
-    <item>
-      <title>Rip Ensomhetspartiet, lenge leve Else!</title>
-      <description><![CDATA[Vi leser ofte om at flere unge føler seg ensom. Men hva kan vi egentlig gjøre for å hjelpe hverandre? Else Kåss Furuseths er vår fredagsgjest.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/d90edcb5-87ce-458c-816a-9c0f24986e36_e1e3a8c4-43fe-42f4-8366-3bd81ecf9f38_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d90edcb5-87ce-458c-816a-9c0f24986e36_e1e3a8c4-43fe-42f4-8366-3bd81ecf9f38_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>41:21</itunes:duration>
-      <pubDate>Fri, 09 Oct 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/YInZpRJ-gL8gNkQ33UcylAtkR0btNbGz8x6bm45tVgGA.jpg"/>
     </item>
   </channel>
 </rss>

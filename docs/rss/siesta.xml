@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:18:05 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:59:59 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Markus intervjuer Anders Giæver</title>
+      <description><![CDATA[Selveste Anders Giæver er dagens hemmelige gjest, vi skal til Svalbard og hvem av oss dør først?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/8e5494a8-23f3-4ef3-bff9-5964871f9c42_e96a1233-8dc9-473a-8362-ba1281b37048_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8e5494a8-23f3-4ef3-bff9-5964871f9c42_e96a1233-8dc9-473a-8362-ba1281b37048_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>48:58</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/z2il1p-ikZ7XKRs7uMPCmg0Tz_qkX4Ptg4Ol7Q1X4RoA.jpg"/>
+    </item>
     <item>
       <title>Anna har en idé (not)</title>
       <description><![CDATA[Vi får besøk av Norges beste lydeffekt-mann, Daniel har spilt GTA og Anna har en idé som egentlig ikke er en idé.]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/71f5ce69-6a5c-4223-b5ce-696a5c4223e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:46</itunes:duration>
       <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Toll-Steffen fingrer oss i øret</title>
-      <description><![CDATA[Finn Glede kjemper for TV-aksjonen, Steffen fra spillet gir oss «wet willy»  og Anna forteller om verdens verste leirskole.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/a3e04674-4d57-4c93-a046-744d57bc9375_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/a3e04674-4d57-4c93-a046-744d57bc9375_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>49:57</itunes:duration>
-      <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

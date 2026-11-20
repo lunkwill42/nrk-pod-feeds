@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:36:10 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:59:13 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    <item>
+      <title>Årets ord, Jeff Bezos og dialektskam</title>
+      <description><![CDATA[Er det bra for James Bond-universet at Jeff Bezos er så involvert? 
+Er det en fallitt at Cambridge er nødt til å ty til "HUMAN" som årets ord?
+Er det egentlig et problem at folk legger om dialekten for å tilpasse seg omgivelsene? ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/7e4adc99-a3b4-44dd-8c46-d9b0a75435df_aa97948b-7235-4d3b-baab-ce7cb4dab6e4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/7e4adc99-a3b4-44dd-8c46-d9b0a75435df_aa97948b-7235-4d3b-baab-ce7cb4dab6e4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:29</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
+    </item>
     <item>
       <title>Kroningsvarsel, seiltur og ligging - samt sexy sosialister</title>
       <description><![CDATA[
@@ -291,15 +302,6 @@ Fredagspanelet har svarene og mer til!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/48a7594c-1a6a-48a7-a759-4c1a6a88a793_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>12:55</itunes:duration>
       <pubDate>Fri, 10 Apr 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
-    </item>
-    <item>
-      <title>Gjør vi for lite narr av Trump?</title>
-      <description><![CDATA[Sosiale medier, norske landslagsdrakter og Donald Trump.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/fredagspanelet/0c49dcd0-957d-4702-89dc-d0957df702db_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/0c49dcd0-957d-4702-89dc-d0957df702db_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>12:15</itunes:duration>
-      <pubDate>Fri, 27 Mar 2026 08:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg.jpg"/>
     </item>
   </channel>

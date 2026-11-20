@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:05 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:58:42 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Hvilket dyr fløy først?</title>
+      <description><![CDATA[Bør få tittelen Tidenes Tøffeste!
+Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ojYKXrABrHczLlL8p8_lNQ0EpBr76LSMGg-tLAQFDVow.jpg"/>
+    </item>
     <item>
       <title>Vil du til månen?</title>
       <description><![CDATA[Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde
@@ -285,15 +295,6 @@ Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!]]></descrip
       <itunes:duration>57:35</itunes:duration>
       <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/afYDzOjWNP8YCOF9byaTuwcWlX0Fk5Kc9GOG2Infg6gQ.jpg"/>
-    </item>
-    <item>
-      <title>Enkelt triks skjerper konsentrasjonen</title>
-      <description><![CDATA[Forskere har nemlig studert folks lesevaner. Dessuten ropes det varsko om sopp vi er avhengig av. Og månen vår må også passes på]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4047cef7-201a-49a4-87ce-f7201ab9a425_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>28:06</itunes:duration>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A.jpg"/>
     </item>
   </channel>
 </rss>
