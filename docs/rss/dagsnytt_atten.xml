@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Nov 2026 22:10:47 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:10:07 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Norge møter England</title>
+      <description><![CDATA[Det norske herrelandslaget møter England i kampen om en semifinalebillett i Nasjonsligaen.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/a5b7cf88-9fee-4d4a-aa88-fd1a52e27376_cb23abee-6bb5-40f1-a505-f579d9eaefdd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a5b7cf88-9fee-4d4a-aa88-fd1a52e27376_cb23abee-6bb5-40f1-a505-f579d9eaefdd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:50</itunes:duration>
+      <pubDate>Fri, 20 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RO4OWPInJ7Cck_UB085zcQl3Dfx8R4mdDGUlwzc-MfFA.jpg"/>
+    </item>
     <item>
       <title>Putin, Xi og Trump på toppmøte</title>
       <description><![CDATA[De sier de vil jobbe for å forhindre atomkrig og øke oljeproduksjonen.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>59:03</itunes:duration>
       <pubDate>Mon, 12 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/dLnj6H7BNrFWbG6erZoYXgoksaR7cPXA-_ZY6FIFjGjA.jpg"/>
-    </item>
-    <item>
-      <title>Fredsprisen til Navi Pillay</title>
-      <description><![CDATA[Den sørafrikanske juristen Navanethem "Navi" Pillay tildeles Nobels fredspris. Både Israel og USA reagerer.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/42696f24-0e09-412a-b548-f7db9bd488ae_70041afc-08a9-40f8-91eb-dd77a809bbf0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/42696f24-0e09-412a-b548-f7db9bd488ae_70041afc-08a9-40f8-91eb-dd77a809bbf0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:55</itunes:duration>
-      <pubDate>Fri, 09 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/86pW0li9PcoHKMfQS40gjABE4IARbBTtw7OZTsNNriWg.jpg"/>
     </item>
   </channel>
 </rss>
