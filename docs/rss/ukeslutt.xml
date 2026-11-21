@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:12:18 +0000</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:01:55 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ.jpg"/>
+    <item>
+      <title>Fillers eller ikke?</title>
+      <description><![CDATA[Isabella fikk en fæl første erfaring med fillers, men fortsetter likevel å bruke det. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/308a2235-603e-45e6-aa9e-c287ef2faf09_e895a38b-7ff3-43e0-90d7-b5057088dc3e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/308a2235-603e-45e6-aa9e-c287ef2faf09_e895a38b-7ff3-43e0-90d7-b5057088dc3e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:11</itunes:duration>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WKjgIDocALVENFP2rog9YARmNhgJw43276YLoc90CcnA.jpg"/>
+    </item>
     <item>
       <title>Var tidenes dyreste sidesprang en honningfelle?</title>
       <description><![CDATA[- Sånne honningfeller er ganske vanlige i etterretning, sier eks-spionsjef.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>58:56</itunes:duration>
       <pubDate>Sat, 25 Apr 2026 14:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/L8s7OFr12gNhs8KokxyygQXNX0FASqqsLjrZRZMY03pA.jpg"/>
-    </item>
-    <item>
-      <title>Hvor lurt er det å krangle med paven?</title>
-      <description><![CDATA[Donald Trump og Pave Leo har nok en gang havnet i klammeri denne uken. Men hvor lurt er det å krangle med paven, hvis man ser det i et historisk lys?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/bf0dc115-57a9-4ae7-8dc1-1557a9eae746_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>01:07:08</itunes:duration>
-      <pubDate>Sat, 18 Apr 2026 14:30:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/9pCbp6aNwXKbxa4VTcrNlgXdGX4GoPxiv9L9Q6Kqi18A.jpg"/>
     </item>
   </channel>
 </rss>
