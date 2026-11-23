@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:30:59 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:56:06 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
+    <item>
+      <title>Kunsten å leve i villmarka</title>
+      <description><![CDATA[Ikke som et overlevelsesprosjekt, men for å komme nærmere naturen. Med naturforvalter og lausarbeider Gea Prytz.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/2bab8fbd-a8fe-4df0-a78d-06dea3677951_51df7271-8020-477d-9bf2-5d12af0104ed_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/2bab8fbd-a8fe-4df0-a78d-06dea3677951_51df7271-8020-477d-9bf2-5d12af0104ed_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:46</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/toio-p81rsXW6eH8Svlurgy6kYO97sBBltZU4XL1WK3g.jpg"/>
+    </item>
     <item>
       <title>Nyrike nordmenn</title>
       <description><![CDATA[Hvordan ble Norge verdens mest nyrike land? Og hva har milliardene gjort med folkesjela vår? Med journalist og økonom Lars Backe Madsen.  ]]></description>
@@ -281,15 +290,6 @@ https://www.nrk.no/kultur/tilsvar-til-trygdekontoret-1.17816679]]></description>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ.jpg"/>
-    </item>
-    <item>
-      <title>Harald Hardråde</title>
-      <description><![CDATA[Hvem var Norges siste vikingkonge? Historiker Tore Skeie har skrevet om Harald Hardrådes brutale liv, fra slaget på Stiklestad til forsøket på å erobre England.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/trygdekontoret/9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/9f853972-657d-4fb5-8539-72657dcfb51c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:32</itunes:duration>
-      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/_vXEx6OAKofIpER3bM_ZbQT5Nyi2_3rxSFNP_6ZXdMdQ.jpg"/>
     </item>
   </channel>
 </rss>

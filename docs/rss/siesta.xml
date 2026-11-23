@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:59:59 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:55:56 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Dynkes i softis</title>
+      <description><![CDATA[Ting går ikke helt som planlagt når Markus skal spise 1 kg softis, ukas dumfette kåres og Finn Glede kommer innom. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/3c61ac70-995c-4590-8862-146feb967ecf_01c86c6a-4297-4fa7-8e73-fdfb71a7dd5c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3c61ac70-995c-4590-8862-146feb967ecf_01c86c6a-4297-4fa7-8e73-fdfb71a7dd5c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:35</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Markus intervjuer Anders Giæver</title>
       <description><![CDATA[Selveste Anders Giæver er dagens hemmelige gjest, vi skal til Svalbard og hvem av oss dør først?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/0c3216cf-36a3-44a3-b216-cf36a3d4a3c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>46:01</itunes:duration>
       <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Tror vi på astrologi?</title>
-      <description><![CDATA[Det er en slags horoskop-spesial i dagens siesta. I tillegg blir vi nesten lurt av Finn Glede og Anna er forbanna på gutters lukt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/71f5ce69-6a5c-4223-b5ce-696a5c4223e9_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/71f5ce69-6a5c-4223-b5ce-696a5c4223e9_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:46</itunes:duration>
-      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>

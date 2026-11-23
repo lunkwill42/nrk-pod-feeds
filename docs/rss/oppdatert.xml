@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:59:38 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:55:30 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Taiwans databrikker: Kan de forhindre storkrig?</title>
+      <description><![CDATA[Databrikkene hele verden trenger har blitt Taiwans viktigste forsvar.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/163ece25-7a7d-489b-8691-05c3e04a6d4e_c1737018-6644-461b-b668-08ad12a26326_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/163ece25-7a7d-489b-8691-05c3e04a6d4e_c1737018-6644-461b-b668-08ad12a26326_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>16:53</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/j_Y13N0a8WzGURxpdBGM4wx7nPsGmbWoT0cTzLK9oshw.jpg"/>
+    </item>
     <item>
       <title>Mannen «alle» burde hørt på: Nå spår han ny krise</title>
       <description><![CDATA[Forrige gang fikk han rett i spådommene sine om finanskrise. Kan advarslene hans stemme igjen?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>12:33</itunes:duration>
       <pubDate>Fri, 16 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/3IMU9czOu-CEVY7URUUjBQvCLebImi4x4QEU4Wd_lOwQ.jpg"/>
-    </item>
-    <item>
-      <title>Matgigantene i retten: Ulovlig prissamarbeid?</title>
-      <description><![CDATA[Milliarder på spill når Konkurransetilsynet møter dagligvarekjedene i Norges største konkurranserettssak.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/15310543-ea74-4fe1-af45-29cdbbad95e4_89dac566-0292-4ca2-bafb-e38718ebcd66_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/15310543-ea74-4fe1-af45-29cdbbad95e4_89dac566-0292-4ca2-bafb-e38718ebcd66_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>14:45</itunes:duration>
-      <pubDate>Thu, 15 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/G-9xpSUbAhcfIpfuRKldtAVSeHsC0aJ1V1cgzPJQPnww.jpg"/>
     </item>
   </channel>
 </rss>

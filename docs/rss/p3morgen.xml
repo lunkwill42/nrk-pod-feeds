@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:59:45 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:55:39 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Se trash-TV med stolthet!</title>
+      <description><![CDATA[Er underholdning for kvinner litt mer «trashy»? Supervikar Hedda tror flere ser på det enn man tror, og er desperat etter noen å snakke om det med.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/058d086e-645f-4614-9ce4-a52a4359cd7e_d89dbd6c-1952-49a3-9130-521c55cf1216_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/058d086e-645f-4614-9ce4-a52a4359cd7e_d89dbd6c-1952-49a3-9130-521c55cf1216_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:32</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/DGQ6qIsHCjqmWQ1CN8TC5QOfKFSrrL0Ii4AyIjFe4UTw.jpg"/>
+    </item>
     <item>
       <title>P3morgen taxiservice</title>
       <description><![CDATA[400 000 kollektivreisende står uten et alternativ når t-banen er stengt i hovedstaden. Vi tar saken, og har sendt Hedda ut i en bil for å plukke opp deg som trenger skyss! Send oss en melding om du trenger å bli plukket opp!]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>42:02</itunes:duration>
       <pubDate>Tue, 13 Oct 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/fBsX7odlgoZkxXinhIw7bAP0lX7PGfi-wZGqyo3_TYOQ.jpg"/>
-    </item>
-    <item>
-      <title>Sinnsyke sparetips</title>
-      <description><![CDATA[Jonas har noen rare sparetips, og er ute etter enda flere. Arin har også nye rare meninger om temperatur og lukt.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/c60de585-162e-489b-b403-db75157028e8_9695f7a8-1245-45f1-a0b5-046834e49a72_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c60de585-162e-489b-b403-db75157028e8_9695f7a8-1245-45f1-a0b5-046834e49a72_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:39</itunes:duration>
-      <pubDate>Mon, 12 Oct 2026 09:40:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw.jpg"/>
     </item>
   </channel>
 </rss>
