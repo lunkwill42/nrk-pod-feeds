@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:56:49 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:16:19 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Regjeringskaos i Sverige</title>
+      <description><![CDATA[Avstemming om Ulf Kristerssons regjering i Riksdagen mandag.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/e86a954e-dab8-4c04-9a18-d34510ff2d85_371f93c2-a6d5-4064-9230-8dbb1090faf8_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e86a954e-dab8-4c04-9a18-d34510ff2d85_371f93c2-a6d5-4064-9230-8dbb1090faf8_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>59:03</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/NSBAYUDnUuOFTM0lhDpamQGt2qq957fC-0AITligtKWw.jpg"/>
+    </item>
     <item>
       <title>Fraråder dronningen å snakke med Epstein-kommisjon</title>
       <description><![CDATA[Regjeringen mener en forklaring fra dronningen vil stride mot langvarig tradisjon.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>58:58</itunes:duration>
       <pubDate>Wed, 14 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/HCLOpzcm4AU8Dl0kCDigawL8Na7V_Ba47aHnaA002hyA.jpg"/>
-    </item>
-    <item>
-      <title>Kinesiske biler overvåker</title>
-      <description><![CDATA[Nytt eksperiment viser at bilene våre er rullende overvåkingsplattformer. Hvordan er egentlig sikkerheten når Kina kan sikre seg  informasjon via biler?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/c277ef10-d704-41d0-910f-8a1237c62b5b_786e396f-d850-4553-8b71-0e687c968d50_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c277ef10-d704-41d0-910f-8a1237c62b5b_786e396f-d850-4553-8b71-0e687c968d50_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>59:02</itunes:duration>
-      <pubDate>Tue, 13 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qqeQ5CZyodgDY9La_0va4g_WCbMMLaB-9QBy7z0Br6bw.jpg"/>
     </item>
   </channel>
 </rss>

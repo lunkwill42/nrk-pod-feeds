@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Nov 2026 22:11:05 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 16:20:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:17:00 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 17:58:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q.jpg"/>
+    <item>
+      <title>Atomvåpen-satelitt og Libya-angrep: – Ingen har kontroll</title>
+      <description><![CDATA[Russiske raketter i Polen, ukrainske angrep på skip i Østersjøen og utenfor Libya. Krigen mellom Russland og Ukraina sprer seg. Nå påstås det også at russerne planlegger atomvåpen i verdensrommet. Hvor langt kan krigen spre seg?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/af48b050-967d-4573-ab83-4542d65ca640_6c890f04-47ca-4ef8-9799-f3e24a411d82_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/af48b050-967d-4573-ab83-4542d65ca640_6c890f04-47ca-4ef8-9799-f3e24a411d82_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>27:06</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 17:58:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qQwCvp4ShBN4Ir2jRRxUGgvLY2fW7ASwx2tIsueg8-hw.jpg"/>
+    </item>
     <item>
       <title>Trump, Putin og Xi: – Forstår Trump hva som skjer?</title>
       <description><![CDATA[Donald Trump, Xi Jinping og Vladimir Putin møtes i Kina til sjeldent toppmøte. – Vi skaper historie, sier Donald Trump. 
@@ -303,15 +312,6 @@ Og hva sitter vi igjen med etter Marius Borg Høiby-dommen?]]></description>
       <itunes:duration>25:36</itunes:duration>
       <pubDate>Tue, 16 Jun 2026 17:57:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/QNfgm9cWp09_stIQlHTKQweveYhH1_P9JsvnTwT4nFbg.jpg"/>
-    </item>
-    <item>
-      <title>Høiby: Hva betyr straffen for fremtiden til kongefamilien?</title>
-      <description><![CDATA[Snart kommer dommen i rettssaken mot Marius Borg Høiby. Hva slags straff er det snakk om?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/kommentert/b02a09d6-9438-4253-aa09-d69438b25381_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/kommentert/b02a09d6-9438-4253-aa09-d69438b25381_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:20</itunes:duration>
-      <pubDate>Thu, 11 Jun 2026 15:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/-a3dSgh7zuogkk-U8LHbowoQsJ1iHOwwZ7U27OuSvkdA.jpg"/>
     </item>
   </channel>
 </rss>

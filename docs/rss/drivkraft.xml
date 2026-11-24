@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:13 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 14:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:16:33 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 14:35:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Ole Asbjørn Ness</title>
+      <description><![CDATA[– Jeg er en ertekrok, sier samfunnsdebattanten og forfatteren, som mener han bare sparker oppover]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/930f41cd-6b57-40ff-92cc-1e1081f4f91e_880b7b9f-441b-4611-96ca-dd277f1c6af0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/930f41cd-6b57-40ff-92cc-1e1081f4f91e_880b7b9f-441b-4611-96ca-dd277f1c6af0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:54</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 14:35:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/K7gLSIhu6qEEQF_GR0U7EA2V9JX-x-AvZ1UzbQ_g9gGA.jpg"/>
+    </item>
     <item>
       <title>Pedro Carmona-Alvarez</title>
       <description><![CDATA[– Jeg er alltid i beredskapsmodus, sier forfatteren som flyktet fra Chile i 1982.]]></description>
@@ -276,15 +285,6 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
       <itunes:duration>57:07</itunes:duration>
       <pubDate>Tue, 22 Sep 2026 13:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/VZMR-HlIz28nfT6HVxx1jwx3mIlbjMXVSIV-JhS6-Q9g.jpg"/>
-    </item>
-    <item>
-      <title>Emma Steinbakken</title>
-      <description><![CDATA[- Jeg tenker på meg selv hele tiden, sier artisten, som skriver på ny musikk om opplevelser fra eget liv ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/31c109de-3d9d-4556-a379-cbd9c70f82c3_746718df-0b63-4d2d-9c0f-726fea386937_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/31c109de-3d9d-4556-a379-cbd9c70f82c3_746718df-0b63-4d2d-9c0f-726fea386937_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:34</itunes:duration>
-      <pubDate>Mon, 21 Sep 2026 13:55:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/W-TqgYz1XdQmjGoXhfAWQwEILJLrbl6NuiimLOOtNBnw.jpg"/>
     </item>
   </channel>
 </rss>

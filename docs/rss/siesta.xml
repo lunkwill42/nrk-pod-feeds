@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:55:56 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:17:12 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Tørr kylling er godt </title>
+      <description><![CDATA[Daniel fortsetter jakten etter julefingeren, vi smalltalker rattkjelke og Anna liker visst tørr mat.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/13c8cbda-e054-4ef7-b519-0caa69bd07a9_84df9031-04be-4c85-aea6-5dada9ef9175_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/13c8cbda-e054-4ef7-b519-0caa69bd07a9_84df9031-04be-4c85-aea6-5dada9ef9175_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:00</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Dynkes i softis</title>
       <description><![CDATA[Ting går ikke helt som planlagt når Markus skal spise 1 kg softis, ukas dumfette kåres og Finn Glede kommer innom. ]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/siesta/f674225e-9c80-4f26-b422-5e9c80ff262c_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>47:59</itunes:duration>
       <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Daniel elsker excel og hater snø</title>
-      <description><![CDATA[Finn Glede intervjuer "Jan Eggum", Anna kom for seint på grunn av vaffelsteking og Daniel er klimaflytkning som hater snø.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/0c3216cf-36a3-44a3-b216-cf36a3d4a3c3_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/0c3216cf-36a3-44a3-b216-cf36a3d4a3c3_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>46:01</itunes:duration>
-      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
     </item>
   </channel>
