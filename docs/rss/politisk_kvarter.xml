@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:55:47 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:00:25 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Norge på feil klimaside?</title>
+      <description><![CDATA[Frp meiner oljeprodusenten Noreg stilte seg på feil side under klimatoppmøtet ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/49fbbdca-920c-4f84-a754-e3e88de32c58_7b638fe2-c8fc-4801-af9f-33481947a509_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/49fbbdca-920c-4f84-a754-e3e88de32c58_7b638fe2-c8fc-4801-af9f-33481947a509_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:09</itunes:duration>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/CG970VrEihA5Hb9_GTUSFAN-8ieW7Nv5wf17OxPMQQDw.jpg"/>
+    </item>
     <item>
       <title>KrF vil doble kontantstøtten</title>
       <description><![CDATA[- Jeg tror det skjer et oppgjør med hamsterhjulet, sier Ida Lindtveit Røse.
@@ -287,15 +296,6 @@ Dette skal vi stanse, varsler Senterpartiet]]></description>
       <itunes:duration>15:12</itunes:duration>
       <pubDate>Wed, 14 Oct 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Bp-XXMwMGNllHZ-fPOMYmgS8dVfRcRFh5gsg213McjCg.jpg"/>
-    </item>
-    <item>
-      <title>Billig månadskort</title>
-      <description><![CDATA[Er billigast mogleg månadskort for kollektivreiser ein klok politisk idé?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/35374eb6-6c1d-418c-862b-204fabde2614_40df8948-b2e3-4e7f-8d67-9e16fcb107df_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/35374eb6-6c1d-418c-862b-204fabde2614_40df8948-b2e3-4e7f-8d67-9e16fcb107df_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:10</itunes:duration>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/tPTSS8Q3b15KRU3s3y8a8AmC97-rat2qUk3BxWjP7E_w.jpg"/>
     </item>
   </channel>
 </rss>
