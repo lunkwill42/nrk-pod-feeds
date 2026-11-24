@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:54:44 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:56:38 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 20:48:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Det største i matematikkhistorien</title>
+      <description><![CDATA[BONUS: Riemannhypotesen har falt! Matematikkens hellige gral. Kanskje det viktigste øyeblikket i mattehistorien.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/bbfc50c3-86bf-486a-8168-2e7c6b7bc53c_ce86a246-cd55-449c-9a86-b7d914e607c9_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/bbfc50c3-86bf-486a-8168-2e7c6b7bc53c_ce86a246-cd55-449c-9a86-b7d914e607c9_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>53:23</itunes:duration>
+      <pubDate>Mon, 23 Nov 2026 20:48:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/uXcEIhhEo-Qyhgz2HULQXQbidazCjbsQa4Ybnnfp4HLg.jpg"/>
+    </item>
     <item>
       <title>Sliten av å bruke KI?</title>
       <description><![CDATA[Du er ikke alene. Dessuten, mystisk mattebok er dekodet. Og elefanter lærer oss noe nytt]]></description>
@@ -285,15 +294,6 @@ Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitens
       <itunes:duration>59:17</itunes:duration>
       <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/40zlF_B1LuftpK4N-FApSgJ__TB267bGwOaNGJLaWg5A.jpg"/>
-    </item>
-    <item>
-      <title>Det finnes en riktig tissevinkel</title>
-      <description><![CDATA[Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:02</itunes:duration>
-      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>
