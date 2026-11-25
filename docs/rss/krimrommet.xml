@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:30 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:40:48 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A.jpg"/>
+    <item>
+      <title>Babyfabrikken (1): Hemmeligheten</title>
+      <description><![CDATA[I 2024 er Kayla (26) surrogatmor for første gang. Det hun ikke vet, er at babyens kommende foreldre har en mørk hemmelighet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/cb5b165d-6461-4d74-9aa0-7db11005faa7_61ac9dc0-2a6b-41a2-8f8f-8a904f5b5bbd_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb5b165d-6461-4d74-9aa0-7db11005faa7_61ac9dc0-2a6b-41a2-8f8f-8a904f5b5bbd_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>18:36</itunes:duration>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/etUG9diBvcv_lxww72zLGAR2VPQa1zrKEr39EDKE2uEQ.jpg"/>
+    </item>
     <item>
       <title>Russell Brand: «Et seksuelt rovdyr»</title>
       <description><![CDATA[Dommeren mener stjernestatusen beskyttet Russell Brand i mange år. Nå er komikeren dømt til 10,5 år i fengsel.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>31:10</itunes:duration>
       <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/R9JQmd9laK48TE8IBO2tiA23iOp49SdYunmUL1aeT6EQ.jpg"/>
-    </item>
-    <item>
-      <title>Høiby (21): Er retten for streng?</title>
-      <description><![CDATA[Lagmannsretten har talt: Marius Borg Høiby må fortsatt sitte i varetekt. Men er beslutningen rettferdig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/krimrommet/25067f29-3388-47a5-867f-29338817a505_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/krimrommet/25067f29-3388-47a5-867f-29338817a505_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>18:04</itunes:duration>
-      <pubDate>Wed, 10 Jun 2026 16:45:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/PYArHzEwObWDLNV6s66s3AhDZOlMKQCQ9UOq83NDPjJw.jpg"/>
     </item>
   </channel>
 </rss>

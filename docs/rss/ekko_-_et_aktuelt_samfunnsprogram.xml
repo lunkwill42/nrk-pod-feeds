@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:16:44 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:40:29 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 13:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Når eit «hei» kan redde liv</title>
+      <description><![CDATA[Kvifor blir barn og unge kriminelle, og korleis snur vi utviklinga? Små grep avgjer om ein endar som kriminell eller brannkonstabel.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c4ef56c0-cf73-4c99-a665-b417c995df58_0201f249-3a59-4a11-a16e-1998057dda32_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c4ef56c0-cf73-4c99-a665-b417c995df58_0201f249-3a59-4a11-a16e-1998057dda32_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>24:01</itunes:duration>
+      <pubDate>Wed, 25 Nov 2026 13:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/XU5P-LIu8G4njybpUp7HDQJYl36Ph0ssGiRJD2eOC5Bw.jpg"/>
+    </item>
     <item>
       <title>Superkraften</title>
       <description><![CDATA[Temmer vi fusjonskraften, er energikrisen løst for alltid. Klarer vi det denne gangen?]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>23:47</itunes:duration>
       <pubDate>Tue, 06 Oct 2026 13:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/79RP8ijY13VLcAOnJwgSgw1WgEwYj8S-dsHkpsV4XYjQ.jpg"/>
-    </item>
-    <item>
-      <title>Kampen om tysk stoltheit</title>
-      <description><![CDATA[Partiet AfD stormar fram med eit bodskap om tysk stoltheit. Bør vi heie på den nye nasjonalkjensla, eller er det grunn til uro?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4ffb5822-dd7e-474b-bb58-22dd7e474b2d_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4ffb5822-dd7e-474b-bb58-22dd7e474b2d_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:38</itunes:duration>
-      <pubDate>Mon, 05 Oct 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/fdv0J-I1RVtRcc5FNcE2FgXWLVukgT2DeF14XZ-tjaVw.jpg"/>
     </item>
   </channel>
 </rss>
