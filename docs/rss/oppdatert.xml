@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:41:22 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 05:59:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:35:54 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 05:59:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw.jpg"/>
+    <item>
+      <title>Rwanda: Danmarks nye dumpingplass for asylsøkere?</title>
+      <description><![CDATA[Den danske statsministeren Mette Frederiksen ønsker å opprette asylmottak i Rwanda. Vil Norge følge etter?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/b0d43173-1cc0-41c9-8276-ec8abe9b38b0_8b7e4a45-0bda-4fc2-9092-dda4ab53617e_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b0d43173-1cc0-41c9-8276-ec8abe9b38b0_8b7e4a45-0bda-4fc2-9092-dda4ab53617e_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>17:42</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 05:59:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Tlu5HrD7dIJ0aevAIXtO_wt9iylGAGW7YL2a5Nqe2G0Q.jpg"/>
+    </item>
     <item>
       <title>Frykter atomkatastrofe: Bør Europa være bekymret?</title>
       <description><![CDATA[I flere år har IAEA vært verdens atomkraft-voktere i Ukraina. Nå slår de og flere titalls land alarm.]]></description>
@@ -273,15 +282,6 @@
       <itunes:duration>17:37</itunes:duration>
       <pubDate>Wed, 21 Oct 2026 05:59:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/KEABdMQitYGTJ7_LUN0qoQWxWvGfWIIfEEZY7ri612pQ.jpg"/>
-    </item>
-    <item>
-      <title>Kampen for fjorden: Blir loven brutt?</title>
-      <description><![CDATA[En årelang konflikt har blusset opp på ny. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/oppdatert/3a0b187f-912b-49e1-9ea5-438aa66a2ee8_8746b196-207b-47d7-b35a-854b97001f0f_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/oppdatert/3a0b187f-912b-49e1-9ea5-438aa66a2ee8_8746b196-207b-47d7-b35a-854b97001f0f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>13:56</itunes:duration>
-      <pubDate>Tue, 20 Oct 2026 05:59:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/0GsiHhmEQQZ29m-8-SGP4gqEXnrpbAJjq74PYeTeBO3w.jpg"/>
     </item>
   </channel>
 </rss>

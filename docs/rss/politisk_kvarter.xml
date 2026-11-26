@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:41:37 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 08:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:36:09 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg.jpg"/>
+    <item>
+      <title>Kan grenseløse barn stoppes?</title>
+      <description><![CDATA[Slag, spark, trusler og bråk har blitt "normalen" på norske skoler. Hva skal til for å stoppe de grenseløse barna som flere rektorer nå peker på som en årsak til faglig forfall.  ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/5c7236de-0096-4c2a-9324-cdc7ac539cf9_2414da00-8f61-4225-a329-f3eec097acb0_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5c7236de-0096-4c2a-9324-cdc7ac539cf9_2414da00-8f61-4225-a329-f3eec097acb0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:06</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/tmqq4mQXhGlP-duhcae_FAlUIqR8Jds2g4CVCqsW480A.jpg"/>
+    </item>
     <item>
       <title>Likelønnsdagen</title>
       <description><![CDATA[Er Likelønnsdagen en viktig kampdag? Eller er det lureri?]]></description>
@@ -286,15 +295,6 @@ Og alle mener de har vunnet...]]></description>
       <itunes:duration>15:08</itunes:duration>
       <pubDate>Fri, 16 Oct 2026 08:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9-qEhVo7lFCVQUBddVpNvgrlvA3iqqwLR3lsvMFvfsBw.jpg"/>
-    </item>
-    <item>
-      <title>Grønt lys for midlertidig dumping av gruveavfall i Førdefjorden</title>
-      <description><![CDATA[Regjeringen tillater 4,5 millioner tonn med gruveavfall i i Førdefjorden. Trosser klimaministeren høyesterett?  ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/politisk_kvarter/0378324c-4b3d-4417-bb66-ed320d724149_0745b0ed-c135-4c60-aa49-01d5cefa6085_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0378324c-4b3d-4417-bb66-ed320d724149_0745b0ed-c135-4c60-aa49-01d5cefa6085_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>15:06</itunes:duration>
-      <pubDate>Thu, 15 Oct 2026 08:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/QOXPq11BvK26KyiSOdIMxwJeXKbSMA_sIO267pHoI1SA.jpg"/>
     </item>
   </channel>
 </rss>

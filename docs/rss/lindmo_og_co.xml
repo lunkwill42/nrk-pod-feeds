@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:17:28 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:35:37 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    <item>
+      <title>Trusefest</title>
+      <description><![CDATA[Anne har utforsket den edle undertøyskunsten!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/7e49d459-f7cc-4bcb-9681-e4de88276023_0abf3ba9-e90c-434e-a404-e1d5cb0c30ff_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/7e49d459-f7cc-4bcb-9681-e4de88276023_0abf3ba9-e90c-434e-a404-e1d5cb0c30ff_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>25:43</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
+    </item>
     <item>
       <title>Kroppskavalkade</title>
       <description><![CDATA[Anne har fått nye arr, Rune har renset sjelen og Halvor har vært på rave. ]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/9ac1ee6c-9ca9-448d-81ee-6c9ca9c48dab_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>24:30</itunes:duration>
       <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
-    </item>
-    <item>
-      <title>Anne vs Verden</title>
-      <description><![CDATA[Universets krefter har rottet seg sammen mot Anne, Rune har operert seg selv og vi spør om det er lov å oppdra andres hunder?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lindmo_og_co/92440bff-19a3-4b9e-840b-ff19a34b9ead_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/92440bff-19a3-4b9e-840b-ff19a34b9ead_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>24:17</itunes:duration>
-      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:41:13 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:35:45 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    <item>
+      <title>- Pakkiser elsker jul!</title>
+      <description><![CDATA[Hvorfor tror noen noe annet? Tara skal ha et hvitt år. Anders vedder på at hun ikke klarer det. Er lekeslåssing vanlig?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/99aff0fd-df3a-416e-a052-57a8b8e0ee1d_adf4bd87-11bf-4ceb-ae7e-9c8c694ce195_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/99aff0fd-df3a-416e-a052-57a8b8e0ee1d_adf4bd87-11bf-4ceb-ae7e-9c8c694ce195_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>39:46</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
+    </item>
     <item>
       <title>GTA 6 er klin likt GTA 5</title>
       <description><![CDATA[Anders mener GTA 6 er det samme som GTA 5, og forsvarer det med teorien om at London, Oslo og Amsterdam egentlig er samme by.
@@ -277,15 +286,6 @@ Abu forklarer også hvorfor du bør ha sykkellås på tøflene i moskeen.
       <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/62c1fe5c-ffe6-4e29-9163-74e717d52c89_99f9b70a-a4ff-44a4-806b-3d05ea07b215_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>31:55</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
-    </item>
-    <item>
-      <title>Hjerte/smerte</title>
-      <description><![CDATA[Det er hardt å bli dumpa. Galvan, Anders og Alon gir råd til deg med kjærlighetssorg. Og hjelper noen andre morrapulere også.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/med_all_respekt/410e897f-f6ac-4260-8e46-a35a77e076ad_ec8c7e20-ceb7-47c8-8adf-7067838cac6c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/410e897f-f6ac-4260-8e46-a35a77e076ad_ec8c7e20-ceb7-47c8-8adf-7067838cac6c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>31:06</itunes:duration>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA.jpg"/>
     </item>
   </channel>
