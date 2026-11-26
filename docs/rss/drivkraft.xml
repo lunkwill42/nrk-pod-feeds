@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:16:33 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 14:35:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:39:45 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA.jpg"/>
+    <item>
+      <title>Tore Renberg</title>
+      <description><![CDATA[– Verden er en pøl av skrekk. Likevel jubler jeg hver morgen, sier forfatteren.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/59d30e66-f36e-474b-98ab-50faa70a3dfe_dc42ecb8-82de-4168-8b59-9298a3bcdf15_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/59d30e66-f36e-474b-98ab-50faa70a3dfe_dc42ecb8-82de-4168-8b59-9298a3bcdf15_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:25</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/cY5syJj-KuC1ttiE9A27TQ5JhGEnNgPZRcMHk7BSrA6A.jpg"/>
+    </item>
     <item>
       <title>Ole Asbjørn Ness</title>
       <description><![CDATA[– Jeg er en ertekrok, sier samfunnsdebattanten og forfatteren, som mener han bare sparker oppover]]></description>
@@ -276,15 +286,6 @@ _ Bergenspatrioten jukset seg til fotballagent lisens.
       <itunes:duration>57:27</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 14:50:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Le-zBzYCgWShmP_f2-FB1AXVdJOahCm8qbA6fdaHcJwQ.jpg"/>
-    </item>
-    <item>
-      <title>Fabian Stang</title>
-      <description><![CDATA[Han vokste opp med sjåfør, barnepike og kokk – og fraværende foreldre. ]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/drivkraft/c6c1fd52-85e5-47df-b8fb-a0c3c4d3ae3f_96a4abbe-97e6-4f87-8b7a-b2a5854766a0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c6c1fd52-85e5-47df-b8fb-a0c3c4d3ae3f_96a4abbe-97e6-4f87-8b7a-b2a5854766a0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:07</itunes:duration>
-      <pubDate>Tue, 22 Sep 2026 13:35:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/VZMR-HlIz28nfT6HVxx1jwx3mIlbjMXVSIV-JhS6-Q9g.jpg"/>
     </item>
   </channel>
 </rss>

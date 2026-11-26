@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:40:29 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 13:15:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:39:54 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q.jpg"/>
+    <item>
+      <title>Trumps USA: Venner &amp; fiender</title>
+      <description><![CDATA[Thanksgiving i Det hvite hus: Hvem sitter nærmest presidenten, hvem sitter ved bordenden, og hvem er ikke invitert i år?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7d16fd2e-cf0f-407c-81bb-a70d65069f3b_01581995-2f34-43aa-bd70-3ef771999d1a_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7d16fd2e-cf0f-407c-81bb-a70d65069f3b_01581995-2f34-43aa-bd70-3ef771999d1a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>56:31</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/m8hH12ueFV6QLuuiA3A0qAwp1W8eILyFZHG6uZqvok3w.jpg"/>
+    </item>
     <item>
       <title>Når eit «hei» kan redde liv</title>
       <description><![CDATA[Kvifor blir barn og unge kriminelle, og korleis snur vi utviklinga? Små grep avgjer om ein endar som kriminell eller brannkonstabel.]]></description>
@@ -275,15 +284,6 @@
       <itunes:duration>26:22</itunes:duration>
       <pubDate>Wed, 07 Oct 2026 13:30:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/iRwDjPdAyvHrt8nNA9wyogLLaGHYFjMT3uWMPOw0_aGw.jpg"/>
-    </item>
-    <item>
-      <title>Hvis barna må i bomberommet</title>
-      <description><![CDATA[Vi lagrer vann og mat – men hvordan gir vi barna trygghet når de frykter krig?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ec42bc01-62a1-4d23-bc35-1c88df21d314_0ee7eda9-8d66-43d7-8ff2-78b16db236d0_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ec42bc01-62a1-4d23-bc35-1c88df21d314_0ee7eda9-8d66-43d7-8ff2-78b16db236d0_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:47</itunes:duration>
-      <pubDate>Tue, 06 Oct 2026 13:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/79RP8ijY13VLcAOnJwgSgw1WgEwYj8S-dsHkpsV4XYjQ.jpg"/>
     </item>
   </channel>
 </rss>

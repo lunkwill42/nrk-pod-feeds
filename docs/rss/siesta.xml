@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:41:45 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:40:21 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    <item>
+      <title>Kjøpte sokker på McDonalds</title>
+      <description><![CDATA[Anna har nyheter om Vazelina, Markus vitser om Marius Borg Høiby og Daniel har sprøyte gæren spalten. ]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/4cfb248e-1b2c-4921-a4b2-596701f747ec_405be520-7e4b-403a-8547-e0c6f097947c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/4cfb248e-1b2c-4921-a4b2-596701f747ec_405be520-7e4b-403a-8547-e0c6f097947c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>41:45</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
+    </item>
     <item>
       <title>Det kom en kråke i studio</title>
       <description><![CDATA[Vi får en litt spesiell gjest i Siesta, Daniel skal finne Norges første statsminister og hva tenker vi om å hoppe i strikk?]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>39:54</itunes:duration>
       <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA.jpg"/>
-    </item>
-    <item>
-      <title>Anna intervjuer Ingar Helge Gimle</title>
-      <description><![CDATA[Anna var fanget på Rema 1000, det blir TV-aksjonen spesial i Quizvang og ikke minst et revolverintervju av Ingar Helge Gimle.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/siesta/5d221404-3199-49e0-a214-04319949e09e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/siesta/5d221404-3199-49e0-a214-04319949e09e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>47:25</itunes:duration>
-      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/eJTFbI-C1qNR7eT6zZWecA5Of4RdDqicVPR_WBwLixJA.jpg"/>
     </item>
   </channel>
 </rss>
