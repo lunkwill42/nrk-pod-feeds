@@ -8,10 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:16:19 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 19:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:25:36 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 19:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw.jpg"/>
+    <item>
+      <title>Budsjettavtale uten MDG</title>
+      <description><![CDATA[Arbeiderpartiet er enige om budsjettet med Senterpartiet, Rødt  og SV, men må ha med MDG for å få flertall.
+
+
+
+
+
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/6a4b0b58-1f73-4abc-b67a-880bedad66f9_a4c3578c-c50d-4cd0-a574-7fb6547faa72_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6a4b0b58-1f73-4abc-b67a-880bedad66f9_a4c3578c-c50d-4cd0-a574-7fb6547faa72_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>58:55</itunes:duration>
+      <pubDate>Wed, 25 Nov 2026 19:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/EzxgDFcsWDvCcryR2SQKqAurB14pSgxTLAzy6ahM-ESg.jpg"/>
+    </item>
     <item>
       <title>Regjeringskaos i Sverige</title>
       <description><![CDATA[Avstemming om Ulf Kristerssons regjering i Riksdagen mandag.]]></description>
@@ -272,15 +287,6 @@
       <itunes:duration>59:02</itunes:duration>
       <pubDate>Thu, 15 Oct 2026 19:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/zhos_dx53kWSjgTErXWgaQhl6Jx3mSQlipySwM2S59Jw.jpg"/>
-    </item>
-    <item>
-      <title>Drapsoppdrag på Instagram</title>
-      <description><![CDATA[Norske barn og unge rekrutteres til drapsoppdrag på sosiale medier. Frp mener regjeringen gjør for lite for å stanse utviklingen.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/dagsnytt_atten/2d98806d-5e85-45eb-a18e-bb08632690b1_19d2d79c-2e69-4170-a42f-58ee74c4d32a_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2d98806d-5e85-45eb-a18e-bb08632690b1_19d2d79c-2e69-4170-a42f-58ee74c4d32a_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>58:58</itunes:duration>
-      <pubDate>Wed, 14 Oct 2026 19:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/HCLOpzcm4AU8Dl0kCDigawL8Na7V_Ba47aHnaA002hyA.jpg"/>
     </item>
   </channel>
 </rss>
