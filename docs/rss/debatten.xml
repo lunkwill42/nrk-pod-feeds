@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:16:25 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 22:05:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:53:23 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 22:05:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg.jpg"/>
+    <item>
+      <title>Politisk toppmøte</title>
+      <description><![CDATA[Jonas Gahr Støre møter Sylvi Listhaug til duell, og Listhaug møter Ine Eriksen Søreide.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/a18b475e-ef6c-4aad-aaff-130c70bd4382_bcd0b474-5cfc-4646-b565-1a32fef8a99c_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/a18b475e-ef6c-4aad-aaff-130c70bd4382_bcd0b474-5cfc-4646-b565-1a32fef8a99c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>45:11</itunes:duration>
+      <pubDate>Thu, 26 Nov 2026 22:05:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/R4JONA__ilCEpa1CjiFTMw0VuQHomBHafUy_M6UIU97A.jpg"/>
+    </item>
     <item>
       <title>Milliardsprekk på vei og bane</title>
       <description><![CDATA[Hvem har ansvaret når prosjekter blir svindyre?]]></description>
@@ -271,15 +280,6 @@
       <enclosure url="https://podkast.nrk.no/fil/debatten/de272040-799a-4228-a720-40799a322895_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>41:49</itunes:duration>
       <pubDate>Thu, 07 May 2026 22:20:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
-    </item>
-    <item>
-      <title>Rasismeskandale i Frp</title>
-      <description><![CDATA[Frp-er kaller pakistanere for minusvarianter. Har partiet et rasismeproblem?]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/debatten/42b45131-dffa-4938-b451-31dffa393822_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/debatten/42b45131-dffa-4938-b451-31dffa393822_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:10</itunes:duration>
-      <pubDate>Tue, 05 May 2026 23:45:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/jzkUejPy1Yhr9c1YAihIMgcZrYM9FpO1UJPhChAaml_A.jpg"/>
     </item>
   </channel>
