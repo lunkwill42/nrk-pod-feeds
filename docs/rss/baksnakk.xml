@@ -8,10 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:59:31 +0000</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:42 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    <item>
+      <title>Baksnakk live fra Demokratifestivalen</title>
+      <description><![CDATA[Hva hadde skjedd hvis ungdom styrte verden? Det finner Baksnakk svaret på live! 
+
+Send oss spørsmål i appen NRK Radio! :)]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/7f2bd98b-13dc-4e4c-9a7d-53fdcba48e04_d18017b7-4c13-4f9a-bf33-440336c34433_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/7f2bd98b-13dc-4e4c-9a7d-53fdcba48e04_d18017b7-4c13-4f9a-bf33-440336c34433_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>50:48</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
+    </item>
     <item>
       <title>OnlyFans, trøndersk og sokker i senga</title>
       <description><![CDATA[Hva synes egentlig Sade, Sofie og Milie om trøndersk dialekt?
@@ -330,17 +341,6 @@ Send oss spørsmål i appen NRK Radio! :)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/baksnakk/f3f862a9-1f1c-411d-b862-a91f1cc11dac_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>39:30</itunes:duration>
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
-    </item>
-    <item>
-      <title>Sommerflørt, traumer og skolestart-starterpack</title>
-      <description><![CDATA[Sofie og Sade gjør deg klar for skolestart.
-
-Send oss spørsmål i appen NRK Radio! :)]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/baksnakk/66d6d62c-1553-4dd2-96d6-2c1553add287_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/baksnakk/66d6d62c-1553-4dd2-96d6-2c1553add287_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>44:04</itunes:duration>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg.jpg"/>
     </item>
   </channel>

@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:54:55 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 05:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:31:22 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 05:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q.jpg"/>
+    <item>
+      <title>På hjertet: Matfokuset i julen</title>
+      <description><![CDATA[Hvordan er det å ha et anstrengt forhold til mat når det nærmer seg jul? Linnéa deler sine erfaringer.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/e9bc0727-e68d-44b8-8f59-baa843bc09a4_e2e572d4-1b58-4371-8ac8-7f3d8fbb3104_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e9bc0727-e68d-44b8-8f59-baa843bc09a4_e2e572d4-1b58-4371-8ac8-7f3d8fbb3104_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>15:58</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g.jpg"/>
+    </item>
     <item>
       <title>Julestress: De beste rådene</title>
       <description><![CDATA[Lytterne har sendt inn sine største dilemmaer rundt jul, og vi får eksperthjelp fra Trine Eikrem, spesialist i familiepsykologi.]]></description>
@@ -274,15 +283,6 @@ Ett av svarene handler om hvordan du møter deg selv, mener psykologspesialist M
       <enclosure url="https://podkast.nrk.no/fil/lev_vel/416e2d9b-9c9a-473f-ae2d-9b9c9ac73fe7_2_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>51:04</itunes:duration>
       <pubDate>Wed, 13 May 2026 05:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
-    </item>
-    <item>
-      <title>Ernæring: Fett (3:3)</title>
-      <description><![CDATA[Visste du at hjernen stort sett er bygd opp av fett? Klinisk ernæringsfysiolog Jacob Juel Christensen forklarer alt du trenger å vite om fett.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/lev_vel/78099b40-c94f-454c-899b-40c94fa54c47_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>42:33</itunes:duration>
-      <pubDate>Wed, 06 May 2026 05:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/Aqho-5PquM6_JSiO4uBC7Q5OtDzSN5qryVvGi9HsSaSQ.jpg"/>
     </item>
   </channel>

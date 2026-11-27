@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:58:56 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:49 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg.jpg"/>
+    <item>
+      <title>Karl Ove Knausgård - Livet kan være uforsonlig</title>
+      <description><![CDATA[Karl Ove Knausgård er både lettet og litt tom etter å ha gitt ut romanen "Underjordisk", som er avsluttende og syvende bind i serien om "Morgenstjernen" I dette intervjuet forteller han om hvordan han velger ut karakterer i bøkene sine, og avslører at han veldig ofte kan kjenne på en skam når han leser det han selv har skrevet.]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/e0bc3b0c-3388-4372-8b70-67b344bdfabc_320bd243-e9a8-40ce-8335-4e42606c2383_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/e0bc3b0c-3388-4372-8b70-67b344bdfabc_320bd243-e9a8-40ce-8335-4e42606c2383_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:06</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/mgc_HvvlKdQcZvfIOxKFeQfw56JDfbCm4PcRJyaXB3YA.jpg"/>
+    </item>
     <item>
       <title>Mona Høvring- Vanessa, den lille jenta som vakler, leter og tviler.</title>
       <description><![CDATA[Forfatter og poet ,Mona Høvring, er en av våre mest lekne forfattere, og få klarer å få mer ut av alfabetet enn henne. 
@@ -284,15 +293,6 @@ Nyeste bok: «Tørkesommer»]]></description>
       <itunes:duration>57:00</itunes:duration>
       <pubDate>Mon, 02 Mar 2026 06:15:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/uyLm06EJmpgYbIcQSHoI2gYhIMuhs1vAMc5QOkss7bHw.jpg"/>
-    </item>
-    <item>
-      <title>Haugerud mot Petterson</title>
-      <description><![CDATA[Andre duell: Brenner styrer ordet når en tvilende diakon møter maskulin nostalgi og et blodig bilkræsj.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/bok_i_p2/20d2a941-7985-4fd2-92a9-4179856fd23c_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/20d2a941-7985-4fd2-92a9-4179856fd23c_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>57:00</itunes:duration>
-      <pubDate>Mon, 02 Mar 2026 06:10:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/xhblvK0hzOdV9ws14jIO5gwxQj6ig3FXgILZ4Y-zCW0A.jpg"/>
     </item>
   </channel>
 </rss>

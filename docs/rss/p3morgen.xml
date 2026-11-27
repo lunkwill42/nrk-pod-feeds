@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:36:02 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 10:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:31:42 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 10:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA.jpg"/>
+    <item>
+      <title>Arin har aldri skjønt juletreprosessen</title>
+      <description><![CDATA[Tannlege skal bli billigere, vi skal dele ut plasser til P3ekspressen, og Arin skjønner ikke helt greien med juletre. En deilig fredagsmeny med andre ord!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/ecf46e19-17fe-48e8-833e-1297a39806e3_938f989d-00f1-48f8-9454-215554f8b724_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ecf46e19-17fe-48e8-833e-1297a39806e3_938f989d-00f1-48f8-9454-215554f8b724_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>46:11</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 10:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/Q3rBR54h-HTDbzyqsF1LXw0QfoRECUIr6D6Kr5CBnlDQ.jpg"/>
+    </item>
     <item>
       <title>Dette er de vanligste passordene i Norge!</title>
       <description><![CDATA[Har du Norges vanligste passord? Nå er listen over de 20. mest brukte passordene i Norge offentlig, og vi må sjekke om våre egne står på listen.]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>36:03</itunes:duration>
       <pubDate>Mon, 19 Oct 2026 10:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g.jpg"/>
-    </item>
-    <item>
-      <title>Vi samler bøssebærere til TV-aksjonen</title>
-      <description><![CDATA[TV-aksjonen har ikke nok bøssebærere til søndag! Klarer vi å overbevise flere folk til å bruke 2 timer for å hjelpe folk som trenger det? Bli med oss på reisen!]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/p3morgen/7921c3e0-f54b-45bc-8b96-1cf817f90194_e08947c4-6f27-4e65-9488-55de1e09a620_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7921c3e0-f54b-45bc-8b96-1cf817f90194_e08947c4-6f27-4e65-9488-55de1e09a620_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>43:09</itunes:duration>
-      <pubDate>Fri, 16 Oct 2026 10:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/wC5iwZHksoRq8R1IakfDIQxqPigl98W6YFYc52oCxhXg.jpg"/>
     </item>
   </channel>
 </rss>

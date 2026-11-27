@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:40:16 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:35 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw.jpg"/>
+    <item>
+      <title>Kan vin lukte kun drue?</title>
+      <description><![CDATA[Artig at drue er et anagram for edru, da...
+Lurer du på de merkeligste ting og tang? Få svar fra Abels Tårns allvitende eksperter!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/1e29cc05-9628-4d75-9fbd-1726fd455975_54c8ea58-c43c-496c-b70a-8045165490a4_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1e29cc05-9628-4d75-9fbd-1726fd455975_54c8ea58-c43c-496c-b70a-8045165490a4_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>57:36</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/luDQ4VMJ1FAD4h2V3Pt_0QmKh9ocqbP9vWyzqPMCOopw.jpg"/>
+    </item>
     <item>
       <title>Billig strøm til deg</title>
       <description><![CDATA[Tidevann er energikilden. Dessuten, Alzheimer delvis kurert hos mus. Og derfor fenger GTA-vold 
@@ -285,15 +295,6 @@ Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns 
       <itunes:duration>28:57</itunes:duration>
       <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA.jpg"/>
-    </item>
-    <item>
-      <title>Se krystallklart i stupmørke</title>
-      <description><![CDATA[Forskere har utviklet nye superbriller. Dessuten, skadde hjerner kan reparere seg selv. Og gode opplevelser gir også bra søvn]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/da7de30b-a076-4b57-bde3-0ba076ab57c2_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>27:34</itunes:duration>
-      <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw.jpg"/>
     </item>
   </channel>
 </rss>

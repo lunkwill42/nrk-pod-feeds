@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:59:04 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:56 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    <item>
+      <title>Vi må snakke om Epstein (unntatt Mette-Marit)</title>
+      <description><![CDATA[Jensen Huang er tilbake. Mette-Marit vil ikke snakke om Epstein. Har USA gjort Tiktok tryggere – eller er det bare en bløff?]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/aadc70ca-65f1-4012-8fca-47c41224cdf1_7f2b4711-988e-4eb7-b26d-545b86e77a72_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/aadc70ca-65f1-4012-8fca-47c41224cdf1_7f2b4711-988e-4eb7-b26d-545b86e77a72_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:11</itunes:duration>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
+    </item>
     <item>
       <title>Urix x GTA</title>
       <description><![CDATA[GTA VI er endelig ute – men ikke alle gleder seg på ungdommens vegne. Annika Momrak får kjeft for våpenbruk. VGS-elever får betalt for å ikke bryte loven.]]></description>
@@ -273,15 +282,6 @@ Vi tar sommerferie – men er tilbake 7. august!]]></description>
       <enclosure url="https://podkast.nrk.no/fil/desken_brenner/6a9aed92-8a16-457c-9aed-928a16657c18_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>44:57</itunes:duration>
       <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
-    </item>
-    <item>
-      <title>Hus/hotell/Ålesund brenner</title>
-      <description><![CDATA[En Oscar til Norge. Et nettverk av mødre. En slags happy ending i lagmanssretten.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/desken_brenner/96f9ba49-462e-4c59-b9ba-49462e5c598e_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/96f9ba49-462e-4c59-b9ba-49462e5c598e_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>38:42</itunes:duration>
-      <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q.jpg"/>
     </item>
   </channel>
