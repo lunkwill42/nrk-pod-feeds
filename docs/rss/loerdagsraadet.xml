@@ -8,10 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:41:05 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 16:20:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:05:27 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 13:15:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw.jpg"/>
+    <item>
+      <title>Torbjørn Røe Isaksen / Andrea Berntzen / Jon Ranes</title>
+      <description><![CDATA[TILBAKEMELDING: Hvordan har det gått med svigermor og Trine? PROBLMER: Har verdens beste kjæreste, men stalker fortsatt eksen / Snekkeren som aldri kom ut av do / Familien Mellom barken og veden / Hva er Herrenes Tale i 2026? / Kan det bli koslig å være arbeidsledig? / Kurrere ubalansen i vennskapet / Tanker om tvangstanker / Nostalgisk hamster trenger mere plass!]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/2be9b7ba-4f34-4da1-ae92-bdc35d957b4e_73a6fb56-ca46-48a5-9452-2e8d7059ac2f_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/2be9b7ba-4f34-4da1-ae92-bdc35d957b4e_73a6fb56-ca46-48a5-9452-2e8d7059ac2f_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:24:53</itunes:duration>
+      <pubDate>Sat, 28 Nov 2026 13:15:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/q98tIm-AVbfEdgKS6D7qYADz-ZTI50YPdGBf6mkp_fNw.jpg"/>
+    </item>
     <item>
       <title>Dro Karoline på julebord eller jobb?</title>
       <description><![CDATA[Live er tilbake fra sykdom og vi hører tilbake fra Karoline og Linni som vi hjalp forrige uke!]]></description>
@@ -272,15 +281,6 @@
       <itunes:duration>12:53</itunes:duration>
       <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
       <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA.jpg"/>
-    </item>
-    <item>
-      <title>Else Kåss Furuseth / Espen Abrahamsen / Silje Nordnes</title>
-      <description><![CDATA[TILBAKEMELDING: Søstrene Sisters Tatoveringsklubb / PROBLEMER: Livsvarig vennskap eller ny kjærlighet? / Må man ha nye klær til skolestart? / Alle boksene! / Lydoppgave! / Ensom i kollektiv / Må bli far / Vil manipulere kjæresten min til å ta lappen / Hva gjør jeg med gifteringen? / Nyutdannet kollega vet alltid best]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/loerdagsraadet/ef8f65fd-6bef-4f79-8f65-fd6bef6f79ad_1_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ef8f65fd-6bef-4f79-8f65-fd6bef6f79ad_1_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>02:11:38</itunes:duration>
-      <pubDate>Sat, 15 Aug 2026 14:10:00 +0200</pubDate>
-      <itunes:image href="https://gfx.nrk.no/7-wEcjbjl9aK-gSXOJfcIws2KOncPOizvj4EpVBHsTSw.jpg"/>
     </item>
   </channel>
 </rss>

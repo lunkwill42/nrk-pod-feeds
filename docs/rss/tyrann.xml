@@ -8,10 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>nrk-pod-feeder v1.5.1 (with help from python-podgen)</generator>
     <language>no</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:12:00 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:05:46 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg.jpg"/>
+    <item>
+      <title>Leopold II (3:6)</title>
+      <description><![CDATA[Mens Stanley erobrer Kongo for kongen, overbeviser Leopold verdens stormakter om at han er i landet for å beskytte de innfødte.
+]]></description>
+      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/1f008480-2dcb-47ae-9438-914ba4b7ef1e_dcc34f0a-ea9a-43fa-93ea-ee5c52a9c481_ID192MP3.mp3</guid>
+      <enclosure url="https://podkast.nrk.no/fil/tyrann/1f008480-2dcb-47ae-9438-914ba4b7ef1e_dcc34f0a-ea9a-43fa-93ea-ee5c52a9c481_ID192MP3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>26:21</itunes:duration>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
+      <itunes:image href="https://gfx.nrk.no/_v7zTDvr4OYCnKi8DU-cBAmLLzG73JtV0_-uRniQvm8g.jpg"/>
+    </item>
     <item>
       <title>Leopold II (2:6)</title>
       <description><![CDATA[Henry Morton Stanley er eventyrer, kjendis, brutal og hensynsløs. Akkurat en sånn type kong Leopold II trenger for å kuppe Kongo.]]></description>
@@ -326,15 +336,6 @@ The Golden Man - Paul Theroux (The New Yorker)]]></description>
       <enclosure url="https://podkast.nrk.no/fil/tyrann/d176a9b4-2bbe-47ce-b6a9-b42bbec7ceee_ID192MP3.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>26:06</itunes:duration>
       <pubDate>Sat, 07 Mar 2026 06:05:00 +0100</pubDate>
-      <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg"/>
-    </item>
-    <item>
-      <title>Ceaușescu (5:6)</title>
-      <description><![CDATA[Mens opprøret ulmer i en stadig mer undertrykt befolkning, tar paranoiaen overhånd hos Ceaușescu. Til slutt eksploderer det hele.]]></description>
-      <guid isPermaLink="false">https://podkast.nrk.no/fil/tyrann/81208312-002f-4cde-a083-12002f8cded5_ID192MP3.mp3</guid>
-      <enclosure url="https://podkast.nrk.no/fil/tyrann/81208312-002f-4cde-a083-12002f8cded5_ID192MP3.mp3" length="0" type="audio/mpeg"/>
-      <itunes:duration>23:52</itunes:duration>
-      <pubDate>Sat, 07 Mar 2026 06:04:00 +0100</pubDate>
       <itunes:image href="https://gfx.nrk.no/4VKQ0CJZW9tpp2sECor72w-X8zlavnWlliCzerBwxXog.jpg"/>
     </item>
   </channel>
